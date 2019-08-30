@@ -1,0 +1,24 @@
+#!/usr/bin/perl
+
+$templateFile = $ARGV[0];
+$resultFile   = $ARGV[1];
+$increment    = $ARGV[2];
+
+open(TFILE, "$templateFile");
+
+
+while ($line = <TFILE>)
+{
+ #print "DEBUG:: " . $line; 
+    
+    if($line =~ /id = (\d+)$/)
+    {
+     #print "DEBUG:: " . $line;
+     $shift = $1 + $increment;   
+     $g = "=" . $shift . "\$";
+     $cmd = "grep -A2 \"$g\" $resultFile";
+     #print "DEBUG:: CMD=" . $cmd . "\n";
+     print `$cmd`; 
+    }
+}
+

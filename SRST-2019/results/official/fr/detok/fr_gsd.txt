@@ -1,0 +1,1248 @@
+# sent_id =1
+# text = je sens nous pourrions entre ça les et film de médecins et scientifiques fous nous déjà que avons vus, que emprunter pour la origine un chemin autre.
+
+# sent_id =2
+# text = on pourra toujours parler à de propos Averroès de décentrement du sujet "".
+
+# sent_id =3
+# text = écrit ONG la internationale implantée dans pays 35 citée par la agence de presse sahraouie,, il largement a démontré été le objet est population la civile du territoire autonome non du Sahara occidental que de atteintes diverses comme la détention arbitraire les coup, les et torture, aux droits humains « ».,
+
+# sent_id =4
+# text = début 1er avant l'Irlande 2012) (l'et Ukraine 2013) (de la présidence lituanienne au 31 jusque décembre) (de l'organisation OSCE () pour la sécurité la et coopération en Europe :,.
+
+# sent_id =5
+# text = il et, montre pourtant lors de sa visite première en Afrique subsaharienne le été 2007,, dans un discours humiliant pour les Africains prononcé à la université Cheikh Diop Anta de Dakar, les dents.
+
+# sent_id =6
+# text = à son paroxysme sont spéculations les autour du match.
+
+# sent_id =7
+# text = ils lui à C'mais est ils s'qu'prennent en citent n'pas on attaque pas n'parce que depuis les institutions un membre de la famille royale son nom.,,
+
+# sent_id =8
+# text = il a y en qui croisent toujours waterproof parce que coeur son serait % 100 comme les montres :, ils peuvent que jouir de la vie en tranquilité toute de conscience et commettre en sécurité toute, indélicatesse telle telle ou grossièreté telle telle ou,.
+
+# sent_id =9
+# text = a discours son inspiré de une pensée du moyen-âge, trouvé preneur,.
+
+# sent_id =10
+# text = je lui pour crois vraiment est ailleurs essentiel le que dans cette contribution à la déstabilisation vous évoquez que de la autorité spirituelle du pape,.,
+
+# sent_id =11
+# text = C'le fait est instable soit zone la toute comprise entre le Soudan la et Mauritanie que du hasard de une ou malédiction ?
+
+# sent_id =12
+# text = vous maintenant observeront l'on peut que traditionaliste être et intégriste, mais pas n'ont que intégristes les réciproquement et le monopole du traditionalisme, avec un de peu volonté bonne.,
+
+# sent_id =13
+# text = aussi donc est voie cette de communication vouée royale à préservée être et moderniser développer,.,
+
+# sent_id =14
+# text = a régime le marocain pour affronter les risques externes "" engendrés par le conflit du Sahara occidental pour pouvoir mener à bien sa politiques dictatoriale, besoin de stabilité interne.
+
+# sent_id =15
+# text = à elle la pourtant déjà retraite est belle séduisant à souhait, grand, clair,,.
+
+# sent_id =16
+# text = Cela et jamais n'a empêché a pas n'officiellement Maroc le si des relations ouvertes » « diplomatiques avec Israël des ministres de s'rendre au royaume chérifien,.
+
+# sent_id =17
+# text = il tient ans tard plus Trois un discours sur la crise.,
+
+# sent_id =18
+# text = je déchirée suis.
+
+# sent_id =19
+# text = lui selon, sera mise périodes cette à profit pour étudier sur la notamment base, des informations fournies par les autorités marocaines les conséquences le ainsi que impact régional des fonds versés par l'Union européenne "", du accord sur les ressources de poisson.
+
+# sent_id =20
+# text = a reçu le 20 juin le Secrétaire général Claude Guéant de l'Elysée été à Alger par le président Bouteflika le et ministre premier Ahmed Ouyahia,.
+
+# sent_id =21
+# text = ce est espoir le les et rêves de un peuple de ses et enfants qui transparaît dans ces textes tous.
+
+# sent_id =22
+# text = ouvre mort la de Mouammar el-Kadhafi en ce sens une périodes de irakisation de ou somalisation de la Libye.,
+
+# sent_id =23
+# text = promulgation de loi antis-hérétiques » «.
+
+# sent_id =24
+# text = pas n'rester dans une zone isolée seul en ou couple.
+
+# sent_id =25
+# text = autant dire dans un désert médiatique pour la mort de un poète.
+
+# sent_id =26
+# text = pleins sont lendemains les de lynchage de incertitudes.
+
+# sent_id =27
+# text = ils affirment pour cela, rentre pas n'mandat le premier de Wade que et pour autant,, compte pas n'dans la application de la loi nouvelle sous le texte nouveau constitutionnel.
+
+# sent_id =28
+# text = n'pas hésitez à la largement autour de vous circuler faire !
+
+# sent_id =29
+# text = naitait Gdem Izik il a y un an.
+
+# sent_id =30
+# text = la taxe iii) foncière ;
+
+# sent_id =31
+# text = il est heures 45 20 en territoire algérien.
+
+# sent_id =32
+# text = car regrette gouvernement le marocain le temps béni où vivre faisait la manne financière apportée par les touristes algériens qui affluaient par centaines de milliers cette région toute au-delà et bien.
+
+# sent_id =33
+# text = se est royaume le amélioré dans le mais pas sens voulu par l'UE,.
+
+# sent_id =34
+# text = en même quête DGSE la Direction générale de la sécurité extérieure) (est si pour négocier « » de intermédiaires bons » «.,
+
+# sent_id =35
+# text = la il poussière est destin son ?
+
+# sent_id =36
+# text = C'un sourire est de Dieu.
+
+# sent_id =37
+# text = le celui qui imprimera fixera le agenda, sa marque vainqueur sera en mai probable dans les campagnes comme toutes présidentielles,,.
+
+# sent_id =38
+# text = nous n'combien de fois célébrons que nous-mêmes nous et n'pas même prendre conscience de sa présence, ?
+
+# sent_id =39
+# text = Cela tout présent est dans sa passion.
+
+# sent_id =40
+# text = tente plus AQMI l'de nouer des rapports avec les mouvements subversifs avec des autant que secte au Nord du pays de inspiration religieuse dans le delta du Nigéria,.,
+
+# sent_id =41
+# text = claire très est question la du Sahara occidental au regard du droit international.,
+
+# sent_id =42
+# text = n'a justice la française fait que obéir s'et déjuger.
+
+# sent_id =43
+# text = en effet massive a attaque la contre été,. et a moins pas de sites 174 appartenant au gouvernement à des et entreprises du royaume marocain pour la plupart toucher
+
+# sent_id =44
+# text = personne place n'dans la raison politique aucune forme de espérance...
+
+# sent_id =45
+# text = mais est réalité la le Maroc pas n'Mauritanie la est que l'ou Algérie.
+
+# sent_id =46
+# text = on a en Arabie la impression là toujours a fondamentalisme le été que il se maintenir que, et avoir n'aucun mal à perdurer,.
+
+# sent_id =47
+# text = il t a y un risque de voir en Syrie mal tourner les choses ?
+
+# sent_id =48
+# text = C'simple est il a y d'tout,.
+
+# sent_id =49
+# text = disponibles seront épisodes les premiers 8 de la série animée dès le 30 prochain novembre renommée par Warner France sous le nom de la Ligue la Génération Nouvelle des Justiciers "" :,.
+
+# sent_id =50
+# text = il s'avère lors brillant ça que n'pas si soit état le de ses cours de eau que de rapport le dernier publié par le ministère de la écologie.,
+
+# sent_id =51
+# text = se inscrit pleinement Territoire perdu retenu au Forum de la Berlinale « », dans le esprit de cette section expérimentale avant-gardiste, et politiquement engagé » «.
+
+# sent_id =52
+# text = arrêtez Cela suffit vous pour aujourd'hui si la lecture,.
+
+# sent_id =53
+# text = elle capot était ouvert dans la cour petite du garage,.
+
+# sent_id =54
+# text = heures 15 19.
+
+# sent_id =55
+# text = ont sahraouis les jeunes participant à cette université lancé exhortant les Nations unies à organiser un référendum de autodétermination libre à et mettre un terme à la dilapidation par le Maroc,, des richesses naturelles du Sahara occidental un appel à se mobiliser pour défendre dans la région notamment colonisée les droits sahraouis et mettre un terme aux violations toutes exercées contre le droit du peuple sahraouie à la autodétermination aux tous acteurs politiques dans la scène régionale et internationale,,,.,
+
+# sent_id =56
+# text = il s'passe je comprends bien très sa préoccupation par rapport à sa participation à la rencontres de Assise de commentaires. « :
+
+# sent_id =57
+# text = C'était n'pas comme aujourd'hui dans les sixties.,
+
+# sent_id =58
+# text = se ils arrêter étaient fait Sidi hamed Deddeche M'et Amgid Ahmed Sidi activistes deux pacifistes comme Mme Haïder, des territoires occupés, à la entrée de Smara la capitale spirituelle du Sahara occidental, ils des séquestrés parce que étaient sans documents de voyage,, qui s'étaient évadés des camps de Tindouf mercredi dernier ?
+
+# sent_id =59
+# text = appelle Makhzen le quelqu'un à fois chaque il sent que la pression à son secours.,
+
+# sent_id =60
+# text = ont arrêtés été les observateurs espagnols Carlos Sanchez et Mar Figueras,.,
+
+# sent_id =61
+# text = qui a donné le exemple ?
+
+# sent_id =62
+# text = intègre ainsi version la 2010 doit car montant le versé au titre de un complément de activité bien est si exonéré le revenu de solidarité active de impôt sur le revenu déduit être de la prime PPE () pour le emploi, une case RSA "".,
+
+# sent_id =63
+# text = craignent autorités les qui font ce tout elles peuvent que pour nourrir ce flux ininterrompu,, n'pas étant préparés pour recevoir plus de personnes mille dix quinze dégénère n'situation la que pointe pas n'vite plus aide le internationale si le bout de son nez,.
+
+# sent_id =64
+# text = ces sympathisants italiens etc., argentin, norvégien, allemand, vénézuélien, espagnol, britannique, sud-africains, cubain,) (de nationalités différentes
+
+# sent_id =65
+# text = à C'Dakhla est eu que ont affrontements des lieu,,. s'ceux qui font office de colons « » où sont permis en agressant les à de propos un match maroco-sahraoui de football des traiter en tant que indigènes « »,
+
+# sent_id =66
+# text = également ont représentants des du corps diplomatique de notamment Afrique du Venezuela, du et Congo de Cuba, de Angola, du Sud accrédité en Algérie, assisté à cette occasion.,
+
+# sent_id =67
+# text = un pas n'changement est conversion la même moins encore, total attention : un reniement de ce qu'nous avons été.
+
+# sent_id =68
+# text = partout et est homme ce particulier de affaires il contrôler les centrales laitières, il contrôler la banque grande plus du pays, il contrôler l'un des trois opérateurs télécoms, il actif est dans le business du sucre de la énergie,,. il et est associer au groupe Danone
+
+# sent_id =69
+# text = vous m'accusez de subjectivisme "".
+
+# sent_id =70
+# text = pensent Marocains d'nombreux le en hésitant pas n'à l'accuser en tant que opérateur premier du pays de abandonner des pans entiers de la économie marocaine entre les mains des réseaux affairistes des et milieux de la corruption à et grossir les rangs des mécontents,.,
+
+# sent_id =71
+# text = est n'pas Mgr de Paolis Velasio là pour aggraver une situation lourde très déjà.
+
+# sent_id =72
+# text = il devient instantanément de et facto dès lors que décide peuple le de regagner sa liberté libre.,
+
+# sent_id =73
+# text = dit Eglise l'que sur ce point délicat ?
+
+# sent_id =74
+# text = elle mais guette oui elle guette,.,
+
+# sent_id =75
+# text = il invite nous en nous livrant les clefs de la histoire de ce projet industriel à tirer pour mieux aujourd'hui appréhender les perspectives énergétiques du Maghreb les leçons du passé,.
+
+# sent_id =76
+# text = fixent articles les 166 167 et du code français général CGI) (des impôts en application de ce principe en cas de transfert entre la France le et étranger de domicile les règles de imposition,.
+
+# sent_id =77
+# text = lui exclusivement consacrant le essentiel de son temps de sa et énergie aux chantiers économiques grands destinés à procurer travail du aux générations jeunes,.,
+
+# sent_id =78
+# text = ont chefs les deux de état réitéré sa volonté de œuvrer à son renforcement à sa et diversification après examiné avoir le état des relations bilatérales,.
+
+# sent_id =79
+# text = de C'cette façon est que ont imposées été des conditions nouvelles radicalement socio-économiques néolibéralisme) (durant les années 1980 à 1990.
+
+# sent_id =80
+# text = je me demande il a chez nous si y une loi qui peut condamner pour des rêves illégaux des citoyens ?
+
+# sent_id =81
+# text = il a rappelé en opposant son Veto au élargissement pour englober la surveillance le et contrôle dans les territoires sahraouis des droits du homme des missions de la Minurso en estimant tout est Maroc le que au vu des aides militaires au colonialisme marocain de cette puissance sous protectorat français » «, la position au Conseil de l'ONU de sécurité de la France.,,
+
+# sent_id =82
+# text = faire voilà le lyrisme au éblouissement une parts savoir se lâcher dans la admiration de ce qui soi n'pas est, céder à ce savoir immédiat qui transporte nous du beau du et bien,.,
+
+# sent_id =83
+# text = c'est-à-dire pensait avant Maroc le un % que étaient indépendantistes les 5 tout le à mieux les militants, il poursuit son argument on mais revenir pas n'en on a nous quand vus unis tous main dans la main,, ",,, -- -- ;
+
+# sent_id =84
+# text = auraient choses les évolué au Maroc selon ce discours bien maintenant rodé -- -- avec la mort la et arrivée de Mohammed VI au pouvoir de Hassan II,.,
+
+# sent_id =85
+# text = a envahi le Sahara occidental été en 1975 1979 et pour rappel par le Maroc le retrait suite à espagnol du territoire,.
+
+# sent_id =86
+# text = importe plus toutefois cause la politique la que cause humaine dans des camps de réfugiés.,,
+
+# sent_id =87
+# text = il me l'a dit à la Haye. »
+
+# sent_id =88
+# text = éprouve président le Hosni Moubarak de l'Égypte, selon un diplomate basé au Caire une haine viscérale pour la rébuplique islamique « ».,,
+
+# sent_id =89
+# text = a acteur le espagnol Alex Angulo attribué la camella blanche "" aux réalisateurs du film qui ont souligné leur a travail ce permis que de observer le état courageux pacifique, mais combatif aussi "," du esprit du peuple sahraoui,.
+
+# sent_id =90
+# text = s'déroule rencontre cette nouvelle en présence des délégations des et représentants des deux pays observateurs l'Algérie la et Mauritanie, des deux parties sous les auspices du envoyé personnel M. Christopher Ross pour le Sahara occidental du secrétaire général des Nations unies, tenue mois trois après la réunion informelle précédente de la Valette Malte ().,,
+
+# sent_id =91
+# text = général fut ras-le-bol le inédite mobilisation la,.
+
+# sent_id =92
+# text = à aucun moment il faut le si du jour de la ou nuit,.
+
+# sent_id =93
+# text = il en outre a exprimé la volonté de renforcer dans le avenir les relations bilatérales entre les deux pays et consolider de son pays.
+
+# sent_id =94
+# text = Opep l'ou forum FPEG () des pays exportateur de gaz du gaz est né pour rappel à Oran en avril 2010,,.
+
+# sent_id =95
+# text = pas n'hésitez à m'envoyer à la adresse criticusleblog@gmail.com suivante : actualités et tribunes libres.
+
+# sent_id =96
+# text = maintiendra -elle t à quand jusque France la officielle sa préférence pour la protection des agresseurs des droits du homme ?
+
+# sent_id =97
+# text = il a point n'en y.
+
+# sent_id =98
+# text = il t réussira M. Ross bénéficiant Rabat du soutien de un membre permanent la France en l'occurrence du Conseil de l'ONU de sécurité,, entre autres, à valoir faire le droit international dans ces négociations.,
+
+# sent_id =99
+# text = vous développez vous avez quand la opportunité de camper un personnage fois plusieurs une relation avec lui profonde très,.
+
+# sent_id =100
+# text = déconseille préfecture la de Paris de police aux automobilistes de se déplacer.
+
+# sent_id =101
+# text = provient résultat ce à de hauteur ME 18,5 de la progression de la rentabilité du habitat qui dégage une marge de % 9,5 contre % 8,5 la année passée opérationnelle de loisirs.
+
+# sent_id =102
+# text = je plus vois moi je me plus dire the game Battlefield 3 sera que pour les soldats vrais qui ont en dans le slip des vidéos de ce jeu.,
+
+# sent_id =103
+# text = sera assurée la gestion la et exploitation de la salle Wagram de concert récemment rénovée, par Eurosites leader en France de la location de salles,.,
+
+# sent_id =104
+# text = nous Ils maintenant le savoir fassent que veulent si supporters des aider pour revenir faire Djibril à l'AJA au travers de une souscription le club, ",.
+
+# sent_id =105
+# text = elle s'remarie et aller fils un autre Serge naître,.
+
+# sent_id =106
+# text = sont représentés la plupart des personnages jeunes de la intrigue marquent attributs ces physiques le âge jeune la et virginité la mais aussi innocence, outre ses aspects dans un environnement moderne et actuel fantasy en kemonomimi avec des soit oreilles de chat des et queues,, ;,
+
+# sent_id =107
+# text = ils viennent en au aides de ses résultats à la conclusion que auraient sauvées été vies 947 adopté si avaient États les 32 qui avaient pas n'le 1er janvier 2000 une limite de mg/100 80 millilitre une politiques telle,,.
+
+# sent_id =108
+# text = le show Mamma Mia ! "" créé en 1999,
+
+# sent_id =109
+# text = du Vatican tient plus n'voile le dont posé sur la vie privée du Cavaliere,.
+
+# sent_id =110
+# text = clair est message le, feutré bien que nous longtemps accueilli vous avons il temps est de nous rendre ses bienfaits, » « :,.
+
+# sent_id =111
+# text = après-midi libre de détente piscine) (.
+
+# sent_id =112
+# text = permettront visites des commentées au public de découvrir avec animations aussi différentes les collections,.
+
+# sent_id =113
+# text = lui selon inutile est approche la Eclipse créé en 2006 pour lutter contre les gangs de rue.,,,
+
+# sent_id =114
+# text = un l'de eux a assuré nous mais bougerons n'pas "pas n'tant que auront acceptées été ses revendications,.
+
+# sent_id =115
+# text = C'Monsieur est après M. Karoubi lui chez bloqué depuis jeudi par la police, Moussavi qui a vu lundi matin selon son site internet son domicile ses et téléphones coupés encerclé,.,
+
+# sent_id =116
+# text = a émis été un timbre en Israël pour marquer le anniversaire 150e de la naissance le 2 mai 1860 à Budapest de Théodore Herzl journaliste écrivain, et fondateur du mouvement sioniste,,.
+
+# sent_id =117
+# text = chacun important est au sein de cette équipe professionnelle et avoir son rôle à jouer pour contribuer au rayonnement de la ville de la et culture basque de Bayonne.,
+
+# sent_id =118
+# text = favori lui chez logiquement Inter l'champion de Europe en titre, est mais déplorer blessures quelques au corps à la comme âme, contre Schalke 04 son et effectif limité plus en match aller des quarts de la Ligue des champions de finales,,,.,
+
+# sent_id =119
+# text = ceux-ci pourront jours tard plus Quatre se retrouver à la occasion de la finales 9 août) (du 200m.,
+
+# sent_id =120
+# text = ce qui équivaut au Québec à des milliers de centres de appels possède entreprise chaque grande son centre de téléphonistes,.
+
+# sent_id =121
+# text = avant de répondre aux préoccupations soulevées Charles Mwando Nsimba a sollicité prenant la parole estimant y que avaient introduits été des éléments nouveaux un délai supplémentaire,,.
+
+# sent_id =122
+# text = il se est installé ce mercredi soir dans un logement situé à TriBeCa un quartier du sud-ouest de Manhattan,,.
+
+# sent_id =123
+# text = louvoie pourtant candidate la en congé de ses fonctions de secrétaires première du parti, à la primaires du PS depuis le début de la affaire lire la synthèse affaire DSK comment a évolué position la de Aubry : "" sur le sujet : () entre soutien et prise de distance,.,
+
+# sent_id =124
+# text = écrit Straits le Times quotidien principal du pays considéré comme favorable au PAP,, la disputée n'pas seulement plus est élection cette elle la stimulant plus aussi est avec les citoyens facebookant avec passion participant tout en en nombre record aux meetings traditionnels et tweeter + +,,, depuis la indépendance "" samedi,.
+
+# sent_id =125
+# text = se mélange odeurs couleur, saveur, tout pour le plaisir grand plus des gourmands et amateurs de produits de qualité....
+
+# sent_id =126
+# text = il faut savoir exposent que appareils les de la génération dernière à ° 40 Celsius et atteindre que couches les profondes plus la température de ° 60 Celsius la couche supérieure de la main, il normal donc est de ressentir un de peu douleur.
+
+# sent_id =127
+# text = Sean Morton David se qui appeler fait le prophète de l'Amérique "" a levé en croire faisant il pouvait que prédire la évolution de la Bourse aux investisseurs millions six de dollars !,
+
+# sent_id =128
+# text = de quoi inciter à une prudence certaine.
+
+# sent_id =129
+# text = atteint excédent le brut de exploitation et afficher résultat le opérationnel courant une hausse de % 3,8 à 29,8 millions de euros, millions 47,4 en rebond de % 6,7, de euros.,
+
+# sent_id =130
+# text = nous pour autant avions tranché,.
+
+# sent_id =131
+# text = MLS la a indiqué la meilleure est moyenne sa de but 0,54 par match parmi les joueurs disputé ayant cette saison matchs 20 au moins,.
+
+# sent_id =132
+# text = demande aussi surtout et, attaquant le du Bayern Munich retiré que soit le livre de la vente,.
+
+# sent_id =133
+# text = s'Andrea Dovizioso Honda () temps troisième, en est approché 2:00.531 () Ben comme Spies et Jorge Lorenzo sur Yamaha deux tous, M1 et de moins de 8/10e de seconde distancer du leader,.
+
+# sent_id =134
+# text = constitue n'pas réorientation la du géant des réseaux IP en cas tous une nouvelle bonne pour les Adeptes qui de en plus plus perdent le LTE face à pied du Wimax,,.
+
+# sent_id =135
+# text = il a y un personnage absent très au long tout du roman le peuple "",.
+
+# sent_id =136
+# text = retrouver sa inspiration.
+
+# sent_id =137
+# text = la même pas n'est situation la estime Moody 's si devrait pas n'que note sa baisser de plus de cran un pour la Société générale pourrait dégradation la dont atteindre crans deux,,.
+
+# sent_id =138
+# text = reconnaissent maintenant investisseurs qui voyaient auparavant de un œil mauvais la accumulation de liquidités par les entreprises,, de nombre les avantages de la constitution de réserves importantes de liquidités.
+
+# sent_id =139
+# text = ça énerve beaucoup de personnes C'mais rassurant est dans % 80 des cas pour le utilisateur final,.,
+
+# sent_id =140
+# text = C'un caillou est blanc.
+
+# sent_id =141
+# text = ainsi ont cadres ces accru de par sa clarté sa et crédibilité la portée des actions de la Banque,,,.
+
+# sent_id =142
+# text = il s'agit des importateurs utilisés par le Comité Fal pour établir le baromètre du passage au port.
+
+# sent_id =143
+# text = Véronique a expliqué se on était dit s'on éclatera plus un peu on aura quand un pas premier de fait "," :.,
+
+# sent_id =144
+# text = il faut toutefois noter de il ton alors est que bon pour homme tout jouissant de une aisance financière de posséder une plusieurs ou maîtresses,.
+
+# sent_id =145
+# text = C'que est détruit on quand en en France les jours tous on et que en créé 20.000 que emplois 1.000 ?
+
+# sent_id =146
+# text = Office de tourisme. de 10 heures et heures 14 à 17 heures à 12 heures
+
+# sent_id =147
+# text = nous avons appliqué en 2004 en Afrique ce concept il t indiqué a après constaté avoir le caractère désastreux du système de éclairage au kérosène,.,
+
+# sent_id =148
+# text = ce dimanche 30 à Pleumeur-Bodou sur le site de Cosmopolis,,.
+
+# sent_id =149
+# text = a patron le de la FAF prévenu on saura là le qui coupable est la qui et victime est, »,.
+
+# sent_id =150
+# text = vous comment repoussez les bateaux de immigrés dans les eaux internationales ?
+
+# sent_id =151
+# text = organise aujourd'hui football le atlantique rochelais FAR) (un tournoi réunissant moins les de ans 15 des centres de formation.
+
+# sent_id =152
+# text = C'la étape sera ultime pour les catégories espoir la et épreuve incontournable internationale qui s'déroulera cette année en open tard plus quelques jours la revanche des championnats de France chez les vétérans de en plus plus motivés par la compétition, de coupe de France.,
+
+# sent_id =153
+# text = Portugal le lourdement endetté milliards 160 de euros fins 2010 (), a fini avec un déficit à % 9,1 du PIB public un et chômage à plus de % 11 en récession la année 2010.
+
+# sent_id =154
+# text = peut certes France la se consoler avec les performances piètres de son voisin italien une des lanternes noires 74e () de l'Europe sur le classement du Wef,.
+
+# sent_id =155
+# text = Nouvelle-Zélande la a remporté en battant 8 à 7 mi-temps 5-0) : (à l'Eden Park de Auckland le XV de France dimanche en finales la Coupe deuxième du Monde de rugby de sa histoire ans 24 après son sacre premier en 1987,,.
+
+# sent_id =156
+# text = elle a affirmé la obligation de faire pour s'qualifier un match parfait "".
+
+# sent_id =157
+# text = pas n'a agence la japonaise de sûreté nucléaire relevé de son côté le classement du accident de la centrale de Fukushima au niveau 6.,
+
+# sent_id =158
+# text = il tranche soir comme chaque à 18H40 malmener, et détourner la actualité.,
+
+# sent_id =159
+# text = va municipalité la côté organisation sont tandis que bénévoles les 80 canéjanais dans les préparatifs en plein s'et apprêtent à vivre un moment exceptionnel dans la histoire du club apporter au président Richard Juzanx de la Boule canéganaise, son soutien logistique.,,
+
+# sent_id =160
+# text = reste Dany Laferrière du fond même du enfer un réaliste heureux,.
+
+# sent_id =161
+# text = il faut éviter de s'rendre dans les pays du sous-continent indien ?
+
+# sent_id =162
+# text = celle-ci également a perdu prenant EUR l'GBP / % 0.27 pour se hisser à 0.8647 sur le euro du terrain.,
+
+# sent_id =163
+# text = j'ai senti les ouverts plus probablement Tchèques les que étaient au cours de son déplacement à Prague ".,,
+
+# sent_id =164
+# text = fini pour le Pascal jeune qui fait sa rentrée en classe de CM1 Haupais les vacances.
+
+# sent_id =165
+# text = en outre plus de personnes 20 ont lors de affrontements survenus dans des villages chiites des environs de la capitale Manama, blessées été une grièvement dont, selon ces témoins,.,
+
+# sent_id =166
+# text = puis sont délégués deux autres intervenus à la école pour parler aux élèves mais aussi parents.,,
+
+# sent_id =167
+# text = vente sur place de livres consacrés à Jean Ferrat
+
+# sent_id =168
+# text = C'près sont en tout de centaine une de conteneurs qui ont utilisés été pour créer ces logements étudiants.,
+
+# sent_id =169
+# text = de ailleurs hier a donné été le ton par le général Michel Aoun au cours de sa conférence hebdomadaire après la réunion du bloc parlementaire du changement de la et réforme de presse il a affirmé lorsque nul n'a parlé que de démission,.
+
+# sent_id =170
+# text = de plus on pourra aussi trouver avec le salon du jeu en bois une nouveauté,.
+
+# sent_id =171
+# text = frères deux demeurant à Bourg-Argental Loire) (à son bord. de 25 23 et ans,
+
+# sent_id =172
+# text = ça va forcément me rappeler des souvenirs.
+
+# sent_id =173
+# text = accroîssent rapidement équipes les marketing une plate-forme grâce à intégrée logicielle aux capacités reconnues dans la gestion la et fusion entrer sortant / des e-mails sa efficacité son et impact sur le chiffre de affaires,.
+
+# sent_id =174
+# text = propose site chaque des coupons de réductions avec des réductions allant de 50 à % 90 en moyenne) (sur sortes plusieurs de activité.
+
+# sent_id =175
+# text = monsieur Di Rupo parti le dont avait remporté les élections en Wallonie francophone de juin, a émis finira raison la que par l'emporter "" lundi le espoir,.
+
+# sent_id =176
+# text = bien réels sont problèmes les des états endettés très ils mais se limiter selon nous et concernent moins le reste du monde aux frontières de l'Europe ".,,
+
+# sent_id =177
+# text = explique Nuria Alvarez analyste chez Renta 4, C'la panique est sur le marché totale et suivre chute la du cours le risque souverain ",,".
+
+# sent_id =178
+# text = Quel est coût le de un projet tel ?
+
+# sent_id =179
+# text = ainsi a tomber fait de UA 250 à UA 75 le seuil cette loi qui contrôle le établissement le ou agrandissement des sites existants de unités nouvelles de production,.,
+
+# sent_id =180
+# text = a directrice la artistique Anne-Marie White décidé pour souligner les ans 35 du théâtre du Trillium de éclater faire le mur quatrième entre les artistes le et public,.
+
+# sent_id =181
+# text = en à toujours gardes était automobiliste le mardi midi vue.,
+
+# sent_id =182
+# text = mortelle moins un peu a pandémie la été en des mots autres les que saisons grippales pires,.
+
+# sent_id =183
+# text = vous cependant êtes invités à respecter un nombre certain de critères,.
+
+# sent_id =184
+# text = on a contre de être "" le droit.
+
+# sent_id =185
+# text = rapidement très a femme la jeune engagé selon People pour assurer sa défense un avocat en vue très de Las Vegas,.
+
+# sent_id =186
+# text = une c'plutôt chose est pour moi changements les de horaire elle sourit je gagne sur son temps de attente minutes deux bonne «,,.,
+
+# sent_id =187
+# text = il souligne il a bien y sans C'mais feu est, du fumée : "dans un temps premier annoncé dans les colonnes du Indépendant -- -- comme un postulant sérieux à la succession de Franck qui s'apprête à rejoindre au terme du exercice actuel Clermont Azéma hier matin, !
+
+# sent_id =188
+# text = Envoyez au 6 20 30 cents 0.35 de euro + coût du SMS () le mot DARGAUD "" suivi de ses coordonnées et répondre au quiz.
+
+# sent_id =189
+# text = se Barack Obama est baigné dans une station balnéaire de Floride affirmant praticables que sont plages les toutes du golfe du Mexique et essayant après la marée noire provoquée par BP de montrer le exemple samedi.
+
+# sent_id =190
+# text = il libérateur peut-être plus serait de fort bien crier ouache : !...
+
+# sent_id =191
+# text = marge une solide nette le et contrôle des coûts de intérêts ont permis au groupe malgré la crise de croître en 2009 faire de % 0,7 son bénéfice net malgré milliards 9,484 pour créances douteuses de provisions à milliards 8,943 de euros,,,.
+
+# sent_id =192
+# text = ce et malgré la déclaration du porte-parole de la compagnie au jour premier de la grève ont annulés été vols 200 samedi.,
+
+# sent_id =193
+# text = n'a animateur ce passé par Radio Nova cessé il a n'pas y je et c'qu'C'est savoir pas n'la banlieue, un problème de banlieue » « de répéter.,
+
+# sent_id =194
+# text = coiffe ainsi Chicago 41-41 () Toronto 40-42) (n'a victoire la dont 131-113) (à New York servi à rien au poteau.,
+
+# sent_id =195
+# text = à son et pas n'coup Miss France est côté coloration de essai.,
+
+# sent_id =196
+# text = hormis ce professeur qui pensait elle voyait le quand sourire,, il s'moquait de elle que au lycée de anglais,,.
+
+# sent_id =197
+# text = attaquaient militaires Huit 8) (armés aux jusque dents pendant fustigeait chef le Soumaila Bagayoko de état major que le comportement le jeudi dernier, dans le camp de Treichville de la garde républicaine des éléments incontrôlés des Frci à centaines de là quelques de mètres un bureau appartenant à son compatriote Sacko Souleymane de change,,.
+
+# sent_id =198
+# text = on sait oui le je mais dire il faut la que., «
+
+# sent_id =199
+# text = se tient édition la 18e des victoires de la musique classique à Nantes cette année.
+
+# sent_id =200
+# text = le tout je saurai n'que en gros, déconseiller pour plus de personnes 5 en cas tout saupoudré de un niveau gustatif moyen plus que ! -
+
+# sent_id =201
+# text = à minutes 5 du métro à pieds.
+
+# sent_id =202
+# text = accueil amical de Benoit qui propose des tapas bonnes très le tout sans chichis à des et prix doux très des et plat à tendance hispanique, accompagnés de vins espagnols.
+
+# sent_id =203
+# text = allez-y.
+
+# sent_id =204
+# text = je retourne souvent alors est toujours là hôte son excellent vraiment est cuisine la, pour aider vous à trouver son bonheur vous et toujours passer un moment bon Essayez vous et y retournerez au Campuchea,...,
+
+# sent_id =205
+# text = une entreprise est Anjou Sol'Art sont n'plus compétences les dont en matière de solaire et solaire photovoltaïque à prouver,.
+
+# sent_id =206
+# text = je bien suis relaxée après séances quelques de massage je et plus avoir n'surtout à son poignet anciennement foulé mal.,
+
+# sent_id =207
+# text = pas du avec beaucoup autour de salade une et giclée de vinaigre balsamique, grand chose au menu en entrée,,.,
+
+# sent_id =208
+# text = nous avons découvert dans un quartier vivant au sortir de une séance de cinéma une adresse à retenir.,,
+
+# sent_id =209
+# text = on passe nous après le dessert aussitôt pour nous comprendre faire il temps était que de quitter le endroit la serpillère entre les jambes.,
+
+# sent_id =210
+# text = avec plus de références 40000 est on assuré dans la France toute de une livraison rapide,.
+
+# sent_id =211
+# text = me suis bon connue allez pour pinailleure alors être et difficile,,
+
+# sent_id =212
+# text = nous avons bonjour fait la acquisition de un O'Hara modèle 2010.,
+
+# sent_id =213
+# text = boutique bobo chic il mais manquer le essentiel le professionalisme : !
+
+# sent_id =214
+# text = permettra vous rue la de Nancy des maréchaux bref sans doute de mieux bien trouver !,
+
+# sent_id =215
+# text = à déconseiller bref, !
+
+# sent_id =216
+# text = bémol le refus des cartes de paiement : !
+
+# sent_id =217
+# text = C'la adresse est du hôtel de Faches Thumesnil de ville
+
+# sent_id =218
+# text = C'rare tellement est de pouvoir diner au coin du feu !
+
+# sent_id =219
+# text = C'un lieu est incontournable il car permettre de sentir la vie de une famille qui respirait la sainteté.,
+
+# sent_id =220
+# text = on peut ca oui dire C'au fois futuriste était que et romantique diner comme avec sa moitié,.,
+
+# sent_id =221
+# text = l'on car peut aisément très trouver des préservatifs usagés sur les matelas.
+
+# sent_id =222
+# text = Cela fait je fais que déplacement du professionnel ans 10 C'la et est fois 1ère je tombe que sur un hôtel pourri aussi.
+
+# sent_id =223
+# text = sérieuse bien très est école cette et aide beaucoup
+
+# sent_id =224
+# text = elles donnent un matériel grâce à pédagogique spécifique à toucher fabriquer, inventer, débattre,.,
+
+# sent_id =225
+# text = emplacement génial pour qui veut aller chercher à la Gare quelqu'un !
+
+# sent_id =226
+# text = je vois déjà en séances 2 maillot et aisselle) (la différence.
+
+# sent_id =227
+# text = en espérant survivra genre ce de salon sérieux et professionnel que les autres face à qui fleurent à coin chaque de rue en cette périodes.
+
+# sent_id =228
+# text = il gentil en plus est on et voir il aime vraiment que les animaux à la écoute,.
+
+# sent_id =229
+# text = arrive enfin douloureuse la qui parfaitement est justifiée par la qualité des prestations servies,.
+
+# sent_id =230
+# text = un bar enfin l'on peut où trouver mezcal du des et bières qui sont n'pas hors de prix mexicaines à Paris.
+
+# sent_id =231
+# text = et bonne trés trés trés est qualité la du service....
+
+# sent_id =232
+# text = un et jacuzzi minuscule.
+
+# sent_id =233
+# text = fini les plats décevants !
+
+# sent_id =234
+# text = génial C'et rapide en plus est,.
+
+# sent_id =235
+# text = C'professionnelle très ici est.
+
+# sent_id =236
+# text = il sont formés à vous arnaquer.
+
+# sent_id =237
+# text = il vaut mieux car connu bien est coin ce petit de Naples réserver.
+
+# sent_id =238
+# text = il a même y un café avec des pingouins !
+
+# sent_id =239
+# text = ils enregistrent et communiquer à son fournisseur la annulation sa demande de annulation.,
+
+# sent_id =240
+# text = ils m'n'quoi importer ont dit ils excellent sont par contre pour bullshitter '', C'un système est que tu tournes quand au maximum le volant de sécurité........
+
+# sent_id =241
+# text = ils ont réalisé un travail excellent
+
+# sent_id =242
+# text = ils sont depuis 2007 sur Cherbourg.
+
+# sent_id =243
+# text = j'vais souvent très y on car changer pas on dit comme une équipe qui gagne.,
+
+# sent_id =244
+# text = j'adore la bouffe le et style.
+
+# sent_id =245
+# text = j'donc ai choisi de n'faire une que Coupe + Balayage.
+
+# sent_id =246
+# text = j'ai installé dans sa maison initialement chauffée par des radiateurs électriques une chaudière à condensation,.
+
+# sent_id =247
+# text = j'ai rencontré fait bien hasard le les choses par hasard en Cherchant sur Google un coiffeur à domicile Lionel... !
+
+# sent_id =248
+# text = j'y suis allé à une semaine de intervalle fois 2. me et n'pas ai décevoir été
+
+# sent_id =249
+# text = je recommande vivement à ceux tous qui veulent faire des économies réelles ce magasin !
+
+# sent_id =250
+# text = je élève suis depuis ans 5 de Sreemati,. j'et ai vouloir l'aider elle dès m'a parlé que de ouvrir un centre consacré au Yoga authentique aux et techniques ayurvéda kalaripayat, danse indienne, () corporelles,
+
+# sent_id =251
+# text = je veux bien Cela une chambre soit que économique euro 50 tout de même la nuitée) (je mais penser doivent pas n'que économies les faites être sur la hygiène n'pas même passé avait été le aspirateur derrière la porte (.
+
+# sent_id =252
+# text = regorge carte la de trésors en tant crêpes en que galettes.
+
+# sent_id =253
+# text = doit différence la entre les grandes les et petites de de plus ce qui de ailleurs vaut n'pas les €2 cher plus environs Ocm être sur le diamètre,.
+
+# sent_id =254
+# text = est située au : 5905, la paroisse Marie-Reine-des-Coeurs rue H1M 1N4 Turenne Montréal Québec ()
+
+# sent_id =255
+# text = joli très est cadre le à la mais pas n'est hauteur ambiance la de celle de un pub anglais par manque de musique adaptée,,.
+
+# sent_id =256
+# text = semble patron le avoir à cœur de pas n'négliger au profit des vins les plats.
+
+# sent_id =257
+# text = le signe qui trompe n'pas des habitués n'étaient clients les à table que et plein était salle la,. ce là midi...,
+
+# sent_id =258
+# text = savent patientes les habituées il a que beaucoup de retard et prendre ses précautions.
+
+# sent_id =259
+# text = abordables sont prix les pour la qualité le et service en salle des produits.
+
+# sent_id =260
+# text = élevés plus beaucoup sont prix les dans des que boutiques autres C'la mais seul est ouverte le lundi.
+
+# sent_id =261
+# text = ferment terrains les de tennis à 18h !
+
+# sent_id =262
+# text = divin est chocolat son chaud !
+
+# sent_id =263
+# text = une est comptables Mme Tellier excellente je recommande vivement que !
+
+# sent_id =264
+# text = magasin convivial très. de chaussures pour enfants adolescents /
+
+# sent_id =265
+# text = à mais souligner prend n'jamais musique la que le pas sur ses conversations.
+
+# sent_id =266
+# text = merci lui à beaucoup !
+
+# sent_id =267
+# text = globalement bons étaient plats ses mais rester dans la présentation le et raffinement simples saumon vapeur et filet de rouget tagliatelle /) (.
+
+# sent_id =268
+# text = assure vous expérience sa dans le domaine du destockage en préservant tout sa image son et réseau de distribution dans les conditions financières meilleures la réalisation de ses invendus.
+
+# sent_id =269
+# text = nous avons dépensé €145 avec sa femme pour une entrée un et dessert un plat, sans alcool) ( !
+
+# sent_id =270
+# text = nous avons pris étaient poussière et saleté au rendez-vous possession de chambres 2 cabine ayant en commun les toilettes ! :
+
+# sent_id =271
+# text = on retourne y ce été !
+
+# sent_id =272
+# text = Passez par contre C'étroit relativement est vous nombreux si êtes son chemin, !
+
+# sent_id =273
+# text = impeccable est accueil le par contre et chaleureux très le et jardin reposant très petit la propreté parfaite,...
+
+# sent_id =274
+# text = coups pour €2-4 petits accompagner bière du Montblanc un repas succulent qui se déguste aussi à la carte, à boire au verre de vin.,
+
+# sent_id =275
+# text = pas aimable n'sont personnes les de la réception je dirais même totalement antipathiques ni compétent pour couronner le tout,,....
+
+# sent_id =276
+# text = j'avais pour la fois première besoin de une paire de lunette,. j'et ai ravir été ainsi que son ami de trouver dans une boutique seule et même des montures tendance et quelque aussi chose de classique plus un peu pour son ami dans les marque grandes plus de ou créateurs connu moins mais très fashion petits
+
+# sent_id =277
+# text = ils disent ils ont que internet gratuit il mais marcher jamais pratiquement n'pour terminer,.
+
+# sent_id =278
+# text = produits sympa super qui et rendent bien sur son mur.
+
+# sent_id =279
+# text = on retourne y ps la année prochaine de offices :....
+
+# sent_id =280
+# text = se on dise le que !
+
+# sent_id =281
+# text = de plus rechercher que on paisiblement a séjourné lorsque dans une chambre confortable aussi et décorée bien... !
+
+# sent_id =282
+# text = je vais à C'titre soit que professionnel à ou titre pour moi personnel pour sa société) (chez Bureau Montaudran Vallée Toulouse,.
+
+# sent_id =283
+# text = vous aurez vous avez si le malheur de y déjeuner absents lorsque sont patrons les droit au pire du pire.
+
+# sent_id =284
+# text = pas surtout n'hésitez vous souhaitez si régaler ses papilles "" !
+
+# sent_id =285
+# text = disponible est dirigeant son à la et écoute de ses clients.
+
+# sent_id =286
+# text = temps un peu long Cela mais va peut-être que avec les travaux nouveaux s'arranger de attente
+
+# sent_id =287
+# text = il a y;) cher trop des pizzeria meilleure et cher moins,
+
+# sent_id =288
+# text = un endroit simple et entretenu bien propre, une équipe sympa, un cocktail idéal pour des vacances en famille,.
+
+# sent_id =289
+# text = j'espère voila pourra commentaire ce que un peu prouver un lycée Mendes est que on où travaille on apprendre où, un mais surtout lycée on où découvre.,
+
+# sent_id =290
+# text = vous repartezerez déçu très...
+
+# sent_id =291
+# text = j'ai appelé croyant dans sa naïveté grande serait proposé que un service,.
+
+# sent_id =292
+# text = j'ai eu besoin à la et Actif Dépannage "" hauteur a été dans les cas deux, de rénover faire à au fois titre particulier et professionnel ses serrures.,
+
+# sent_id =293
+# text = je vais n'oublier rien de cette soirée au MH.
+
+# sent_id =294
+# text = plus de euros 80 menus 2 à cher pas bouteille une kir deux.
+
+# sent_id =295
+# text = j'ai fait à eux pour mettre la installation électrique de son appart aux normes appel car sembler avis les bons,.
+
+# sent_id =296
+# text = accueil bon très agréables très sont chambres les et spacieuses rapport bon qualité prix
+
+# sent_id =297
+# text = un café 17 euros !
+
+# sent_id =298
+# text = ça donne le goût de avoir une bedaine ""..
+
+# sent_id =299
+# text = il notamment a gagné une étape une étape du Tour 2008 de Espagne, du Tour 2010 de Italie. et terminer troisième de Gand-Wevelgem la année même
+
+# sent_id =300
+# text = Guido sont représentants les autres principaux de ce mouvement Gozzano et Aldo Palazzeschi.
+
+# sent_id =301
+# text = un acteur est Bud Collyer américain né le 18 juin 1908 à New York New York États-Unis (), décédé le 8 septembre 1969 à Greenwich Connecticut (),.
+
+# sent_id =302
+# text = explique également colonisation la à partir des côtes de un territoire immense C'le cas bien sûr est des États-Unis du mais aussi Brésil de l'et Australie de Amérique, cette structure. :
+
+# sent_id =303
+# text = signifie RADSL line digital subscriber adaptive rate - soit ligne en Français : à débit adaptable de abonné numérique « » » «.
+
+# sent_id =304
+# text = et ont pouvoirs les publics ivoiriens introduit dans cette perspective même dans les années 70 pour accélérer la diffusion dans le pays des connaissances dans le enseignement primaire la télévision éducative.,
+
+# sent_id =305
+# text = sel essentiellement du sont produits les échangés du ambre, vin du, du et viande salée du huile, des céréale,.
+
+# sent_id =306
+# text = décrit article ce les critères administratifs pour soit Reconnue que une otite consécutive à un barotraumatisme en France comme maladie professionnelle.
+
+# sent_id =307
+# text = Cela nécessaire fut à la arrivée jusque de l'Open Firmware.
+
+# sent_id =308
+# text = il met le 6 mai 2011 un terme à sa carrière sportive,.
+
+# sent_id =309
+# text = un plaisir simplement tout est grand aller dans ce restaurant !
+
+# sent_id =310
+# text = un homme est Chen Xitong né dans le district Sichuan de Anyue --, en juin 1930 () l'qui un fut avant de connaître la disgrâce et maire fut de 1983 à 1993 de Pékin des dirigeants hauts du parti communiste chinois, politique de la République populaire de Chine,.
+
+# sent_id =311
+# text = fut consulté Vedel à des reprises nombreuses par des gouvernements de la IV de la V et () français par un ainsi que nombre certain de gouvernements étrangers de obédience toute.
+
+# sent_id =312
+# text = exclut pas n'taux un de zéro des changements importants dans la distribution dans les et ou / taux de natalité de ou mortalité de immigration, des âges.
+
+# sent_id =313
+# text = reposaient étoiles les fixes sur la sphère la extérieure plus dite sphère des fixes » «,.
+
+# sent_id =314
+# text = on décide de abandonner les matériaux coûteux comme le magnésium qui est devenu introuvable,.
+
+# sent_id =315
+# text = a lancée été le 7 septembre 1986 la station au canal 49., et afin de agrandir son territoire a déplacer été en 2001 au canal 34
+
+# sent_id =316
+# text = Elle a impliquée été dans accidents plusieurs aériens.
+
+# sent_id =317
+# text = il s'agit donc de un thyréophore basal proche du ancêtre commun aux stégosauriens et ankylosauriens,.
+
+# sent_id =318
+# text = sépare ligne la qui passe entre les îles entre celui et de Bali et Lombok, de Bornéo et Sulawesi, Wallace, ces écozone deux.
+
+# sent_id =319
+# text = est homme un avec un téléphone sans fil à la main entré. il et m'a C'que est tu as qu' » « ? demander :
+
+# sent_id =320
+# text = Eglise Saint Denis siècles XIIIe XVIIIe, XVIe, XIVe,) (.
+
+# sent_id =321
+# text = tourne se ensuite Latour vers des travaux théoriques plus et programmatiques.
+
+# sent_id =322
+# text = joue Tam avec les Remparts de Québec de la ligue du Québec de hockey junior majeur depuis la saison 2007-2008.
+
+# sent_id =323
+# text = organise association la des producteurs de Saverne et environs de fruits un cours de taille de arbres fruitiers de et ornement.
+
+# sent_id =324
+# text = insiste Mgr Lebrun libre est si organisation la, sur piliers deux la prière la et charité avec la Parole : » «.
+
+# sent_id =325
+# text = on peut arriver à Verrès par la aussi route nationale 26 de la Vallée de Aoste du col du Petit-Saint-Bernard ().
+
+# sent_id =326
+# text = inéluctable en sera sortie la de son pays de la zone Euro va ce qui probable est ministre le Premier grec si et rejetent que compatriotes ses le plan européen de sauvetage financier au bout de sa décision,, le et éclatement de celle-ci par effet induit,,.,
+
+# sent_id =327
+# text = lui a Conseil le général du Haut-Rhin confié la réalisation de sa signalisation.
+
+# sent_id =328
+# text = un coureur est Simon Kessler né le 14 mars 1975 à Johannesburg () professionnel sud-africain cycliste.
+
+# sent_id =329
+# text = le single St. Anger "" est premier du album 8ème de Metallica studio du nom même.
+
+# sent_id =330
+# text = idem pour le achèvement de la autoroute ouest qui relie à celle de la Tunisie la frontière du Maroc est -.
+
+# sent_id =331
+# text = parvient prédicateur un Abdullah Yahya bin, de Bassora, au milieu du siècle VIIIe, établir le rite Ibadhi, en Hadramaout.
+
+# sent_id =332
+# text = il faut 60 exactement en pour Pokémon,.
+
+# sent_id =333
+# text = est chiffré son coût en seulement investissements) (par M. Blanc à milliards 21,4 de euros.
+
+# sent_id =334
+# text = également retrouvez des sondages des vidéos et photos, de ses peoples préférés.
+
+# sent_id =335
+# text = a pratique la combinée de ces trois points pour effet de diminuer la emprise des cinq klewa afflictions ().
+
+# sent_id =336
+# text = est retirée la pièce de la affiche 1935 () après 17 représentations.
+
+# sent_id =337
+# text = marque Japonais le Hidetoshi Nakata en demi-finale le but seul du match contre l'Australie sur un coup franc tiré à RAz de terre des 18 mètres,.
+
+# sent_id =338
+# text = il écrit dans la Revue notamment américaine 1826-1827) (la et revue encyclopédique février 1830) (en faveur de Lafayette des articles libéraux,.
+
+# sent_id =339
+# text = de or sont aux armes les de Grenoble trois roses. de gueules
+
+# sent_id =340
+# text = fournissent pierres les de calcaire de la Champagne manceaue les et roches dures très granitiques un peu rougeâtres grès roussard) (, des environs, lui donnant une teinte qui ajoute à la austérité du lieu sombre le matériau nécessaire à la construction.,
+
+# sent_id =341
+# text = fut baptisé en 1945 le destroyer de l'US DD-889 () Navy O'Hare USS en son honneur.,
+
+# sent_id =342
+# text = il devient joueur autonome au automne.
+
+# sent_id =343
+# text = le abbé Saint Agile ou saint Aile de Rebais, a été premier au diocèse de Meaux de Rebais.,,
+
+# sent_id =344
+# text = connaît aujourd'hui marché le commun devant déboucher vers la mise en place de une monnaie commune du Golfe, en entre autre raison, des divergences au principalement sujet du siège de la Banque future centrale, nées entre Ryadh et Abou Dhabi des retards.,
+
+# sent_id =345
+# text = peut n'ainsi modification aucune de ce source code réponde bien que TiVo en redistribuant le code source modifié aux clauses de la GPL 2 fonctionner sur le matériel distribué par TiVo.,,
+
+# sent_id =346
+# text = il fut anobli en 1784 s'et appeler désormais von Auenbrugg » «.
+
+# sent_id =347
+# text = accuse ainsi général le français qui commandait les forces de l'ONU sur place, Philippe Morillon,,. :
+
+# sent_id =348
+# text = n'est desservie le village de Saint-Léonard depuis Avilly Courteuil, et Saint-Nicolas-d'Acy par des voies que communales RD 924 () RD 924 ().
+
+# sent_id =349
+# text = il aussi a écrit le Tiếng địch sông Ô le son de une flute sur la Rivière Ô) (une tragédie qui se est jouée en fois deux la fois première 4 5 et mai 1946 au théâtre municipal de Hà Nội les et soirées deux 23 24 et mai 1940 autres au théâtre provincial de Hà Tĩnh, en deux soirées :, en vers.
+
+# sent_id =350
+# text = est version la première Crown 602 de ce jeu fabriquée par Taito,, apparue en 1965 au Japon.
+
+# sent_id =351
+# text = il fortement est bridé de façon à pas n'afficher des performances flatteuses plus beaucoup celles que de la CSL M3 sur la version routière.,
+
+# sent_id =352
+# text = il souvent Victime est. de arnaques petites de la part ils et veulent que fois chaque éviter de payer sa addition de la équipe
+
+# sent_id =353
+# text = C'son souvenir seul, cette mélodie est envoïtante jouée sur cette scène,.
+
+# sent_id =354
+# text = conséquence dû moitié la obtenu ayant un prêt des entreprises ont apporter une garantie C'les et, dirigeants sont dans les quarts trois des cas,, qui s'sont portés garants :.
+
+# sent_id =355
+# text = contient ainsi mot le populisme dans la définition on lui prête que les préjugés tous le mépris tout pour le peuple, de classe.
+
+# sent_id =356
+# text = est composé le groupe de Phil Hartley et Tristan King batterie () Mark McQuaid guitare) (, Mike Bryson basse) (, chant) (.
+
+# sent_id =357
+# text = avait téléphone le un défaut de fabrication. il et m'a changer été au magasin j'dès que Retourné suis y
+
+# sent_id =358
+# text = s'déroule stage ce du lundi 4 au vendredi 8 juillet.
+
+# sent_id =359
+# text = Abraham est né dans une famille de marchands juifs à Dantzig maintenant Gdańsk en Pologne) (Allemagne,.
+
+# sent_id =360
+# text = il tente de empêcher des chasseurs de trésor de s'aventurer sur ces territoires interdits.
+
+# sent_id =361
+# text = s'attendait public le prédisant avec le chanteur un duo, il s'mais agir finalement de un morceau usuel estime Madonna ques plus adultes parmi les chansons autobiographique à un titre bouillonnant.
+
+# sent_id =362
+# text = mènent Nations les Unies scellons le accord « une campagne mondiale !
+
+# sent_id =363
+# text = on possède un nombre grand de attestations anciennes du nom sous diverses formes :
+
+# sent_id =364
+# text = il est servi dans un pot contenant une crème le tout surmonté de gariguette de et crème chantilly, un et biscuit rose de Reims mouillé au Champagne au Kirsch, en verre.
+
+# sent_id =365
+# text = a chef le ramené en respectant parfaitement tout sans esbroufe ni artifices des produits de qualité, de ses années au Japon une cuisine audacieuse extrêmement.
+
+# sent_id =366
+# text = ont conduites été les activités de protestation par la association du mouvement contre les centrales nucléaires de Youngkwang.
+
+# sent_id =367
+# text = varie dessous le des ailes du blanc au gris selon les sous-espèces.
+
+# sent_id =368
+# text = Elle a découverte été dans les monts des Cardamomes à m 1000 de altitude.
+
+# sent_id =369
+# text = notamment a coureur le Damien Gaudin de la équipe BBox Telecom Bouygues remporté au cours de ces championnats titres trois.
+
+# sent_id =370
+# text = demandent gouvernements des nombreux et association comme Amnesty international, des droits du homme, la extension du mandat de la mission spéciale Minurso () de l'ONU à la protection des droits au Sahara occidental du homme.
+
+# sent_id =371
+# text = est utilisé par % 50,8 des travailleurs le français % 2,3 des travailleurs utilisent alors que les langues deux officielles au travail le et anglais par % 41,7.
+
+# sent_id =372
+# text = a l'Académie équestre été pour organiser les Championnats du Monde de Voltige dans la sélection de 2012.
+
+# sent_id =373
+# text = remporte néanmoins Marcus Stephen candidat malheureux à la élection présidentielle de août 2007, le 19 décembre 2007 la présidence de la République est lorsque écarté son prédécesseur Ludwig Scotty par une motion de censure parlementaire de cette fonction.
+
+# sent_id =374
+# text = ils pas n'avaient et briller cheveux ses blonds au soleil des casquettes.
+
+# sent_id =375
+# text = il en outre, a décidé été par opposition à son milieu traditionnel de un tueur de enfants de faire Freddy un pédophile.,
+
+# sent_id =376
+# text = jamais n'Jean II Paul a abordé on réfléchit lorsque y de front le problème de la liberté de conscience,.
+
+# sent_id =377
+# text = bien vraiment très est cabinet ce de ostéopathie.
+
+# sent_id =378
+# text = Elle est organisée par Poesia Ottobre 2 une association qui œuvre en faveur de la poésie conçue comme vecteur privilégié de dialogue interculturel de et diffusion des valeurs humanistes à but lucratif non ", -".,
+
+# sent_id =379
+# text = elle douée n'pas très est pour montrer ses émotions ce elle ressent vraiment que ses et désir comme le fait elle aimerait que comme son frère être Justin dire,.
+
+# sent_id =380
+# text = posa Leland Stanford un clou qui symbolise le achèvement du transcontinental premier aujourd'hui conservé au musée de l'université Stanford en Californie le Golden Spike () de or,.
+
+# sent_id =381
+# text = un mais bien est eau la elle-même commun qui se vend n'pas sur un marché.,
+
+# sent_id =382
+# text = est fraise la de Cachoubie réputée savoureuse plus % 73) (les que fraises autres et sucrée plus % 68) (.
+
+# sent_id =383
+# text = des fonctionnaires étaient assistants les dans les facultés de pharmacie soumis à une période de stage de trois ans.,,
+
+# sent_id =384
+# text = engage se finalement Han et mettre Vador hors course couvrir Luke, dans la bataille.
+
+# sent_id =385
+# text = il préconise afin de sortir de sa ambiguïté les termes chorégraphie et chorégraphe années tard plus quelques, de appeler un choréauteur le auteur de ballet.,
+
+# sent_id =386
+# text = indique communiqué un affirme ministère le de l'Intérieur, que seront prises des mesures décisives pour faire face à des actions telles en conformité avec la loi, » «.
+
+# sent_id =387
+# text = fait récit le explique dans lequel John certaines des transformations subit que enseignement son en tant que Jésus référence à l'antéchrist soutient dans lequel philosophe le un mouvement était christianisme le que en fait similaire à la origine et enseignait n'christ le que rien à propos du au-delà de et Dieu mais parlait simplement du bien réalisable en ce monde, au bouddhisme la thèse, de Nietzsche.
+
+# sent_id =388
+# text = cherche agent le économique en effet dans le cadre de la théorie néoclassique il et aller ce lui rapportera que épargne la considérer il va considérer le taux de intérêt autrement dit,, il est amené lorsque à faire un arbitrage entre consommation et épargne, à maximiser sa utilité,,.
+
+# sent_id =389
+# text = créent fonctionnement le les et relations existantes entre les parents les et descendant héritiers de celle-ci, porteurs de mémoire,,, de la famille immigrée des conditions originales de transferts mémoriels.
+
+# sent_id =390
+# text = il le directeur est ancien du hebdomadaire francophone son et confrère arabophone Assahifa Al Ousbouiya le journal hebdomadaire.
+
+# sent_id =391
+# text = Ils sont en 1992 éliminés 0-2 1-0,) (par le club congolais de Elecsport Bouansa dès le tour premier.,
+
+# sent_id =392
+# text = un quartier Dame Blanche ou cité surnom dû à ses rues aux noms de peintres célèbres, des peintres, Nord est situé dans le nord de la ville de Garges-lès-Gonesse en banlieue parisienne,.
+
+# sent_id =393
+# text = survivent espèces des nombreuses devenues rares ou menacées dans la zone boréale du nunavik pour l'Amérique du Nord à l'Alaska ().
+
+# sent_id =394
+# text = n'pas surtout arrivez minutes quelques en retard !
+
+# sent_id =395
+# text = un peintre Charles 1825-1900) (Monginot est français.
+
+# sent_id =396
+# text = il enseigna aux États-Unis licencié en histoire et géographie, à la université Yale.
+
+# sent_id =397
+# text = a élu Gheorghe Tirifon PNL () été à la issue, des élections municipales de juin 2008 maire de la commune.
+
+# sent_id =398
+# text = a Conseil le général propriétaire du bâtiment de la gare ancienne de Signy-le-Petit, conclu avec une entreprise génère installation la dont à terme court emplois trois de communication, un bail commercial.,
+
+# sent_id =399
+# text = visibles sont papillons les entre mai et juin au dessus de mètres 1 000 visibles tandis que sont papillons les vers le début juillet, dans les zones de altitudes faibles.
+
+# sent_id =400
+# text = fait pré le salé en 1990 dans son méandre dernier avant l'océan le objet de un inventaire ZNIEFF de type 1.
+
+# sent_id =401
+# text = se font essentiellement transactions les en espèces.
+
+# sent_id =402
+# text = équipe. de professionnels avec des années de expérience
+
+# sent_id =403
+# text = il forme ainsi à sa retraite jusque en 1953 des générations de chartistes.
+
+# sent_id =404
+# text = découvre également Robert Royer des foyers attestant la existence de une ferme des et élément de la vie quotidienne des Gaulois du âge du bronze,.
+
+# sent_id =405
+# text = en outre ont rejetées été les revendications infondées du Maroc sur le territoire par la cour internationale de Justice,.
+
+# sent_id =406
+# text = homosexuel Satan est dans South Park dans le et arc story ils vont handicapés les probablement / ! en enfer ? le film long plus grand plus, et pas couper :), (il bien que ait eu un fils Damien,,. et a avoir des relations nombreuses avec Saddam Hussein
+
+# sent_id =407
+# text = il étudie et publier en 1881 avec des médecins autres un traité intitulé iconographie photographique appliquée à la ophtalmologie en collaboration sous la direction de photographes reconnus.
+
+# sent_id =408
+# text = un ensemble Concert le de Astrée est musical français de musique baroque.
+
+# sent_id =409
+# text = établit A l'en 1931, à côté de la maison des étudiants son siège.
+
+# sent_id =410
+# text = remporte club le local de Arsenal en comme 2007 le trophée,.
+
+# sent_id =411
+# text = fédèrent n'pas donc CRES les de manière directe celles-ci en membre sont par le biais des structures fédératives que se sont données les acteurs de terrain, les structures de base.
+
+# sent_id =412
+# text = selon C'est) (complémentaire est notion la de éros se ou opposer pour les chrétiens hellénistiques, à la agapè.
+
+# sent_id =413
+# text = particulièrement ont étudiées été par John http://brahms.ircam.fr/textes/c00000018/index.html Chowning par puis Jean-Claude Risset chercheurs et compositeurs qui ont créé à la aide du ordinateur formes plusieurs de illusions intégrées dans ses œuvres,, pionnier de la synthèse numérique des sons) (illusions ces,.
+
+# sent_id =414
+# text = la élection est élection la du 24 octobre 1999 première présidentielle pluraliste candidats trois () ait réélu quoique été le président Ben Ali avec un score % 99,44) (comparable aux élections précédentes,.
+
+# sent_id =415
+# text = sera réunion une du conseil national du syndicat des communaux organisée à la issue de la grève pour faire le bilan du mouvement et surtout décider des actions prochaines à entreprendre.
+
+# sent_id =416
+# text = une boxeuse est Anne-Sophie Mathis née le 13 juin 1977 à Nancy,, française.
+

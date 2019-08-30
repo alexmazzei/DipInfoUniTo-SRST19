@@ -1,0 +1,330 @@
+# sent_id =1
+# text = je sens nous pourrions entre ça les et film de médecins et scientifiques fous nous déjà que avons vus, que emprunter pour la origine un chemin autre.
+
+# sent_id =2
+# text = on pourra toujours parler à de propos Averroès de décentrement du sujet "".
+
+# sent_id =3
+# text = écrit ONG la internationale implantée dans pays 35 citée par la agence de presse sahraouie,, il largement a démontré été le objet est population la civile du territoire autonome non du Sahara occidental que de atteintes diverses comme la détention arbitraire les coup, les et torture, aux droits humains « ».,
+
+# sent_id =4
+# text = début 1er avant l'Irlande 2012) (l'et Ukraine 2013) (de la présidence lituanienne au 31 jusque décembre) (de l'organisation OSCE () pour la sécurité la et coopération en Europe :,.
+
+# sent_id =5
+# text = il et, montre pourtant lors de sa visite première en Afrique subsaharienne le été 2007,, dans un discours humiliant pour les Africains prononcé à la université Cheikh Diop Anta de Dakar, les dents.
+
+# sent_id =6
+# text = à son paroxysme sont spéculations les autour du match.
+
+# sent_id =7
+# text = ils lui à C'mais est ils s'qu'prennent en citent n'pas on attaque pas n'parce que depuis les institutions un membre de la famille royale son nom.,,
+
+# sent_id =8
+# text = il a y en qui croisent toujours waterproof parce que coeur son serait % 100 comme les montres :, ils peuvent que jouir de la vie en tranquilité toute de conscience et commettre en sécurité toute, indélicatesse telle telle ou grossièreté telle telle ou,.
+
+# sent_id =9
+# text = a discours son inspiré de une pensée du moyen-âge, trouvé preneur,.
+
+# sent_id =10
+# text = je lui pour crois vraiment est ailleurs essentiel le que dans cette contribution à la déstabilisation vous évoquez que de la autorité spirituelle du pape,.,
+
+# sent_id =11
+# text = C'le fait est instable soit zone la toute comprise entre le Soudan la et Mauritanie que du hasard de une ou malédiction ?
+
+# sent_id =12
+# text = vous maintenant observeront l'on peut que traditionaliste être et intégriste, mais pas n'ont que intégristes les réciproquement et le monopole du traditionalisme, avec un de peu volonté bonne.,
+
+# sent_id =13
+# text = aussi donc est voie cette de communication vouée royale à préservée être et moderniser développer,.,
+
+# sent_id =14
+# text = a régime le marocain pour affronter les risques externes "" engendrés par le conflit du Sahara occidental pour pouvoir mener à bien sa politiques dictatoriale, besoin de stabilité interne.
+
+# sent_id =15
+# text = à elle la pourtant déjà retraite est belle séduisant à souhait, grand, clair,,.
+
+# sent_id =16
+# text = Cela et jamais n'a empêché a pas n'officiellement Maroc le si des relations ouvertes » « diplomatiques avec Israël des ministres de s'rendre au royaume chérifien,.
+
+# sent_id =17
+# text = il tient ans tard plus Trois un discours sur la crise.,
+
+# sent_id =18
+# text = je déchirée suis.
+
+# sent_id =19
+# text = lui selon, sera mise périodes cette à profit pour étudier sur la notamment base, des informations fournies par les autorités marocaines les conséquences le ainsi que impact régional des fonds versés par l'Union européenne "", du accord sur les ressources de poisson.
+
+# sent_id =20
+# text = a reçu le 20 juin le Secrétaire général Claude Guéant de l'Elysée été à Alger par le président Bouteflika le et ministre premier Ahmed Ouyahia,.
+
+# sent_id =21
+# text = ce est espoir le les et rêves de un peuple de ses et enfants qui transparaît dans ces textes tous.
+
+# sent_id =22
+# text = ouvre mort la de Mouammar el-Kadhafi en ce sens une périodes de irakisation de ou somalisation de la Libye.,
+
+# sent_id =23
+# text = promulgation de loi antis-hérétiques » «.
+
+# sent_id =24
+# text = pas n'rester dans une zone isolée seul en ou couple.
+
+# sent_id =25
+# text = autant dire dans un désert médiatique pour la mort de un poète.
+
+# sent_id =26
+# text = pleins sont lendemains les de lynchage de incertitudes.
+
+# sent_id =27
+# text = ils affirment pour cela, rentre pas n'mandat le premier de Wade que et pour autant,, compte pas n'dans la application de la loi nouvelle sous le texte nouveau constitutionnel.
+
+# sent_id =28
+# text = n'pas hésitez à la largement autour de vous circuler faire !
+
+# sent_id =29
+# text = naitait Gdem Izik il a y un an.
+
+# sent_id =30
+# text = la taxe iii) foncière ;
+
+# sent_id =31
+# text = il est heures 45 20 en territoire algérien.
+
+# sent_id =32
+# text = car regrette gouvernement le marocain le temps béni où vivre faisait la manne financière apportée par les touristes algériens qui affluaient par centaines de milliers cette région toute au-delà et bien.
+
+# sent_id =33
+# text = se est royaume le amélioré dans le mais pas sens voulu par l'UE,.
+
+# sent_id =34
+# text = en même quête DGSE la Direction générale de la sécurité extérieure) (est si pour négocier « » de intermédiaires bons » «.,
+
+# sent_id =35
+# text = la il poussière est destin son ?
+
+# sent_id =36
+# text = C'un sourire est de Dieu.
+
+# sent_id =37
+# text = le celui qui imprimera fixera le agenda, sa marque vainqueur sera en mai probable dans les campagnes comme toutes présidentielles,,.
+
+# sent_id =38
+# text = nous n'combien de fois célébrons que nous-mêmes nous et n'pas même prendre conscience de sa présence, ?
+
+# sent_id =39
+# text = Cela tout présent est dans sa passion.
+
+# sent_id =40
+# text = tente plus AQMI l'de nouer des rapports avec les mouvements subversifs avec des autant que secte au Nord du pays de inspiration religieuse dans le delta du Nigéria,.,
+
+# sent_id =41
+# text = claire très est question la du Sahara occidental au regard du droit international.,
+
+# sent_id =42
+# text = n'a justice la française fait que obéir s'et déjuger.
+
+# sent_id =43
+# text = en effet massive a attaque la contre été,. et a moins pas de sites 174 appartenant au gouvernement à des et entreprises du royaume marocain pour la plupart toucher
+
+# sent_id =44
+# text = personne place n'dans la raison politique aucune forme de espérance...
+
+# sent_id =45
+# text = mais est réalité la le Maroc pas n'Mauritanie la est que l'ou Algérie.
+
+# sent_id =46
+# text = on a en Arabie la impression là toujours a fondamentalisme le été que il se maintenir que, et avoir n'aucun mal à perdurer,.
+
+# sent_id =47
+# text = il t a y un risque de voir en Syrie mal tourner les choses ?
+
+# sent_id =48
+# text = C'simple est il a y d'tout,.
+
+# sent_id =49
+# text = disponibles seront épisodes les premiers 8 de la série animée dès le 30 prochain novembre renommée par Warner France sous le nom de la Ligue la Génération Nouvelle des Justiciers "" :,.
+
+# sent_id =50
+# text = il s'avère lors brillant ça que n'pas si soit état le de ses cours de eau que de rapport le dernier publié par le ministère de la écologie.,
+
+# sent_id =51
+# text = se inscrit pleinement Territoire perdu retenu au Forum de la Berlinale « », dans le esprit de cette section expérimentale avant-gardiste, et politiquement engagé » «.
+
+# sent_id =52
+# text = arrêtez Cela suffit vous pour aujourd'hui si la lecture,.
+
+# sent_id =53
+# text = elle capot était ouvert dans la cour petite du garage,.
+
+# sent_id =54
+# text = heures 15 19.
+
+# sent_id =55
+# text = ont sahraouis les jeunes participant à cette université lancé exhortant les Nations unies à organiser un référendum de autodétermination libre à et mettre un terme à la dilapidation par le Maroc,, des richesses naturelles du Sahara occidental un appel à se mobiliser pour défendre dans la région notamment colonisée les droits sahraouis et mettre un terme aux violations toutes exercées contre le droit du peuple sahraouie à la autodétermination aux tous acteurs politiques dans la scène régionale et internationale,,,.,
+
+# sent_id =56
+# text = il s'passe je comprends bien très sa préoccupation par rapport à sa participation à la rencontres de Assise de commentaires. « :
+
+# sent_id =57
+# text = C'était n'pas comme aujourd'hui dans les sixties.,
+
+# sent_id =58
+# text = se ils arrêter étaient fait Sidi hamed Deddeche M'et Amgid Ahmed Sidi activistes deux pacifistes comme Mme Haïder, des territoires occupés, à la entrée de Smara la capitale spirituelle du Sahara occidental, ils des séquestrés parce que étaient sans documents de voyage,, qui s'étaient évadés des camps de Tindouf mercredi dernier ?
+
+# sent_id =59
+# text = appelle Makhzen le quelqu'un à fois chaque il sent que la pression à son secours.,
+
+# sent_id =60
+# text = ont arrêtés été les observateurs espagnols Carlos Sanchez et Mar Figueras,.,
+
+# sent_id =61
+# text = qui a donné le exemple ?
+
+# sent_id =62
+# text = intègre ainsi version la 2010 doit car montant le versé au titre de un complément de activité bien est si exonéré le revenu de solidarité active de impôt sur le revenu déduit être de la prime PPE () pour le emploi, une case RSA "".,
+
+# sent_id =63
+# text = craignent autorités les qui font ce tout elles peuvent que pour nourrir ce flux ininterrompu,, n'pas étant préparés pour recevoir plus de personnes mille dix quinze dégénère n'situation la que pointe pas n'vite plus aide le internationale si le bout de son nez,.
+
+# sent_id =64
+# text = ces sympathisants italiens etc., argentin, norvégien, allemand, vénézuélien, espagnol, britannique, sud-africains, cubain,) (de nationalités différentes
+
+# sent_id =65
+# text = à C'Dakhla est eu que ont affrontements des lieu,,. s'ceux qui font office de colons « » où sont permis en agressant les à de propos un match maroco-sahraoui de football des traiter en tant que indigènes « »,
+
+# sent_id =66
+# text = également ont représentants des du corps diplomatique de notamment Afrique du Venezuela, du et Congo de Cuba, de Angola, du Sud accrédité en Algérie, assisté à cette occasion.,
+
+# sent_id =67
+# text = un pas n'changement est conversion la même moins encore, total attention : un reniement de ce qu'nous avons été.
+
+# sent_id =68
+# text = partout et est homme ce particulier de affaires il contrôler les centrales laitières, il contrôler la banque grande plus du pays, il contrôler l'un des trois opérateurs télécoms, il actif est dans le business du sucre de la énergie,,. il et est associer au groupe Danone
+
+# sent_id =69
+# text = vous m'accusez de subjectivisme "".
+
+# sent_id =70
+# text = pensent Marocains d'nombreux le en hésitant pas n'à l'accuser en tant que opérateur premier du pays de abandonner des pans entiers de la économie marocaine entre les mains des réseaux affairistes des et milieux de la corruption à et grossir les rangs des mécontents,.,
+
+# sent_id =71
+# text = est n'pas Mgr de Paolis Velasio là pour aggraver une situation lourde très déjà.
+
+# sent_id =72
+# text = il devient instantanément de et facto dès lors que décide peuple le de regagner sa liberté libre.,
+
+# sent_id =73
+# text = dit Eglise l'que sur ce point délicat ?
+
+# sent_id =74
+# text = elle mais guette oui elle guette,.,
+
+# sent_id =75
+# text = il invite nous en nous livrant les clefs de la histoire de ce projet industriel à tirer pour mieux aujourd'hui appréhender les perspectives énergétiques du Maghreb les leçons du passé,.
+
+# sent_id =76
+# text = fixent articles les 166 167 et du code français général CGI) (des impôts en application de ce principe en cas de transfert entre la France le et étranger de domicile les règles de imposition,.
+
+# sent_id =77
+# text = lui exclusivement consacrant le essentiel de son temps de sa et énergie aux chantiers économiques grands destinés à procurer travail du aux générations jeunes,.,
+
+# sent_id =78
+# text = ont chefs les deux de état réitéré sa volonté de œuvrer à son renforcement à sa et diversification après examiné avoir le état des relations bilatérales,.
+
+# sent_id =79
+# text = de C'cette façon est que ont imposées été des conditions nouvelles radicalement socio-économiques néolibéralisme) (durant les années 1980 à 1990.
+
+# sent_id =80
+# text = je me demande il a chez nous si y une loi qui peut condamner pour des rêves illégaux des citoyens ?
+
+# sent_id =81
+# text = il a rappelé en opposant son Veto au élargissement pour englober la surveillance le et contrôle dans les territoires sahraouis des droits du homme des missions de la Minurso en estimant tout est Maroc le que au vu des aides militaires au colonialisme marocain de cette puissance sous protectorat français » «, la position au Conseil de l'ONU de sécurité de la France.,,
+
+# sent_id =82
+# text = faire voilà le lyrisme au éblouissement une parts savoir se lâcher dans la admiration de ce qui soi n'pas est, céder à ce savoir immédiat qui transporte nous du beau du et bien,.,
+
+# sent_id =83
+# text = c'est-à-dire pensait avant Maroc le un % que étaient indépendantistes les 5 tout le à mieux les militants, il poursuit son argument on mais revenir pas n'en on a nous quand vus unis tous main dans la main,, ",,, -- -- ;
+
+# sent_id =84
+# text = auraient choses les évolué au Maroc selon ce discours bien maintenant rodé -- -- avec la mort la et arrivée de Mohammed VI au pouvoir de Hassan II,.,
+
+# sent_id =85
+# text = a envahi le Sahara occidental été en 1975 1979 et pour rappel par le Maroc le retrait suite à espagnol du territoire,.
+
+# sent_id =86
+# text = importe plus toutefois cause la politique la que cause humaine dans des camps de réfugiés.,,
+
+# sent_id =87
+# text = il me l'a dit à la Haye. »
+
+# sent_id =88
+# text = éprouve président le Hosni Moubarak de l'Égypte, selon un diplomate basé au Caire une haine viscérale pour la rébuplique islamique « ».,,
+
+# sent_id =89
+# text = a acteur le espagnol Alex Angulo attribué la camella blanche "" aux réalisateurs du film qui ont souligné leur a travail ce permis que de observer le état courageux pacifique, mais combatif aussi "," du esprit du peuple sahraoui,.
+
+# sent_id =90
+# text = s'déroule rencontre cette nouvelle en présence des délégations des et représentants des deux pays observateurs l'Algérie la et Mauritanie, des deux parties sous les auspices du envoyé personnel M. Christopher Ross pour le Sahara occidental du secrétaire général des Nations unies, tenue mois trois après la réunion informelle précédente de la Valette Malte ().,,
+
+# sent_id =91
+# text = général fut ras-le-bol le inédite mobilisation la,.
+
+# sent_id =92
+# text = à aucun moment il faut le si du jour de la ou nuit,.
+
+# sent_id =93
+# text = il en outre a exprimé la volonté de renforcer dans le avenir les relations bilatérales entre les deux pays et consolider de son pays.
+
+# sent_id =94
+# text = Opep l'ou forum FPEG () des pays exportateur de gaz du gaz est né pour rappel à Oran en avril 2010,,.
+
+# sent_id =95
+# text = pas n'hésitez à m'envoyer à la adresse criticusleblog@gmail.com suivante : actualités et tribunes libres.
+
+# sent_id =96
+# text = maintiendra -elle t à quand jusque France la officielle sa préférence pour la protection des agresseurs des droits du homme ?
+
+# sent_id =97
+# text = il a point n'en y.
+
+# sent_id =98
+# text = il t réussira M. Ross bénéficiant Rabat du soutien de un membre permanent la France en l'occurrence du Conseil de l'ONU de sécurité,, entre autres, à valoir faire le droit international dans ces négociations.,
+
+# sent_id =99
+# text = vous développez vous avez quand la opportunité de camper un personnage fois plusieurs une relation avec lui profonde très,.
+
+# sent_id =100
+# text = déconseille préfecture la de Paris de police aux automobilistes de se déplacer.
+
+# sent_id =101
+# text = provient résultat ce à de hauteur ME 18,5 de la progression de la rentabilité du habitat qui dégage une marge de % 9,5 contre % 8,5 la année passée opérationnelle de loisirs.
+
+# sent_id =102
+# text = je plus vois moi je me plus dire the game Battlefield 3 sera que pour les soldats vrais qui ont en dans le slip des vidéos de ce jeu.,
+
+# sent_id =103
+# text = sera assurée la gestion la et exploitation de la salle Wagram de concert récemment rénovée, par Eurosites leader en France de la location de salles,.,
+
+# sent_id =104
+# text = nous Ils maintenant le savoir fassent que veulent si supporters des aider pour revenir faire Djibril à l'AJA au travers de une souscription le club, ",.
+
+# sent_id =105
+# text = elle s'remarie et aller fils un autre Serge naître,.
+
+# sent_id =106
+# text = sont représentés la plupart des personnages jeunes de la intrigue marquent attributs ces physiques le âge jeune la et virginité la mais aussi innocence, outre ses aspects dans un environnement moderne et actuel fantasy en kemonomimi avec des soit oreilles de chat des et queues,, ;,
+
+# sent_id =107
+# text = ils viennent en au aides de ses résultats à la conclusion que auraient sauvées été vies 947 adopté si avaient États les 32 qui avaient pas n'le 1er janvier 2000 une limite de mg/100 80 millilitre une politiques telle,,.
+
+# sent_id =108
+# text = le show Mamma Mia ! "" créé en 1999,
+
+# sent_id =109
+# text = du Vatican tient plus n'voile le dont posé sur la vie privée du Cavaliere,.
+
+# sent_id =110
+# text = clair est message le, feutré bien que nous longtemps accueilli vous avons il temps est de nous rendre ses bienfaits, » « :,.
+

@@ -1,0 +1,433 @@
+ssh -i secondachiave.pem ubuntu@90.147.188.238
+
+
+https://www.overleaf.com/18003930vqkknhfyhhqb#/68206388/
+
+
+python scripts/ud2HVR.py data/conll/it_WAC-ud-train-03.conll  data/conll/it_WAC-ud-train-03.conll   > data/pre-processed/it/UDWAC03-train.H
+
+it-ud_WAC03-train.conll
+
+* A. ORDER
+
+Prendo il TRAIN SRST19 (contiene le posizioni originali).
+Prendo il DEV UD originale (il file DEV SRST19 non contiene le posizioni originali
+                                                                                                                                                                                                        
+** A0. conllu2conll 
+
+*** EN
+
+ cat /home/ubuntu/vol01/SRST-2019/original-data/two/UD-dev/en* | /home/ubuntu/vol01/SRST-2019/scripts/conllu2conll.pl > /home/ubuntu/vol01/SRST-2019/data/en-dev.conll
+
+ ?? export LC_ALL="en_US.UTF-8"
+
+** A2. Encode in Vector (Language EMBEDDING dependent!!!)
+
+
+*** EN
+
+ python2.7 scripts/ud2HVR.py data/conll/it_UD_WAC-ud-train.conll  data/conll/it_UD_WAC-ud-train.conll > data/pre-processed/it/train-it_UD_WAC-WELUXMDEP.H
+ python2.7 scripts/ud2HVR.py data/conll/it_UD_WAC-ud-train.conll  data/conll/it-ud-dev.conll   > data/pre-processed/it/dev-it_UD_WAC-WELUXMDEP.H
+ python2.7 scripts/ud2HVR.py data/conll/it_UD_WAC-ud-train.conll  data/inverted/it-ud-test-inv.conll > data/pre-processed/it/test-it_UD_WAC-WELUXMDEP.H
+
+ tar -zcvf data/pre-processed/it/srst-it_UD_WAC-order.tar.gz data/pre-processed/train-it_UD_WAC-WELUXMDEP.H data/pre-processed/dev-it_UD_WAC-WELUXMDEP.H data/pre-processed/test-it_UD_WAC-WELUXMDEP.H
+
+
+python scripts/ud2HVR.py data/conll/it_WAC-ud-train-03.conll  data/conll/it-ud-dev.conll   > data/pre-processed/it/dev-it_UD_WAC03-WELUXMDEP.H
+
+
+** A3. Learn to rank in octave (ssh mazzei@delorean.di.unito.it)
+
+*** A.3.1. Activate  
+
+ cd listnet/listnet/src
+
+ source ~/anaconda3/bin/activate
+
+
+*** A.3.2
+
+**** IT-WAC
+
+ ./train.m srst/it/train-it_UD_WAC-WELUXMDEP.H srst/it/model-it_UD_WAC-train-WELUXMDEP-H1V-35.m > msg.txt 2> err.txt&
+     
+./train.m ~/vol01/sr-italian/data/pre-processed/it/train-it-ud_WAC03-WELUXMDEP.H model-it_UD_WAC03-train-WELUXMDEP-H1V-50.m > msg.txt 2> err.txt&
+
+**** IT
+
+ ./train.m srst/it/train-it-WELUXMDEP.H srst/it/model-it-train-WELUXMDEP-H1V-35.m > msg.txt 2> err.txt&
+
+
+**** EN
+
+ ./train.m srst/en/train-en-WELUXMDEP.H srst/en/model-en-train-WELUXMDEP-H1V-35.m > msg.txt 2> err.txt&
+
+
+**** FR
+
+ ./train.m srst/fr/train-fr-WELUXMDEP.H srst/fr/model-fr-train-WELUXMDEP-H1V-35.m > msg.txt 2> err.txt&
+
+ 
+*** A.3.2 ./crossvalidate
+
+ ./crossvalidation.m srst/it/dev-it-WELUXMDEP.H  srst/it/model-it-train-WELUXMDEP-H1V-35.m  -> tau = 0.0033961
+ 
+Spanish tau =  0.56238
+
+
+**** IT-WAC
+
+ ./crossvalidation.m srst/it/dev-it_UD_WAC-WELUXMDEP.H  srst/it/model-it_UD_WAC-train-WELUXMDEP-H1V-35.m
+
+
+*** A.3.3 ./predict
+
+ ./predict.m srst/it/model-it-train-WELUXMDEP-H1V-35.m srst/it/test-it-WELUXMDEP.H
+
+
+**** IT-WAC
+
+ ./predict.m srst/it/model-it_UD_WAC-train-WELUXMDEP-H1V-35.m srst/it/test-it_UD_WAC-WELUXMDEP.H
+
+ ./predict.m tmp/UD100-00005/model_67.m ../../../sr-italian/data/pre-processed/it/test-ud.H
+
+ ./predict.m ???  ../../../sr-italian/data/pre-processed/it/UDWAC03-test.H
+
+
+
+* B. Morphology 
+
+** B.1. Encode in lemma-feats-form
+
+*** IT-WAC
+
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ItWacUD/wikiCoNLL.conllu | sort | uniq -c | scripts/numMorpho2morpho.pl > data/pre-processed/it/train_UD_WAC-it.morpho
+ 
+
+ scripts/filter2morpho-train.pl data/conll/it-ud_WAC03-train.conll  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/it/train-udWAC30-it.morpho
+
+ tar -zcvf data/pre-processed/it/srst-it-ud_WAC03-morphpo.tar.gz data/pre-processed/it/train-udWAC30-it.morpho data/pre-processed/it/dev-it.morpho data/pre-processed/it/test-it.morpho
+
+
+
+
+*** IT
+
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_Italian/it-ud-train.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/it/train-it.morpho
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_Italian/it-ud-dev.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/it/dev-it.morpho
+ scripts/filter2morpho-test.pl data/original/it-ud-test.conll | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/it/test-it.morpho
+ 
+ tar -zcvf data/pre-processed/it/srst-it-morphpo.tar.gz data/pre-processed/it/train-it.morpho data/pre-processed/it/dev-it.morpho test-it.morpho
+
+
+*** EN
+
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_English/en-ud-train.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/en/train-en.morpho
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_English/en-ud-dev.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/en/dev-en.morpho
+ scripts/filter2morpho-test.pl data/original/en-ud-test.conll | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/en/test-en.morpho
+ 
+ tar -zcvf data/pre-processed/en/srst-en-morphpo.tar.gz data/pre-processed/en/train-en.morpho data/pre-processed/en/dev-en.morpho data/pre-processed/en/test-en.morpho
+
+
+*** FR
+
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_French/fr-ud-train.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/fr/train-fr.morpho
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_French/fr-ud-dev.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/fr/dev-fr.morpho
+ scripts/filter2morpho-test.pl data/original/fr-ud-test.conll | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/fr/test-fr.morpho
+ 
+ tar -zcvf data/pre-processed/fr/srst-fr-morphpo.tar.gz data/pre-processed/fr/train-fr.morpho data/pre-processed/fr/dev-fr.morpho data/pre-processed/fr/test-fr.morpho
+
+
+*** ES
+
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_Spanish-AnCora/es_ancora-ud-train.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/es/train-es.morpho
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_Spanish-AnCora/es_ancora-ud-dev.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/es/dev-es.morpho
+ scripts/filter2morpho-test.pl data/original/es_ancora-ud-test.conll | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/es/test-es.morpho
+ 
+ tar -zcvf data/pre-processed/es/srst-es-morphpo.tar.gz data/pre-processed/es/train-es.morpho data/pre-processed/es/dev-es.morpho data/pre-processed/es/test-es.morpho
+
+
+*** PT
+
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_Portuguese/pt-ud-train.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/pt/train-pt.morpho
+ scripts/filter2morpho-train.pl /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_Portuguese/pt-ud-dev.conllu  | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/pt/dev-pt.morpho
+ scripts/filter2morpho-test.pl data/original/pt-ud-test.conll | sort | uniq -c | scripts/numMorpho2morpho.pl> data/pre-processed/pt/test-pt.morpho
+ 
+ tar -zcvf data/pre-processed/pt/srst-pt-morphpo.tar.gz data/pre-processed/pt/train-pt.morpho data/pre-processed/pt/dev-pt.morpho data/pre-processed/pt/test-pt.morpho
+
+
+
+sftp mazzei@pianeta.di.unito.it
+cd public_html/researchRepository/SRST18/
+put data/pre-processed/it/srst-it-morphpo.tar.gz 
+put data/pre-processed/en/srst-en-morphpo.tar.gz 
+put data/pre-processed/fr/srst-fr-morphpo.tar.gz 
+put data/pre-processed/es/srst-es-morphpo.tar.gz 
+put data/pre-processed/pt/srst-pt-morphpo.tar.gz 
+
+
+** B.2. Learn to inflect in python (ssh mazzei@paranoia)
+
+cd software/morphology
+
+source ~/anaconda2/bin/activate
+
+source ~/anaconda3/bin/activate
+
+
+*** IT-WAC
+
+TODO python hard_attention.py --dynet-devices CPU,GPU:0 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/srst/it-wac/train/train-udWAC30-it.morpho /home/mazzei/software/morprho/morphological-reinflection/srst/it-wac/dev/dev-it.morpho /home/mazzei/software/morprho/morphological-reinflection/srst/it-wac/test/test-it.morpho /home/mazzei/software/morprho/morphological-reinflection/srst/it-wac/results/ /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt &
+
+
+*** IT
+
+ python hard_attention.py --dynet-devices CPU,GPU:0 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/srst/it/train/train-it.morpho /home/mazzei/software/morprho/morphological-reinflection/srst/it/dev/dev-it.morpho /home/mazzei/software/morprho/morphological-reinflection/srst/it/test/test-it.morpho /home/mazzei/software/morprho/morphological-reinflection/srst/it/results/ /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt  &
+
+
+*** EN
+
+ python hard_attention.py --dynet-devices CPU,GPU:0 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/srst/en/train/train-en.morpho /home/mazzei/software/morprho/morphological-reinflection/srst/en/dev/dev-en.morpho /home/mazzei/software/morprho/morphological-reinflection/srst/en/test/test-en.morpho /home/mazzei/software/morprho/morphological-reinflection/srst/en/results/ /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt  &
+
+
+*** ES
+
+
+
+** B.3 Insert forms in the CONLL file
+
+scripts/conllL2conllLF.pl  data/post-processed/it-wac/it_UD_WAC-results-srst18.morpho data/original/it-ud-test.conll > data/post-processed/it-wac/test-it_UD_WAC-out-morpho.conll
+
+scripts/conllL2conllLF.pl  data/post-processed/it/it-results-srst18.morpho data/original/it-ud-test.conll > data/post-processed/it/test-it-out-morpho.conll
+
+scripts/conllL2conllLF.pl  data/post-processed/en/en-results-srst18.morpho data/original/en-ud-test.conll > data/post-processed/en/test-en-out-morpho.conll
+
+scripts/conllL2conllLF.pl  data/post-processed/es/es-results-srst18.morpho data/original/es_ancora-ud-test.conll > data/post-processed/es/test-es-out-morpho.conll
+
+scripts/conllL2conllLF.pl  data/post-processed/fr/fr-results-srst18.morpho data/original/fr-ud-test.conll > data/post-processed/fr/test-fr-out-morpho.conll
+
+
+* C Results: create the submission file
+
+ python scripts/ud+ln2str-official.py data/post-processed/it-wac/test-it_UD_WAC-out-morpho.conll data/post-processed/it_UD_WAC/test-it_UD_WAC-WELUXMDEP.H.pred > results/it-wac/out-test-it_UD_WAC.txt
+
+ python scripts/ud+ln2str-official.py data/post-processed/it/test-it-out-morpho.conll data/post-processed/it-wac/test-udwac-100-00005.H.pred > data/results/it-wac/00005/out-test-udwac-100-00005.txt
+
+
+ python2.7 scripts/ud+ln2str-official.py data/post-processed/it/test-it-out-morpho.conll data/post-processed/it/test-it-WELUXMDEP.H.pred > results/it/out-test-it.txt
+
+ python2.7 scripts/ud+ln2str-official.py data/post-processed/en/test-en-out-morpho.conll data/post-processed/en/ud-en-SRST-WELUXMDEP-tr-H1V.txt.pred > results/en/out-test-en.txt
+
+ python2.7 scripts/ud+ln2str-official.py data/post-processed/es/test-es-out-morpho.conll data/post-processed/es/test-es-WELUXMDEP.H.pred > results/es/out-test-es.txt
+
+ python2.7 scripts/ud+ln2str-official.py data/post-processed/fr/test-fr-out-morpho.conll data/post-processed/fr/test-fr-WELUXMDEP.H.pred > results/fr/out-test-fr.txt
+
+
+* D detokenize
+
+
+** IT-WAC TODO
+
+cat scripts/prefix-detok.txt > scripts/detokenize-particles-it.pl 
+cat /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_IT_ALL/all-IT-ud21-train.conllu | ./scripts/conllu2detok.pl | sort | uniq >> scripts/detokenize-particles-it.pl 
+cat scripts/postfix-detok.txt >> scripts/detokenize-particles-it.pl
+cat results/it/out-test-it-ALL.txt | perl scripts/detokenize-particles-it.pl | perl scripts/detokenizer-moses.pl -q -l it >  results/it/out-test-it-detok-DipInfoUniTo.txt
+
+
+cat results/it/out-test-it-ALL.txt | perl scripts/detokenize-particles-it.pl | perl scripts/detokenizer-moses.pl -q -l it >  results/it/out-test-it-detok-DipInfoUniTo.txt
+
+cat data/results/it-wac/00005/out-test-udwac-100-00005.txt | perl scripts/detokenize-particles-it.pl | perl scripts/detokenizer-moses.pl -q -l it > data/results/it-wac/00005/out-test-udwac-100-00005-detok.txt
+
+** IT 
+
+cat scripts/prefix-detok.txt > scripts/detokenize-particles-it.pl 
+cat /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_IT_ALL/all-IT-ud21-train.conllu | ./scripts/conllu2detok.pl | sort | uniq >> scripts/detokenize-particles-it.pl 
+cat scripts/postfix-detok.txt >> scripts/detokenize-particles-it.pl
+cat results/it/out-test-it-ALL.txt | perl scripts/detokenize-particles-it.pl | perl scripts/detokenizer-moses.pl -q -l it >  results/it/out-test-it-detok-DipInfoUniTo.txt
+
+
+
+** EN 
+
+cat scripts/prefix-detok.txt > scripts/detokenize-particles-en.pl 
+cat /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_English/en-ud-train.conllu  | ./scripts/conllu2detok.pl | sort | uniq >> scripts/detokenize-particles-en.pl 
+cat scripts/postfix-detok.txt >> scripts/detokenize-particles-en.pl
+cat results/en/out-test-en.txt | perl scripts/detokenize-particles-en.pl | perl scripts/detokenizer-moses.pl -q -l en >  results/en/out-test-en-detok-DipInfoUniTo.txt
+
+
+
+** ES
+
+cat scripts/prefix-detok.txt > scripts/detokenize-particles-es.pl 
+cat /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_Spanish-AnCora/es_ancora-ud-train.conllu  | ./scripts/conllu2detok.pl | sort | uniq >> scripts/detokenize-particles-es.pl 
+cat scripts/postfix-detok.txt >> scripts/detokenize-particles-es.pl
+cat results/es/out-test-es.txt | perl scripts/detokenize-particles-es.pl | perl scripts/detokenizer-moses.pl -q -l it >  results/es/out-test-es-detok-DipInfoUniTo.txt
+
+
+
+
+** FR
+
+cat scripts/prefix-detok.txt > scripts/detokenize-particles-fr.pl 
+cat /Users/mazzei/lavori/corpora/ud/2.2/ud-treebanks-v2.1/UD_French/fr-ud-train.conllu  | ./scripts/conllu2detok.pl | sort | uniq >> scripts/detokenize-particles-fr.pl 
+cat scripts/postfix-detok.txt >> scripts/detokenize-particles-fr.pl
+cat results/fr/out-test-fr.txt | perl scripts/detokenize-particles-fr.pl | perl scripts/detokenizer-moses.pl -q -l fr >  results/fr/out-test-fr-detok-DipInfoUniTo.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* D. EVALUATE
+
+** IT-WAC
+
+./predict.m tmp/UD100-005/model_27.m ../../../sr-italian/data/pre-processed/it/test-ud.H 
+
+mv ~/vol01/sr-italian/data/pre-processed/it/test-ud.H.pred ~/vol01/sr-italian/data/post-processed/it/test-ud-100-005.H.pred 
+
+python scripts/ud+ln2str-official.py data/post-processed/it/test-it-out-morpho.conll data/post-processed/it/test-ud-100-005.H.pred > data/results/it/005/out-test-ud-100-005.txt
+
+python scripts/ud+ln2str-official.py data/post-processed/it/test-it-out-morpho.conll data/post-processed/it-wac/test-udwac-100-00005.H.pred > data/results/it-wac/00005/out-test-udwac-100-00005.txt
+
+
+
+mkdir ~/vol01/sr-italian/data/results/it/000005/
+mkdir data/results/it-wac/00005/final
+mkdir data/results/it-wac/00005/final2
+
+
+python scripts/ud+ln2str-official.py data/post-processed/it-wac/test-it_UD_WAC-out-morpho.conll data/post-processed/it/test-ud-100-000005.H.pred > data/results/it/000005/out-test-ListUdMorphoWac-100-000005.txt
+cat data/results/it/000005/out-test-ListUdMorphoWac-100-000005.txt | perl scripts/detokenize-particles-it.pl | perl scripts/detokenizer-moses.pl -q -l it > data/results/it/000005/out-test-ListUdMorphoWac-100-000005-detok.txt
+
+cp data/results/it-wac/00005/out-test-udwac-100-00005-detok.txt  data/results/it-wac/00005/final/it_out.txt
+
+
+cat data/results/it/000005/out-test-ud-100-000005.txt | perl scripts/detokenize-particles-it.pl | perl scripts/detokenizer-moses.pl -q -l it > data/results/it/000005/out-test-ud-100-000005-detok.txt
+cp data/results/it/000005/out-test-ud-100-000005-detok.txt  data/results/it/000005/final/it_out.txt
+python evaluation/eval_Py2.py  data/results/it/000005/final/ evaluation/gold/test_sentences_gold
+
+python evaluation/eval_Py2.py  data/results/it-wac/00005/final/ evaluation/gold/test_sentences_gold
+
+* LAST
+
+./train.m ../../../sr-italian/data/pre-processed/it/train-it-WELUXMDEP-02.H models/model-it-train-WELUXMDEP-H1V-100-0000005.m  > msg.txt 2> err.txt &
+
+
+
+* E. Others
+
+while($line =<>){ 
+
+print $line; }
+
+
+** local run
+
+ ./train.m srst/it/train-it-WELUXMDEP.H srst/it/model-it-train-WELUXMDEP-H1V-35.m > msg.txt 2> err.txt&
+
+
+** Comments
+# ./train.m ud-it-train-WE_polyUXDEP-H1V.txt model-ud-it-train-WE_polyUXDEP-H1V.m> msg.txt 2> err.txt&
+# ./train.m ud-it-train-UXMDEP-H1V.txt model-ud-it-train-UXMDEP-H1V.m> msg.txt 2> err.txt&
+
+# ./train.m ud-it-train-WEUXMDEP-H1V.txt model-ud-it-train-WEUXMDEP-H1V.m> msg.txt 2> err.txt&
+
+
+
+
+#./crossvalidation.m ud-it-test-UXMDEP-H1V.txt model-ud-it-train-UXMDEP-H1V.m -> tau =  0.48614
+#---
+# ./train.m ud-it-train-WEUXMDEP-H1V.txt model-ud-it-train-WEUXMDEP-H1V.m> msg.txt 2> err.txt&
+#./crossvalidation.m ud-it-test-WEUXMDEP-H1V.txt  model-ud-it-train-WEUXMDEP-H1V.m  -> tau = 0.55707 (15 iteration)
+#OptimisticAccuracy =  0.555612732485
+# ./predict.m   model-ud-it-train-WEUXMDEP-H1V.m ud-it-test-WEUXMDEP-H1V.txt
+
+
+# ./train.m ud-it-train-WEUXMDEP-H1V.txt model-ud-it-train-WEUXMDEP-H1V-25.m> msg.txt 2> err.txt&
+#./crossvalidation.m ud-it-test-WEUXMDEP-H1V.txt  model-ud-it-train-WEUXMDEP-H1V-25.m  -> tau = 0.55722 (25 iteration)
+
+####03Aprile
+# ./train.m ud-it-deb-LUXMDEP-H1V.txt model-ud-it-debug-LUXMDEP-H1V-5.m> msg.txt 2> err.txt&
+# ./train.m ud-it-train-LUXMDEP-H1V.txt model-ud-it-train-LUXMDEP-H1V-5.m> msg.txt 2> err.txt&
+# ./crossvalidation.m ud-it-test-LUXMDEP-H1V.txt model-ud-it-train-LUXMDEP-H1V-5.m -> tau =  0.49419
+
+####04Aprile
+# ./train.m ud-it-deb-WEUXMDEP-H1V.txt model-ud-it-debug-WEUXMDEP-H1V-5.m> msg.txt 2> err.txt&
+# ./train.m ud-it-train-WEUXMDEP-H1V.txt model-ud-it-train-WEUXMDEP-H1V-5.m> msg.txt 2> err.txt&
+# ./crossvalidation.m ud-it-test-WEUXMDEP-H1V.txt model-ud-it-train-WEUXMDEP-H1V-5.m -> tau = 0.5243
+#--
+# ./train.m ud-it-deb-WELUXMDEP-H1V.txt model-ud-it-debug-WELUXMDEP-H1V-5.m> msg.txt 2> err.txt&
+# ./train.m ud-it-train-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-5.m> msg.txt 2> err.txt&
+# ./crossvalidation.m ud-it-test-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-5.m -> tau =  0.49969
+
+####05 Aprile
+# ./train.m ud-it-train-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-15.m> msg.txt 2> err.txt&
+# ./crossvalidation.m ud-it-test-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-15.m -> tau = 0.58585
+#  OptimisticAccuracy =  0.577887230758
+
+
+#### 06 Aprile
+# ./train.m ud-it-train-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-25.m> msg.txt 2> err.txt&
+# ./crossvalidation.m ud-it-test-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-25.m -> tau = 0.59430
+
+### 09 Aprile
+
+# ./train.m ud-it-train-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-35.m> msg.txt 2> err.txt&
+# ./crossvalidation.m ud-it-test-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-35.m -> tau = 0.61166
+
+
+### 16 Aprile
+
+# ./train.m ud-it-train+dev-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-50.m> msg.txt 2> err.txt&
+# ./crossvalidation.m ud-it-test-WELUXMDEP-H1V.txt model-ud-it-train-WELUXMDEP-H1V-50.m -> tau = ???
+
+
+### 19 Aprile
+
+# ./train.m ud-en2-train-WELUXMDEP-H1V.txt model-ud-en2-train-WELUXMDEP-H1V-35.m> msg.txt 2> err.txt&
+# ./crossvalidation.m ud-en2-test-WELUXMDEP-H1V.txt model-ud-en2-train-WELUXMDEP-H1V-35.m
+
+
+
+########### Morphology
+
+
+
+
+#python hard_attention.py   --dynet-gpus=1 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/train/german-train.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/dev/german-dev.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/test/german-test.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/results/german-results.txt /home/mazzei/software/morprho/sigmorphon2016/ > msg.txt 2> err.txt &
+
+
+#python hard_attention.py   --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/train/german-train.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/dev/german-dev.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/test/german-test.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/results/german-results.txt /home/mazzei/software/morprho/sigmorphon2016/ > msg.txt 2> err.txt &
+
+
+
+
+
+#python hard_attention.py   --dynet-gpus=1 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/train/german-train.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/dev/german-dev.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/test/german-test.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/results-gpu/german-results.txt /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt &
+
+
+#python hard_attention.py  --eval  --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/train/german-train.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/dev/german-dev.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/test2/german-test2.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/results/german-results.txt /home/mazzei/software/morprho/sigmorphon2016/ > msg.txt 2> err.txt &
+
+
+#python hard_attention.py  --dynet-devices CPU,GPU:1 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/train/german-train.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/dev/german-dev.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/test/german-test.txt /home/mazzei/software/morprho/morphological-reinflection/data/test-inst/results-gpu/german-results.txt /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt 
+
+
+
+#python hard_attention.py  --dynet-devices CPU,GPU:0 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/data/srst-italian/train/prova-train.morpho /home/mazzei/software/morprho/morphological-reinflection/data/srst-italian/dev/prova-dev.morpho /home/mazzei/software/morprho/morphological-reinflection/data/srst-italian/test/prova-test.morpho /home/mazzei/software/morprho/morphological-reinflection/data/srst-italian/results-gpu/ /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt &
+
+
+
+#python hard_attention.py  --dynet-devices CPU,GPU:0 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/data/srst-italian/train/all-IT-ud21-train.morpho /home/mazzei/software/morprho/morphological-reinflection/data/srst-italian/dev/all-IT-ud21-dev.morpho /home/mazzei/software/morprho/morphological-reinflection/data/srst-italian/test/all-IT-ud21-test.morpho /home/mazzei/software/morprho/morphological-reinflection/data/srst-italian/results-gpu/ /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt  &
+

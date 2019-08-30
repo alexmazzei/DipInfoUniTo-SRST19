@@ -1,0 +1,3096 @@
+# sent_id =1
+# text = is not the transition peaceful of power wrote Kori assistant special Obama Schulman , , " while is much of the digital transition unprecedented in the United States Monday in a blog post " . 
+
+# sent_id =2
+# text = wo be this a little different , for those who follow social media transitions on Capitol Hill . 
+
+# sent_id =3
+# text = but proclaimed the nominee GOP , that would he allow " tremendous numbers of legal immigrants " as president on a merit based system " in a break from past his rhetoric about curtail immigration " . 
+
+# sent_id =4
+# text = he told , " I so hate to put on you a little pressure but the fate of the republic , rests on your shoulders gathered the crowd at the University of North Carolina on a sports field " . 
+
+# sent_id =5
+# text = is the spending new fueled by large bank account 's Clinton . 
+
+# sent_id =6
+# text = it is it actually unbelievable she is Saying what she and is what doing , , - . 
+
+# sent_id =7
+# text = $ the maximum allowed 5,000 , per person . 
+
+# sent_id =8
+# text = used the team transition , to meet , inviting representatives from Uber the Technology consumer , Association the Picture motion , Association of America and other groups with technology lobbyists the same venue in early October . 
+
+# sent_id =9
+# text = was originally the gathering slated for private Metropolitan away a few blocks Club 's Washington on H Street . 
+
+# sent_id =10
+# text = was too maybe stuffy the code dress . 
+
+# sent_id =11
+# text = learn students , , than rather teaching the scientific method as a separate unit by applying it science content for example . 
+
+# sent_id =12
+# text = at the they are national average and better than national average in 8 grade in 4 grade . 
+
+# sent_id =13
+# text = it cost , $ 103.7 million to build the Noma Metro infill station , which opened in 2004 by comparison . 
+
+# sent_id =14
+# text = said Joe , Sternlieb president of the Georgetown bid , " we face we and think , cannot transit help a lot of competition " . 
+
+# sent_id =15
+# text = estimates the study feasibility that would it take to cross the Potomac River on the gondola four about minutes passengers . 
+
+# sent_id =16
+# text = told a witness police that had the victim attacked the suspect in April . 
+
+# sent_id =17
+# text = there are parallels to here draw between games and day every our lives . 
+
+# sent_id =18
+# text = has been steadily rising that share - was percent only 11 of the total vote -- , cast in 1996 before Election Day the Census according toe bureau and seems likely to again jump this year over the years . 
+
+# sent_id =19
+# text = a may be lonely Khanzir pig , he but is not always , alone today . 
+
+# sent_id =20
+# text = said Saqib , " have we requested to help us populate the zoo with different , species of animals a including pig other nations " . 
+
+# sent_id =21
+# text = there was a time mr Panvalkar said , , when he felt that should they leave the building . 
+
+# sent_id =22
+# text = she has been also charged with trying to kill old - two year - daughter her . 
+
+# sent_id =23
+# text = she killed Andre price 
+
+# sent_id =24
+# text = Iii by pressing before trying to do the same to her , daughter Angel his face into a air mattress in Sitting her room said police , . 
+
+# sent_id =25
+# text = I are going , " hope it was it worth to jail either way " . 
+
+# sent_id =26
+# text = one first of the Yazidi women started crying , then one of her friends . 
+
+# sent_id =27
+# text = mr 
+
+# sent_id =28
+# text = up Osborne signed after being sacked in July with a US speakers agency . 
+
+# sent_id =29
+# text = said Michael Fallon would the date for cutting the first steel help secure new investment and safeguard until 2035 hundreds of skilled jobs . 
+
+# sent_id =30
+# text = was the promise of new Navy Royal orders to secure the Clyde shipbuilding industry made before the independence scottish referendum in 2014 . 
+
+# sent_id =31
+# text = is it most obvious when is quite initially name a 's celebrity rare . 
+
+# sent_id =32
+# text = a it and was top with babies more three times named Keira than Kiera 50 name , , by 2007 at the height of its popularity and 's perhaps , , Knightley # $ . 
+
+# sent_id =33
+# text = was a fault battery to blame thought initially the company Korean South and switched , own its component for a power party third - cell . 
+
+# sent_id =34
+# text = have suggested analysts several is Huawei best placed to benefit from setback 's Samsung . 
+
+# sent_id =35
+# text = lack the phones mate 9 a artificial intelligence interface , like the Google Assistant or Siri 's Apple . 
+
+# sent_id =36
+# text = warned expert travel one was often internet in flight - unreliable and but was unlikely to influence airline choiies ' travellers . 
+
+# sent_id =37
+# text = may it but be that have BA and IAG cracked it cannot and offer reliable vaguely something " " . 
+
+# sent_id =38
+# text = told the company the BBC the would be it responsibility of each airline brand to decide whether to charge passengers a access fee . 
+
+# sent_id =39
+# text = would find most people " more useful than being able to send emails on a plane airport WI fi - " . 
+
+# sent_id =40
+# text = like a it is super sometimes power . 
+
+# sent_id =41
+# text = makes the scheme money through sponsorship and advertising . 
+
+# sent_id =42
+# text = has been the course week 10 - certify " by GCHQ UK spy agency " . 
+
+# sent_id =43
+# text = but raised some experts security questions about the need for the course the and intent behind it . 
+
+# sent_id =44
+# text = had been only previously the jets seen by bloggers . 
+
+# sent_id =45
+# text = wo be China presenting naturally plenty of military other hardware to seaplanes from attack helicopters this week . 
+
+# sent_id =46
+# text = a and is the show opportunity , with China set to become biggest aviation market the 's world in the next decade for to Beijing demonstrate its ambitions in civil aviation as ask well defence . 
+
+# sent_id =47
+# text = wrote Jesse , founder of hack forums LaBrocca , , " the few unfortunately again once ruin it for the many in a message explaining being was why the section closed " . 
+
+# sent_id =48
+# text = are likely the events recent " " the to be attacks of 21 
+
+# sent_id =49
+# text = that down briefly took October . popular websites such ask Reddit and Spotify , Twitter many as ask well others 
+
+# sent_id =50
+# text = analysis revealed that had been amounts historic of data used to cause the disruption . 
+
+# sent_id =51
+# text = says a review UN of national plans to cut carbon they are well short of the levels needed to keep the rise under 2c in global temperatures . 
+
+# sent_id =52
+# text = say scientists many that wo be now technology to remove carbon from the air needed to meet the Paris targets . 
+
+# sent_id =53
+# text = said Erik , Solheim head of UN environment , " are we moving : wo as wo the amendment recent Kigali to reduce HFC the agreement Paris slow , climate change in the right direction " . 
+
+# sent_id =54
+# text = were up Investments in this area by 6 % to $ 221 bn in 2015 . 
+
+# sent_id =55
+# text = is it fantastic that they got the Paris agreement but are contributions their at the moment nowhere near the degree 1.5 - target . 
+
+# sent_id =56
+# text = it was conducted from April to June off the Mexican just coast . 
+
+# sent_id =57
+# text = wo this put new limits on the nature of the environmental changes that overtake the Earth and sented many so species - - into oblivion the not just dinosaurs . 
+
+# sent_id =58
+# text = wo be high likely a telltale of this meteoritic material levels of the element iridium . 
+
+# sent_id =59
+# text = were alive % just 70 over of the plants grown from Earth seeds - slightly just more - just over 66 % than the plants grown from space seeds after 17 days . 
+
+# sent_id =60
+# text = provides the results from this experiment further support that cannot be seeds rocket flown without having any significant impacts on their ability to germinate on Earth and grow for six months and stored on the International Space Station . 
+
+# sent_id =61
+# text = the R collected comments in sent by involved in the experiment schoolchildren and teachers . 
+
+# sent_id =62
+# text = she says , " there still a factor yuk ' ' is to the whole idea of buying body parts other 's people and wearing " . 
+
+# sent_id =63
+# text = Tarlo Explains , is typically the hair put to completely remove the cuticle in China in a chemical BATH . 
+
+# sent_id =64
+# text = Tarlo says , has always the market international hair had , a political dimension throughout history . 
+
+# sent_id =65
+# text = reads the post , " " are we out carrying using a high beam punishments tonight . 
+
+# sent_id =66
+# text = have before opted police traffic 's Shenzhen for unconventional penalties . 
+
+# sent_id =67
+# text = who they are # 
+
+# sent_id =68
+# text = about has been male white much , from the Democratic side of the debate identity , this year . 
+
+# sent_id =69
+# text = I asked afterwards her if she understooded might why people vote for Trump . 
+
+# sent_id =70
+# text = cannot everyone not rise above it . 
+
+# sent_id =71
+# text = Pall says like was someone in Sony Australia luckily , , did hey you guys notice this , , by the way ' " " ' . # 
+
+# sent_id =72
+# text = Seagal made when he described actions , it which annexed , in 2014 in Crimea 's Russia as very reasonable " " headlines . 
+
+# sent_id =73
+# text = he there played a guitarist keen , a concert the same year . 
+
+# sent_id =74
+# text = has Seagal , from was grandmother whose Vladivostok in far east 's Russia made , frequent trips to Russia and visited Kamchatka and Sakhalin in September in recent years . 
+
+# sent_id =75
+# text = was Seagal given after offering up to in the capital set a martial arts school Belgrade Serbian nationality this earlier year . 
+
+# sent_id =76
+# text = told a spokesman police the Associated Press there a exchange followed by a altercation " " of words " was " that but had been no injuries reported . 
+
+# sent_id =77
+# text = on was not Cuaron , the was OSCAR5 film last whose gravity winning reportedly set , at the time of the incident . 
+
+# sent_id =78
+# text = out broke a fight , after a group large ... who identified themselves as district authorities of people " arrived " on Tuesday on set to police according department the 's city . 
+
+# sent_id =79
+# text = have been Investigating researchers potential for hormonal male contraceptives for 20 around years . 
+
+# sent_id =80
+# text = he added " : has been this one step in a long journey of finding the right combination for hormonal male contraception " . 
+
+# sent_id =81
+# text = there are however MLA many with religious held deeply - beliefs who oppose any new legislation . 
+
+# sent_id =82
+# text = say researchers may help analysing tumour DNA explain the underlying causes of other cancers . 
+
+# sent_id =83
+# text = shows the analysis a direct link between the number of cigarettes smoked in a lifetime the and number of mutations in tumour DNA . 
+
+# sent_id =84
+# text = could they not however find , this same pattern in tissues the such ask , bladder which are not directly exposed . 
+
+# sent_id =85
+# text = has m pugh received treatment at Papworth and Hospitals in Cambridgeshire 's Addenbrooke . 
+
+# sent_id =86
+# text = has shown a scan is the tumour in right lung 's ms pugh growing she and but has , had to leave the trial . 
+
+# sent_id =87
+# text = wo still have the government here , , " if Donald Trump becomes president to work with him to advance to ensure that are businesses canadian and interests represented in Washington whatever shared agenda there is " . 
+
+# sent_id =88
+# text = wo Trudeau may whoever he or she be extend that invitation to the 45th , president of the United States . 
+
+# sent_id =89
+# text = say police in B.C. , they have more questions than answers about a homeless apparently man charged in the fatal stabbing of a teen girl at high Abbotsford her school despite the release of a photo this morning . 
+
+# sent_id =90
+# text = said police in B.C. did not Klein earlier appear to have a criminal history and released vague details about recent his whereabouts . 
+
+# sent_id =91
+# text = she said , " do we not believe the suspect has ties to this school to the or two , girls to the or Abbotsford specifically , area " . 
+
+# sent_id =92
+# text = he said also was Klein uncommunicative , uncooperative and unwill up to walk to attend his hearing under the courthouse from cells . 
+
+# sent_id =93
+# text = says the association that represents estate real agents in Ontario more needs to be done to protect consumers and punish agents found to have engaged in unethical behaviour . 
+
+# sent_id =94
+# text = would he also like to see greater enforcement for the Estate Real Council , which regulates agents in the province of Ontario RECO # $ and investigative powers . 
+
+# sent_id =95
+# text = is $ the fine maximum currently 25,000 , cannot Reco levy against a agent . 
+
+# sent_id =96
+# text = but has been unusually vocal class growing middle les China in its complaints about toxic air in , cities which cannot see day of choking lung - smog after day like Beijing . 
+
+# sent_id =97
+# text = said Guilbeault , " are we seeing up stepping in terms of playing a role in reducing emissions to the plate many many countries , and new large especially emitters like Brazil , India South , Africa and China " . 
+
+# sent_id =98
+# text = could he also wait to use a provision in the Paris agreement out to pull of the pact until the end of first his term . 
+
+# sent_id =99
+# text = are Clinton and allies seeking meanwhile , , to keep , charg that disparaging comments his about women and minorities and his , temperament make him unfit for office the spotlight on Trump . 
+
+# sent_id =100
+# text = is that what not we need , folks in our country . 
+
+# sent_id =101
+# text = made wife , 's Trump Melania Trump , first her appearance on the trail since the Republican convention in July . 
+
+# sent_id =102
+# text = have been meeting students like Rai to talk about what happened she but , said has the biggest comfort come from seeing her friends with counsellors at the school . 
+
+# sent_id =103
+# text = said Mailis , " a is this disaster for pain patients in a interview with CBC News Thursday " . 
+
+# sent_id =104
+# text = said Mailis , " do not Physicians have , they have a prescription only pad a and injection these tools " . 
+
+# sent_id =105
+# text = Set the Director Independent Ontario review Police , Gerry McNeilly , the terms for his review after were alarming questions " " raised about how interact officers with Indigenous people this week . 
+
+# sent_id =106
+# text = is also Investigating the review inflammatory Facebook posts , alleged to come from police officers in the northern Ontario city from September . 
+
+# sent_id =107
+# text = called so pay performance " " - received also the executives for succeeding expectations or surpassing sharing , a pot of $ 1.5 million among them a or estimated 15,000 $ each , on average . 
+
+# sent_id =108
+# text = it is is $ budget annual 1.4 billion it and , employs 6,000 thenning more thenning more people . 
+
+# sent_id =109
+# text = proactively reports the government federal for but is the latest posting web 2013 , - 2014 out of date or two years - on aggregate performance pay for each department and bonus levels . 
+
+# sent_id =110
+# text = was $ the total for performance pay and bonus that year 1.5 million , the same about level for as 2015 - 2016 . 
+
+# sent_id =111
+# text = said Gomery , who led between 2004 and 2006 the commission of inquiry into the federal sponsorship scandal , are bodies such essential to help restore public confidence in the rule of law . 
+
+# sent_id =112
+# text = that led to revelations were that journalists other Quebec six at least targeted by provincial police surveillance operations over the last two days . 
+
+# sent_id =113
+# text = read the guidelines , " should there no access preferential , accorded because have they made financial contributions to politicians and political parties to individuals or organizations to government or , appearance of preferential access be " . 
+
+# sent_id =114
+# text = rubled ultimately the judge in fraud 's Duffy of and breach trust trial within they were rules when he cleared Duffy of all charges the 's Senate . 
+
+# sent_id =115
+# text = are more much so cellphones our than phones these days . 
+
+# sent_id =116
+# text = reported customer unlimited Saskwel data lindsay Gay , " it is amazing last month " . 
+
+# sent_id =117
+# text = he out pointed also that Rogers recently introduced a new ApP tool that helps monitor customers data their usage . 
+
+# sent_id =118
+# text = What is that keeps us back coming for more . 
+
+# sent_id =119
+# text = coincide estimates these , " indicating the important role play investors domestic # $ in the GTA housing market with the percentages of new condos entering the rental market upon completion " . 
+
+# sent_id =120
+# text = Dietrich from , headquarters is where legally pot sold in Denver , Colorado the 's company says , " this strain helps , this strain helps with nausea this product makes , you sleep at night with back pain " . 
+
+# sent_id =121
+# text = are but companies left , without a legislative framework with the and grassroots , origins as a altering mood - folk remedy of pot guesse . 
+
+# sent_id =122
+# text = a is essential Iron element the body requires to produce hemoglobin , that is responsible for transporting oxygen to tissues in the body the protein found in red blood cells . 
+
+# sent_id =123
+# text = is the period current waiting eight weeks . 
+
+# sent_id =124
+# text = is it possible to have normal hemoglobin levels but says Services Canadian blood CBs # $ , , to overall have low iron stores . 
+
+# sent_id =125
+# text = mean the guidelines new iron are donors more needed . 
+
+# sent_id =126
+# text = became what started as a routine ultrasound complicated . when was mother expectant Margaret , Boemer of Plano , Texas told , child unborn her had a rare condition and needed to survive surgery 
+
+# sent_id =127
+# text = a is a teratoma sacrococcygeal tumour that develops and grows from tailbone a 's baby before birth . 
+
+# sent_id =128
+# text = the it is common most tumour found , in babies occurring in one of every 35,000 birts . 
+
+# sent_id =129
+# text = she was old 84 years . 
+
+# sent_id =130
+# text = he described her as a remarkable loving " " " and and wonderful " woman who left her mark with her stories in the literary world . 
+
+# sent_id =131
+# text = said Leive , " some men get it and is Bono one of those guys in a recent interview " . 
+
+# sent_id =132
+# text = a she is strong voice , against bullying at just 20 a and positive one in helping embrace own their standards of beauty girls . 
+
+# sent_id =133
+# text = said Leive , " literally voice her went around the world " . 
+
+# sent_id =134
+# text = up litted media social soon as as were the photos official party released , than and they were - less favourable with comments . 
+
+# sent_id =135
+# text = argue people many , Indigenous including groups , they trivialized Nations first culture . 
+
+# sent_id =136
+# text = is the purpose of these Crtc hearings to field responses from industry stakeholders the and public . 
+
+# sent_id =137
+# text = would this not only apply to entertainment content to scientific , research to and political importantly most perhaps , , discourse to but equally , education . 
+
+# sent_id =138
+# text = a is not the internet luxury , ; after all a it is essential tool . 
+
+# sent_id =139
+# text = formed the debris a ring around equator the 's Earth and was together eventually drawn to form the moon by gravity . 
+
+# sent_id =140
+# text = there are still questions left unanswered , . 
+
+# sent_id =141
+# text = someone firebombed , the Party Republican headquarters last month in the , town of Hilrsborough outside chapel just Hill . 
+
+# sent_id =142
+# text = went around Campbell , after Carolina North passed in 2013 restrictive rights voting - its bill teaching to how deal with challenges to their registration people to churches . 
+
+# sent_id =143
+# text = could he Detect , the effects of the election around him in the bursts of conflict the and curious intersection of new ideas with old ones . 
+
+# sent_id =144
+# text = is familiar this discordance between economic data and political rhetoric should or , be . 
+
+# sent_id =145
+# text = economists Republican caution against taking this data as proof that is party their lousy at economic policy . 
+
+# sent_id =146
+# text = I do not know what growth G.D. P. " during the was Washington and Lincoln Administrations but the developments Institutional in those terms , had large and long lasting - effects " . 
+
+# sent_id =147
+# text = there are differences more between Sulla , Rome and Trump the and U.S. , than there similarities are but does that not , discredit the resemblances . 
+
+# sent_id =148
+# text = she granted , , - " you have to at where she has acknowledged that we need to do different something look cannot we and better do - she and has where expressed regret " . 
+
+# sent_id =149
+# text = but became Karel , , as the criticism as First Lady of Clinton became more caustic more empathetic . 
+
+# sent_id =150
+# text = I feel , explained impersonator the Donald Trump John di Domenico , " to Slate last year " . when I are playing him powerful 
+
+# sent_id =151
+# text = a threat troubling more than bullshit preoccupies , Karel as the hysteria of the presidential 2016 election intensifies . 
+
+# sent_id =152
+# text = they wre usually artists who want to do a bunch of stuff . 
+
+# sent_id =153
+# text = the commercial then ends . 
+
+# sent_id =154
+# text = were clinical producers bass Miami main their - concern in the art of moving butts . 
+
+# sent_id =155
+# text = described Zay and Zayion , recording their version of Knuck " if you Buck " on a home laptop in a recent interview . 
+
+# sent_id =156
+# text = but add challenges the and , that score them songs , a traceable nervous connective system , to the writhing mass of grainy video loops . 
+
+# sent_id =157
+# text = underscore revivals their the appeal of a good challenge : , artistic or otherwise discomfort , growth a and meaningful , connection . 
+
+# sent_id =158
+# text = would it be safer much Plato thought , , to Entrust power to educate carefully guardians . 
+
+# sent_id =159
+# text = I have spent , up late staying , reading polls in terror recent months like many people I know . 
+
+# sent_id =160
+# text = Caplan dismisses , quoting a pair of scholars who call it more no rational " than killing the pharaoh when does not the Nile fland retrospective voting " . 
+
+# sent_id =161
+# text = but there nothing else artistic obviously about her in or her behavior with other people was . 
+
+# sent_id =162
+# text = released the foundation , , removing the bar to entry for those who balked at the like draft - feel of the photo offset - in 2010 a typeset edition of Traum " 's Zettel " . 
+
+# sent_id =163
+# text = I tried , at uncovering a etym corresponding with Woods by e-mail my hand . 
+
+# sent_id =164
+# text = reported wife his , Alice , , complete neglect " of own his health " . 
+
+# sent_id =165
+# text = tells each map in the exhibition factual all not own its story , . 
+
+# sent_id =166
+# text = British Ministry of Defence maps are being also exhibited for the first time which imagine cold war battles which and were used in military college exams . 
+
+# sent_id =167
+# text = in the is council the constituency area of North Kesteven , where % 62 of voters backed leaving the EU . 
+
+# sent_id =168
+# text = wo be sorely skill his in getting answers for taxpayers missed . 
+
+# sent_id =169
+# text = wo christian , Wolmar who has written a number of books on railway history stand , on 1 December in the contest . 
+
+# sent_id =170
+# text = are hoping the Democrats liberal , who represented until 2010 the affluent suburb , to back snatch it Sarah Olney with their candidate . 
+
+# sent_id =171
+# text = has meanwhile launched the estranged wife of a government whip , to take the seat her campaign . 
+
+# sent_id =172
+# text = he was utterly gracious , I beyond am furious and took it like a man . 
+
+# sent_id =173
+# text = the are onboard crew 330 thenning more ship . 
+
+# sent_id =174
+# text = suggested Vega that would be many unaware , , of its history because of their age . 
+
+# sent_id =175
+# text = got there people killed . 
+
+# sent_id =176
+# text = wo stop a station fired - coal power in south Badarpur , east Delhi - , operating for 10 , days along with diesel generators in the city . 
+
+# sent_id =177
+# text = he then spent four years with BBC Service World radio at Bush House . 
+
+# sent_id =178
+# text = he worked for the BBC for a decade . 
+
+# sent_id =179
+# text = one of grieving many Facebook their posts has a line which would have delighte Chris more african " than you : I have not , known " . 
+
+# sent_id =180
+# text = cannot who stop this Australia side # 
+
+# sent_id =181
+# text = right divine their as was best the 's world warranted longer no # to the mantle 
+
+# sent_id =182
+# text = they have , beating England one crack at redemption . 
+
+# sent_id =183
+# text = at the are Africa South almost point we and have to be able to match their desire of no return . 
+
+# sent_id =184
+# text = he has got that hard edge to his game the but soft also hands . 
+
+# sent_id =185
+# text = we have a great squad a it and is opportunity for to us forward take the ship . 
+
+# sent_id =186
+# text = you have up to stand to that I would and someone rather ran at me round rather thenning me . 
+
+# sent_id =187
+# text = it was as though he was back and forth flicking the ball underneath upturned three cups . 
+
+# sent_id =188
+# text = in a were higher Australia , hardened by recent their games in the Rugby Championship gear , . 
+
+# sent_id =189
+# text = would immediately make a victory Donald Trump worrying more than it already is and unsettle the world . 
+
+# sent_id =190
+# text = Mrs Clinton has a reputation for a hawkish outlook wo but be this , tempered by weary - war public opinion in the US . 
+
+# sent_id =191
+# text = he is spoken in favour of torture . 
+
+# sent_id =192
+# text = I struggle also with passwords . 
+
+# sent_id =193
+# text = there then are the stories true called so - that get posted in a series of meaningful pictures with text underneath running . 
+
+# sent_id =194
+# text = I do of course understand , that must be Germany -day modern separated from the Nazi regime . 
+
+# sent_id =195
+# text = a is girl who looks so unassum I think it is another assistant in a headscarf and jeans in the corner . 
+
+# sent_id =196
+# text = reach artists ; people at their heart the it is only time we meet in one place and aside put our differences . 
+
+# sent_id =197
+# text = include accolades unusual more his global ambassador for City York New Health and Hospitals Corporation a and , place at Harvard Business School . 
+
+# sent_id =198
+# text = I cannot that just do with my life . 
+
+# sent_id =199
+# text = I wanted to watch it with them but they , decided ' they rather watch it without me in the end . 
+
+# sent_id =200
+# text = cannot we not let go to Donald , Trump racist so , sexist and incredibly unqualified in to be commander - chief - someone the presidency . 
+
+# sent_id =201
+# text = are turning people more " to credit . 
+
+# sent_id =202
+# text = could lead a change sudden in circumstances , while might be now this borrowing manageable to debt problems " . 
+
+# sent_id =203
+# text = is reason her that it provides insufficient protection to American workers might it jobs whose and living standards harm . 
+
+# sent_id =204
+# text = makes , railing against trade sense in this context . 
+
+# sent_id =205
+# text = could Theoretically open a couple , Tesco four accounts and earn on £ 12,000 £ 360 - 3 % . 
+
+# sent_id =206
+# text = earn meanwhile customers Bank of Scotland , when they add the free Vantage option to their account 3 % on balances of £ 5,000 -£ 3,000 . 
+
+# sent_id =207
+# text = you are able , , with this to access you whenever like your money in theory . 
+
+# sent_id =208
+# text = also applies % 3 that rate to Nectar cardholders looking to borrow from £ 19:999 -£ 15,001 over a period of between two and three years . 
+
+# sent_id =209
+# text = a is vital Sulphur to healthy growth . key plant nutrient but are naturally soils UK , deficient in this essential mineral 
+
+# sent_id =210
+# text = fast forward to 2016 and is this increasingly worthy of attention . 
+
+# sent_id =211
+# text = cannot have clouds acid rain even , surpringising as may it seem a silver lining . 
+
+# sent_id =212
+# text = may be enraging the world - yet someone at least has the self respect - to keep protesting against that fact and absurd . 
+
+# sent_id =213
+# text = you up end acutely more and getting irritated more when it comes listing for the next noise . 
+
+# sent_id =214
+# text = is that legitimately just horrendous . 
+
+# sent_id =215
+# text = is it fair to say that Rocco Catalano works and retro breathes , lives . 
+
+# sent_id =216
+# text = I think is that they why immersed themselves in pattern and colour . 
+
+# sent_id =217
+# text = moved back to the area Catalano after living in London and then , Glasgow he had where studied jewellery design at Glasgow School of Art . 
+
+# sent_id =218
+# text = he says , " I loved the tropical colours " . 
+
+# sent_id =219
+# text = he says , " I visit the degree shows at Northampton University to spot new talent " . 
+
+# sent_id =220
+# text = she but laughes , , I when suggest that she get Frank to model for her . 
+
+# sent_id =221
+# text = naturally the landscape office features , many clothes and little in the way of food . 
+
+# sent_id =222
+# text = Wintour herself briefly appears and is , filmed oned putting her sunglasses before being interviewed . 
+
+# sent_id =223
+# text = I looked and this face 's one woman , kept the more I looked up coming , in photographs that looked as if from the they were 1970s at motocross . 
+
+# sent_id =224
+# text = I love to play with that I am and always looking because it is so interesting making I when find one a collection for muses that fit that bill . 
+
+# sent_id =225
+# text = it is naive at best would it and yet again worst at let the shooting lobby off the hook . 
+
+# sent_id =226
+# text = stated head their , Jeff Knott of nature policy , " I ' be amaze if was a either ban or licensing introduced off the back of it : " . 
+
+# sent_id =227
+# text = has also it brought stance the 's RSPb , to the Tl presenter Chris Packham into , conflict from the , author Mark Avery of the petition with many leading conservationists . 
+
+# sent_id =228
+# text = Let us just say he is wrong . 
+
+# sent_id =229
+# text = and What about position 's Australia # 
+
+# sent_id =230
+# text = the wo be middle Saturday point diary one in Morocco , , on this when get countries developed to publicly question each other about their plans and ambitions . 
+
+# sent_id =231
+# text = he was quoted , " are we actively thinking of possible ways to limit to only those with a real standing in a project the scope of litigation as saying " . 
+
+# sent_id =232
+# text = said official EU one , " could cod Sea Celtic collapse , without the proposed limits " . 
+
+# sent_id =233
+# text = have but been in also reductions big pencilled for cod in the Celtic and Irish Seas , sole , megrim and pollack , plaice . 
+
+# sent_id =234
+# text = welcomed conservationists announcement the 's commission . 
+
+# sent_id =235
+# text = were 50 only marketplaces . 
+
+# sent_id =236
+# text = was Agora invitation only dr , " " - but are many of these marketplaces easily accessible if you know to how search 
+
+# sent_id =237
+# text = Lee adds . 
+
+# sent_id =238
+# text = did they not have them in our day and people without children , expresses through their disapproval all their hatred of modern parenting . 
+
+# sent_id =239
+# text = I do not lightly call it a beast . 
+
+# sent_id =240
+# text = back on the was I , EMicro three day . 
+
+# sent_id =241
+# text = is facing the world the and UK - by extension - a shortage of people with the skills needed to mount a effective defence . 
+
+# sent_id =242
+# text = may try companies up to set a firewall between sensitive systems and foreign powers it but does not always , work . 
+
+# sent_id =243
+# text = cannot but they at least lay to confuse and deter booby traps - a concept known as active defence " " - . 
+
+# sent_id =244
+# text = had grown list my long inordinately , after I discovered a rich seam of internet discussion on the subject and covered every almost state in the union . 
+
+# sent_id =245
+# text = I spotted a few . 
+
+# sent_id =246
+# text = was Bellingham stop next my , near the up canadian right border . 
+
+# sent_id =247
+# text = we continue back on the train Southwards , . 
+
+# sent_id =248
+# text = by glides a town small with two minarets . 
+
+# sent_id =249
+# text = a guard capped red - Presides , at each station over the platform and a tapper wheel - , gently knocking the undercarriage walks along the train with a hammer . 
+
+# sent_id =250
+# text = afterwards browse , at the morning market : 6.30 - 10 AM # $ rice lollipops are the pupas considered # a delicacy $ wasp , cocoons live , toads and catfish -nut bark buffalo , lung and leaves , betel . 
+
+# sent_id =251
+# text = the is far- most potentially reaching the intervention by Beijing since the 1997 handover of Hong Kong from the UK . 
+
+# sent_id =252
+# text = involves the oath lawmakers swearing allegiance to Hong Kong as part of Republic of China the 's People . 
+
+# sent_id =253
+# text = have argued the government Kong Hong , which is led by pro-Beijing lawmakers , that should not the pair take office . 
+
+# sent_id =254
+# text = he said , " Beijing believes is intervention its necessary to prevent a legislative continued paralysis in the city " . 
+
+# sent_id =255
+# text = Kong Hong meanwhile appears , , be to bracing for a wave of protests . 
+
+# sent_id =256
+# text = he told Andrew Marr showed the 's BBC " : the is last frankly a election general thing that the government wants " . 
+
+# sent_id =257
+# text = is it his dream to here end his career . 
+
+# sent_id =258
+# text = is easy to draw a game you have dominated off to brush but , to do so times three suggests a weakness a is ROW . 
+
+# sent_id =259
+# text = we are so disappointed because have we dropped six points playing at home . 
+
+# sent_id =260
+# text = the was that definitely case when he played Benozt Paire in Monte Carlo in April for Andy . 
+
+# sent_id =261
+# text = of out is everything now right kilter he but and seems be to seeking answers the all time . 
+
+# sent_id =262
+# text = I wonder also whether the cup Davis played a part . 
+
+# sent_id =263
+# text = revealed also the survey annual that has worries about on taking fresh financial burdens rocketed . 
+
+# sent_id =264
+# text = added ms Hopley " : should not the spike in political risk unnoticed go " . 
+
+# sent_id =265
+# text = wipped news of - deceit which had run for years the 's company - tens of billions of euros from value 's VW and chief executive Martin Winterkorn cost his job . 
+
+# sent_id =266
+# text = upt it has also opened VW to Huge compensation claims legal , action and has seen it take 16 € bn thenning more of provisions . 
+
+# sent_id =267
+# text = began the probe , focusing on mr , Winterkorn who remains at the car maker and chief brand Herbert Diess in June . 
+
+# sent_id =268
+# text = he was promoted to chairman in 2015 October , the month after was the scandal unearth . 
+
+# sent_id =269
+# text = had expected businesses to start , contracting in July after the Brexit immediately vote have but instead , managed to keep steadily growing . 
+
+# sent_id =270
+# text = expanded businesses retail and wholesale as shoppers remained upbeat and also companeys services consumer , grew . 
+
+# sent_id =271
+# text = wo there however be limits to his ability to spend , , as is still the government running a substantial budget deficit . 
+
+# sent_id =272
+# text = wo change the cost monthly and is the price expected to rise in winter as usage increases . 
+
+# sent_id =273
+# text = costs tariff rate fixed 's Eon £ 760 would and customers Energy Avro £ around 760 pay for simple and select its tariff . 
+
+# sent_id =274
+# text = a it is expensive standard or or prepayment tariff # 
+
+# sent_id =275
+# text = could expect a investor with average luck and 10,000 £ in bonds to receive £ 125 in prizes per year . 
+
+# sent_id =276
+# text = would be if they did indistinguishable Bonds premium , from ordinary savings accounts . 
+
+# sent_id =277
+# text = is the money invested in premium Bonds in and other savings National & Investments , accounts used , to help fund government spending . 
+
+# sent_id =278
+# text = has this not stopped investors flocking to put their money in the funds . 
+
+# sent_id =279
+# text = it was followed , by the and Investors Aviva return target Strategy multi income funds into which investors put 2 £ bn and respectively 1.4 bn # . 
+
+# sent_id =280
+# text = this means that have they not benefited from the uplift has that the fall in Sterl given to overseas assets . 
+
+# sent_id =281
+# text = is Adidas helping up to clean by using the waste floating to make shoes around the world oceans the 's Earth . 
+
+# sent_id =282
+# text = cannot boost the consumer the demand for change . 
+
+# sent_id =283
+# text = said a report major in January would oceans contain unless the world took to stop leaking into the seas rubbish radical action by 2050 more plastic than fish . 
+
+# sent_id =284
+# text = I have made , a full recovery after some genius surgery a and lot of tough very rehab . 
+
+# sent_id =285
+# text = he waring that under was enormous the NHS now pressure " urged , to take more responsibility for own their health the public " . 
+
+# sent_id =286
+# text = have been adults in 10 four injured while nine in 10 underestimate cannot chilly how Britain get in the winter time due toe bad weather . 
+
+# sent_id =287
+# text = wo they play on Saturday , 10 June . 
+
+# sent_id =288
+# text = a was incredible year last year I and are ready for to us back come even better in 2017 . 
+
+# sent_id =289
+# text = she out started playing a asylum inmate - in Marat / Sade at the RSC in the mid-Sixties . 
+
+# sent_id =290
+# text = is contemporary the dress . 
+
+# sent_id =291
+# text = does from where come all energy her # 
+
+# sent_id =292
+# text = or that voice , which cannot out blast with a force to induce shockwaves # 
+
+# sent_id =293
+# text = forward pushes neck her , hands her shake in vein- accentuating confrontation . 
+
+# sent_id =294
+# text = who cannot but blame , it having allowed Glenda to score a such blinder # 
+
+# sent_id =295
+# text = he worked for decades on and side of radio and tv the news current affairs . 
+
+# sent_id =296
+# text = it detectable is un , , - if right done in theory . 
+
+# sent_id =297
+# text = Drop the mic . 
+
+# sent_id =298
+# text = he has made , feature eight films to date to own according count the 's director . 
+
+# sent_id =299
+# text = had drastically so cinema changed " that had Hollywood alienated the family audience " . 
+
+# sent_id =300
+# text = a is precarious balancing the film act , , between cheery family hijinks and social hitting hard - drama from point the 's director of view . 
+
+# sent_id =301
+# text = it works , on one level as a unpretentious amiable , heartwarmer that seems made - tailor for afternoon Sunday viewing . 
+
+# sent_id =302
+# text = and there Bob , a constant source of entertainment of course is , , . 
+
+# sent_id =303
+# text = is then hardly the result pyjamas , , the 's cat . 
+
+# sent_id =304
+# text = belong feats 's Doss , wo most of whom have , little experience of frontline conflict to modern audiences to the realm of the unimaginable . 
+
+# sent_id =305
+# text = also has story 's Doss a unlikely quality that all it makes the more appealing to it . 
+
+# sent_id =306
+# text = were armed the all medics , except me . 
+
+# sent_id =307
+# text = we assumed too , when Millican died the was that last we 'd see twitchy of glitchy Odi , . 
+
+# sent_id =308
+# text = is working series two far so # 
+
+# sent_id =309
+# text = outside and so is this I so treated , it like a drama Zimmer says , " of are human Superheroes experience " . 
+
+# sent_id =310
+# text = but did not occur deeds dark 's cotton due toe some sort of compulsion to kill . 
+
+# sent_id =311
+# text = was cotton born , on 31 1832 October , in a village near Sunderland . 
+
+# sent_id =312
+# text = wo it not perhaps matter as I wo be not long troubled . 
+
+# sent_id =313
+# text = a flock - throwback longer no - , is again flying is material to the Seventies or coating a surface . 
+
+# sent_id =314
+# text = commissioned Tower Bank South landmark 's London to design the show apartment interior designer Rachel Winham . 
+
+# sent_id =315
+# text = is closely of course the trend tactile linked , to growing our obsession with making things . 
+
+# sent_id =316
+# text = on is Jutt , now 31 trial later two years , , , charged with two counts and one of preventing lawful burial of murder at High Court Hong 's Kong . 
+
+# sent_id =317
+# text = I do not know I why chose her ... 
+
+# sent_id =318
+# text = appeared Jutt later two years , , largely composed in High Court Hong 's Kong . 
+
+# sent_id =319
+# text = is seldom performance organizational our measured all after , in terms of we are how safe we or follow many how rules . 
+
+# sent_id =320
+# text = quickly people many open , emails or mindlessly click on links and attachments with a nary thought of its consequences as a result . 
+
+# sent_id =321
+# text = must we first educate , on to how online better protect themselves people . 
+
+# sent_id =322
+# text = must we finally make it , easy for to report people suspected breaches and malicious emails . 
+
+# sent_id =323
+# text = has become voting , , the new soft target . in the vernacular of terror 
+
+# sent_id =324
+# text = a is this security homeland issue of the existential most kind . 
+
+# sent_id =325
+# text = about out is all Tuesday getting the vote it but , means nothing if on the is not a voter registered list . 
+
+# sent_id =326
+# text = wo enough of those lead , , chaos in a contested highly area to election day . 
+
+# sent_id =327
+# text = ground Carolina North is zero in this election . 
+
+# sent_id =328
+# text = a is arrogant pompous Donald Trump entitled person , , that cares about himself and is temperament his , toxic to the United States . 
+
+# sent_id =329
+# text = have already Floridians 5.7 million thenning more hit the polls after two about weeks of early in person - voting . 
+
+# sent_id =330
+# text = was the lead GOP carried by strong numbers in absentee voting and edge overall their , at about 16,500 stand this earlier week . 
+
+# sent_id =331
+# text = the it is of course election , not , game " of Thrones " . 
+
+# sent_id =332
+# text = Martin yet has to finish two of the remaining books in acclaimed his , series currently billed as the WINDS " of Winter a and " Dream of Spring " " . 
+
+# sent_id =333
+# text = have yet the students Dutch to decide if wo they be commercializing electric their motorcycle . 
+
+# sent_id =334
+# text = said a spokeswoman Davidson Harley - are not accurate -- timelines 2017 -- or 2020 that have been floated in the media . 
+
+# sent_id =335
+# text = are surging futures stock U.S. , by 1 thenning more % alongside European markets . 
+
+# sent_id =336
+# text = are selling investors , with bonds U.S. and Australian feeling the biggest impact out of government bonds . 
+
+# sent_id =337
+# text = he is credited with helping efforts to tactle the mountain of debt accumulated in China by local governments . 
+
+# sent_id =338
+# text = it but came only forward after the U.S. 
+
+# sent_id =339
+# text = alerted Agency Protection Environmental the world to the issue . 
+
+# sent_id =340
+# text = used appetite insatiable 's China for fried chicken a to be big reason why investors loved Yum parent Bfc - Brands . 
+
+# sent_id =341
+# text = they challenged eventually , , the state with help from the liberty civil American Union in a case that eventually went to the U.S. Supreme Court . 
+
+# sent_id =342
+# text = were reluctant the Lovings -- and Richard in particular participants , -- as the movie makes clear in history . 
+
+# sent_id =343
+# text = opens love " " , eliding over a courtship that would have been interesting , to see if in only brief with richard and Mildr a already couple . 
+
+# sent_id =344
+# text = are up dressing Celebrities and Cnn even reporters , fans like Things Stranger " " characters this holiday . 
+
+# sent_id =345
+# text = I had not seen a lot of the episodes and then phone my started up lighting . 
+
+# sent_id =346
+# text = he has afforded , as one Jeffrey Morgan Dean # $ of top guys 's Negan certain freedoms . 
+
+# sent_id =347
+# text = is one Norman " it totally so sucked , to see him in that emotional state of good my buddies " . 
+
+# sent_id =348
+# text = are episodes new followed after by , show " the talking Dead " . 
+
+# sent_id =349
+# text = said Barratt , , " will continue our work in the cities have we where launched under or are construction " . 
+
+# sent_id =350
+# text = was the effort internet said the to be main driver of capital expenditures for the unit . 
+
+# sent_id =351
+# text = are hesitant analysts , for now off to write the service for dead . 
+
+# sent_id =352
+# text = have taken authorities , a tech lower- approach to tracking drones in the Netherlands . 
+
+# sent_id =353
+# text = announced Microsoft a chat workplace new tool poised on to take slack industry darling on Wednesday . 
+
+# sent_id =354
+# text = there also is a option to send emojis custom , memes and stickers , GIF and connect , THITTER your feed via the platform . 
+
+# sent_id =355
+# text = highlight the move desire for to users start thinking as more than productivity just tools of its products the 's company . 
+
+# sent_id =356
+# text = a but is it is latest effort into the chan workplace game part of a larger trend from tech companies . 
+
+# sent_id =357
+# text = paid Isner , who some of best his tennis produced as he leveled and forced a decider at all one set also , his tribute . 
+
+# sent_id =358
+# text = I have " to congratulate -- Andy to get to no . 
+
+# sent_id =359
+# text = the american said 1 in the world , " that a is incredible achievement . 
+
+# sent_id =360
+# text = read , " pairs prank their way into Korean North golf tournament News nine 's Brisbane " . 
+
+# sent_id =361
+# text = bluffed Australians two , who are terrible golfers by own their admission , their way into a premier golf tournament in North Korea . 
+
+# sent_id =362
+# text = would jump Snowman the high fencing that separated the two properties and always to where he felt was home return . 
+
+# sent_id =363
+# text = he kept on up turning at my barn I and joked to the guy that he did not clearly want to be sold . 
+
+# sent_id =364
+# text = he adds , " did not Snowman think anything of Johnny Carson getting a step ladder and back to front sitting on him " . 
+
+# sent_id =365
+# text = a I was just boy with muddy shoes . 
+
+# sent_id =366
+# text = there is no parade and has there never bes . 
+
+# sent_id =367
+# text = a it is event Mexico hopes wo eventually rival the Carnival of Brazil . 
+
+# sent_id =368
+# text = Alejandra Gonzèlez 
+
+# sent_id =369
+# text = Anaya , one of creative directors the 's parade explained , have why now Mexico decided the is time to put on a such show to CNN . 
+
+# sent_id =370
+# text = Gonzèlez Anaya says , " there are volunteers 1200 working for the alone parade " . 
+
+# sent_id =371
+# text = is it so wonderful to be able to rescue that and bring it to a new format a and new tradition for Mexicans . 
+
+# sent_id =372
+# text = I think , is the government expecting bigger economical development in Japan by completing this maglev line . 
+
+# sent_id =373
+# text = a ticket F1 Grants access to the concert on the same day . 
+
+# sent_id =374
+# text = has the website Circuit Marina Yas exact timings . 
+
+# sent_id =375
+# text = a is great november time , to go for anyone who wants to see the capital in all its glory . 
+
+# sent_id =376
+# text = it is also fulled the emergence -- like the visionary MahaNakhon , tallest building 's Bangkok of modern high rises - . 
+
+# sent_id =377
+# text = have been successful all transformations not in the region . 
+
+# sent_id =378
+# text = is one the Metro Pyongyang , buried underground 100 meters 328 feet # $ of the deepest commuter systems in the world . 
+
+# sent_id =379
+# text = she spoke to CNN style about the experience . 
+
+# sent_id =380
+# text = I did see some people on their smartphones in Pyongyang but far , fewer . 
+
+# sent_id =381
+# text = cannot build architecture " a bridge between the living the and dead but and , , blur the boundaries to some extent " . 
+
+# sent_id =382
+# text = it is supposed , when die people in India of old age a to be celebration . 
+
+# sent_id =383
+# text = has the building winning award - , Designed by Juan Carlos Salas a sculptural appearance and every detail carries meaning . 
+
+# sent_id =384
+# text = he says , " wo not Architecture help deceased people it but , helps to keep alive among the living their memories " . 
+
+# sent_id =385
+# text = allowed the charter for the creation of , guild run to tax people passing through the borough by burgesses the 's town a 's merchants . 
+
+# sent_id =386
+# text = it is exceptionally rich , in minerals containing large deposits of gold , diamonds and , ores of manganese , lead and molybdenum , zinc , nickel , cobalt . 
+
+# sent_id =387
+# text = is dominant the taiga , , covering a significant fraction of the entirety of Siberia the outside extreme northwest . 
+
+# sent_id =388
+# text = wo be the Universiade Winter 2019 hosted by Krasnoyarsk . 
+
+# sent_id =389
+# text = the are Islands Line examples in the Pacific the and Maldives in the Indian Ocean . 
+
+# sent_id =390
+# text = include islands Granite Seychelle and Tioman and volcanic Saint such ask Helena islands . 
+
+# sent_id =391
+# text = the would be small a example of a desert island islands off the coast of Baja California , Mexico . 
+
+# sent_id =392
+# text = the greek of city state - 
+
+# sent_id =393
+# text = Athens which was dependent on grain imports from Slythia in the bc , 5th century maintained , critical alliances with cities which controlled the straits , the Megarian such ask colony Byzantium . 
+
+# sent_id =394
+# text = was responsible to fulfill the conquers in the Balkans commander regarded highly les Darius Megabazus . 
+
+# sent_id =395
+# text = conquered the troops Achaemenid Thrace the and , Paeonians the greek coastal , cities . 
+
+# sent_id =396
+# text = I accepted eventually the king Macedonian Bmyntas , , the Achaemenid domination and surrendered his country to the Achaemenid Persia as a vassal state in 512 about - 511 BC . 
+
+# sent_id =397
+# text = possessed the army multi-ethnic Achaemenid many soldiers from the Balkans . 
+
+# sent_id =398
+# text = many of the Macedonian and Persian elite moreover intermarry , . 
+
+# sent_id =399
+# text = was founded in 1912 the first film company Athina film # $ the and Asty film in 1916 . 
+
+# sent_id =400
+# text = El , was Greco the film successful most in 2007 . directed by Yannis Smaragdis 
+
+# sent_id =401
+# text = was the Treaty Monegasque Franco - signed , , providing for French limited protection over Monaco in 1918 July . 
+
+# sent_id =402
+# text = consists the branch executive of a Minister who presides over a member five - Council of government of State as the , head of government . 
+
+# sent_id =403
+# text = it is includes police a special unit which operates patrol and surveillance boats . 
+
+# sent_id =404
+# text = include projects current reclamation land extending the district of Fontvieille . 
+
+# sent_id =405
+# text = there are however differences important between Northern Ireland and Wales and England in law and procedure , . 
+
+# sent_id =406
+# text = the is accepted widely most form the Bergeron classification of mass air classification . 
+
+# sent_id =407
+# text = began climatologists , to establish in 1973 synoptic climatologies on this based idea while was originally identification mass air used during the 1950s in weather forecasting . 
+
+# sent_id =408
+# text = a is seasonal prevailing a monsoon wind which lasts , ushering in rainy season a 's region for several months . 
+
+# sent_id =409
+# text = crossed a variety of Germanic and major Slavic tribes before Slaves established themself in the century 6th ad during the migration period through Moravia . 
+
+# sent_id =410
+# text = came the Principality Moravian , in being eastern day present - into south Moravia - , Z&horie in Western South - Slovakia and parts of lower Austria at the end of the 8th century . 
+
+# sent_id =411
+# text = this became , the state of Great Moravia with the conquest of the Principality of Nitra day present - Slovakia # $ in 833 ad . 
+
+# sent_id =412
+# text = was I Mojmór king first their 830- ruled 846 # $ . 
+
+# sent_id =413
+# text = Louis the German invaded Moravia and replaced I Mojmór with his nephew who became St. Rastislav Rastiz . 
+
+# sent_id =414
+# text = determines statute , the election of assembly of regions and metropolitan , districts in addition . 
+
+# sent_id =415
+# text = has occurred influence little very and borrowing from Danish , although under the was political Iceland control of Denmark until a later much date 1918 # $ in the Icelandic language . 
+
+# sent_id =416
+# text = there are also languages , derived having separately evolved known , as MeTnkieli in Sweden and Kven in Norway from Finnish . 
+
+# sent_id =417
+# text = a is gradation Consonant feature in Finnish both and northern Sami dialects it but is not , present in south Sami , which is considered to have a different language history . 
+
+# sent_id =418
+# text = is the portion northern of the Caucasus known as the Ciscaucasus the and southern portion as the Transcaucasus . 
+
+# sent_id =419
+# text = a is chaotic the atmosphere system , cannot so changes small to one part of the system grow to have large effects on the system as a whole . 
+
+# sent_id =420
+# text = the droplets water absorb , carbon dioxide during rains precipitation from the surrounding air and dissolve . 
+
+# sent_id =421
+# text = was a example recent of weather control preparation 's China for the Olympic Summer 2008 games . 
+
+# sent_id =422
+# text = the is Africa East site , shaped by tectonic plate global forces that have created the African East rift of Mount Kilimanjaro , and Mount Kenya the tallest two Beaks in Africa . 
+
+# sent_id =423
+# text = the latter spread also Islam but Bantu most never , had contact with Islam and remained African Religion traditional adherents to the coastal belt . 
+
+# sent_id =424
+# text = integrated France with that of France the economy of Cameroun and improved modifying the system of forced labour the infrastructure , with capital investments and skilled workers . 
+
+# sent_id =425
+# text = the Cameroons British formerly southern united , to form the Federal Republic of Cameroon on 1 1961 October with French Cameroun . 
+
+# sent_id =426
+# text = Department of Labor findings on the worsts forms of child Labor reported that were % 56 of children 5 to 14 age working children that % 53 almost of children and aged work and school 7 to 14 combined . 
+
+# sent_id =427
+# text = is similar climate the 's Sahel to but less , extreme than the , climate of the Sahara desert located to the just north . 
+
+# sent_id =428
+# text = struck famine to 2010 August the Sahel in June . 
+
+# sent_id =429
+# text = were civilisations several ancient located around the Mediterranean shores and were greatly , influenced by their proximity to the sea . 
+
+# sent_id =430
+# text = it provided routes for numerous communities throughout the ages for trade and , war , colonisation as ask well , food from fishing # the and gathering of other seafood $ . 
+
+# sent_id =431
+# text = tended cultures centered on the Mediterranean , to have some extent of intertwined culture and history due toe the shared climate and , access to the sea , geology . 
+
+# sent_id =432
+# text = the were greek two of the Mediterranean notable most civilisations in classical antiquity city states both of which extensively colonised the coastlines of the Mediterranean the and , Phoenicians . 
+
+# sent_id =433
+# text = referred later the Romans , , when Augustus founded the Roman Empire to the Mediterranean as mare Nostrum our Sea " # $ " . 
+
+# sent_id =434
+# text = a is protected - skerry the Blindleia waterway that starts near Kristiansand in southern Norway and , continues past Lillesand . 
+
+# sent_id =435
+# text = may even apply the word , in Danish to shallow lagoons . 
+
+# sent_id =436
+# text = are often deep lakes freshwater , like fjords . 
+
+# sent_id =437
+# text = were drinks Alcoholic like beer , bjórr a strong fruit wine # , mead for and the rich imported , , wine $ served , . 
+
+# sent_id =438
+# text = Whatever be the rules resulted often the fights , in the death of one of the stallions . 
+
+# sent_id =439
+# text = had the Schlei the and wetlands between the Danevirke and Husum frozen solid in a hard winter had and been the territory south immediately of the Danevirke , conquered by the German advance army . 
+
+# sent_id =440
+# text = came this retreat all almost of the Danish army and , succeeded in completing the evacuation to the Prussian Austro - army as a surprise . 
+
+# sent_id =441
+# text = it resulted however , , it and , remains a matter of historical debate was why properly never the railway to Flensburg used for the evacuation in the abandonment of important pieces of heavy artillery . 
+
+# sent_id =442
+# text = came news of the retreat and was promptly de General Meza , relieved of his command as a great shock to Danish public opinion which had considered the Danevirke to be impregnable . 
+
+# sent_id =443
+# text = has the Danevirke since ever remained in German possession . 
+
+# sent_id =444
+# text = increased the amount of goods transported on the Danube in 1987 to 100 million about tons . 
+
+# sent_id =445
+# text = lies the part greater of the Danube Delta , in Romania Tulcea county # $ while is part northern its , situated , in Ukraine Odessa Oblast # $ on the left bank of the Chilia arm . 
+
+# sent_id =446
+# text = is so dry the climate that are of sometimes plains these thought as part of the Sahara . 
+
+# sent_id =447
+# text = it differs in thatt it is features prominent topographic do not parallel the coast from the Western portion of the country . 
+
+# sent_id =448
+# text = in the is temperate Algeria Northern zone and enjoys a Mediterranean mild climate , . 
+
+# sent_id =449
+# text = the was Ohio the first and foremost River , which flowed into the Mississippi River . 
+
+# sent_id =450
+# text = the was question whether of would Kansas enter the union as a free state or slave state at the heart of the conflict . 
+
+# sent_id =451
+# text = demonstrated reaction National to the events in Kansas deeply how divided had the country become . 
+
+# sent_id =452
+# text = showed the leaves , a great variety , of greens ranging from yellowish to bluish in color . 
+
+# sent_id =453
+# text = relied Americans native across the Americas on it as a staple of medical their treatments . 
+
+# sent_id =454
+# text = often used churches christian in northwestern Europe and Ukraine willow branches in place of palms in the ceremonies on Palm Sunday . 
+
+# sent_id =455
+# text = provide the Alps lowland Europe with drinking water and hydroelectric , power , irrigation . 
+
+# sent_id =456
+# text = the Alps provide , 90 up toe percent to lowland Europe , to arid particularly areas during the and summer months of water although is the area 11 about only percent of the surface area of Europe . 
+
+# sent_id =457
+# text = depend cities ask such Milan on 80 percent of water from Alpine runoff . 
+
+# sent_id =458
+# text = is Water from the rivers used , generating much as as 2900 kilowatts of electricity in power hydroelectricity 500 over plants . 
+
+# sent_id =459
+# text = flow rivers European major from Switzerland the such ask Rhine , , all of which have headwaters in the Alps and flow into neighbouring , countries finally emptying into the North Sea the Adriatic , Sea the Mediterranean , Sea the and Black Sea the , RhDne the , Ticino the and PO the , Inn . 
+
+# sent_id =460
+# text = is the study of volcanoes called volcanology , sometimes spelled vulcanology . 
+
+# sent_id =461
+# text = tends this magma , to be very viscous due toe high silica its content it does not so often reach the surface but cools at depth . 
+
+# sent_id =462
+# text = do they not catastrophically generally explode . 
+
+# sent_id =463
+# text = has caused warming global a change in the pattern of the rainy seasons . 
+
+# sent_id =464
+# text = it contains a tiny lagoon , which up has but all dried . 
+
+# sent_id =465
+# text = it was declared in 1975 a wildlife sanctuary . 
+
+# sent_id =466
+# text = continue investigation to the island and expeditions . 
+
+# sent_id =467
+# text = began probably settlements such , when north Melanesians eastern traveled 1000 around BC . 
+
+# sent_id =468
+# text = worked Thomas Lincoln , during years in Kentucky and Indiana the 's family as a farmer and , carpenter , cabinetmaker . 
+
+# sent_id =469
+# text = vastly increases destruction habitat vulnerability to natural disasters like flood crop , failure , spread of disease and drought and water , contamination a 's area . 
+
+# sent_id =470
+# text = wo reduce a ecosystem healthy with good management practices , the chance of happening these events wo or at least , mitigate adverse impacts on the other hand . 
+
+# sent_id =471
+# text = cannot actually suffer land Agricultural from the destruction of the surrounding landscape . 
+
+# sent_id =472
+# text = has worldwide degragded the destruction surrounding agricultural land of habitat , 40 approximately % of agricultural land over the past 50 years via erosion nutrient , depletion and , urbanization , pollution , salinization , compaction . 
+
+# sent_id =473
+# text = also lose humans direct uses of natural habitat when is habitat destroyed . 
+
+# sent_id =474
+# text = is Guinea Papua New often labelled as the worst potentially place in the world for gender violence . 
+
+# sent_id =475
+# text = are still present families these plant in Papua New Guinea . 
+
+# sent_id =476
+# text = are America North and South America treated as separate continents in the -continent seven model . 
+
+# sent_id =477
+# text = sailed Christopher Columbus , in 1492 sparking a period of European exploration of the Americas across the Atlantic Ocean to the west Indies . 
+
+# sent_id =478
+# text = are these not very popular due toe the remote often and roadless locations . 
+
+# sent_id =479
+# text = own interests private various totalling one about percent of the state the remaining land , . 
+
+# sent_id =480
+# text = the is this only also region above is freezing in which the temperature high average daytime during the winter months in Alaska . 
+
+# sent_id =481
+# text = occupied people indigenous numerous Alaska for thousands of years before the arrival of European people to the area . 
+
+# sent_id =482
+# text = was Here it they stolen a small canoe left by the australian Aborigines of the region . 
+
+# sent_id =483
+# text = worsened the condition of the river , as Brisbane grew it was sewer open than a dump and WASTE no more until at its worst . 
+
+# sent_id =484
+# text = was 1987 proclaimed the Year " of the River " by the Lord Mayor of Brisbane Sallyanne Atkinson at the , time . 
+
+# sent_id =485
+# text = are natural storms Sand and dust events that occur in arid regions is where not the land protected by a covering of vegetation . 
+
+# sent_id =486
+# text = usually start storms dust in desert margins the rather thenning themselves deserts have been where already away the materials finer blied . 
+
+# sent_id =487
+# text = begin particles fine lying on the exposed ground , as a wind steady begins to blow to vibrate . 
+
+# sent_id =488
+# text = are some particles lifted , at greater wind speeds into the air stream . 
+
+# sent_id =489
+# text = they strike , when they land other particles which may be jerked , starting a chain reaction in their turn into the air . 
+
+# sent_id =490
+# text = has also however resulted urbanization , , in Thailand in massive increases in problems such ask obesity . 
+
+# sent_id =491
+# text = are rare Thunderstorms , as the city reports thunder on seven just days per year . 
+
+# sent_id =492
+# text = had Cairo , , making it the largest west of China city by 1340 a population of a close to half million . 
+
+# sent_id =493
+# text = fostered meanwhile controls additional of the Nile , development within Gezira island along and waterfront the 's city . 
+
+# sent_id =494
+# text = are outputs industrial 's Nevada tourism food , processing and publishing , mining and electric , equipment , machinery , print . 
+
+# sent_id =495
+# text = the name Caribbean " " derives from the , Caribs one of the native dominant American groups in the region at the time during the late 15th century of European contact . 
+
+# sent_id =496
+# text = applied the term Spanish , ; became , Sea of the Antilles " " stemming from this a common alternative name for Caribbean Sea " in European various languages " . after the discovery in 1492 by Christopher Columbus of America Antillas to the lands 
+
+# sent_id =497
+# text = remained dominance Spanish in the region , undisputed . during the first century of development 
+
+# sent_id =498
+# text = identified Europeans visiting the Caribbean region , the South Sea , " the as to opposed North Sea " " the Pacific Ocean # to the South of the isthmus of Panama $ the Caribbean , Sea # to the north of the same isthmus $ " from the 16th century . 
+
+# sent_id =499
+# text = had been the Sea Caribbean unknow , until 1492 when first Christopher Columbus sailed into caribbean waters on a quest to find a sea route to Asia to the populations of Eurasia . 
+
+# sent_id =500
+# text = has unfortunately covered growth rapid population and urban sprawl much of these ecosystems , with development . 
+
+# sent_id =501
+# text = the is City government local Cape 's town , of Cape town which a is metropolitan municipality . 
+
+# sent_id =502
+# text = a was vivid the essay , published as Undersea narrative , of a journey along the ocean floor . 
+
+# sent_id =503
+# text = she took also advantage of personal her connections with many government , scientists who supplied her with confidential information . 
+
+# sent_id =504
+# text = had Brooks and Carson largely finished , the editing and were , laying the groundwork for promoting by out sending to select individuals for final suggestions the manuscript the book by mid-1962 . 
+
+# sent_id =505
+# text = this brought the book to the attention of the chemical industry and its lobbyists a wide as ask well , swath of the American populace . 
+
+# sent_id =506
+# text = was Gongmin King free , to reform when the dynasty Yuan began to crumble the Goryeo government at last in the 1350s . 
+
+# sent_id =507
+# text = has enormously grown the economy Korean South , since the 1960s and was radically the structure economic transformed . 
+
+# sent_id =508
+# text = it usually involves a low level , rustic picnic such ask areas , benches and trails of development . 
+
+# sent_id =509
+# text = was national established second officially Park Royal National , established in 1879 's Australia park , the 's world . 
+
+# sent_id =510
+# text = the was provision first and foremost for the benefit of townspeople within a area that up being was rapidly built and local residents of open space . 
+
+# sent_id =511
+# text = declared Mongolia Khaan under the Bog , independence with the fall in 1911 of the Q dynasty . 
+
+# sent_id =512
+# text = but the Republic established newly of China considered , Mongolia to be part of own its territory . 
+
+# sent_id =513
+# text = considered Yuan , Shikai the President of the Republic of China , the new republic the to be successor of the Qing . 
+
+# sent_id =514
+# text = said bogd Khaan that had been both Mongolia and China administered by the Manchu during the Qing and had the contract of Mongolian submission to the Manchu , , become invalid after the fall in 1911 of the Qing dynasty . 
+
+# sent_id =515
+# text = that was approximately the area controlled by the Khaan Bogd of the outer former Mongolia during the Qing period . 
+
+# sent_id =516
+# text = committed Ramess II , a tactical major error in his haste to capture Kadesh . 
+
+# sent_id =517
+# text = praised indeed the report first scholarly by Breasted James Henry in 1903 on the battle , , , the sources that allowed the reconstruction the battle with certainty . 
+
+# sent_id =518
+# text = Ramess , logistically unable to sustain a long siege returned , to Egypt . 
+
+# sent_id =519
+# text = found thus the pharaoh Egyptian himself in northern Amurru , , past well Kadesh in Tunip , had been where no soldier Egyptian earlier 120 almost years seen since the of III time Thutmose . 
+
+# sent_id =520
+# text = he claimed to have fought without even bothering to put after the fighting began until two hours on his corslet the battle this time . 
+
+# sent_id =521
+# text = is subject the year exact of the marriage of Herod Antipas and Herodias to debate among scholars . 
+
+# sent_id =522
+# text = decided Pilate , to send Jesus to Herod to be tried given that in was Herod Jerusalem at that time . 
+
+# sent_id =523
+# text = spent Paul , , eighteen months to the New according testament in Corinth after his conversion seventeen approximately years . 
+
+# sent_id =524
+# text = cannot have only fallen the date latter on a Friday if had been a month exceptional leap introduced that year but was this , favoured by Newton . 
+
+# sent_id =525
+# text = is it possible to establish ago thousand two years the phase of the moon on a particular day whether it was not but obscured by clouds or haze . 
+
+# sent_id =526
+# text = were also Forts built in the older portions of New France that had been not yet settled . 
+
+# sent_id =527
+# text = it set the basis for integration could be where the mechanisms economic and judicial of the state applied throughout the Mediterranean as was once done from Latium into all Italy . 
+
+# sent_id =528
+# text = narrates each poem a only part of the war . 
+
+# sent_id =529
+# text = would create playwrights and other , intellectuals , historians works inspired by the Trojan War in later ages . 
+
+# sent_id =530
+# text = it was foretolded that would he either die or die , young in a battlefield after a uneventful life and gain immortality through poetry of old age . 
+
+# sent_id =531
+# text = was this however reversed when was Julian killed in 363 in battle . 
+
+# sent_id =532
+# text = are the Games last Olympic believed to have been held in 393 . 
+
+# sent_id =533
+# text = Shen Kuo impressed soon wang Anshi with his skills as a administrator and government agent and abilities . 
+
+# sent_id =534
+# text = was Shen sent , to supervise program of surveying the building of sild deposits in the Bian Canal outside the capital city 's wang in 1072 . 
+
+# sent_id =535
+# text = dredged Shen successfully , using a original technique the canal and demonstrated the formidable value of the sild gathered as a fertilizer . 
+
+# sent_id =536
+# text = he gained further reputation once he was dispatched as a envoy to the Liao Khitan Dynasty in the summer of 1075 at court . 
+
+# sent_id =537
+# text = had the Khitans made aggressive several negotiations of south pushing , while manipulating chinese several incompetent ambassadors who conced to demands the Liao 's Kingdom their borders . 
+
+# sent_id =538
+# text = was also Medicine studied , in southern especially Italy , where influenced medicine Islamic the school at Salerno . 
+
+# sent_id =539
+# text = regret reportedly Tiberius his departure and requested to return to Rome several times but Augustus , refused his requests each time . 
+
+# sent_id =540
+# text = he seems to have for the Senate the and state wished to simply act without him and were rather Orders direct his vague inspiring more on what he actually meant than on passing his legislation , debate . 
+
+# sent_id =541
+# text = represented the gods the practical distinctly needs of daily life and were they scrupulously , accorded the rites considered proper and offerings . 
+
+# sent_id =542
+# text = by was this boat from continental Europe . 
+
+# sent_id =543
+# text = Cultic a were row of large stand ten , , , stones was the tallest of which high , 3 meters with a type altar - structure in the middle a and square large stone , , , basin knowned as massebot south north - orient . Remains discovered at the site 
+
+# sent_id =544
+# text = is still the purpose exact of these megaliths debated may but they have , constituted a high Canaanite place " " from the Bronze Middle age , ca . 
+
+# sent_id =545
+# text = 1600 B.C.E . 
+
+# sent_id =546
+# text = was the city Canaanite destroyed , in a fire in the presumably wake of a campaign III Thutmose by the Egyptian pharaoh . 
+
+# sent_id =547
+# text = is the oldest reference historical known to the city to be found on a inscription of conquered sites at temple 's Thutmose at Karnak . 
+
+# sent_id =548
+# text = the 
+
+# sent_id =549
+# text = tell letters Amarna , dating from the century 14th BFE include , ten letters swearing loyalty to the Egyptian pharaoh from the kings of Gezer . 
+
+# sent_id =550
+# text = record certificates thai birth the date , followed by the day of the week lunar , date and time of birth the and applicable zodiac animal , name , month . 
+
+# sent_id =551
+# text = the is monkey animal zodiacal her and was year significant traditionally anniversary sixtieth her 1992 . 
+
+# sent_id =552
+# text = are colours thai auspicious of the day given , in the table followed below it by a link to the Buddha images for each day of the week of weekdays . 
+
+# sent_id =553
+# text = Year chinese New and other feasts observed by thai chinese vary , as are these calculated the chinese according toe calendar with to both respect . 
+
+# sent_id =554
+# text = he strengthened , , building the Walls of the ruler in the Delta East region defenses between Egypt and Asia in addition . 
+
+# sent_id =555
+# text = he reigned fifteen only , years which is evidenced by the incomplete nature of many of his constructions . 
+
+# sent_id =556
+# text = they both seem , despite this have to held parts at least of lower Egypt . 
+
+# sent_id =557
+# text = was Aldrin lured , on 2002 9 September , to a hills Beverly hotel on the pretext of being interviewed for television show a Japanese 's children on the subject of space . 
+
+# sent_id =558
+# text = has been Aldrin married three times . 
+
+# sent_id =559
+# text = he became , in 1519 ruler of the Habsburg empire . he and , gained in 1530 the title Roman Holy Emperor 
+
+# sent_id =560
+# text = had been Charles seen , , despite harsh his actions as a empathetic to the needs of the Netherlands ruler . 
+
+# sent_id =561
+# text = presented a league of 400 about members of the nobility , , to suspend until had the rest returned persecution in 1566 a petition to the governor Margaret of Parma . 
+
+# sent_id =562
+# text = it struggle is put serious limits on the military power could it deploy against the rebels in the Netherlands . against the Ottoman Empire in the Mediterranean Sea 
+
+# sent_id =563
+# text = a bronze 
+
+# sent_id =564
+# text = was there observatory astronomical age constructed and continuously served the nearby community that there lived until about 700 Br around 1900 BC . 
+
+# sent_id =565
+# text = was the space central used to observe the rising of the sun and full moon . 
+
+# sent_id =566
+# text = locate markings three sunrise at and winter solstices the summer at the and two equinoxes . 
+
+# sent_id =567
+# text = four more give : the maximum minimum and declinations of the full moon in summer in and , winter . 
+
+# sent_id =568
+# text = twill measure the lengths of lunar months . 
+
+# sent_id =569
+# text = resides importance its in two facts . 
+
+# sent_id =570
+# text = in was a system third Use during the classic Post - period in Yucatán . 
+
+# sent_id =571
+# text = is much the origin of the word Hispania disputed are and the evidence for the various speculations upon likely to be accidental and supporting , evidence suspect what merely are at best mere resemblances , based . 
+
+# sent_id =572
+# text = but was also big the impact of Hispania in the newcomers . 
+
+# sent_id =573
+# text = was the peninsula divided , in two by the Romans during the first stages of Romanization for administrative purposes . 
+
+# sent_id =574
+# text = made the emperor Caracalla a new division which lasted a short only time by the 3rd century . 
+
+# sent_id =575
+# text = had they been so moved that they referenced it when naming him when was child first their born by the beauty of the Lake Rudyard area . 
+
+# sent_id =576
+# text = met Kipl also , and fell with Florence Garrard who was boarding with Trix had Trix to which returned # $ at Southsea in love during there his time . 
+
+# sent_id =577
+# text = worked Stephen , wheeler the editor hard , Kipling but was need to write 's Kipling , unstoppable . 
+
+# sent_id =578
+# text = appeared back , in Lahore some stories nine thirty - in the Gazette between 1886 November and 1887 June . 
+
+# sent_id =579
+# text = he had been thinking increasingly , by this time about the future . 
+
+# sent_id =580
+# text = Jin Ping 
+
+# sent_id =581
+# text = Mei , published in 1610 marks , , although incorporating earlier material the trend toward independent composition and concern with psychology . 
+
+# sent_id =582
+# text = all had Higher enrollment secondary male school , per capita income and economic growth rate significant effects on reducing the chance of civil war . 
+
+# sent_id =583
+# text = reduced specifically a enrollment secondary male school 10 % above the average , , while a rate growth resulted higher than the study average 1 % in a decline in the chance of a civil war of about 1% the chance of a conflict by 3 about % . 
+
+# sent_id =584
+# text = interpreted the study these three factors as proxies for earnings forgone by rebellion and therefore that earnings lower forgone , encourage rebellion . 
+
+# sent_id =585
+# text = Phrased : another way are males young who up make # the vast majority in civil wars of combatants $ less likely if are they getting a education or have a comfortable salary to join a rebellion cannot and reasonably , assume that wo they prosper in the future . 
+
+# sent_id =586
+# text = has been low per capita income proposed , prompting armed rebellion as a cause for grievance . 
+
+# sent_id =587
+# text = it is guarantee promised to dissolve inter-communal tensions and transform the empire into a harmonious more place of liberties . 
+
+# sent_id =588
+# text = turned the revolt Arab which began in 1916 the tide against the Ottomans on the eastern Middle , front they where initially seemed to have the upper hand during the first two years of the war . 
+
+# sent_id =589
+# text = it specifically discusses the socially and culturally degenerative effects of war on humanity itself in several passages . 
+
+# sent_id =590
+# text = was Heinrich priest Dominican Kramer assistant to the Archbishop of Salzburg . 
+
+# sent_id =591
+# text = cautioned the Inquisition Spanish to not believe everything the Malleus said in 1538 its members . 
+
+# sent_id =592
+# text = was contrary baptism forced to the law of the Catholic Church could and anybody theoretically who had been forcibly baptized legally , return to Judaism . 
+
+# sent_id =593
+# text = had Spain expelled ; many of these Spanish Jews left Spain for Portugal but were there eventually as well targeted in 1492 Sephardic its population . 
+
+# sent_id =594
+# text = was now the border eastern Macedonian with Thrace secured at the river Nestus Mesta # $ . 
+
+# sent_id =595
+# text = marched Philip next against southern his enemies . 
+
+# sent_id =596
+# text = he defeated in Thessaly his enemies in he and was firmly , control by 352 of this region . 
+
+# sent_id =597
+# text = the army Macedonian far as as the pass which divides Greece in two parts of Thermopylae advance it but did not , attempt to take it because it was strongly guarded by a joint force of Athenians and , Achaeans , Spartans . 
+
+# sent_id =598
+# text = assembled Philip , having secured the bordere regions of Macedon a large Macedonian army and deep marched into Thrace for a long conquering campaign . 
+
+# sent_id =599
+# text = was Catherine of Russia also very satisfied . 
+
+# sent_id =600
+# text = was Harbor Pearl frequently used , in American propaganda throughout the war . 
+
+# sent_id =601
+# text = blinded this vision idealized of the Romanov monarchy him to the actual state of his country . 
+
+# sent_id =602
+# text = a was the Empire Russian agglomeration of diverse ethnicities that had shown significant signs of disunity in the years before the World first War . 
+
+# sent_id =603
+# text = emerged this state city - in the same period as Sukhothai . 
+
+# sent_id =604
+# text = led this contact with the west during the 16th century as were routes lucrative trade established to a period of economic profound growth . 
+
+# sent_id =605
+# text = performed the Army well in Cuba in combat . 
+
+# sent_id =606
+# text = it was too however oriented , to small posts in the West and not as well prepared - for a overseas conflict . 
+
+# sent_id =607
+# text = it relied on , volunteers which faced logistical , training and food problems in the staging areas in Florida and militia state units . 
+
+# sent_id =608
+# text = fred the States United Cuba after a occupation # by the U.S. Army $ . 
+
+# sent_id =609
+# text = cedded Spain its colonies of Puerto Rico , Guam the and , Philippines to the United States by the peace treaty . 
+
+# sent_id =610
+# text = was launched the offensive against the Huge army enlisted by Venice from france . 
+
+# sent_id =611
+# text = had dropped the population of Venice , by 1563 to 168,000 about people . 
+
+# sent_id =612
+# text = was mainly Education during the renaissance composed as it was thought that the classics provided moral instruction a and intensive understanding of human behavior of ancient literature and history . 
+
+# sent_id =613
+# text = been however there has analysis extensive statistical of Demographic and population data which includes , women in childbearing especially their roles , , . 
+
+# sent_id =614
+# text = most of the information about the period comes from burial sites the and grave goods contained within them . 
+
+# sent_id =615
+# text = were there families only forty around there living with plenty of good farming land and grazing for cattle at this time . 
+
+# sent_id =616
+# text = extended further the influence of new their alphabet , as out Greece west sent colonies towards Sicily , Pithekoussae # Cumae $ and Italy . 
+
+# sent_id =617
+# text = were ago as 5,000 as early possibly years Bananas , , which were first domesticated in Southeast Asia Papua New likely most guinea and plantains re-domesticated , in Africa . 
+
+# sent_id =618
+# text = could provide animals certain , leather , hides , wool and , fertilizer besides a being direct source of food . 
+
+# sent_id =619
+# text = about was a change fundamental in working principles brought Scotsman by James Watt . 
+
+# sent_id =620
+# text = created the Revolution Industrial a demand for metal parts used in machinery . 
+
+# sent_id =621
+# text = Sparta established , itself in the Second Messenian War as a local power in Peloponnesus the and rest of Greece . 
+
+# sent_id =622
+# text = was T Ford proclaimed in the international as the influential most car of the 20th century 
+
+# sent_id =623
+# text = CAR of the century awards . 
+
+# sent_id =624
+# text = spurred models Rambler sized compact - American 's Motors the success GM and Ford to introduce in 1960 own downsized their cars . 
+
+# sent_id =625
+# text = is only slightly relaxed this convention it and is still now to use the given name unadvisable among friends but is still use of the family name , common in modern age . 
+
+# sent_id =626
+# text = is it considered , extremely inappropriate to use the given name . in the case of the imperial family 
+
+# sent_id =627
+# text = has been it customary , to have one era per emperor and to rename each Emperor using the name of the era he over which presided after his death since Meiji Emperor . 
+
+# sent_id =628
+# text = were frequently more the names of the eras changed , prior toe Emperor Meiji and were the names posthumous of the Emperors , chosent in a different manner . 
+
+# sent_id =629
+# text = are to often the emperors referred , , , beginning with Emperor ShŁwa whilst both alive and posthumously outside Japan by givened their names . 
+
+# sent_id =630
+# text = were killed , , in Asia the and Pacific by the Japanese OCCUPATION forces and chinese mostly estimated # at 7.5 million $ 3 million between 10 million thenning more , civilians . 
+
+# sent_id =631
+# text = had the allies , , significant advantages in both population and economics in Europe before the outbreak of the war . 
+
+# sent_id =632
+# text = changed warfare land from the static front of War World I lines to increased mobility and combined arms . 
+
+# sent_id =633
+# text = received also troopers British cavalry excellent swordsmanship mount training . 
+
+# sent_id =634
+# text = assert some historians , such ask Chandler and Weller , that were the cavalry heavy British destroyed first epic following their , charge as a viable force . 
+
+# sent_id =635
+# text = is West North - India the source of Southasian Ancestry in Roma to a genetic according study on autosomal data on Roma . 
+
+# sent_id =636
+# text = Explanations of the origin of music depend on is how music defined . 
+
+# sent_id =637
+# text = are ardent both males and females singers among humans a and is communal mostly , activity making music . 
+
+# sent_id =638
+# text = found China , itself fighting after the General Governor - of Hunan and , Hubei Lin Zexu banned , the foreign trade of opium the Opium first War with Great Britain in 1839 . 
+
+# sent_id =639
+# text = was China defeated and , agreed in 1842 to the provisions of the Treaty of Nanking . 
+
+# sent_id =640
+# text = was Island Kong Hong cedded to Britain and were ports certain , including Shanghai and Guangzhou , , opened to British trade and residence . 
+
+# sent_id =641
+# text = out broke the War Opium Second ; , in 1856 were the Chinese again defeated and forced to the terms of the 1858 Treaty of Tientsin the and 1860 convention of Peking . 
+
+# sent_id =642
+# text = opened the treaty new ports to trade and allowed to travel in the interior foreigners . 
+
+# sent_id =643
+# text = accompanied Lamarr Mandl to business meetings he where conferred with scientists involved in military technology and other professionals . 
+
+# sent_id =644
+# text = include earliest inventions 's Lamarr a improved traffic stoplight a and tablet that would dissolve to create a carbonated drink in water . 
+
+# sent_id =645
+# text = she was offered several scripts television , commercials and stage , projects but none piqued , her interest . 
+
+# sent_id =646
+# text = was Joseph , Darnand who became a ss officer and led the Milice paramilitaries who down hunted members of the Resistance executed , in 1945 October . 
+
+# sent_id =647
+# text = had De Gaulle instructed that there no displays excessive of public affection towards Churchill and no official awards without prior his agreement are . 
+
+# sent_id =648
+# text = chronicles the film the destruction of life 's Carangi and career as a result of her addiction to heroin and her , decline from Aids in the mid-1980s and death . 
+
+# sent_id =649
+# text = it was late rather in the war completed ; , it came too late to make much difference although were a number of b 29 - equipped it and well worked with Eagle . 
+
+# sent_id =650
+# text = was controll Ground approach the system radar is Alvarez for which best known which and has , played a major role in aviation in the Berlin war post particularly most airlift , GCA # $ . 
+
+# sent_id =651
+# text = Gca allows , using to achieve a high very angular resolution dipole antenna 's Alvarez based - ground radar operators watching special precision displays to guide by transmitting verbal commands to the pilot a landing airplane to the runway . 
+
+# sent_id =652
+# text = was simple the system and well , worked , with untrained previously even pilots , direct . 
+
+# sent_id =653
+# text = was it so successful that continued the military to use it after the war for many years in it and still was , use in some countries in the 1980s . 
+
+# sent_id =654
+# text = were quarters new indigenous created , with population growth . 
+
+# sent_id =655
+# text = captured the Alliance of Democratic Forces for the Liberation of Congo rebels Lubumbashi in 1997 April . 
+
+# sent_id =656
+# text = serves the altitude high to cool the climate , which would be very otherwise hot . 
+
+# sent_id =657
+# text = reduced health fail output 's Hitchcock during the last two decades of his life . 
+
+# sent_id =658
+# text = sometimes films 's Hitchcock feature characters struggling in their relationships with their mothers . 
+
+# sent_id =659
+# text = preferred Hitchcock to work - with the best talent of his day poster film designers such ask Bill - gold who would produce posters that accurately represented his films and Saul bass . 
+
+# sent_id =660
+# text = gripped a clash mental , Herzl between the craving for literary success a and desire to act as a public figure . 
+
+# sent_id =661
+# text = was Herzl visited , on 10 1896 March , to the British embassy by Reverend , William Hechler the Anglican minister . 
+
+# sent_id =662
+# text = he is shown , a to adepted be guitar player during one episode . 
+
+# sent_id =663
+# text = a is persistent Lenny bachelor who has poor luck with women . 
+
+# sent_id =664
+# text = it is implied , a he is undercover agent is target whose Homer on one occasion . 
+
+# sent_id =665
+# text = Winstone enrolled , deciding to pursue drama at the stage Corona Academy in Hammersmith . 
+
+# sent_id =666
+# text = met Winstone , while filming in 1979 that summer his wife , Elaine . 
+
+# sent_id =667
+# text = was Winstone declared and again on 1993 19 March bankrupt on 1988 4 October . 
+
+# sent_id =668
+# text = out found also Disney that universal owned the property intellectual Rights to Oswald . 
+
+# sent_id =669
+# text = won Disney another Honorary Academy Award , which consisted of sized full - and seven miniature Oscar one statuettes . 
+
+# sent_id =670
+# text = gives this card a allowance that cannot be withdrawn in order to buy school needs such ask books and uniforms from ATMs . 
+
+# sent_id =671
+# text = he also built traditional five markets in 2013 and traditional four markets in 2014 and renovated . 
+
+# sent_id =672
+# text = declared Prabowo rival his Subianto also however , , leaving confuse Indonesian citizens victory . 
+
+# sent_id =673
+# text = sought Jokowi to take responsibility for the decision to further increase by further removing subsidies fuel prices to prior taking office for outgoing President Yudhoyono . 
+
+# sent_id =674
+# text = also claims biography official his that Kim composed six operas and staging elaborate musicals enjoys . 
+
+# sent_id =675
+# text = he was able , out to work a compromise : would he attend a university would but , study literature with advice from Alexander . 
+
+# sent_id =676
+# text = enrolled Barrie he where wrote drama reviews for the evening Edinburgh Courant at the University of Edinburgh . 
+
+# sent_id =677
+# text = he graduated and obtained a M.A. 
+
+# sent_id =678
+# text = on April 1882 21 . 
+
+# sent_id =679
+# text = he worked , a job following advertisement found by his sister in the Scotsman for a year a and half as a staff journalist on the Nottingham Journal . 
+
+# sent_id =680
+# text = he then returned to Kirriemuir . 
+
+# sent_id =681
+# text = were copies only 3000 published of the first edition . 
+
+# sent_id =682
+# text = had been respectively sales total of the power of now a and New Earth in North America estimated , by 2009 at million and million five three copies . 
+
+# sent_id =683
+# text = criticize some scholars christian , while others praise them teachings 's Tolle . 
+
+# sent_id =684
+# text = she ran , between 1991 and 1997 a school for children with learning disabilities . 
+
+# sent_id =685
+# text = about is Margaret latest non-fiction her , Douglas Countess of Lennox . 
+
+# sent_id =686
+# text = she easy found , explaining , a is learning every book curve " you and have , to keep a open mind the transition to fiction " . 
+
+# sent_id =687
+# text = decided ultimately the filmmakers , to the princess have animated at entirely one studio to avoid experiencing a similar dilemma with Jasmine . 
+
+# sent_id =688
+# text = became Jasmine , with appearance her finalized first non-white princess 's Disney as to opposed of European being heritage . 
+
+# sent_id =689
+# text = Jasmine also thematically represents , civil Rights the and pursuit of happiness racial , tolerance social , hierarchy , liberty as ask well , life . 
+
+# sent_id =690
+# text = there however was no recognition public further of wartime her resistance and humanitarian work , after until the end of communist rule in Poland . 
+
+# sent_id =691
+# text = really 
+
+# sent_id =692
+# text = love really 
+
+# sent_id =693
+# text = you was released ; appeared , in September in the but was already Geyer US in August and reach the top 50 shaky , ground the related single " " . 
+
+# sent_id =694
+# text = returned Geyer , having enjoyed a career peak at home in Australia to live to concentrate on there break into the musical scene in 1984 in Los angeles . 
+
+# sent_id =695
+# text = thought , after had progress its 200 stalled in the Billboard at 96 No. 
+
+# sent_id =696
+# text = ya ' 
+
+# sent_id =697
+# text = know climbed to no. 
+
+# sent_id =698
+# text = 31 in the UK but the album , charted for only two weeks in the UK . 
+
+# sent_id =699
+# text = took Peniston , playing the Good Witch as Glinda in a theatrical production of musical play the Wiz following her dismissal . 
+
+# sent_id =700
+# text = was Wilkes re-elected , before the House of Commons resolved that was candidature his invalid and the runner up - declared as the victor and more twice expelled . 
+
+# sent_id =701
+# text = disintegrated government 's Grafton , allowing the Tories by Lord North led to return to power in 1770 . 
+
+# sent_id =702
+# text = was deeply George devout and spent hours in prayer but was not piety his , shared by his brothers . 
+
+# sent_id =703
+# text = was appalled George by what he saw as loose their morals . 
+
+# sent_id =704
+# text = was brother his Prince Henry and Strathearn , Duke of Cumberland exposed , , in 1770 and Cumberland , married a young widow , Anne Horton the following year as a adulterer . 
+
+# sent_id =705
+# text = was one album her 1981 wild West of biggest her sellers . 
+
+# sent_id =706
+# text = had her left spending extravagant a and string of bad investments by her investors broke nearly , by this time . 
+
+# sent_id =707
+# text = released the band Icelandic Sigur Rós , a video for the , , song Fjègur Pèank " " he in which appears nude starring Labeouf in 2012 June . 
+
+# sent_id =708
+# text = called dispatch Post Louis it one of best performances 's Labeouf . 
+
+# sent_id =709
+# text = the car burst and Kenseth away walked , into flames . 
+
+# sent_id =710
+# text = was Elliott attending funeral 's his father on the day of the race . 
+
+# sent_id =711
+# text = he dominated , in 2003 and became the cup NASCAR Winston 2003 champion , the last driver to ever hold that title and leading the last 33 of 36 races in the points standings . 
+
+# sent_id =712
+# text = released Rafferty in what Tom musicianed Robinson later described as a major return " to form " further two albums in the 1990s . 
+
+# sent_id =713
+# text = reunited him with his Stealers on a wing a and prayer 1992 # $ 
+
+# sent_id =714
+# text = Wheel partner Egan on several tracks . 
+
+# sent_id =715
+# text = it included three tracks cowrited with , brother 's Rafferty Jim a singer also , songwriter - who had been signed to Decca Records in the 1970s . 
+
+# sent_id =716
+# text = recorded Rafferty a new version of Humblebums his song did not father her Anyway like me " " on the album 1994 # $ over my head . 
+
+# sent_id =717
+# text = the were these last two Records Rafferty produced with Hugh , Murphy who died in 1998 . 
+
+# sent_id =718
+# text = were involved people 330,000 at least , including 10,000 technicians , . 
+
+# sent_id =719
+# text = had Stalin begun to encourage Abakumov to form to counter dominance 's Beria of the power ministries own his network inside the Mgb . 
+
+# sent_id =720
+# text = allowed the patterns presented from the Petén region and Uaxactun by the data for to sites these fit within the cultural development of the Maya lowlands . 
+
+# sent_id =721
+# text = peaceful ultimately " " assumes the article by Thompson that were the Maya people since they lacked apparent defens . 
+
+# sent_id =722
+# text = are not Sails represented , it is instead , theorized that were canos used as a primary mode for the ancient Maya of water transportation in Mesoamerican prehistoric iconography or texts . 
+
+# sent_id =723
+# text = took over Starlin as plotter the following issue and , began developing a elaborate story ARC centered on the villainous 
+
+# sent_id =724
+# text = Thanos and , spread across a number of Marvel titles . 
+
+# sent_id =725
+# text = contributed Starlin Concurrently , a cache of stories to Star published independently the anthology fiction science - reach in the mid-1970s . 
+
+# sent_id =726
+# text = a was direct Mishima descendant , of Tokugawa Ieyasu through his grandmother . 
+
+# sent_id =727
+# text = up took Mishima , in 1955 weight training and was not regimen workout his of three sessions per week disrupted for the final 15 years of his life . 
+
+# sent_id =728
+# text = espoused Mishima a individual very brand of nationalism towards the end of his life . 
+
+# sent_id =729
+# text = was Blunt named , in 2011 the ambassadress of the new , fragrance Laurent Yve Saint Opium . 
+
+# sent_id =730
+# text = in the film British comedy 2011 salmon Fishing , directed by Lasse Hallstrwm and co-starring Ewan McGregor and Kristin Scott Thomas in the Yemen stared Blunt . 
+
+# sent_id =731
+# text = she appeared briefly also , , in the Muppets 's Disney that year as miss 's Piggy receptionist . 
+
+# sent_id =732
+# text = she stared in the 2012 film 
+
+# sent_id =733
+# text = the year five - engagement , directed by Nicholas Stoller and co-starring Jason Segel . 
+
+# sent_id =734
+# text = began Blunt ; , filming a American fiction science - film , , directed by Rian Johnson and co-starring Bruce Willis and Joseph Levitt Gordon - Looper in 2011 January was the film released in 2012 September . 
+
+# sent_id =735
+# text = tried Valentino to distance the character from a stereotypical portrayal of a Arab man . 
+
+# sent_id =736
+# text = was Joseph Schenck interested in casting his wife , , opposite Valentino Norma Talmadge in a version of Romeo and Juliet . 
+
+# sent_id =737
+# text = visited Lord , Halifax the Lord president of the Council privately , Germany in November and met Hitler and German other officials . 
+
+# sent_id =738
+# text = Chamberlain placed , in shortly addressing after forces German crossed the border the cabinet blame on both Germany and Austria . 
+
+# sent_id =739
+# text = shot guards Czech border , German Sudeten two farmers who were trying to cross without stopping for border controls the border into Czechoslovakia in May . 
+
+# sent_id =740
+# text = was often Marcelle left , while were out Piaf and Mémone on the streets at the club or singing alone during this time in the room . 
+
+# sent_id =741
+# text = were these forgottened completely almost after until death 's Smith . 
+
+# sent_id =742
+# text = involves another theme of the Skylark novels precursors of modern information technology . 
+
+# sent_id =743
+# text = had Meyer written early as as 1926 , suggesting that Rona work with her to learn could how laboratory his make own polonium their samples to Irène Curie Joliot - . 
+
+# sent_id =744
+# text = allowed Joliot Curie - , her once was Hans Pettersson able to secure to pay expenses 's Rona funds to come and study polonium separation at the Curie Institute in Paris . 
+
+# sent_id =745
+# text = developed Rona a enhanced method of preparing polonium sources and producing alpha emissions - . 
+
+# sent_id =746
+# text = she took back to the Radium Institute , gaining recognition as a expert in the field those skills with a along small disc of polonium . 
+
+# sent_id =747
+# text = allowed this disc Rona to create lab specimens , which were used in much of subsequent research the 's Institute of polonium . 
+
+# sent_id =748
+# text = she appeared on Ctv Montreal as a weather guest anchor during the off 2013 season - . 
+
+# sent_id =749
+# text = she faced next defending champion Sara Errani and top seed but was , defeated . 
+
+# sent_id =750
+# text = suffered Bouchard a shocking set three - loss . 
+
+# sent_id =751
+# text = became Joan , when daughter their Cecily married Richard , Plantagenet the 3rd Duke of York and , had several offspring , including Edward Iv and Richard III the grandmother of York two kings of England . 
+
+# sent_id =752
+# text = died John of Gaunt in 1399 . 
+
+# sent_id =753
+# text = was released the knight Lyvet and follower his throw into the Tower . 
+
+# sent_id =754
+# text = he was ago divorced long not but , carried the torch after the marital rift from the , actress Gloria Holden . 
+
+# sent_id =755
+# text = he co-stared as younger , , , brother played by Audrey Hepburn 's Humphrey Bogart in Sabrina 1954 # $ a carefree playboy . 
+
+# sent_id =756
+# text = he chose to not seek a third term in the following election cycle . 
+
+# sent_id =757
+# text = was the campaign presidential 1980 between Reagan and incumbent President Jimmy Carter conducted during domestic concerns the and ongoing hostage Iran crisis . 
+
+# sent_id =758
+# text = captured Republicans the Senate since 1952 for the first time and , gained 34 
+
+# sent_id =759
+# text = House seats but the Democrats , retained a majority . 
+
+# sent_id =760
+# text = he recovered and was , released becoming the U.S. first serve president to survive being shot in a assassination attempt on 11 April from the hospital . 
+
+# sent_id =761
+# text = believed Reagan that had god spared so thatt might he on go to fulfill a greater purpose his life . 
+
+# sent_id =762
+# text = is Bloch concerned to establish hope as the guide principle of his Marxism and stresses the inherent in mystical tradition implied humanism . 
+
+# sent_id =763
+# text = would therefore have a theology proper to be constructed in the light of future its goal . 
+
+# sent_id =764
+# text = moved Pebe , after securing a new publishing deal for her songwriting in 1991 the family to Nashville , Tennessee . 
+
+# sent_id =765
+# text = co-writed Kesha and Pebe together when was Kesha 16 the song Stephen " " down then Kesha , tracked , David , Gamson from Scritti Politti who agreed to produce the song a producer she that admired . 
+
+# sent_id =766
+# text = has Kesha released , little information about upcoming studio third her album as of 2015 August . 
+
+# sent_id =767
+# text = it reached him he but , refused to believe that she wanted longer no to be married to him this time . 
+
+# sent_id =768
+# text = was Wright born in Poole , Dorset up but grew , in predominantly Wells , Somerset . 
+
+# sent_id =769
+# text = has Wright a brother , , a who is book comic artist Oscar , contributing storyboards for films 's Edgar and promotional pictures conceptual , art . 
+
+# sent_id =770
+# text = a is of director fellow Wright friend Garth Jennings and , made cameos in his films the Hitchhiker's Guide to the Galaxy and Son of Rambow . 
+
+# sent_id =771
+# text = did not fulfill the powers Great the requests for recognition of Albania . 
+
+# sent_id =772
+# text = rejected the ambassadors of all Great six powers the plan for establishing a independent Albania at the beginning of the London conference in 1912 December . 
+
+# sent_id =773
+# text = they decided instead , that under would be Ottoman Albania suzerainty with a but autonomous government . 
+
+# sent_id =774
+# text = realized the powers Great , after it became obvious that would Empire Ottoman all of Macedonia and territorial its connection with Albania lose they had to change their decision . 
+
+# sent_id =775
+# text = partitioned the Treaty , signed on 1913 30 May of London , , significant part of territory claimed by Albania , ethnic regardless its composition between the Balkan allies reducing the territory of Albania to central its regions . 
+
+# sent_id =776
+# text = were able the officers to subdue old the 53 year on Sunday morning during the act . 
+
+# sent_id =777
+# text = replaced King Salaman the political veteran with the , head Mohammed Jadaan al - of financial oversight . 
+
+# sent_id =778
+# text = are natural oil products such ask wheat , , gold or food Resources , , worldwide in which investors invest billions . 
+
+# sent_id =779
+# text = he has shot , a record number of goals for the DfB with 71 goals in international 137 matches . 
+
+# sent_id =780
+# text = are Investigating the police Essen , four people who by stood and watched while a retiree died in a bank with the help of card debit data . 
+
+# sent_id =781
+# text = out did not rule the spokesman the possibility that would be also others investigated . 
+
+# sent_id =782
+# text = cannot save users many , 100 euros because the is old series 1 longer no one . 
+
+# sent_id =783
+# text = clearly shows the photo the narrow touch display bar that has been anticipated in rumors above the keyboard . 
+
+# sent_id =784
+# text = does one not know would have together both dramatists worked in which way . 
+
+# sent_id =785
+# text = has shown a study Swedish that seldom if at all animals , , land after the breeding month 2 period . 
+
+# sent_id =786
+# text = are active agents Russian Service Secret , to according Parker in large numbers in Great Britain . 
+
+# sent_id =787
+# text = announced Russia a suspension of the contract at the beginning of October . 
+
+# sent_id =788
+# text = delineates the law : a number of conditions could back into effect fulfillment whose bring the agreement would the USA have to all of its troops withdraw all of the sanctions against Russia rescind , from countries who joined NATO after 2000 as ask well reimburser the costs that have been incurred as a result of the sanctions . 
+
+# sent_id =789
+# text = a it is political process it was so said I have and , decided to be not present . 
+
+# sent_id =790
+# text = then come the councils turkish work , if a employee turkish quits . 
+
+# sent_id =791
+# text = the are structures stale , a and satisfied - self elite reason in is why such bad the system health and foreign trade in the USA , education shape from this point of view . 
+
+# sent_id =792
+# text = cannot only Kłhn shake his head . 
+
+# sent_id =793
+# text = inquired the newspaper die ZEIT " " first about dubious cash its flows the and threat in July of insolvency with the estate real business . 
+
+# sent_id =794
+# text = up starts the hour witching at least by the hit 60s in the Monster such ask mash , time is the organ scary played . 
+
+# sent_id =795
+# text = Von 
+
+# sent_id =796
+# text = justified Beust the cost increases as lack of detailed planning . 
+
+# sent_id =797
+# text = around Simon Krótschmer alone gropes through the dilapidated sinister , barrack . 
+
+# sent_id =798
+# text = that is because each every and and each district specialize miracle occupies a entire field . 
+
+# sent_id =799
+# text = was completely Production of the smartphone model discontinued . 
+
+# sent_id =800
+# text = it was August 2015 30 , , as a army of ducks conquered the internet . 
+
+# sent_id =801
+# text = received the generation smartphone , a ApP where received the situation idiotic most , , a audience of millions in the best case scenario it deserved . 
+
+# sent_id =802
+# text = was Vine art , in six seconds on the other hand . 
+
+# sent_id =803
+# text = he and is world also now champion . 
+
+# sent_id =804
+# text = nevertheless marks the finale season , the end of a unbelievable year for Kerber . 
+
+# sent_id =805
+# text = the old - 28 year lose , for the first time in the final game against Serena Williams after the sensation at the Australian Open . 
+
+# sent_id =806
+# text = it is now only unclear , which in one . 
+
+# sent_id =807
+# text = you do argue with alarm your clock # 
+
+# sent_id =808
+# text = it is clear : 
+
+# sent_id =809
+# text = could have man more responsibility in matters of contraception . 
+
+# sent_id =810
+# text = the was last rest a grave which had been embedded in the chalkstone place , of Jesus to christian according belief . 
+
+# sent_id =811
+# text = is unclear the reason for advertising the video in Germany . 
+
+# sent_id =812
+# text = I was asked , , whether I knew the writer G/nter Bruyn de whether we and are intellectual relatives by the officers in dumb inimitably their way . 
+
+# sent_id =813
+# text = told the investigator canadian Larry Vance of the plane crash - that he is convinced that had one of the pilots intended to land the machine on the ocean surface so thatt would it sink SPIEGEL . 
+
+# sent_id =814
+# text = draw the experts australian new conclusions from the investigation of a landing flap that up had washed in East Africa in Tanzania from Boeing . 
+
+# sent_id =815
+# text = over might be not the issue for Barroso . 
+
+# sent_id =816
+# text = caused the exchange of Barrosos a big stir . 
+
+# sent_id =817
+# text = said Dvndar , a are the arrests current continuation " of the shenanigans against us " . 
+
+# sent_id =818
+# text = has together brought the deal between Aoun and Hariri closer , the enemy two factions for the be time . 
+
+# sent_id =819
+# text = pardoned the husband of the current candidate for the White House , Hillary Clinton , , a number of , people also including Rich on the last , day 20 2001 January , of his presidency . 
+
+# sent_id =820
+# text = warned Dvndar Europe about having much too understanding for course 's Erdogan . 
+
+# sent_id =821
+# text = Adnan Z . 
+
+# sent_id =822
+# text = is Amin , General director of the International Organization for renewable Energies IRENA # $ certain " : cannot power offshore wind become the top power generator in a global economy that is free of based - coal energy " . 
+
+# sent_id =823
+# text = pushed up promptly the numbers good in Asia the stock markets . 
+
+# sent_id =824
+# text = one expects a bump from the booming estate real market and federal increasing expenditures . 
+
+# sent_id =825
+# text = are eye especially the paintings two by Lucas Cranach the elder on display catching - . 
+
+# sent_id =826
+# text = wo not completely therefore Disappear the signs irksome : 
+
+# sent_id =827
+# text = wo they be only activated , if a is not the or label artist record , , member of GEMA and does not have a agreement with YouTube for instance to according information from the agency news dpa . 
+
+# sent_id =828
+# text = only not attack the contaminants ; the undevelop lungs of the little ones cannot they also lead to term long - impairment in the development of the adolescent brain . 
+
+# sent_id =829
+# text = is no it surprise that have classified the governments federal and state the Natural National Heritage as a wide - nation endeavor of the highest priority have and documented it starting in 2005 in a coalition contract . 
+
+# sent_id =830
+# text = has been upon hardly letter 's Mr. Comey commented , unlike that of the 28th of October . 
+
+# sent_id =831
+# text = he assured , if opponent democrat his were to be elected that under would she be investigation ' for years ' . 
+
+# sent_id =832
+# text = mocked Obama , " cannot they not handle , if cannot somebody not handle a Twitter account the nuclear codes " . 
+
+# sent_id =833
+# text = wo she speak , at 23.45 to the according programme . 
+
+# sent_id =834
+# text = could the States United of America elect , the first female president on Tuesday in its history . 
+
+# sent_id =835
+# text = leave relations 's Ms. Clinton over the past twenty years with the continent much to be desired , on the other hand . 
+
+# sent_id =836
+# text = have taken conservatives Islamic the 's AKP this refusal as justification for the questionings . 
+
+# sent_id =837
+# text = is a majority party third - needed , , whereas are votes 330 required in order to trigger a referendum the specifically votes of 367 MPs out of 550 # $ . 
+
+# sent_id =838
+# text = decided the mayor of Gaudens - Saint in the Garonne Haute - region # $ , to suspend the urban development with the government formed in 2014 agreement on Thursday , the 3rd of November . 
+
+# sent_id =839
+# text = is the latter Overseeing the Republican primaries , Rachida Dati in which supports candidacy 's Nicolas Sarkozy . 
+
+# sent_id =840
+# text = the Minister former for Justice accused , Brice Hortefeux of a being fascist Minister , ' ' moron # of the Interior ' $ ' a and ' thug ' in the message . 
+
+# sent_id =841
+# text = What are the limits that could inhibit the expression of religious beliefs in private companeys # 
+
+# sent_id =842
+# text = if cannot be even the majority that arise in the workplace of situations resolved without conflict . 
+
+# sent_id =843
+# text = are allowed workers to keep religious objects on their desks # 
+
+# sent_id =844
+# text = said Ms. Gillard , the union Ouvrière force regrets that were not remarks its on the content of the guide included : there not really any consultation was " " . 
+
+# sent_id =845
+# text = is problematic the guide , because it has been firstly developed " in the context of a state of emergency " . 
+
+# sent_id =846
+# text = included this clause the time taken to travel to homes 's clients in working hours . 
+
+# sent_id =847
+# text = launched the organisations two a appeal out which was thrown by the court of Cassation on the 12th of October . 
+
+# sent_id =848
+# text = it aims to take , after deducting this without being able to measure the real journey time from the working hours actually completed the journey time into account . 
+
+# sent_id =849
+# text = more or less is the time working undertaken in this first hour equal to 45 minutes . 
+
+# sent_id =850
+# text = revealed the contingent French , " on is out Eta its way " . 
+
+# sent_id =851
+# text = he remarked also that could the existence of a such document lead " to consequences that are as likely as they are unacceptable " . 
+
+# sent_id =852
+# text = could the council French Digital , which advises in line with questions of digital technology on bills also scrutinise , it . 
+
+# sent_id =853
+# text = could up this plan government free , 42 million euros , would million 15.5 of which go towards security to Le according Figaro . 
+
+# sent_id =854
+# text = does not France have a good reputation . 
+
+# sent_id =855
+# text = was Tina Anselmi born ; she up grew in a Catholic anti-Fascist , family which was marked by the persecution of militant Socialist her father in Castelfranco Veneto on the 25th of 1927 March , . 
+
+# sent_id =856
+# text = attended Tina Anselmi , having been always close to the Catholic Union to the particularly Rights of textile workers and teachers . 
+
+# sent_id =857
+# text = is it difficult to think that Italy has fewer km of underground line than Madrid . 
+
+# sent_id =858
+# text = it has been emphasised that cannot we not absolutely continue with those against who are completely Italy . 
+
+# sent_id =859
+# text = wo we evaluate whether and how to continue onto the next section . 
+
+# sent_id =860
+# text = is Geronimo the song hit " by Sheppard " . 
+
+# sent_id =861
+# text = wo be those of age offered , 500 euros to be spent by 31st 2017 December by the state . 
+
+# sent_id =862
+# text = is a voucher generated cannot be that saved on your smartphone or , presented at the till . 
+
+# sent_id =863
+# text = wo there be a increase in petrol and diesel from the 1st of January . 
+
+# sent_id =864
+# text = have the Mestre CGI stated , that wo there no rise , in VAT be for at least 2017 in a note . 
+
+# sent_id =865
+# text = that at the is a level in both cases top of the EU . 
+
+# sent_id =866
+# text = relate the latest figures and us , tell that diesel our costs , 1,335 euros per litre with the eurozone compared average of 1,165 euros last year to the 24th of October . 
+
+# sent_id =867
+# text = a higher significantly cost which clearly exceeds the average of the , countries that adoep the single currency which is equal to 1,365 euros per litre . 
+
+# sent_id =868
+# text = Corrado Passera withdraws the offer for Mps due toe the attitude " of total closure has that the Bank shown to us " . 
+
+# sent_id =869
+# text = the is the decision prerogative , as stated of the ECB would and appear inappropriate for to the bank speak by excluding the possibility of looking at other alternatives on its behalf . 
+
+# sent_id =870
+# text = What is this has been written after the decision to leave the party of the ex-minister in a note to MPS . 
+
+# sent_id =871
+# text = wo it go for assessment . 
+
+# sent_id =872
+# text = were students at LUISS University told during the course of a meeting which took place in Rome . 
+
+# sent_id =873
+# text = met Pope Francis , Mark Zuckerberg and his wife at Santa Casa Marta this morning . 
+
+# sent_id =874
+# text = have developed students four at Tre Roma University a motorcycle helmet that cannot 'read by helping to anticipate actions ' drivers thoughts ' . 
+
+# sent_id =875
+# text = has one of the examples of research applied under safety measures also produced a humanoid robot to compete Valentino with Rossi . 
+
+# sent_id =876
+# text = wo Uber receive , a dollar billion investment a and seat on the board of directors of the chinese company in return . 
+
+# sent_id =877
+# text = are calling more than before ever companies more and more tech more even than in Silicon Valley , the shots on Wall Street . 
+
+# sent_id =878
+# text = has Amazon become the fourth American , company surpassing ExhonMobil with the largest market capitalisation . 
+
+# sent_id =879
+# text = wo attend leaders such ask Spotify and Snapchat , Uber , Tesla of companies a private event in addition to the View mountain Summit . 
+
+# sent_id =880
+# text = represents the president of the Community , of Madrid Cristina Cifuentes , , the most conservative while leaders , the Sectorial such ask under Secretary , - Javier Maroto of the party represent , the most progressive . 
+
+# sent_id =881
+# text = Durán acts as spokesman and #ngel Pintado as treasurer . 
+
+# sent_id =882
+# text = has dropped the rate of unemployment and there already people more 600,000 employed than there ago a year were are , below 20 % for the first time in the last six years . 
+
+# sent_id =883
+# text = has been not however devoid management its , , of criticism . 
+
+# sent_id =884
+# text = have been very combative the unions have and called on several occasions for the repeal of the legislation is of that Fètima B&*ez proudest . 
+
+# sent_id =885
+# text = now faces this department new challenges . 
+
+# sent_id =886
+# text = wo furthermore have the government , to deal with another hot potato " " . 
+
+# sent_id =887
+# text = has the Minister of Defense allowed her to remain for now General secretary of the party . 
+
+# sent_id =888
+# text = have said the sources consulted that it is % 100 Cospedal " " . 
+
+# sent_id =889
+# text = everyone not in the party understood , the messages that the president tried to send to them yesterday in spite of them . 
+
+# sent_id =890
+# text = Barán , Claret de the only one in government with a noble title . 
+
+# sent_id =891
+# text = said Pedro , S&nchez like many other socialists , Łveal that a is Spain nation of nations in the programme . 
+
+# sent_id =892
+# text = What and about the in what in historical Rights , parties # 
+
+# sent_id =893
+# text = said Federico Fellini once " to is the clown humanity as to is the shadow man " : . 
+
+# sent_id =894
+# text = he alone stands he and ultimately , , has out to bring the best of himself in order to make laugh the audience in front of the audience . 
+
+# sent_id =895
+# text = of out were this the battles and beatings , fights world in the war films or cowboy and indian films . 
+
+# sent_id =896
+# text = fit Emphasis fine , Irony blunt , innuendos and verbal other used well devexes but not do , flicking at each other and slapstick comedy into parliamentary oratory . 
+
+# sent_id =897
+# text = he believes that nobody waiting for us waits for us . 
+
+# sent_id =898
+# text = Why is that perhaps a surge of tears clouds his pupils while the syllable of time unearths his crop and surrenders his mystery to the bound waters . 
+
+# sent_id =899
+# text = must and they be greeted because they form the new generation of beauty and hope with a open spirit and clear mind . 
+
+# sent_id =900
+# text = is not very worried Trump , about the American Latin vite at a national level as a result . 
+
+# sent_id =901
+# text = suggests the voting early that wo out the Americans Latin come to vote in greater numbers this time but is it , whether wo have the increase a impact unclear . 
+
+# sent_id =902
+# text = told the opposition , " " El Mundo wo there protests it's all already planned and other things be , . 
+
+# sent_id =903
+# text = are celebratting already dozens of Fsln followers the victory in the Plaza las de Victorias . 
+
+# sent_id =904
+# text = has May received for avoiding after the Judicial ruling on Brexit and not openly responding to the media great criticism . 
+
+# sent_id =905
+# text = still attracts the theater open air founded in 1925 as games for everyman of St. Michael on the great steps in front , a diverse public . 
+
+# sent_id =906
+# text = took the dedication festive place on 30 1955 April , . 
+
+# sent_id =907
+# text = was a system telegraphic equipped with alarm fire 34 signals put , in 1882 in operation . 
+
+# sent_id =908
+# text = over were grounds of the former puppet , theater which had been left to the commune taken , , in 1992 by players and employees . 
+
+# sent_id =909
+# text = this has to do with one of the few buildings in the city center that was spared from destruction by the end of the Second World War . 
+
+# sent_id =910
+# text = was to the manufacturer Georg Reichenbach the cloister former sold , in 1832 with the stipulation to there establish a cotton factory by the state of W+rttemberg . 
+
+# sent_id =911
+# text = emigrated primarily the citizens Islamic who have settled since the beginning of the 1960s from Turkey . 
+
+# sent_id =912
+# text = the is former cloister among them from the Abbey church of St. Peter and Paul . 
+
+# sent_id =913
+# text = the hall historical city in Obermarsberg originates from the 13th century and was refurbished after War the 's thirty Years . 
+
+# sent_id =914
+# text = there are theories different about the reasons for leaving the place . 
+
+# sent_id =915
+# text = Park Gate golden , in length which is four over kilometers offers , a botanical garden Japanese , garden , planetarium a and aquarium . 
+
+# sent_id =916
+# text = it serves as a local place for San Franciscans of rest and relaxation . 
+
+# sent_id =917
+# text = was the garden Buena Yerba built at the beginning of the 1990s on the roof of the convention North Moscone Center . 
+
+# sent_id =918
+# text = it contains a monument to Martin , King Jr. Luther 
+
+# sent_id =919
+# text = in has been steep economy the 's city decline , since the 1960s . 
+
+# sent_id =920
+# text = was the Party Labor able , to win all voting seven districts during the general 2010 election . 
+
+# sent_id =921
+# text = were vigorously the both time the and sequence of events of this incident discussed . 
+
+# sent_id =922
+# text = announced the Minister Turkish President Erdogan , plans to free Bofphorus by parallel to it building the Istanbul Canal 's his government in 2012 April . 
+
+# sent_id =923
+# text = wanted the Ottomans to prevent because they had a great need for it grain from being further transported . 
+
+# sent_id =924
+# text = were the Empire Ottoman and Russia denied permission to keep war their fleets in the Black Sea . 
+
+# sent_id =925
+# text = it belongs to the reaching far- most , cultures are in which sites many known of the time in its scope . 
+
+# sent_id =926
+# text = back to the century early 5th BC dates the finding , like the majority of sites in southern Europe . 
+
+# sent_id =927
+# text = is likely #tzi the person known most well - from the Copper age , the frozen mummy who lived during 3300 BC . 
+
+# sent_id =928
+# text = on they were primarily hills . 
+
+# sent_id =929
+# text = is technologically noteworthy process its of gilding copper , in addition . 
+
+# sent_id =930
+# text = alarmed the severity the and presence of the revolution in the countryside the court in Versailles and National Assembly . 
+
+# sent_id =931
+# text = about was the event known in Paris and caused more upset in a mood which was already charge by the high persistently price of bread and lack of provisions . 
+
+# sent_id =932
+# text = did not take the king special precautions during his escape and was recognized multiple times during his stays . 
+
+# sent_id =933
+# text = was the hymn well received and the audience demanded a encore . 
+
+# sent_id =934
+# text = I declare over the first international Olympic games . 
+
+# sent_id =935
+# text = brought the War World first about shifts and new developments in colonial politics . 
+
+# sent_id =936
+# text = took earlier in than any other country the Revolution Industrial place in Great Britain . 
+
+# sent_id =937
+# text = showed the crisis suez the limits of the old colonial powers Great such ask Britain in a change world and France . 
+
+# sent_id =938
+# text = there were attempts dispersed back to win the old colonies after the seizure in 1933 by the National Socialists of power . 
+
+# sent_id =939
+# text = won some countries , such ask Finland the and Baltic States , Poland , , their independence after the Russian Revolution in 1917 . 
+
+# sent_id =940
+# text = the was one of last his means of placing pressure on Hungary threat of imposing general and free elections . 
+
+# sent_id =941
+# text = after the compromise and I Franz Joseph King , emperor . 
+
+# sent_id =942
+# text = took to equally both of his monarchies treat great care . 
+
+# sent_id =943
+# text = was the cloister Disibodenberg disbanded and fell as a result of the Reformation into ruin . 
+
+# sent_id =944
+# text = cannot be there ruins expansive viewed , today . 
+
+# sent_id =945
+# text = was the cloister Rupertsberg destroyed in 1632 during War the 's thirty Years by Swedish troops . 
+
+# sent_id =946
+# text = were the nuns displaceded moved to the Eibingen cloister . 
+
+# sent_id =947
+# text = over were later built the ruins . 
+
+# sent_id =948
+# text = he signed , a contract with Team Telekom and in moved with his girlfriend in Merdingen in Svdbaden , he where lived until 2002 after these successes . 
+
+# sent_id =949
+# text = in at the Olympic games in 2004 
+
+# sent_id =950
+# text = pursued Athens , Ulrich , , the goal of winning second Gold his medal as winner of the street race . 
+
+# sent_id =951
+# text = disposed the censorship ; had participation in public life become practically impossible . of all undesirable opinions 
+
+# sent_id =952
+# text = in the were the traces on the clothes of blood shape were they that reported to have by the news reports on the day of the murder . 
+
+# sent_id =953
+# text = was Weiss honored with the literature prizes from the cities of Cologne and Bremen . 
+
+# sent_id =954
+# text = pursued springer Privately publicly as ask well vigorously , reconciliation with the Jewish people and took many trips to Israel . 
+
+# sent_id =955
+# text = burned down completely the chalet . 
+
+# sent_id =956
+# text = he received , the distinction of the American friendship Medal for the friendly position of his press toward the USA in the following 1977 , year . 
+
+# sent_id =957
+# text = contain the districts Viguier Conte and La the majority of social , housing up is where mainly the population made of immigrants or those of immigrant origin the 's city . 
+
+# sent_id =958
+# text = is directly the history of Carcassonne linked to that of fortify its city . 
+
+# sent_id =959
+# text = there were doctors five per 100,000 inhabitants , in the early 2000s . 
+
+# sent_id =960
+# text = International Amnesty cites newspaper articles describing the murder of fifty people accused of witchcraft from 2008 . 
+
+# sent_id =961
+# text = sight Von Bellingshausen , before and did Palmer so ten months , in 1820 November sighted before land Bransfield three days Antarctica on the 27th of 1820 January . 
+
+# sent_id =962
+# text = Endurance the ship British , captained by Sir Ernest Shackleton set , , to cross the Antarctic sail with eight twenty men in the Endurance expedition in 1914 . 
+
+# sent_id =963
+# text = the was founding this up drawing act of Roman law the , institutions of the Roman republic the and mos maiorum . 
+
+# sent_id =964
+# text = was however Pyrrhus forced , to leave Sicily in order to attend to business in southern Italy . 
+
+# sent_id =965
+# text = began Greece , to emerge from the Dark Ages which followed the fall of the Mycenaean civilization in the century 8th BC . 
+
+# sent_id =966
+# text = had been Literacy lost but the Greeks , adopted , it modifying to create the greek alphabet the Phoenician alphabet and script Mycenaean forgottened . 
+
+# sent_id =967
+# text = began the texts greek first , to appear from the century 9th BC . 
+
+# sent_id =968
+# text = was Greece divided : into many small governing self - , , communities a pattern largely dictated by greek geography off is every island and plain , valley cut from its neighbours by the or mountain sea ranges . 
+
+# sent_id =969
+# text = began from about states BC city the 8th century to appear : 
+
+# sent_id =970
+# text = small governing - self territories , with political own their systems . 
+
+# sent_id =971
+# text = did not Christians most have , access to the Bible in the Middle Ages in mother their tongue . 
+
+# sent_id =972
+# text = did they not however expand , until were ships big cross to sea enough built . 
+
+# sent_id =973
+# text = was Trade developed by establishing commercial outposts throughout the Mediterranean , a technique that had been not used until then . 
+
+# sent_id =974
+# text = cannot be this affair seen as the starting point as a radical revolutionary for his career . 
+
+# sent_id =975
+# text = he took , off easing the pressure of the Reign of terror various measures to liberate the suspects in Pluviose Iii , year January # - 1794 February $ . 
+
+# sent_id =976
+# text = were schools these closed , entirely financed with own money 's Bernard Tapie in 1994 when he was declared bankrupt . 
+
+# sent_id =977
+# text = in was financial the company German trouble , despite the being number one distributor of worldwide equipment and textiles . 
+
+# sent_id =978
+# text = the Remis resided , for most of 1947 summer to away from all it get in Switzerland . 
+
+# sent_id =979
+# text = they entertained , the idea of away far from the problems of postwar Belgium living , in South America on their return . 
+
+# sent_id =980
+# text = wrote the artist Belgian , , , asking in vain for his support a letter to Walt Disney in hopes of adapting Tintin for the cinema in 1948 spring . 
+
+# sent_id =981
+# text = returned George and his wife , , accompanied by Rosane , a 18 year old the who was daughter of one of friends 's Germaine to Switzerland in the summer . 
+
+# sent_id =982
+# text = he began , a extra-marital affair , he which after shortly admitted with the young girl during the holiday . 
+
+# sent_id =983
+# text = there are trees palm three , which represented the love that the people of this Island have for their land overlooking the sea , in the lower part . 
+
+# sent_id =984
+# text = is furthermore possible the occurrence of hurricanes on the island , during the summer . 
+
+# sent_id =985
+# text = are the islands located ; the fault arose due toe the collision of the Indian and Australian plates at the australian indoes - fault . 
+
+# sent_id =986
+# text = the would be intense royal a element supporting this hypothesis livestock of horses that took place at Villa Pelucca , in San Giovanni Sesto . 
+
+# sent_id =987
+# text = was a course hectare 90 - golf built , , in 1928 to the next racetrack in the eastern north - part of the park . 
+
+# sent_id =988
+# text = was used the racecourse longer no , ; in 1976 what remained of the wooden , grandstands which were later demolished with along the stables a fire destroyed , in 1990 . 
+
+# sent_id =989
+# text = removed Pope VI Paul , the death penalty in 1969 August and revoked it from all offences from the Vatican law . 
+
+# sent_id =990
+# text = is predominantly numismatic the issuing of coinage , with the intention of being mainly sold to collectors in nature . 
+
+# sent_id =991
+# text = is flat the part inner of the region , and hilly with no clear distinction between one area to the next . 
+
+# sent_id =992
+# text = there are artifacts prehistoric many , different several including menhirs and dolmens . 
+
+# sent_id =993
+# text = was then the Apulian second and Royal Calabrian region established , also including Samnium the and oriental Basilicata , parts of Molise . 
+
+# sent_id =994
+# text = was the name Apulia used , to signify the southern part of the Italian peninsula by some authors during the thirteenth century . 
+
+# sent_id =995
+# text = David historian Crouch suggests that Stephen abandoned to focus on other issues from the challenge around this time . 
+
+# sent_id =996
+# text = had existed a handful only of them earldoms # $ under I Henry and had been these largely symbolic . 
+
+# sent_id =997
+# text = began quickly light , to be sh upon a Corsican young artillery , officer the French following Revolution : Napoleon Bonaparte during the War of the first Coalition . 
+
+# sent_id =998
+# text = forced the victory French at the battle of Marengo , the Austrians to up give Italy for the second time although a not resolver of the conflict . 
+
+# sent_id =999
+# text = resulted the blockage of fleet 's Villeneuve because were also developments new taking place in the continent in up giving , the invasion plan of the British Isles . 
+
+# sent_id =1000
+# text = was Napoleon confident : the Minister new Prime British Grenville did and tsar Alexander , so refused any agreement that could the success clear of Austerlitz lead to a general peace treaty but were hopes his Lord soon , dashed . 
+
+# sent_id =1001
+# text = was Fiorello educated , within the Episcopal church and , remained a member of the Protestant Church throughout his life with regards to religious practices . 
+
+# sent_id =1002
+# text = told the man ; him that is a war between the two universes coming , as he and Walter had predicted for is this it reason that was Olivia , among others trained , as a child . 
+
+# sent_id =1003
+# text = met both students of Goffredo Petrassi , Ennio Morricone and Bruno Nicolai at the Cecelia Santa conservatory Saint # $ . 
+
+# sent_id =1004
+# text = bloome between them a long professional and amicable relationship that lasted for years . 
+
+# sent_id =1005
+# text = Nicolai collaborates ; as Metti by Morricone were some of them both by together written on various cinematic scores one , night at dinner . 
+
+# sent_id =1006
+# text = has however apart fallen the friendship , due toe unofficial , collaborations between the two which has given rise to legal disputes . 
+
+# sent_id =1007
+# text = is it not clear , during various their collaborations who conceive between the two of some stylistic solutions in the arrangements that later on characterised style both 's artists . 
+
+# sent_id =1008
+# text = brought Antonio Gaudź , , between 1904 and 1914 about a reform that lasted ten years in the 20th century . 
+
+# sent_id =1009
+# text = it has parallel three chapels at the apse and many lateral chapels between the buttresses . 
+
+# sent_id =1010
+# text = has tradition it that was intentionally the theme selected because of the great number of convert Jews who lived in Palma . 
+
+# sent_id =1011
+# text = the had been already the margin Western of South America site , before were the Andes formed of several orogenys . 
+
+# sent_id =1012
+# text = belong the Andes central to the called so - Andes de andino ' tipo which were formed by the subduction of the oceanic crust ' . 
+
+# sent_id =1013
+# text = provoked however the breakdown between him and Linares the and discontinuation of the progressive line , the Revolution which overthrawn him in 1879 of Vindication . 
+
+# sent_id =1014
+# text = was the vote female approved , were all of the exiled , allowed to return under his administration were parties political , legalised and were the remaining prisoners political freen . 
+
+# sent_id =1015
+# text = lead the collapse in dozens of banks of and intervention , causing to go bankrupt businesses to a flight of capital . 
+
+# sent_id =1016
+# text = the it is portion to the outer up , boundary the Imaginary line that connects at del Punta Este the lighthouse landmark to the lighthouse landmark at Punta Rasa from this second boundary . 
+
+# sent_id =1017
+# text = started things to change when forces British of General John Burgoyne under the command surrendered in Saratoga in the north of the state of New York in 1777 October . 
+
+# sent_id =1018
+# text = coup the was this de gr'ce and encouragement the settlers needed to get their independence . 
+
+# sent_id =1019
+# text = arrived Indians ; , led by Joseph Brant they supported the British because were the colonists expropriating more and more of their lands from Canada . 
+
+# sent_id =1020
+# text = was the expedition led by General Joseph Burgoyne who intended to reach Albany . 
+
+# sent_id =1021
+# text = were they however intercepted , and had to do , battle in close to the Hudson River Freeman . 
+
+# sent_id =1022
+# text = the is Spanish Spanish or Early modern age golden variant of the language that constitutes the transition from Medieval Spanish to modern Spanish . 
+
+# sent_id =1023
+# text = contains history external , references to the history of Spanish speakers historical their , vicissitudes the and social use of the language on the other hand . 
+
+# sent_id =1024
+# text = would have nonetheless had the daughters of Luis x and Carlos Iv , Felipe V , , more of a , claim to the throne if had been the law english accepted above their aunt Isabella of France . 
+
+# sent_id =1025
+# text = ended finally the attempts at making peace and Enrique decided to execute his plan : a invasion of the entire Kingdom of France in spring of 1415 . 
+
+# sent_id =1026
+# text = he discussed also the federalization of the City of Buenos Aires the , extension of the commercial code the and appointment of new generals to the army . 
+
+# sent_id =1027
+# text = he met in 1976 with a friend who worked , what to record would another be remarkable success for him do not go " breaking my heart " : with record his , label the record Rocket Company Kiki Dee . 
+
+# sent_id =1028
+# text = took Pompey command of two legions in Capua and began to illegally raise , levees a act that took , as was predictable , advantage of the Caesarians in who were his favor . 
+
+# sent_id =1029
+# text = was César personally informed of actions who had finished his term in office at that time by Curio , 's Pompey . 
+
+# sent_id =1030
+# text = was meanwhile place his in tribune occupied , by Marco , Antonio who held the position until December . 
+
+# sent_id =1031
+# text = he but understood , when definitively the Senate answered him by prohibiting him from competing at the consolate and him giving the option of either withdrawing his troops or becoming a public enemy that would he surrender , , unarmed whatever alternative he chose into the hands of political his enemies . 
+
+# sent_id =1032
+# text = read Marco Antonio , a declaration in which declared the proconsul himself a friend of peace from Caesar on the 1st 49 January bc . 
+

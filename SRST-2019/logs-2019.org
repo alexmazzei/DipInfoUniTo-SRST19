@@ -1,0 +1,393 @@
+
+* A. Learn Order -> GARR Machine (Multicore)
+
+** A0. conllu2conll 
+
+*** EN
+
+ cat original-data/two/UD-dev/en* | scripts/conllu2conll.pl > data/en-dev.conll
+ cat original-data/two/T1-train/en* > data/en-train.conll
+
+ cat original-data/two/test/T1-test/en_* | scripts/conllu2conll.pl > data/en-test.conll
+ 
+ 
+*** FR
+
+ cat original-data/two/UD-dev/fr* | scripts/conllu2conll.pl > data/fr-dev.conll
+ cat original-data/two/T1-train/fr* > | scripts/conllu2conll.pl > data/fr-train.conll
+
+ cat original-data/two/test/T1-test/fr_* | scripts/conllu2conll.pl > data/fr-test.conll
+
+ cat original-data/two/UD-train/fr* | scripts/conllu2conll.pl > data/fr-train.conll
+
+*** ES
+
+ cat original-data/two/UD-dev/es* | scripts/conllu2conll.pl > data/es-dev.conll
+ cat original-data/two/T1-train/es* > data/es-train.conll
+
+ cat original-data/two/test/T1-test/es_* | scripts/conllu2conll.pl > data/es-test.conll
+
+*** PT
+
+ cat original-data/two/UD-dev/pt* | scripts/conllu2conll.pl > data/pt-dev.conll
+ cat original-data/two/T1-train/pt* > data/pt-train.conll
+
+ cat original-data/two/test/T1-test/pt_* | scripts/conllu2conll.pl > data/pt-test.conll
+
+
+*** ZH
+
+ cat original-data/two/UD-dev/zh* | scripts/conllu2conll.pl > data/zh-dev.conll
+ cat original-data/two/UD-train/zh* | scripts/conllu2conll.pl > data/zh-train.conll
+
+ cat original-data/two/test/T1-test/zh_* | scripts/conllu2conll.pl > data/zh-test.conll
+
+
+** A2. Encode in Vector 
+
+*** EN
+
+ scripts/ud2HVR-SRST2019.py data/en-train.conll  data/en-train.conll en > data/en-train.H
+ scripts/ud2HVR-SRST2019.py data/en-train.conll  data/en-dev.conll   en > data/en-dev.H
+
+ scripts/ud2HVR-SRST2019.py data/en-train.conll  data/en-test.conll   en > data/en-test.H
+
+
+*** FR
+
+ scripts/ud2HVR-SRST2019.py data/fr-train.conll  data/fr-train.conll fr > data/fr-train.H
+ scripts/ud2HVR-SRST2019.py data/fr-train.conll  data/fr-dev.conll   fr > data/fr-dev.H
+
+ scripts/ud2HVR-SRST2019.py data/fr-train.conll  data/fr-test.conll   fr > data/fr-test.H
+ 
+
+*** ES
+
+ scripts/ud2HVR-SRST2019.py data/es-train.conll  data/es-train.conll es > data/es-train.H
+ scripts/ud2HVR-SRST2019.py data/es-train.conll  data/es-dev.conll   es > data/es-dev.H
+
+ scripts/ud2HVR-SRST2019.py data/es-train.conll  data/es-test.conll  es > data/es-test.H
+
+
+*** PT
+
+ scripts/ud2HVR-SRST2019.py data/pt-train.conll  data/pt-train.conll pt > data/pt-train.H
+ scripts/ud2HVR-SRST2019.py data/pt-train.conll  data/pt-dev.conll   pt > data/pt-dev.H
+
+ scripts/ud2HVR-SRST2019.py data/pt-train.conll  data/pt-test.conll  pt > data/pt-test.H
+
+
+
+*** ZH
+
+ scripts/ud2HVR-SRST2019.py data/zh-train.conll  data/zh-train.conll zh > data/zh-train.H
+ scripts/ud2HVR-SRST2019.py data/zh-train.conll  data/zh-dev.conll   zh > data/zh-dev.H
+
+ scripts/ud2HVR-SRST2019.py data/zh-train.conll  data/zh-test.conll  zh > data/zh-test.H
+
+
+** A3. Learn to rank in octave 
+
+*** EN
+
+cd /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/
+
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/train.m /home/ubuntu/vol01/SRST-2019/data/en-train.H /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/model-en.m > /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/msg.txt 2> /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/err.txt&
+
+mkdir /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/en
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/tmp/rename-models.sh
+mv /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/tmp/model* /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/en
+cd /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/compute-tau.pl  /home/ubuntu/vol01/SRST-2019/data/en-dev.H /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/en/ > /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/en/msg.txt 2> /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/en/err.txt &
+
+./predict.m models/en/en_model_best.m ~/vol01/SRST-2019/data/en-test.H
+
+
+*** FR
+
+cd /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/
+
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/train.m /home/ubuntu/vol01/SRST-2019/data/fr-train.H /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/model-fr.m > /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/msg.txt 2> /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/err.txt&
+
+mkdir /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/fr
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/tmp/rename-models.sh
+mv /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/tmp/model* /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/fr
+cd /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/compute-tau.pl  /home/ubuntu/vol01/SRST-2019/data/fr-dev.H /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/fr/ > /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/fr/msg.txt 2> /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/fr/err.txt &
+
+./predict.m models/fr/fr_model_best.m ~/vol01/SRST-2019/data/fr-test.H
+
+./predict.m models/fr2/30_100/10_100/fr2_model_best.m /home/ubuntu/vol01/SRST-2019/data/fr-test.H
+
+
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/crossvalidation.m /home/ubuntu/vol01/SRST-2019/data/fr-dev.H /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/tmp/model_21.m 
+
+model_31.m tau =  0.69251
+model_100.m tau=  0.70800
+
+
+*** ES
+
+cd /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/
+
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/train.m /home/ubuntu/vol01/SRST-2019/data/es-train.H /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/model-es.m > /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/msg.txt 2> /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/err.txt&
+
+mkdir /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/es
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/tmp/rename-models.sh
+mv /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/tmp/model* /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/es
+cd /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/compute-tau.pl  /home/ubuntu/vol01/SRST-2019/data/es-dev.H /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/es/ > /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/es/msg.txt 2> /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/es/err.txt &
+
+
+*** ZH
+
+cd /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/
+
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/train.m /home/ubuntu/vol01/SRST-2019/data/zh-train.H /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/model-zh.m > /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/msg.txt 2> /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/err.txt&
+
+mkdir /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/zh
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/tmp/rename-models.sh
+mv /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/tmp/model* /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/zh
+cd /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/
+/home/ubuntu/vol01/SRST-2019/scripts/listnet/src/compute-tau.pl  /home/ubuntu/vol01/SRST-2019/data/zh-dev.H /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/zh/ > /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/zh/msg.txt 2> /home/ubuntu/vol01/SRST-2019/scripts/listnet/src/models/zh/err.txt &
+
+./predict.m models/zh/zh_model_best.m ~/vol01/SRST-2019/data/zh-test.H
+
+
+* B. Learn Morphology -> Paranoia Machine (GPU)
+
+** B.1. Encode in lemma-feats-form
+
+*** EN
+
+ scripts/filter2morpho-train.pl data/en-train.conll | sort | uniq -c | scripts/numMorpho2morpho.pl > data/en-train.morpho 
+ scripts/filter2morpho-train.pl data/en-dev.conll   | sort | uniq -c | scripts/numMorpho2morpho.pl > data/en-dev.morpho
+ scripts/filter2morpho-test.pl  data/en-test.conll   | sort | uniq -c | scripts/numMorpho2morpho.pl > data/en-test.morpho
+ 
+ tar -zcvf data/en-morpho.tar.gz data/en-train.morpho data/en-dev.morpho data/en-test.morpho
+
+ sftp mazzei@pianeta.di.unito.it
+ cd public_html/researchRepository/SRST19/
+ put data/en-morpho.tar.gz
+
+
+*** FR
+
+ scripts/filter2morpho-train.pl data/fr-train.conll | sort | uniq -c | scripts/numMorpho2morpho.pl > data/fr-train.morpho 
+ scripts/filter2morpho-train.pl data/fr-dev.conll   | sort | uniq -c | scripts/numMorpho2morpho.pl > data/fr-dev.morpho
+ scripts/filter2morpho-test.pl  data/fr-test.conll   | sort | uniq -c | scripts/numMorpho2morpho.pl > data/fr-test.morpho
+ 
+ tar -zcvf data/fr-morpho.tar.gz data/fr-train.morpho data/fr-dev.morpho data/fr-test.morpho
+
+ sftp mazzei@pianeta.di.unito.it
+ cd public_html/researchRepository/SRST19/
+ put data/fr-morpho.tar.gz
+
+*** ES 
+
+ scripts/filter2morpho-train.pl data/es-train.conll | sort | uniq -c | scripts/numMorpho2morpho.pl > data/es-train.morpho 
+ scripts/filter2morpho-train.pl data/es-dev.conll   | sort | uniq -c | scripts/numMorpho2morpho.pl > data/es-dev.morpho
+ scripts/filter2morpho-test.pl  data/es-test.conll   | sort | uniq -c | scripts/numMorpho2morpho.pl > data/es-test.morpho
+ 
+ tar -zcvf data/es-morpho.tar.gz data/es-train.morpho data/es-dev.morpho data/es-test.morpho
+
+ sftp mazzei@pianeta.di.unito.it
+ cd public_html/researchRepository/SRST19/
+ put data/es-morpho.tar.gz
+
+
+
+*** ZH
+
+ scripts/filter2morpho-train.pl data/zh-train.conll | sort | uniq -c | scripts/numMorpho2morpho.pl > data/zh-train.morpho 
+ scripts/filter2morpho-train.pl data/zh-dev.conll   | sort | uniq -c | scripts/numMorpho2morpho.pl > data/zh-dev.morpho
+ scripts/filter2morpho-test.pl  data/zh-test.conll   | sort | uniq -c | scripts/numMorpho2morpho.pl > data/zh-test.morpho
+ 
+ tar -zcvf data/zh-morpho.tar.gz data/zh-train.morpho data/zh-dev.morpho data/zh-test.morpho
+
+ sftp mazzei@pianeta.di.unito.it
+ cd public_html/researchRepository/SRST19/
+ put data/zh-morpho.tar.gz
+
+
+
+
+
+
+** B.2. Learn to inflect in python (ssh mazzei@paranoia)
+ 
+*** EN 
+
+ssh mazzei@pianeta
+cd ~/public_html/researchRepository/SRST19
+
+sftp mazzei@paranoia
+cd /home/mazzei/software/morprho/morphological-reinflection/srst19/en
+put en-morpho.tar.gz
+
+ssh mazzei@paranoia
+cd /home/mazzei/software/morprho/morphological-reinflection/srst19/en
+tar zxvf en-morpho.tar.gz
+mv data/en-train.morpho train
+mv data/en-dev.morpho   dev
+mv data/en-test.morpho  test
+
+source ~/anaconda3/bin/activate
+cd /home/mazzei/software/morprho/morphological-reinflection/src
+python hard_attention.py --dynet-devices CPU,GPU:0 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/srst19/en/train/en-train.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/en/dev/en-dev.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/en/test/en-test.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/en/results/ /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt  &
+cp /home/mazzei/software/morprho/morphological-reinflection/srst19/en/results/.best.test.test.predictions /home/mazzei/software/morprho/morphological-reinflection/srst19/en/results/en-test-predicted.morpho
+ 
+
+*** FR 
+
+ssh mazzei@pianeta
+cd ~/public_html/researchRepository/SRST19
+
+sftp mazzei@paranoia
+cd /home/mazzei/software/morprho/morphological-reinflection/srst19/fr
+put fr-morpho.tar.gz
+
+ssh mazzei@paranoia
+cd /home/mazzei/software/morprho/morphological-reinflection/srst19/fr
+tar zxvf fr-morpho.tar.gz
+mv data/fr-train.morpho train
+mv data/fr-dev.morpho   dev
+mv data/fr-test.morpho  test
+
+source ~/anaconda3/bin/activate
+cd /home/mazzei/software/morprho/morphological-reinflection/src
+python hard_attention.py --dynet-devices CPU,GPU:0 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/srst19/fr/train/fr-train.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/fr/dev/fr-dev.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/fr/test/fr-test.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/fr/results/ /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt  &
+
+cp /home/mazzei/software/morprho/morphological-reinflection/srst19/fr/results/.best.test.test.predictions /home/mazzei/software/morprho/morphological-reinflection/srst19/fr/results/fr-test-predicted.morpho
+
+
+*** ES
+
+python hard_attention.py --dynet-devices CPU,GPU:0 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/srst19/es/train/es-train.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/es/dev/es-dev.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/es/test/es-test.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/es/results/ /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt  &
+
+
+*** ZH
+
+ssh mazzei@pianeta
+cd ~/public_html/researchRepository/SRST19
+
+sftp mazzei@paranoia
+cd /home/mazzei/software/morprho/morphological-reinflection/srst19/zh
+put zh-morpho.tar.gz
+
+ssh mazzei@paranoia
+cd /home/mazzei/software/morprho/morphological-reinflection/srst19/zh
+tar zxvf zh-morpho.tar.gz
+mv data/zh-train.morpho train
+mv data/zh-dev.morpho   dev
+mv data/zh-test.morpho  test
+
+source ~/anaconda3/bin/activate
+cd /home/mazzei/software/morprho/morphological-reinflection/src
+python hard_attention.py --dynet-devices CPU,GPU:0 --input=100 --hidden=100 --feat-input=20 --epochs=100 --layers=2 --optimization=ADADELTA /home/mazzei/software/morprho/morphological-reinflection/srst19/zh/train/zh-train.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/zh/dev/zh-dev.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/zh/test/zh-test.morpho /home/mazzei/software/morprho/morphological-reinflection/srst19/zh/results/ /home/mazzei/software/morprho/sigmorphon2016/ > msg-gpu.txt 2> err-gpu.txt  &
+
+cp /home/mazzei/software/morprho/morphological-reinflection/srst19/zh/results/.best.test.test.predictions /home/mazzei/software/morprho/morphological-reinflection/srst19/zh/results/zh-test-predicted.morpho
+
+
+** B.3 Insert forms in the CONLL file
+
+*** En
+
+ scripts/conllL2conllLF.pl  data/en-test-predicted.morpho data/en-test.conll > data/en-test-out-morpho.conll
+
+ scripts/post-process-out-morpho.pl data/en-test-out-morpho.conll > data/en-test-out-post-morpho.conll
+
+*** FR
+
+ scripts/conllL2conllLF.pl  data/fr-test-predicted.morpho data/fr-test.conll > data/fr-test-out-morpho.conll
+
+ scripts/post-process-out-morpho.pl data/fr-test-out-morpho.conll > data/fr-test-out-post-morpho.conll
+
+*** ZH
+ 
+ scripts/conllL2conllLF.pl  data/zh-test-predicted.morpho data/zh-test.conll > data/zh-test-out-morpho.conll
+  
+ 
+* C. Results: create TXT file
+
+** EN 
+
+ python scripts/ud+ln2str-official.py data/en-test-out-post-morpho.conll data/en-test.H.pred > results/en-test-out.txt 
+
+
+ 
+** FR
+
+ python scripts/ud+ln2str-official.py data/fr-test-out-post-morpho.conll data/fr-test.H.pred > results/fr-test-out.txt 
+
+** ZH
+
+ python scripts/ud+ln2str-official.py data/zh-test-out-post-morpho.conll data/zh-test.H.pred > results/zh-test-out.txt 
+
+
+ 
+* D. detokenize
+
+** EN
+
+ cat scripts/prefix-detok.txt > scripts/detokenize-particles-en.pl
+ cat original-data/two/UD-train/en_* | scripts/conllu2detok.pl | sort | uniq >> scripts/detokenize-particles-en.pl
+ cat scripts/postfix-detok.txt >> scripts/detokenize-particles-en.pl
+ cat results/en-test-out.txt | perl scripts/detokenize-particles-en.pl | perl scripts/detokenizer-moses.pl -q -l en >  results/en-test-out-detok.txt
+
+
+** FR
+
+ cat scripts/prefix-detok.txt > scripts/detokenize-particles-fr.pl
+ cat original-data/two/UD-train/fr_* | scripts/conllu2detok.pl | sort | uniq >> scripts/detokenize-particles-fr.pl
+ cat scripts/postfix-detok.txt >> scripts/detokenize-particles-fr.pl
+ cat results/fr-test-out.txt | perl scripts/detokenize-particles-fr.pl | perl scripts/detokenizer-moses.pl -q -l fr >  results/fr-test-out-detok.txt
+
+
+* E. fill template
+
+** EN
+ 
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_ewt-Pred-HIT.txt results/en-test-out.txt 0 > results/official/en/tok/en_ewt-Pred-HIT.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_ewt-Pred-HIT.txt results/en-test-out-detok.txt 0 > results/official/en/detok/en_ewt-Pred-HIT.txt
+
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_ewt.txt results/en-test-out.txt 1785 > results/official/en/tok/en_ewt.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_ewt.txt results/en-test-out-detok.txt 1785 > results/official/en/detok/en_ewt.txt
+
+ 
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_gum.txt results/en-test-out.txt 3862 > results/official/en/tok/en_gum.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_gum.txt results/en-test-out-detok.txt 3862 > results/official/en/detok/en_gum.txt
+
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_lines.txt results/en-test-out.txt 4640 > results/official/en/tok/en_lines.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_lines.txt results/en-test-out-detok.txt 4640 > results/official/en/detok/en_lines.txt
+
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_partut.txt results/en-test-out.txt 5554 > results/official/en/tok/en_partut.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_partut.txt results/en-test-out-detok.txt 5554 > results/official/en/detok/en_partut.txt
+
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_pud-Pred-LATTICE.txt results/en-test-out.txt 5707 > results/official/en/tok/en_pud-Pred-LATTICE.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_pud-Pred-LATTICE.txt results/en-test-out-detok.txt 5707 > results/official/en/detok/en_pud-Pred-LATTICE.txt
+
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_pud.txt results/en-test-out.txt 6739 > results/official/en/tok/en_pud.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/en_pud.txt results/en-test-out-detok.txt 6739 > results/official/en/detok/en_pud.txt
+
+
+** FR
+
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/fr_gsd.txt results/fr-test-out.txt 0 > results/official/fr/tok/fr_gsd.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/fr_gsd.txt results/fr-test-out-detok.txt 0 > results/official/fr/detok/fr_gsd.txt
+
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/fr_partut.txt results/fr-test-out.txt 416 > results/official/fr/tok/fr_partut.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/fr_partut.txt results/fr-test-out-detok.txt 416 > results/official/fr/detok/fr_partut.txt
+
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/fr_sequoia.txt results/fr-test-out.txt 526 > results/official/fr/tok/fr_sequoia.txt
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/fr_sequoia.txt results/fr-test-out-detok.txt 526 > results/official/fr/detok/fr_sequoia.txt
+
+
+** ZH
+
+ scripts/fill-templates-T1.pl  original-data/two/test/T1T2-output_templates/zh_gsd.txt results/zh-test-out.txt > results/official/zh/tok/zh_gsd.txt
+
+
+* F. SUBMISSION
+
+ tar -czvf submission-DipInfoUniTo-SRST19.tar.gz official/

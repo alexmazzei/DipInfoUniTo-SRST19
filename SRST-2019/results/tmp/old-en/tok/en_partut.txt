@@ -1,0 +1,459 @@
+# sent_id =1
+# text = if Google what Morph Into GoogleIS # 
+
+# sent_id =2
+# text = if expanded Google what on its wares into a fledged full - operating system search engine # - and now e-mail $ # 
+
+# sent_id =3
+# text = via Microsoft # 
+
+# sent_id =4
+# text = Watch from Mary Foley Jo # 
+
+# sent_id =5
+# text = and is anybody else just nostalgic a little , , # a when was that good thing for the days by the way $ # 
+
+# sent_id =6
+# text = argues this post Buzzmachine that might rush Google 's toward ubiquity backfire -- have we which before all heard but it is particularly well , put - in this post . 
+
+# sent_id =7
+# text = a is nice search Google engine . 
+
+# sent_id =8
+# text = does anybody use it for else anything # 
+
+# sent_id =9
+# text = they own of course , blogger . 
+
+# sent_id =10
+# text = a is that money maker # 
+
+# sent_id =11
+# text = I are staying away from the stock . 
+
+# sent_id =12
+# text = I doubt have not the few very who actually read my blog yet come across this I but , figured I would there out anyways put it . 
+
+# sent_id =13
+# text = John Donovan from Argghhh ° 
+
+# sent_id =14
+# text = has put out a excellent slide on what was actually found and for fought in Fallujah show . 
+
+# sent_id =15
+# text = here click to view it . 
+
+# sent_id =16
+# text = he makes some good observations on a few of the pic's . 
+
+# sent_id =17
+# text = one of the pictures shows a flag that was found in Fallujah . 
+
+# sent_id =18
+# text = he took screenshots of 's behead two video on the next two pictures . 
+
+# sent_id =19
+# text = compare the flags to the one Fallujah . 
+
+# sent_id =20
+# text = you have .... to see these slides they are amazing . 
+
+# sent_id =21
+# text = my turn this operation Fallujah out the to be important most operation done by the US military since the end of the war . 
+
+# sent_id =22
+# text = Let me join the chorus of annoyance over new Google 's , toolbar which commits , , every about just sin could a marketer online commit as noted in the linked article and up besides , makes a new few ones . 
+
+# sent_id =23
+# text = I are fond not of the Google- privacy hates - argument 
+
+# sent_id =24
+# text = you do not need ... , -- , # you have much too far far time , on your hands to use their site you are worried that you might send something to someone who would forward a excerpt to someone who would then store it on a Gmail account you do not need to send to anyone with a Gmail account stuff you cannot -out opt of sharing your information if and , -- wonder of wonders $ . 
+
+# sent_id =25
+# text = is bad really however this toolbar news , . 
+
+# sent_id =26
+# text = it looks , pretty cool on the other hand . 
+
+# sent_id =27
+# text = Iran says it is creating without wanting nuclear weapons nuclear energy . 
+
+# sent_id =28
+# text = does not the States United believe the Iranian government . 
+
+# sent_id =29
+# text = cannot one suspect the Iranian government . 
+
+# sent_id =30
+# text = but there is no proof . 
+
+# sent_id =31
+# text = I read a Article accusing of being willing to start a nuclear war the Iranian government in time magazine I and sympathise with the Article . 
+
+# sent_id =32
+# text = are they being certainly nasty to the Nations United Security Council in connection with the anti-PRoliferation treaty . 
+
+# sent_id =33
+# text = has the President also said would he like to see Israel off wid the map could he which not even begin to try without nuclear weapons . 
+
+# sent_id =34
+# text = he but has insisted that he wants nuclear power for peaceful purposes . 
+
+# sent_id =35
+# text = want people many to use diplomacy with Iran military rather thenning pressure . 
+
+# sent_id =36
+# text = wo but work diplomacy # 
+
+# sent_id =37
+# text = cannot and anyone use military pressure without proof # 
+
+# sent_id =38
+# text = pointed reader one out that the President watched when they hostage took them the Americans in the embassy . 
+
+# sent_id =39
+# text = he has denied this . 
+
+# sent_id =40
+# text = do we not have to believe him . 
+
+# sent_id =41
+# text = cannot we but not prove it . 
+
+# sent_id =42
+# text = does it seem that frequently Iranians make statements and then hide behind lack of proof . 
+
+# sent_id =43
+# text = chanted crowds angry as the police security killed in a friendly fire incident by US troops anti-American slogans were buried on Saturday in the Western city of Falluja popy # $ 256,000 . 
+
+# sent_id =44
+# text = reported Reuters that clerics sunni in the town issued , " announcing three days of mourning a declaration ' condemning the deaths of the security guards and police and , calling for a general strike today by the people of Fallujah ' " . 
+
+# sent_id =45
+# text = it read , " the people of Fallujah condemn the massacre which was committed on Friday against dedicated to the protection of Fallujah people . 
+
+# sent_id =46
+# text = Let know that we are capable of protecting the city 's security and safety and ask , them to lift their hands from the city aggressive American leaders # and soldiers $ " . 
+
+# sent_id =47
+# text = demandeleded the clerics talks with local US commanders . 
+
+# sent_id =48
+# text = has been there Falluja roiled long , since either Sunnis local remain committed to Arab nationalism have or become sunni fundamentalists or even radicals by tense relations with the US soldiers . 
+
+# sent_id =49
+# text = received cities such ask Falluja special treatment from Saddam and enjoyed a disproportionate share of the country 's wealth and power . 
+
+# sent_id =50
+# text = they know that the advent American implies for them a demotion a and , elevation of the Shiites and Kurds and they refuse , to quietly go . 
+
+# sent_id =51
+# text = see 
+
+# sent_id =52
+# text = http://www.gulf-news.com/Articles/news.asp?ArticleID=97508 the Court Supreme announced it be rubling divided abstaining and Anthony Kennedy joining the liberals in a 5 - 3 decision is long that 185 pages with John Roberts in Hamdan v. Rumsfeld along idelogical lines due toe his involvement at the Circuit D.C. level today . 
+
+# sent_id =53
+# text = is confusing the vote actual a little . 
+
+# sent_id =54
+# text = stay now with me : John Stevens Paul delivered the opinion of the court with respect to I through IV , - parts Kennedy and , Breyer and , VII , SOUTER d VI , v - - , GINSBURG in which joined , VI through VI III D- a and , opinion with respect to parts V , SOUTER and , Breyer , GINSBURG in which joined and VI D IV - - . 
+
+# sent_id =55
+# text = filed Breyer a concurring opinion , Kennedy and , GINSBURG , SOUTER in which joined . 
+
+# sent_id =56
+# text = filed Kennedy a opinion concurr , SOUTER and , Breyer , GINSBURG in which joined as toe I parts and II in part . 
+
+# sent_id =57
+# text = filed SCALIA a dissenting opinion , Thomas and ALITO in which joined . 
+
+# sent_id =58
+# text = Thomas filed a dissenting opinion , SCALIA in which joined and ALITO in which as to all and III , but I II , parts 1 - - C 2 B - - , joined . 
+
+# sent_id =59
+# text = filed ALITO a dissenting opinion , SCALIA and Thomas in which joined as toe I through III parts . 
+
+# sent_id =60
+# text = wo it take to Read the whole thing me a little while I but rarely agree , with a John Paul Stevens opinion . 
+
+# sent_id =61
+# text = I wo post highlights from the opinion and when I are finished dissents . 
+
+# sent_id =62
+# text = important news miniscule such ask President 's Bush calibrations on his marriage amendment / anti-gay update # : against he is not , gays in the bedroom at the just , altar should where be not upon of course only their relationships frowned should but be constitutionally excluded has pushed Sudan off the front just not pages of out the but NY completely , Times and Washington Post the or A , section $ . 
+
+# sent_id =63
+# text = I had to go to the BBC for this report . 
+
+# sent_id =64
+# text = it is symptomatic , I suppose , , that would be quickly the biggest humanitarian crisis term short - in the world , eclipsed once was our Secretary of State finished with his whirlwind , tour from the newspapers of our cycle news - paced fast hour 24 - , lives . 
+
+# sent_id =65
+# text = it is disappointing just . 
+
+# sent_id =66
+# text = the is troubling most however fact , , that the will political to end ago a few short weeks expressed the crisis seems have to ebbed . 
+
+# sent_id =67
+# text = demanded Kofi Secretary UN General Annan , be steps taken to end the ethnic violence in Darfur within 48 hours at that time . 
+
+# sent_id =68
+# text = later weeks two and the violence , continues . 
+
+# sent_id =69
+# text = up toe the is not clearly the union African task , of keeping pledging 300 troops to a area that wo need , 15,000 according toe analysts the peace . 
+
+# sent_id =70
+# text = have and given donors international , only half of the relief aid that Darfur needs the local UN according toe officials . 
+
+# sent_id =71
+# text = so we later weeks two hear , , are and the situation on the ground in Darfur , appears basically unchange after dazzling that PR ago weeks two by Powell and Annan display . 
+
+# sent_id =72
+# text = is giving away Warren Buffett , 85 % of his wealth to the Gates bill and Melinda mostly foundation . 
+
+# sent_id =73
+# text = a it is move ; that really worries me justification usual Buffett 's for keeping most of his money was that he was still compounding , the value of his fortune would so now later any gifts mean less significantly money for the foundation at a high pretty rate . 
+
+# sent_id =74
+# text = it is hard a little to parse he and , wants them to soon as as possible have the money but his view Ostensible , is that are good very the Gateses money - redistributors at this point . 
+
+# sent_id =75
+# text = which essentially sounds like he is worried that are bill or Melinda going to soon die . 
+
+# sent_id =76
+# text = I assume his reason actual is that he is worried that cannot not Hathaway Berkshire just enough quickly grow to justify his usual charity policy . 
+
+# sent_id =77
+# text = I are not sure wo how the market react . 
+
+# sent_id =78
+# text = it does not change intrinsic the company 's worth might and be the company , , once get the shares more liquid added as the article notes to a major index . 
+
+# sent_id =79
+# text = a is this essentially statement , is the company that overpriced from the guy who it best knows and -- happens the to be best investor of the last century on the other hand . 
+
+# sent_id =80
+# text = em ... mainly no the foundation Gates invests ... , that means donating now adds to compared donating in ten years a tremendous value in medical research and education . 
+
+# sent_id =81
+# text = because wo be otherwise dead the people 10.000.000 dying from malaria . 
+
+# sent_id =82
+# text = he is not away % 85 giving i.e. , he is giving each year a number of shares that decrease at the rate of 5 % until go # $ # a year in number . 
+
+# sent_id =83
+# text = he mentions having a effect on him his wife 's death . 
+
+# sent_id =84
+# text = it sounds , pretty rational that he is saying that at a are prime Bill and Melinda spot but is Buffet still , keeping most of his donation wo it where compound inside of Berkshire a is good now so starting the hose money idea . 
+
+# sent_id =85
+# text = Bill over at the fourth Rail has : a excellent essay on are how the MSm the and , UN the leftist even countries in Europe basically accepting , terrorist organizations as legitimate forms of a political party 
+
+# sent_id =86
+# text = has Hamas indicated the group terrorist , Palestinians protest in support of Hezbollah and Syria wo it participate in the Parliamentary upcoming scheduled elections on the same day . 
+
+# sent_id =87
+# text = there is debate serious about entering the political lebanese process in light of promised Syria 's withdrawal within Hezbollah , to the north in Lebanon . 
+
+# sent_id =88
+# text = has Syria agreed to withdraw under the conditions forth set in UNSC 1559 Resolution , which has already begun . 
+
+# sent_id =89
+# text = has Kofi Secretary - General UN Annan indicated it is time to recognize " Hezbollah after being easily dun by the message " on the placards are they using " " . 
+
+# sent_id =90
+# text = a is cancerous this acceptance of terrorist blatantly groups as legitimate freedom movements tumor on the United Nations the and media . 
+
+# sent_id =91
+# text = cannot not the Nations United properly still define , , , , waffling over the issue of whether are terrorist the murder of innocent civilians acts after 9-11 the word " terrorist " over three years despite their attempts to project strength in fighting terrorism . 
+
+# sent_id =92
+# text = routinely obscures the media , as the article recent by Daniel Okrent of the York New Times demonstrates the lines between terrorism and legitimate resistance . 
+
+# sent_id =93
+# text = ... 
+
+# sent_id =94
+# text = does not bring the decision to sidestep the obvious to satisfy the need to avoid confrontation peace but only , delays as the predators of Hamas and Hezbollah exploit the inherent weakness of the internationals the and media the eventual conflict . 
+
+# sent_id =95
+# text = I have been fuming now , since ever some organizations and governments suggested we need to accept the fact that wo Hezbollah involved get in running Lebanon for a few weeks over this fact . 
+
+# sent_id =96
+# text = is this Wtf # 
+
+# sent_id =97
+# text = a is this plain and simple terrorist organization . 
+
+# sent_id =98
+# text = the is this organization that bombed in 1983 our Marine barracks hostage , took Americans throughout the 80's should and they be now considered a legitimate organization # 
+
+# sent_id =99
+# text = is another this just reason to never trust the MSm the and not certainly , Europeans . 
+
+# sent_id =100
+# text = among the has been sunni Muslim few the lead Party Islamic Iraqi by Muhsin Abdul Hamid groups , willing to cooperate if lukewarmly rather even $ # with the Americans . 
+
+# sent_id =101
+# text = it is threatening now to pull of out the caretaker Allawi government . 
+
+# sent_id =102
+# text = the had been main the Iip also force urging sunni Arabs to participate in the elections scheduled for January had and been , opposed in this stance by the Association of Muslim scholars . 
+
+# sent_id =103
+# text = raises that is contemplatting now the Party Islamic Iraqi leaving the Allawi government the question whether of in the is a boycott mass Arab sunni of the elections offing , fatally thus weakening the legitimacy of any new government . 
+
+# sent_id =104
+# text = Az Zaman - the Association of Muslim scholars forbake Iraqis to participate with the Americans in the attack on Fallujah : . 
+
+# sent_id =105
+# text = said the AMS , that would be the population of which is Muslim such ask Fallujah # $ , considered the most mortal of mortal sins for to Iraqis take part with raiding forces " " in the assault on a city in a communique . 
+
+# sent_id =106
+# text = told the AMS sunni , " you san you when participated with OCCUPATION forces in the assault on Najaf and beware , lest you repeat this same sin in Fallujah Iraqis . 
+
+# sent_id =107
+# text = remember that is the occupation emphemeral " . 
+
+# sent_id =108
+# text = issued as well the movement Shiite radical sadr , a statement forbidding the participation of Iraqi troops in the attack on Fallujah . 
+
+# sent_id =109
+# text = said the statement , " we direct , , calling to refrain for commiting this enormous sin under the banner of forces that do not respect our religion or any principles of basic humanity we and ask , them to view as illegal this war upon them a appeal at the men whether are guards national , the of whom majority or others muslim in the Iraqi forces " . 
+
+# sent_id =110
+# text = it called a ploy " the assertaion on that was foreign merely the attack fighters at Fallujah " . 
+
+# sent_id =111
+# text = has been before seen the convergence of views among the Muslim militant more sunni clerics of am the and radical Shiites of the sadr movement , last spring during the initial US assault on Fallujah during the and US attack on Army Mahdi militiamen in Najaf . 
+
+# sent_id =112
+# text = are still however Shiites most reluctant , , , to take to support the Sunnis of Fallujah had many of whom supported Saddam and his anti-Shiite pogroms major risks . 
+
+# sent_id =113
+# text = pinched President Bush yesterday : groups Muslim U.S. criticized , President Bush for calling a foiled plot to up blow airplanes part of a war " with Islamic fascists saying could the term inflame anti-Muslim tensions on Thursday " - a few nerves with his choice WASHINGTON Reuters # $ of words . 
+
+# sent_id =114
+# text = have said officials U.S. , the plot , thwarted by Britain to blow up several aircraft over the Atlantic bearing many of the hallmarks of al Qaeda . 
+
+# sent_id =115
+# text = said Nihad , Awad executive director of the Council on Relations American Islamic - advocacy group , " we believe we and believe that is it counterproductive to associate Islam or Muslims with fascism a is this advised ill - term " . 
+
+# sent_id =116
+# text = which Why is he did not say at we are war with Islamic people . 
+
+# sent_id =117
+# text = at we are war with Islamic fascists . 
+
+# sent_id =118
+# text = was not Bush purposely associating Muslims by using the word Islamic " " as a adjective with fascism the hence , qualifier . 
+
+# sent_id =119
+# text = you &est be confuse ; 21 Fahim ; , , , ; 30 43 20 , 21 Ahmad Abdelhaleen Toronto Shareef Kingston , , Ont. Mississauga Mississauga ; , , , Mississauga ; , Mohammed 22 Dirie Zakaria Amara , , Mississauga Ont. , , Qayyum Jamal ; Abdul Ansari Asad with the suspects from a earlier plot ago a few months foiled in Canada : 
+
+# sent_id =120
+# text = Yasim 24 19 ; , ; , , ; , , , , , ; , 25 alias Chand Mohamed Abdi Vikash 23 , Jahmaal James Amin Durrani Moham Toronto Abdul Shakur Steven Toronto Mississauga ; 19 , Saad Khalid Toronto 21 Ahmad , Mustafa Ghany Kingston of eclipse Avenue , Mississauga . 
+
+# sent_id =121
+# text = have we got , a Steven , the one word that did not crash my spell check - despite it being followed by a Vikash Shakur Chand Abdul . 
+
+# sent_id =122
+# text = a it is Islamic Fascist , , folks if it is Islamic and , fascist . 
+
+# sent_id =123
+# text = must we but pretend because do we not want to sound hateful a is possible everyone suspect and make more miserable than it is ever been airline travel . 
+
+# sent_id =124
+# text = declared allegedly the group , , " we announce it is prince , and soldiers that have the Group Tawhid and Jihad pledged , allegiance to the Sheikh of the mujahideen Osama Laden bin on the internet site of Monotheism Tawhid al al wa Jihad # - - $ and Holy War " . 
+
+# sent_id =125
+# text = a is new this pledge development . 
+
+# sent_id =126
+# text = are said Abu Musab Zarqawi al - and his group have to been bitter rivals of al Qaeda - during the Afghan resistance days . 
+
+# sent_id =127
+# text = alleged witness one at the Moutasaddiq trial in Germany that had not Zarqawi allowed Monotheism and Holy War to share resources with al Qaeda - in the early zeroes of the 21st century . 
+
+# sent_id =128
+# text = a it is worrien sign , if is the statement true that are being up picked the small radical groups guerrilla divided even " by al Qaeda - " . 
+
+# sent_id =129
+# text = a is obviously this consolidation result of aggressive Bush 's invasion of Iraq of the and botching of the aftermath . 
+
+# sent_id =130
+# text = a it is setback for the war on terror . 
+
+# sent_id =131
+# text = a was Qaeda Al - in Afghanistan group of a Afghan few only hundred Arabs " who pledged personal loyalty to Usamah Laden Bin " . 
+
+# sent_id =132
+# text = could it be notionally expanded , to encompass the strong 5,000 - 55th Brigade " of the Taliban regime " though the is this technical not definition . 
+
+# sent_id =133
+# text = is my guess , because is Usamah saudi that they were especially influenced by a extremist form of the Wahhabi school that predominates among some Saudia 's 15 million citizens of Islam . 
+
+# sent_id =134
+# text = they were joined in 1998 from were upper many of these Egypt , # especially Asyut and environs $ by Egyptians from the Islami Jihad al - al - group of Ayman al Zawahiri - . 
+
+# sent_id =135
+# text = a was joint Qaeda al - enterprise , between the Egyptian extremists around Bin , Laden some only of whom were Saudi the and polyglot Arabs after that point . 
+
+# sent_id =136
+# text = a is Zarqawi Jordanian and Monotheism and Holy War probably his group in Afghanistan , had a distinctive coloration as mainly Jordanian , palestinian and Syrian . 
+
+# sent_id =137
+# text = they had also a special connection to some extremists in Jordan and Germany . 
+
+# sent_id =138
+# text = they are probably especially orient toward the Salafi , school of Islamic modern thout which has a like Protestant - emphasis on back going to the original practice of the early companions of the Prophet Muhammad . 
+
+# sent_id =139
+# text = are not militant most Salafis , though they tend to be narrow rather minded , - on the order of Protestant Pietists in my experience # or violent $ . 
+
+# sent_id =140
+# text = Monotheism and Holy 
+
+# sent_id =141
+# text = does war obviously have , did a violent interpretation of Salafism the the rather ask leaders of the German Peasant called so - Rebellion among early protestants . 
+
+# sent_id =142
+# text = is another sign worrisome that have fundamentalists local Iraqi sunni oppose to the US presence in Iraq begun joing Monotheism and Holy War and , wearing its orange and black distinctive insignia . 
+
+# sent_id =143
+# text = have been these sighted among Iraqi crowds on Haifa Street in Baghdad in and Samarra . 
+
+# sent_id =144
+# text = there are so now hundreds of Qaeda al - members in Iraq had where there before none been . 
+
+# sent_id =145
+# text = cannot be also seen the consolidation of smaller radical fundamentalist local groups with al Qaeda - in the case of the Fizazi group that morphed into the Combatant Moroccan Islamic Group had , members who met with ringleader September 11 Muhammad Atta and was ultimately , responsible for the train Madrid bombings in part in Tangiers . 
+
+# sent_id =146
+# text = wo issue the panel September 11 its findings on Thursday . 
+
+# sent_id =147
+# text = it notes 10 points the US at which made key mistakes that might have stopped Bin 's Laden plot . 
+
+# sent_id =148
+# text = under were four of these Clinton under Bush and 6 . 
+
+# sent_id =149
+# text = came Bush out today and said that would he have expended , if he had known what was coming every effort to stop it that would and so , have Clinton . 
+
+# sent_id =150
+# text = is this statement , despite its facade of fair- mindedness many so weasel , words . 
+
+# sent_id =151
+# text = would have Bush of course tried to stop 9/11 if he had known it was coming . 
+
+# sent_id =152
+# text = is the question , " should he have known it was coming " # 
+
+# sent_id =153
+# text = yes is the answer , " " ° 
+

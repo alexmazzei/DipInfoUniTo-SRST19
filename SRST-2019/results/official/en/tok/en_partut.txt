@@ -1,0 +1,459 @@
+# sent_id =1
+# text = attribution Shareolike 2.0 - . 
+
+# sent_id =2
+# text = is prohibited any other as than authorised under this license or law copyright use the of work . 
+
+# sent_id =3
+# text = offers Licensor the work as - is unless to otherwise agreed Y the by parties in writing and makes no representations or warranties concerning the express or otherwise statutory Y implied Y materials including warranties of title merchantibility Y fitness for a particular purpose Y the or presence of absence whether or not discoverable of errors Y Y noninfringement Y the or absence of latent or other defects Y accuracy Y without limitation Y Y Y Y of any kind . 
+
+# sent_id =4
+# text = a is Creative Commons not party to this License and makes no whatsoever warranty in connection the with work Y . 
+
+# sent_id =5
+# text = I yes Y feel Mr Evans Y would a initiative the of type you have just suggested be entirely appropriate . 
+
+# sent_id =6
+# text = would I ask that they reconsider since the is this not case Y . 
+
+# sent_id =7
+# text = the in has been sadly recently safety transport news : 
+
+# sent_id =8
+# text = of is needless to say Y key safety on roads railways and inland waterways Y importance should and be also therefore training for advisors safety the as as well requirements the of new ADR for example Y which under is way Y Y harmonised the international nature of these types of transport given Y Y Y . 
+
+# sent_id =9
+# text = the is this just not fault the of Commission but I believe that we need to quickly more take action so as to achieve harmonisation in this as well area Y . 
+
+# sent_id =10
+# text = can I live with minimum these standards would but I ask the Commission to carefully very monitor the situation Y . 
+
+# sent_id =11
+# text = but I believe that should we all can we do to keep the transport of dangerous goods whether they are countries or not transit to a minimum Y Y in all countries . 
+
+# sent_id =12
+# text = I hope will be my proposal taken in vote 's tomorrow into consideration . 
+
+# sent_id =13
+# text = would I like to ask the vice President - if in a she is position to us today is what the State of play with regard the to efforts being made by these two organisations towards harmonisation tell whether in and a is the EU position to hasten these efforts harmonisation in accordance with principles that are as simple as possible Y Y . 
+
+# sent_id =14
+# text = would I much very like President Mr Y to thank Mrs Schroedter the for work has she done on this and to explain that am I speaking for my colleague Flautre mrs who followed but this on employment and social Affairs who is unfortunately ill the for Committee Y Y to colleagues . 
+
+# sent_id =15
+# text = but here particularly is the lack of specific guidelines to be regretted as will be the idea of linking assistance social Fund the to strategy employment put the during 2000 2006 - programme the for first time into effect Y . 
+
+# sent_id =16
+# text = the is though truth that and we believe that must the Commission of what is adopted by this Parliament the in particularly face of a interim revision of these Directives Y take account is this also shown the in way been have drafted the conclusions - - the of matter . 
+
+# sent_id =17
+# text = would I like President Mr Y Commissioner Y to thank Mrs Schroedter for a excellent report . 
+
+# sent_id =18
+# text = has she gone and she many of the of amendments regarding this report that have been tabled took account the in debate Committee the into issue in some depth . 
+
+# sent_id =19
+# text = it contained details and issues had that been already raised in previous reports . 
+
+# sent_id =20
+# text = a has been ongoing this concern the for five years have a I been that member of this Parliament have and I raised the issue time and again time Y . 
+
+# sent_id =21
+# text = I feel consequently Y must we look the to future and establish guidelines the for in 2003 review mid - term and thus have a influence the on second phase of set to follow 2003 programming Y . 
+
+# sent_id =22
+# text = would certainly its implementation require extending the scope of instruments redistribution the structural such as funds . 
+
+# sent_id =23
+# text = would I too like President Mr Y to congratulate the rapporteur her on excellent work . 
+
+# sent_id =24
+# text = will I conclude President Mr by saying that is the failure to focus on territorial pacts and especially Y methods of combating unemployment among women and young people Y of communication the 's Commission Y cause for serious concern Y Y . 
+
+# sent_id =25
+# text = ANA used a creative grouping of keywords to target advertiing to users specifically interested in traveling and Japanese culture and developed creative that resonated their with audience advert . 
+
+# sent_id =26
+# text = can you now hear if you are even not friends Y from people you are in interested . 
+
+# sent_id =27
+# text = can you not subscribe if you do not see the button Y . 
+
+# sent_id =28
+# text = you do have a page Facebook # 
+
+# sent_id =29
+# text = should be reduced 14 # $ the consumption of EUP in stand-by or off - mode energy the to necessary their for proper functioning minimum as a general principle Y . 
+
+# sent_id =30
+# text = should the programme continue the with same at least budget 1 million euro per year $ # the with and same measures and groups target - for a 4 further years . 
+
+# sent_id =31
+# text = Everyone has 2 $ # the right to leave any country his own including Y and to return his to country Y . 
+
+# sent_id =32
+# text = mens Y and women of full age without any limitation due to race nationality Y or religion Y 1 # $ have the right to marry and to found a family . 
+
+# sent_id =33
+# text = Everyone has 2 # $ the right of equal access to public service his in country . 
+
+# sent_id =34
+# text = Everyone who works has 3 # $ the right to just and favourable remuneration ensuring for him his and family a worthy and supplemented if necessary Y Y Y by other means of social protection of human dignity existence . 
+
+# sent_id =35
+# text = nobody is happy not if is not momma happy Y . 
+
+# sent_id =36
+# text = hereby the republic of Bulgaria and Romania become Members the of European Union . 
+
+# sent_id =37
+# text = are out set the conditions and arrangements for admission the in protocol annexed to this treaty . 
+
+# sent_id =38
+# text = shall form the provisions of that protocol a integral part of this treaty . 
+
+# sent_id =39
+# text = shall form the provisions of that act a integral part of this treaty . 
+
+# sent_id =40
+# text = shall be ratified this treaty the by high Contracting Parties in accordance their with respective constitutional requirements . 
+
+# sent_id =41
+# text = shall be deposited the at latest the instruments of ratification by 31 December 2006 the with government the of Italian republic . 
+
+# sent_id =42
+# text = shall treaty this enter provided that have been the all instruments of ratification deposited before that date on 1 January 2007 into force . 
+
+# sent_id =43
+# text = shall treaty this enter on 1 January 2008 if is a decision such taken with to only ones the of States acceding respect for that State into force . 
+
+# sent_id =44
+# text = shall subject only to the on and date the of entry into force of this treaty enter measures these into force . 
+
+# sent_id =45
+# text = shall be annexed the text up drawn the in Bulgarian and Romanian languages the of treaty establishing a constitution for Europe to this treaty . 
+
+# sent_id =46
+# text = Protocol concerning the conditions and arrangements for admission the to European Union the of republic of Bulgaria and Romania . 
+
+# sent_id =47
+# text = Bulgaria and Romania accede meeting the within Council the to decisions and agreements adopted the by representatives the of governments the of member States . 
+
+# sent_id =48
+# text = the instruments particular mentioned in this article include those to referred in fourth 438 - article the of constitution . 
+
+# sent_id =49
+# text = shall it submit a draft the of protocols for conclusion the to Council . 
+
+# sent_id =50
+# text = shall unanimously the Council act after consulting the European Parliament . 
+
+# sent_id =51
+# text = shall Y be subject the application the of constitution and acts adopted the by institutions as a transitional measure Y the to derogations for provided in this protocol . 
+
+# sent_id =52
+# text = shall be out notwithstanding this Y carried procedures initiated after accession public procurement in accordance the with provisions relevant union . 
+
+# sent_id =53
+# text = shall the exercise last referred to in 1 paragraph the for assistance pre - accession programming take place the in last year preceding accession . 
+
+# sent_id =54
+# text = will have actions under these programmes to be contracted the within following two years . 
+
+# sent_id =55
+# text = shall be granted no extensions the for period contracting . 
+
+# sent_id =56
+# text = may be exceptionally Y in and justified duly cases granted limited extensions in terms of duration for execution of contracts . 
+
+# sent_id =57
+# text = may be committed funds pre - accession for audit Y and costs evaluation after accession up to five years . 
+
+# sent_id =58
+# text = shall not however Y apply the provisions applicable the to general budget the of European communities contained in 165 article the of financial regulation . 
+
+# sent_id =59
+# text = may the Commission adopt rules referred to in 2 paragraph for implementation the of assistance . 
+
+# sent_id =60
+# text = shall be assisted the Commission by a Committee to this end Y . 
+
+# sent_id =61
+# text = shall the Committee adopt its rules of procedure . 
+
+# sent_id =62
+# text = shall assistance this fund projects building institution - and small-scale ancillary limited thereto investments . 
+
+# sent_id =63
+# text = shall be authorized the appropriations the by budgetary authority the within limits the of financial perspective . 
+
+# sent_id =64
+# text = shall be payable twelfth one of each annual amount to Bulgaria and Romania the on day of each month first working the in corresponding year . 
+
+# sent_id =65
+# text = shall be used the Payments sum lump - the from first Payment within three years . 
+
+# sent_id =66
+# text = shall be recovered any unused or unjustifiably spent Funds the by Commission . 
+
+# sent_id =67
+# text = may the Commission adopt any necessary the for operation the of temporary flow cash - and facility Schengen technical provisions . 
+
+# sent_id =68
+# text = shall be applicable forthwith the measures decided thus on shall take account the of interest of all parties concerned Y shall and not entail controls frontier . 
+
+# sent_id =69
+# text = shall be given priority as will least disturb the functioning the of internal market to such measures . 
+
+# sent_id =70
+# text = shall be not invoked such measures safeguard as a means of arbitrary discrimination or a restriction disguised on trade between member States . 
+
+# sent_id =71
+# text = shall be maintained longer no than strictly necessary the measures shall and be lifted when is the relevant commitment implemented in any case Y Y . 
+
+# sent_id =72
+# text = may be they however applied as as longsed have been not the relevant commitments fulfilled the beyond period specified the in first paragraph . 
+
+# sent_id =73
+# text = may the Commission adapt the measures as appropriate in response to progress made the by concerned in fulfilling its commitments member new State Y . 
+
+# sent_id =74
+# text = shall be maintained longer no than strictly necessary the measures shall and be lifted when are the shortcomings remedied in any case Y Y . 
+
+# sent_id =75
+# text = may be they however applied as as longsed shortcomings these persist the beyond period specified the in first paragraph . 
+
+# sent_id =76
+# text = may a law European the of Council extend this period . 
+
+# sent_id =77
+# text = shall be taken these measures during a period of three years following the date of accession shall and be their application limited to that period . 
+
+# sent_id =78
+# text = shall the Parliament European make as are rendered necessary by accession such adaptations to its rules of procedure . 
+
+# sent_id =79
+# text = shall the Council make such adaptations as are rendered necessary by accession to its rules of procedure . 
+
+# sent_id =80
+# text = shall be appointed a national of each new member State the to Commission the as from date of accession . 
+
+# sent_id =81
+# text = shall expire the terms of office the of appointed thus members as those the of members in office the at same time the at time of accession . 
+
+# sent_id =82
+# text = shall be appointed judges two the to court of Justice shall and be judges two appointed the to court General . 
+
+# sent_id =83
+# text = shall the term appointed in accordance with 1 paragraph of one the of judges the of court of Justice of office expire on 6 October 2009 . 
+
+# sent_id =84
+# text = shall be chosen this judge by lot . 
+
+# sent_id =85
+# text = shall the term of office the of other Judge expire on 6 October 2012 . 
+
+# sent_id =86
+# text = shall the term of of one the of judges the of appointed court General in accordance with 1 paragraph office expire on 31 August 2007 . 
+
+# sent_id =87
+# text = shall the term of office the of other Judge expire on 31 August 2010 . 
+
+# sent_id =88
+# text = shall the court of Justice make such adaptations as are rendered necessary by accession to its rules of procedure . 
+
+# sent_id =89
+# text = shall the court General Y make as are rendered necessary by accession such adaptations in agreement the with court of Justice Y to its rules of procedure . 
+
+# sent_id =90
+# text = shall require the rules as adapted of procedure the consent the of Council . 
+
+# sent_id =91
+# text = shall be appointed a national of each new member State the as from date of accession the to court of auditors for a term of office of six years . 
+
+# sent_id =92
+# text = shall expire the terms appointed thus of office the of members as those the of members in office the at same time the at time of accession . 
+
+# sent_id =93
+# text = shall expire the terms of office the of appointed newly members as those the of members in office the at same time the at time of accession . 
+
+# sent_id =94
+# text = shall they communicate those measures the by date of accession the by or where later Y limit provided for in this protocol time Y the to Commission . 
+
+# sent_id =95
+# text = shall be adopted the measures the According to rules governing the adoption the of from which act is a temporary derogation sought voting . 
+
+# sent_id =96
+# text = may be they applied where are these derogations adopted after accession the as from date of accession . 
+
+# sent_id =97
+# text = may be they applied where are these adaptations adopted after accession the as from date of accession . 
+
+# sent_id =98
+# text = shall be they published if were so the texts published the in present languages the in official journal the of European Union . 
+
+# sent_id =99
+# text = shall form annexes first Ninth to the and thereto appendices a integral part of this protocol . 
+
+# sent_id =100
+# text = shall be annexed the text up drawn the in languages Bulgarian and Romanian of that treaty Y Y to this protocol . 
+
+# sent_id =101
+# text = shall be authentic texts those the under same conditions the as texts referred to the in first paragraph up drawn the in present languages Y the of treaty . 
+
+# sent_id =102
+# text = as longsed ases is insofar yet not concluded this agreement as it provisionally applies Y . 
+
+# sent_id =103
+# text = is hereby established a base area national for each member State producing . 
+
+# sent_id =104
+# text = are however Y established base areas two for France . 
+
+# sent_id =105
+# text = is hereby established a area guaranteed of 829229 HA maximum . 
+
+# sent_id =106
+# text = will only come the decision if is a such decision taken the before date of accession Y the upon date of accession into effect . 
+
+# sent_id =107
+# text = shall be communicated the measures aid the to Commission within four months the of date of accession . 
+
+# sent_id =108
+# text = shall communication this include information the on legal basis for each measure . 
+
+# sent_id =109
+# text = shall be considered any aid founded be to incompatible with those guidelines after that date Y as new aid . 
+
+# sent_id =110
+# text = shall be deducted the stocks referred to in 1 paragraph the from quantity exceeding the normal carryover of stocks . 
+
+# sent_id =111
+# text = such companies bring advanced technologically imports and techniques that fosters growth in domestic firms while spurring industrial modernization Y new management . 
+
+# sent_id =112
+# text = of no is medicine affordable however Y Y value if one no is available to prescribe or it administer . 
+
+# sent_id =113
+# text = should Germany here too Y Y take the lead . 
+
+# sent_id =114
+# text = and China relied heavily to anchor its currency undervalued it allowing to boost its competitiveness export Y the on dollar US . 
+
+# sent_id =115
+# text = a was codependency this not however Y marriage the in end Y of love of convenience Y . 
+
+# sent_id =116
+# text = will it suffer higher inflation and a weaker dollar Y rates rising interest Y if America remains stuck Y in its ways under saving - but it finds without Chinese goods and capital . 
+
+# sent_id =117
+# text = the risks downside seem though the is likely yes answer Y higher than they ago a few decades did . 
+
+# sent_id =118
+# text = All of these problems have solutions the in at least short to medium run Y . 
+
+# sent_id =119
+# text = or is significant perhaps innovation this less than its enthusiasts believe . 
+
+# sent_id =120
+# text = is it telling that most the of 47 participants 's symposium influential figures the from around world sector public - and private - ° ° were unaware the of extent nutrition a 's mother to which affects wellbeing her 's offspring . 
+
+# sent_id =121
+# text = this reflects a fundamental failing the on part the of scientific community to relay relevant data to makers decision - . 
+
+# sent_id =122
+# text = will require developing and maximizing potential 's women in South Korea and elsewhere Y Japan Y Y comprehensive education structural as as well change the on particularly side the of economy services Y Y and reforms market labor - . 
+
+# sent_id =123
+# text = being perceived as boring confers power the to extent that it allows major decisions be to made without a great deal of external scrutiny the in realm of international economics Y . 
+
+# sent_id =124
+# text = would nothing good ever happen and not certainly the for US ° . 
+
+# sent_id =125
+# text = has rapidly significance global economic and financial these ' countries grown yet they have little relatively representation the at Fund Y . 
+
+# sent_id =126
+# text = has been agreed a package of reforms . 
+
+# sent_id =127
+# text = tried the administration to make the IMF interesting more to particularly encourage Republicans the in house of representatives to support the reforms Y in effect Y . 
+
+# sent_id =128
+# text = the latest are Indications that will be enticed not so the Republicans . 
+
+# sent_id =129
+# text = a not inch . 
+
+# sent_id =130
+# text = and we are yet Y facing a new threat the in form of a offensive peace " " that old staple designed to undermine Western resolve of soviet diplomacy ° Y as Ukrainians work to rebuild our country after predatory rule 's Viktor Yanukovych Y . 
+
+# sent_id =131
+# text = no reason to change political structure the 's country is there if no oppression of Russian speakers there is in Ukraine Y . 
+
+# sent_id =132
+# text = however Y seems science when it comes to genetic engineering Y to less than politics matter . 
+
+# sent_id =133
+# text = would require after all Y Establishing a genuine fiscal union political strong commitment ° and considerable legwork . 
+
+# sent_id =134
+# text = is reflected his time at Vendôme in Louis Lambert his 1832 novel about a young boy studying at Vendôme at a Oratorian school grammar Y . 
+
+# sent_id =135
+# text = as Robb explained : 
+
+# sent_id =136
+# text = a symbolic inheritance . 
+
+# sent_id =137
+# text = fails his health the in end Y and he is consumed his by own confusion . 
+
+# sent_id =138
+# text = was not predetermined their length . 
+
+# sent_id =139
+# text = his was method to eat at five or six a light meal the in afternoon then sleep until midnight Y preferred . 
+
+# sent_id =140
+# text = he managed to stay connect the to social world which nourished his writing although a was Balzac hermit " " by turns Y and a vagrant . 
+
+# sent_id =141
+# text = deteriorated his health and Ewelina wrote about Balzac being in a State of extreme weakness " " her to daughter Y and profusely sweating " " the on way . 
+
+# sent_id =142
+# text = Balzac sought to present his characters as real good neither fully but fully human Y nor fully evil people Y . 
+
+# sent_id =143
+# text = Balzac studied as he did him Y the with around people travelling to remote locations and surveying notes that had him made on previous visits these places in depth Y . 
+
+# sent_id =144
+# text = is half smothered the artist the of Comédie Humaine " " Y he wrote Y the by historian " . 
+
+# sent_id =145
+# text = has Balzac received high praise " from diverse as as Walter Benjamin and Paglia Camille critics . 
+
+# sent_id =146
+# text = is it not exactly known when Shakespeare began writing but allusions contemporary and records of performances show that the on several his of plays were by 1592 stage London Y . 
+
+# sent_id =147
+# text = was Shakespeare buried his after death the in chancel the of church holy Trinity two days . 
+
+# sent_id =148
+# text = carved the epitaph the into stone slab covering his grave includes a curse against moving his bones which was carefully avoided in 2008 during Restoration the of church Y . 
+
+# sent_id =149
+# text = Shakespeare collaborated with probably John Fletcher Y on further two plays Henry Eigth the and Noble two Kinsmen surviving Y . 
+
+# sent_id =150
+# text = Shakespeare varied further after Hamlet Y his poetic style Y the in emotional more particularly passages the of late tragedies . 
+
+# sent_id =151
+# text = he returned deliberately to a artificial more style which emphasised the illusion of theatre Y in late romances 's Shakespeare Y . 
+
+# sent_id =152
+# text = spread abroad also his reputation the in 18 th and th 19 centuries Y . 
+
+# sent_id =153
+# text = a minority small only of academics believe reason to question the traditional attribution there is but interest the in subject the Oxfordian particularly theory of authorship Shakespeare Y Y continues the into 21 st century Y . 
+

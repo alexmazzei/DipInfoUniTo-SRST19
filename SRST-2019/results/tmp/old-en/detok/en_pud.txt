@@ -1,0 +1,3008 @@
+# sent_id =1
+# text = if Google what Morph Into GoogleIS #
+
+--
+# text = http://www.google.co.uk/search?q=backdrop+frame&ie=utf-8&oe=utf-8&aq=t&rls=org.mozilla:en-us:official&client=firefox-a&safe=active&sout=1
+
+# sent_id =3090
+# sent_id =2
+# text = if expanded Google what on its wares into a fledged full - operating system search engine # - and now e-mail $#
+
+# sent_id =3
+# text = via Microsoft #
+
+# sent_id =4
+# text = Watch from Mary Foley Jo #
+
+# sent_id =5
+# text = and is anybody else just nostalgic a little # a when was that good thing for the days by the way $#
+
+# sent_id =6
+# text = argues this post Buzzmachine that might rush Google's toward ubiquity backfire have we which before all heard but it is particularly well put - in this post.
+
+# sent_id =7
+# text = a is nice search Google engine.
+
+# sent_id =8
+# text = does anybody use it for else anything #
+
+# sent_id =9
+# text = they own of course blogger.
+
+# sent_id =10
+# text = a is that money maker #
+
+# sent_id =11
+# text = I are staying away from the stock.
+
+# sent_id =12
+# text = I doubt have not the few very who actually read my blog yet come across this I but figured I would there out anyways put it.
+
+# sent_id =13
+# text = John Donovan from Argghhh °
+
+# sent_id =14
+# text = has put out a excellent slide on what was actually found and for fought in Fallujah show.
+
+# sent_id =15
+# text = here click to view it.
+
+# sent_id =16
+# text = he makes some good observations on a few of the pic's.
+
+# sent_id =17
+# text = one of the pictures shows a flag that was found in Fallujah.
+
+# sent_id =18
+# text = he took screenshots of's behead two video on the next two pictures.
+
+# sent_id =19
+# text = compare the flags to the one Fallujah.
+
+# sent_id =20
+# text = you have to see these slides they are amazing.
+
+# sent_id =21
+# text = my turn this operation Fallujah out the to be important most operation done by the US military since the end of the war.
+
+# sent_id =22
+# text = Let me join the chorus of annoyance over new Google's toolbar which commits every about just sin could a marketer online commit as noted in the linked article and up besides makes a new few ones.
+
+# sent_id =23
+# text = I are fond not of the Google- privacy hates - argument
+
+# sent_id =24
+# text = you don't need # you have much too far far time on your hands to use their site you are worried that you might send something to someone who would forward a excerpt to someone who would then store it on a Gmail account you don't need to send to anyone with a Gmail account stuff you cannot -out opt of sharing your information if and wonder of wonders $.
+
+# sent_id =25
+# text = is bad really however this toolbar news .
+
+# sent_id =26
+# text = it looks pretty cool on the other hand.
+
+# sent_id =27
+# text = Iran says it is creating without wanting nuclear weapons nuclear energy.
+
+# sent_id =28
+# text = does not the States United believe the Iranian government.
+
+# sent_id =29
+# text = cannot one suspect the Iranian government.
+
+# sent_id =30
+# text = but there is no proof.
+
+# sent_id =31
+# text = I read a Article accusing of being willing to start a nuclear war the Iranian government in time magazine I and sympathise with the Article.
+
+# sent_id =32
+# text = are they being certainly nasty to the Nations United Security Council in connection with the anti-PRoliferation treaty.
+
+# sent_id =33
+# text = has the President also said would he like to see Israel off wid the map could he which not even begin to try without nuclear weapons.
+
+# sent_id =34
+# text = he but has insisted that he wants nuclear power for peaceful purposes.
+
+# sent_id =35
+# text = want people many to use diplomacy with Iran military rather thenning pressure.
+
+# sent_id =36
+# text = wo but work diplomacy #
+
+# sent_id =37
+# text = cannot and anyone use military pressure without proof #
+
+# sent_id =38
+# text = pointed reader one out that the President watched when they hostage took them the Americans in the embassy.
+
+# sent_id =39
+# text = he has denied this.
+
+# sent_id =40
+# text = do we not have to believe him.
+
+# sent_id =41
+# text = cannot we but not prove it.
+
+# sent_id =42
+# text = does it seem that frequently Iranians make statements and then hide behind lack of proof.
+
+# sent_id =43
+# text = chanted crowds angry as the police security killed in a friendly fire incident by US troops anti-American slogans were buried on Saturday in the Western city of Falluja popy # $256,000.
+
+# sent_id =44
+# text = reported Reuters that clerics sunni in the town issued "announcing three days of mourning a declaration 'condemning the deaths of the security guards and police and calling for a general strike today by the people of Fallujah'".
+
+# sent_id =45
+# text = it read "the people of Fallujah condemn the massacre which was committed on Friday against dedicated to the protection of Fallujah people.
+
+# sent_id =46
+# text = Let know that we are capable of protecting the city's security and safety and ask them to lift their hands from the city aggressive American leaders # and soldiers $".
+
+# sent_id =47
+# text = demandeleded the clerics talks with local US commanders.
+
+# sent_id =48
+# text = has been there Falluja roiled long since either Sunnis local remain committed to Arab nationalism have or become sunni fundamentalists or even radicals by tense relations with the US soldiers.
+
+# sent_id =49
+# text = received cities such ask Falluja special treatment from Saddam and enjoyed a disproportionate share of the country's wealth and power.
+
+# sent_id =50
+# text = they know that the advent American implies for them a demotion a and elevation of the Shiites and Kurds and they refuse to quietly go.
+
+# sent_id =51
+# text = see
+
+# sent_id =52
+# text = http://www.gulf-news.com/Articles/news.asp?ArticleID=97508 the Court Supreme announced it be rubling divided abstaining and Anthony Kennedy joining the liberals in a 5 - 3 decision is long that 185 pages with John Roberts in Hamdan v. Rumsfeld along idelogical lines due toe his involvement at the Circuit D.C. level today.
+
+# sent_id =53
+# text = is confusing the vote actual a little.
+
+# sent_id =54
+# text = stay now with me: John Stevens Paul delivered the opinion of the court with respect to I through IV parts Kennedy and Breyer and VII SOUTER d VI v - - GINSBURG in which joined VI through VI III D- a and opinion with respect to parts V SOUTER and Breyer GINSBURG in which joined and VI D IV - -.
+
+# sent_id =55
+# text = filed Breyer a concurring opinion Kennedy and GINSBURG SOUTER in which joined.
+
+# sent_id =56
+# text = filed Kennedy a opinion concurr SOUTER and Breyer GINSBURG in which joined as toe parts and II in part.
+
+# sent_id =57
+# text = filed SCALIA a dissenting opinion Thomas and ALITO in which joined.
+
+# sent_id =58
+# text = Thomas filed a dissenting opinion SCALIA in which joined and ALITO in which as to all and III but I II parts 1 C 2 B - - joined.
+
+# sent_id =59
+# text = filed ALITO a dissenting opinion SCALIA and Thomas in which joined as toe I through III parts.
+
+# sent_id =60
+# text = wo it take to Read the whole thing me a little while I but rarely agree with a John Paul Stevens opinion.
+
+# sent_id =61
+# text = I wo post highlights from the opinion and when I are finished dissents.
+
+# sent_id =62
+# text = important news miniscule such ask President's Bush calibrations on his marriage amendment / anti-gay update #: against he is not gays in the bedroom at the just altar should where be not upon of course only their relationships frowned should but be constitutionally excluded has pushed Sudan off the front just not pages of out the but NY completely Times and Washington Post the or A section $.
+
+# sent_id =63
+# text = I had to go to the BBC for this report.
+
+# sent_id =64
+# text = it is symptomatic I suppose that would be quickly the biggest humanitarian crisis term short - in the world eclipsed once was our Secretary of State finished with his whirlwind tour from the newspapers of our cycle news - paced fast hour 24 - lives.
+
+# sent_id =65
+# text = it is disappointing just.
+
+# sent_id =66
+# text = the is troubling most however fact that the will political to end ago a few short weeks expressed the crisis seems have to ebbed.
+
+# sent_id =67
+# text = demanded Kofi Secretary UN General Annan be steps taken to end the ethnic violence in Darfur within 48 hours at that time.
+
+# sent_id =68
+# text = later weeks two and the violence continues.
+
+# sent_id =69
+# text = up toe the is not clearly the union African task of keeping pledging 300 troops to a area that wo need 15,000 according toe analysts the peace.
+
+# sent_id =70
+# text = have and given donors international only half of the relief aid that Darfur needs the local UN according toe officials.
+
+# sent_id =71
+# text = so we later weeks two hear are and the situation on the ground in Darfur appears basically unchange after dazzling that PR ago weeks two by Powell and Annan display.
+
+# sent_id =72
+# text = is giving away Warren Buffett 85% of his wealth to the Gates bill and Melinda mostly foundation.
+
+# sent_id =73
+# text = a it is move that really worries me justification usual Buffett's for keeping most of his money was that he was still compounding the value of his fortune would so now later any gifts mean less significantly money for the foundation at a high pretty rate.
+
+# sent_id =74
+# text = it is hard a little to parse he and wants them to soon as as possible have the money but his view Ostensible is that are good very the Gateses money redistributors at this point.
+
+# sent_id =75
+# text = which essentially sounds like he is worried that are bill or Melinda going to soon die.
+
+# sent_id =76
+# text = I assume his reason actual is that he is worried that cannot not Hathaway Berkshire just enough quickly grow to justify his usual charity policy.
+
+# sent_id =77
+# text = I aren't sure wo how the market react.
+
+# sent_id =78
+# text = it does not change intrinsic the company's worth might and be the company once get the shares more liquid added as the article notes to a major index.
+
+# sent_id =79
+# text = a is this essentially statement is the company that overpriced from the guy who it best knows and happens the to be best investor of the last century on the other hand.
+
+# sent_id =80
+# text = em mainly no the foundation Gates invests that means donating now adds to compared donating in ten years a tremendous value in medical research and education.
+
+# sent_id =81
+# text = because wo be otherwise dead the people 10.000.000 dying from malaria.
+
+# sent_id =82
+# text = he is not away% 85 giving i.e. he is giving each year a number of shares that decrease at the rate of 5% until go # $# a year in number.
+
+# sent_id =83
+# text = he mentions having a effect on him his wife's death.
+
+# sent_id =84
+# text = it sounds pretty rational that he is saying that at a are prime Bill and Melinda spot but is Buffet still keeping most of his donation wo it where compound inside of Berkshire a is good now so starting the hose money idea.
+
+# sent_id =85
+# text = Bill over at the fourth Rail has: a excellent essay on are how the MSm the and UN the leftist even countries in Europe basically accepting terrorist organizations as legitimate forms of a political party
+
+# sent_id =86
+# text = has Hamas indicated the group terrorist Palestinians protest in support of Hezbollah and Syria wo it participate in the Parliamentary upcoming scheduled elections on the same day.
+
+# sent_id =87
+# text = there is debate serious about entering the political lebanese process in light of promised Syria's withdrawal within Hezbollah to the north in Lebanon.
+
+# sent_id =88
+# text = has Syria agreed to withdraw under the conditions forth set in UNSC 1559 Resolution which has already begun.
+
+# sent_id =89
+# text = has Kofi Secretary - General UN Annan indicated it is time to recognize "Hezbollah after being easily dun by the message" on the placards are they using "".
+
+# sent_id =90
+# text = a is cancerous this acceptance of terrorist blatantly groups as legitimate freedom movements tumor on the United Nations the and media.
+
+# sent_id =91
+# text = cannot not the Nations United properly still define waffling over the issue of whether are terrorist the murder of innocent civilians acts after 9-11 the word "terrorist" over three years despite their attempts to project strength in fighting terrorism.
+
+# sent_id =92
+# text = routinely obscures the media as the article recent by Daniel Okrent of the York New Times demonstrates the lines between terrorism and legitimate resistance.
+
+# sent_id =93
+# text =...
+
+# sent_id =94
+# text = does not bring the decision to sidestep the obvious to satisfy the need to avoid confrontation peace but only delays as the predators of Hamas and Hezbollah exploit the inherent weakness of the internationals the and media the eventual conflict.
+
+# sent_id =95
+# text = I have been fuming now since ever some organizations and governments suggested we need to accept the fact that wo Hezbollah involved get in running Lebanon for a few weeks over this fact.
+
+# sent_id =96
+# text = is this Wtf #
+
+# sent_id =97
+# text = a is this plain and simple terrorist organization.
+
+# sent_id =98
+# text = the is this organization that bombed in 1983 our Marine barracks hostage took Americans throughout the 80's should and they be now considered a legitimate organization #
+
+# sent_id =99
+# text = is another this just reason to never trust the MSm the and not certainly Europeans.
+
+# sent_id =100
+# text = among the has been sunni Muslim few the lead Party Islamic Iraqi by Muhsin Abdul Hamid groups willing to cooperate if lukewarmly rather even $# with the Americans.
+
+# sent_id =101
+# text = it is threatening now to pull of out the caretaker Allawi government.
+
+# sent_id =102
+# text = the had been main the Iip also force urging sunni Arabs to participate in the elections scheduled for January had and been opposed in this stance by the Association of Muslim scholars.
+
+# sent_id =103
+# text = raises that is contemplatting now the Party Islamic Iraqi leaving the Allawi government the question whether of in the is a boycott mass Arab sunni of the elections offing fatally thus weakening the legitimacy of any new government.
+
+# sent_id =104
+# text = Az Zaman - the Association of Muslim scholars forbake Iraqis to participate with the Americans in the attack on Fallujah:.
+
+# sent_id =105
+# text = said the AMS that would be the population of which is Muslim such ask Fallujah # $ considered the most mortal of mortal sins for to Iraqis take part with raiding forces "" in the assault on a city in a communique.
+
+# sent_id =106
+# text = told the AMS sunni "you san you when participated with OCCUPATION forces in the assault on Najaf and beware lest you repeat this same sin in Fallujah Iraqis.
+
+# sent_id =107
+# text = remember that is the occupation emphemeral ".
+
+# sent_id =108
+# text = issued as well the movement Shiite radical sadr a statement forbidding the participation of Iraqi troops in the attack on Fallujah.
+
+# sent_id =109
+# text = said the statement "we direct calling to refrain for commiting this enormous sin under the banner of forces that don't respect our religion or any principles of basic humanity we and ask them to view as illegal this war upon them a appeal at the men whether are guards national the of whom majority or others muslim in the Iraqi forces".
+
+# sent_id =110
+# text = it called a ploy "the assertaion on that was foreign merely the attack fighters at Fallujah".
+
+# sent_id =111
+# text = has been before seen the convergence of views among the Muslim militant more sunni clerics of am the and radical Shiites of the sadr movement last spring during the initial US assault on Fallujah during the and US attack on Army Mahdi militiamen in Najaf.
+
+# sent_id =112
+# text = are still however Shiites most reluctant to take to support the Sunnis of Fallujah had many of whom supported Saddam and his anti-Shiite pogroms major risks.
+
+# sent_id =113
+# text = pinched President Bush yesterday: groups Muslim U.S. criticized President Bush for calling a foiled plot to up blow airplanes part of a war "with Islamic fascists saying could the term inflame anti-Muslim tensions on Thursday" - a few nerves with his choice WASHINGTON Reuters # $of words.
+
+# sent_id =114
+# text = have said officials U.S. the plot thwarted by Britain to blow up several aircraft over the Atlantic bearing many of the hallmarks of al Qaeda.
+
+# sent_id =115
+# text = said Nihad Awad executive director of the Council on Relations American Islamic - advocacy group "we believe we and believe that is it counterproductive to associate Islam or Muslims with fascism a is this advised ill - term".
+
+# sent_id =116
+# text = which Why is he did not say at we are war with Islamic people.
+
+# sent_id =117
+# text = at we are war with Islamic fascists.
+
+# sent_id =118
+# text = was not Bush purposely associating Muslims by using the word Islamic "" as a adjective with fascism the hence qualifier.
+
+# sent_id =119
+# text = you &est be confuse 21 Fahim 30 43 20 21 Ahmad Abdelhaleen Toronto Shareef Kingston Ont. Mississauga Mississauga Mississauga Mohammed 22 Dirie Zakaria Amara Mississauga Ont. Qayyum Jamal Abdul Ansari Asad with the suspects from a earlier plot ago a few months foiled in Canada:
+
+# sent_id =120
+# text = Yasim 24 19 25 alias Chand Mohamed Abdi Vikash 23 Jahmaal James Amin Durrani Moham Toronto Abdul Shakur Steven Toronto Mississauga 19 Saad Khalid Toronto 21 Ahmad Mustafa Ghany Kingston of eclipse Avenue Mississauga.
+
+# sent_id =121
+# text = have we got a Steven the one word that did not crash my spell check - despite it being followed by a Vikash Shakur Chand Abdul.
+
+# sent_id =122
+# text = a it is Islamic Fascist folks if it is Islamic and fascist.
+
+# sent_id =123
+# text = must we but pretend because do we not want to sound hateful a is possible everyone suspect and make more miserable than it is ever been airline travel.
+
+# sent_id =124
+# text = declared allegedly the group "we announce it is prince and soldiers that have the Group Tawhid and Jihad pledged allegiance to the Sheikh of the mujahideen Osama Laden bin on the internet site of Monotheism Tawhid al al wa Jihad # - - $and Holy War".
+
+# sent_id =125
+# text = a is new this pledge development.
+
+# sent_id =126
+# text = are said Abu Musab Zarqawi al - and his group have to been bitter rivals of al Qaeda - during the Afghan resistance days.
+
+# sent_id =127
+# text = alleged witness one at the Moutasaddiq trial in Germany that had not Zarqawi allowed Monotheism and Holy War to share resources with al Qaeda - in the early zeroes of the 21st century.
+
+# sent_id =128
+# text = a it is worrien sign if is the statement true that are being up picked the small radical groups guerrilla divided even "by al Qaeda -".
+
+# sent_id =129
+# text = a is obviously this consolidation result of aggressive Bush's invasion of Iraq of the and botching of the aftermath.
+
+# sent_id =130
+# text = a it is setback for the war on terror.
+
+# sent_id =131
+# text = a was Qaeda Al - in Afghanistan group of a Afghan few only hundred Arabs "who pledged personal loyalty to Usamah Laden Bin".
+
+# sent_id =132
+# text = could it be notionally expanded to encompass the strong 5,000 - 55th Brigade "of the Taliban regime" though the is this technical not definition.
+
+# sent_id =133
+# text = is my guess because is Usamah saudi that they were especially influenced by a extremist form of the Wahhabi school that predominates among some Saudia's 15 million citizens of Islam.
+
+# sent_id =134
+# text = they were joined in 1998 from were upper many of these Egypt # especially Asyut and environs $by Egyptians from the Islami Jihad al - al - group of Ayman al Zawahiri -.
+
+# sent_id =135
+# text = a was joint Qaeda al - enterprise between the Egyptian extremists around Bin Laden some only of whom were Saudi the and polyglot Arabs after that point.
+
+# sent_id =136
+# text = a is Zarqawi Jordanian and Monotheism and Holy War probably his group in Afghanistan had a distinctive coloration as mainly Jordanian palestinian and Syrian.
+
+# sent_id =137
+# text = they had also a special connection to some extremists in Jordan and Germany.
+
+# sent_id =138
+# text = they are probably especially orient toward the Salafi school of Islamic modern thout which has a like Protestant - emphasis on back going to the original practice of the early companions of the Prophet Muhammad.
+
+# sent_id =139
+# text = aren't militant most Salafis though they tend to be narrow rather minded - on the order of Protestant Pietists in my experience # or violent $.
+
+# sent_id =140
+# text = Monotheism and Holy
+
+# sent_id =141
+# text = does war obviously have did a violent interpretation of Salafism the the rather ask leaders of the German Peasant called so - Rebellion among early protestants.
+
+# sent_id =142
+# text = is another sign worrisome that have fundamentalists local Iraqi sunni oppose to the US presence in Iraq begun joing Monotheism and Holy War and wearing its orange and black distinctive insignia.
+
+# sent_id =143
+# text = have been these sighted among Iraqi crowds on Haifa Street in Baghdad in and Samarra.
+
+# sent_id =144
+# text = there are so now hundreds of Qaeda al - members in Iraq had where there before none been.
+
+# sent_id =145
+# text = cannot be also seen the consolidation of smaller radical fundamentalist local groups with al Qaeda - in the case of the Fizazi group that morphed into the Combatant Moroccan Islamic Group had members who met with ringleader September 11 Muhammad Atta and was ultimately responsible for the train Madrid bombings in part in Tangiers.
+
+# sent_id =146
+# text = wo issue the panel September 11 its findings on Thursday.
+
+# sent_id =147
+# text = it notes 10 points the US at which made key mistakes that might have stopped Bin's Laden plot.
+
+# sent_id =148
+# text = under were four of these Clinton under Bush and 6.
+
+# sent_id =149
+# text = came Bush out today and said that would he have expended if he had known what was coming every effort to stop it that would and so have Clinton.
+
+# sent_id =150
+# text = is this statement despite its facade of fair- mindedness many so weasel words.
+
+# sent_id =151
+# text = would have Bush of course tried to stop 9/11 if he had known it was coming.
+
+# sent_id =152
+# text = is the question "should he have known it was coming" #
+
+# sent_id =153
+# text = yes is the answer "" °
+
+# sent_id =154
+# text = we know now that Bush and his administration came obsessed with Iraq into office.
+
+# sent_id =155
+# text = was Cheney looking and muttering in already January of 2001 or February about opportunities for US there companeys at maps of Iraq oil fields.
+
+# sent_id =156
+# text = Wolfouit contradicted insisting that the threat preeminent of terrorism against the US came from Iraq and indicating he accepted crackpot conspiracy Laurie's Mylroie theory that behind the was Towers Trade World 1993 Saddam bombing counter-terrorism czar Richard Clarke when the latter spoked of the Qaeda al - threat.
+
+# sent_id =157
+# text = a was that Qaeda al - operation mainly carried out al by Islamiyyah al Gamaa - - a Egyptian terrorist component allied with Bin Laden you wo then concentrate if you believe crackpot theories instead of focusing on the reality on the wrong threat.
+
+# sent_id =158
+# text = was Bush obsessing about Iraq after the even attacks on 11 September.
+
+# sent_id =159
+# text = lied Wolfowitz to him and said that there a chance% 10 to 50 behind that was Iraq them was.
+
+# sent_id =160
+# text = on what evidence # #
+
+# sent_id =161
+# text = were al obviously Qaeda the hijackers - and had been ever no operational links between al Qaeda - and Iraq found $.
+
+# sent_id =162
+# text = rejected initially Rumsfeld saying there no targets good "" were in Afghanistan a attack on Qaeda al - bases in Afghanistan.
+
+# sent_id =163
+# text = What # Qaeda al - about 40 bases that had trained the 9/11 hijackers and other terrorists gunning for the United States $#h
+
+# sent_id =164
+# text = did not the Pentagon even have a plan for dealing that could it pull according toe Bob Woodward off the shelf with Afghanistan or al Qaeda -.
+
+# sent_id =165
+# text = did not Bush have his eye on the ball.
+
+# sent_id =166
+# text = did neither Cheney or Wolfowitz Rumsfeld.
+
+# sent_id =167
+# text = were they playing captain Ahab to great white Saddam's whale.
+
+# sent_id =168
+# text = Hubris Imperial makes the case that knew lots in the elsewhere CIA in the US government and divisions counter -terrorism of people about all Bin Laden the and threat he posed.
+
+# sent_id =169
+# text = from they were all accounts marginalized and not to listened.
+
+# sent_id =170
+# text = demoted Bush Dick Clarke among the most vocal of the Qaeda al - experts and focused from his cabinet.
+
+# sent_id =171
+# text = could thereafter Dick never get any real cooperation from the cabinet officers who outranked him could he and not convince them to go on when was hair George's Tenet fire "" to battle stations in the summer of 2001 about the excited chatter was the CIA up picking from radical Islamist terrorists.
+
+# sent_id =172
+# text = Let me say one thing in its defense as Fodre the Clinton administration.
+
+# sent_id =173
+# text = had Clinton worked out a deal with pakistani Prime Minister Nawaz Sharif that would have allowed the US to in send a ops special team after Bin Laden based from Pakistan in Qandahar in summer of 1999.
+
+# sent_id =174
+# text = I presume you need in case anything went wrong the Pakistan base for rescue operations.
+
+# sent_id =175
+# text = you need also pakistani air space.
+
+# sent_id =176
+# text = was all set the plan could and have succeeded.
+
+# sent_id =177
+# text = but made Gen. Musharraf Pervez a coup against Nawaz Sharif in fall of 1999.
+
+# sent_id =178
+# text = was rife the army pakistani with protective of the Taliban elements and the government military new reneged on the deal.
+
+# sent_id =179
+# text = told Musharraf Clinton could he not use to send in the team against Bin Laden pakistani soil or air space.
+
+# sent_id =180
+# text = Look you and try to out figure you could how possibly off pull a such operation without pakistani facilities in fall of 1999 at a map.
+
+# sent_id =181
+# text = you could of course just in go by main force.
+
+# sent_id =182
+# text = but Look please up for those of you tempted in that direction Tabas Carter's operation.
+
+# sent_id =183
+# text = should it be easily googled.
+
+# sent_id =184
+# text = tried Clinton and hard tried.
+
+# sent_id =185
+# text = with were us not the gods on that one.
+
+# sent_id =186
+# text = is that i how want you to refer to me as the king "" i don't so think.
+
+# sent_id =187
+# text = the i are king
+
+# sent_id =188
+# text = sounds yeah exciting.
+
+# sent_id =189
+# text = want to go before you have your matt time '' with me to dinner #
+
+# sent_id =190
+# text = just kick probablyl gonna it
+
+# sent_id =191
+# text = you know whatever .
+
+# sent_id =192
+# text = i wo you let later know.
+
+# sent_id =193
+# text = you are doing what tonight.
+
+# sent_id =194
+# text = What like #
+
+# sent_id =195
+# text = i cannot think of a few things
+
+# sent_id =196
+# text = your retarded.
+
+# sent_id =197
+# text = i used to have one.
+
+# sent_id =198
+# text = they are great Dogs.
+
+# sent_id =199
+# text = are retarded cockerspaniels.
+
+# sent_id =200
+# text = you do why think i should get one of those #
+
+# sent_id =201
+# text = cannot not believe you left last night.
+
+# sent_id =202
+# text = nice sarcasm.
+
+# sent_id =203
+# text = is that fine i just need to make a CD i don't want to either see you.
+
+# sent_id =204
+# text = i cannot not wait
+
+# sent_id =205
+# text = i was thinking somewhere that requires a jacket like's tony.
+
+# sent_id =206
+# text = someplace like is that $30 a entree.
+
+# sent_id =207
+# text = i was thinking somewhere like's mcdonald yeah .
+
+# sent_id =208
+# text = may be that though too nice.
+
+# sent_id =209
+# text = you do what think #
+
+# sent_id =210
+# text = cannot we nice somewhere go.
+
+# sent_id =211
+# text = nice real.
+
+# sent_id =212
+# text = my bad oh..
+
+# sent_id =213
+# text = i must have had you up messed with some other girl i made the with bet.
+
+# sent_id =214
+# text = bet #
+
+# sent_id =215
+# text = i have really no idea you are about what talking.
+
+# sent_id =216
+# text = you must be thinking of else someone.
+
+# sent_id =217
+# text = i don't even like a Km i would not bet on them.
+
+# sent_id =218
+# text = colorado beat texas asm.
+
+# sent_id =219
+# text = i know you remember the bet.
+
+# sent_id =220
+# text = no.
+
+# sent_id =221
+# text = i got though her number.
+
+# sent_id =222
+# text = i want to up hook in the brown leather jacket with that girl paige.
+
+# sent_id =223
+# text = what happened to you #
+
+# sent_id =224
+# text = i had that night a blast.
+
+# sent_id =225
+# text = you did hook up saturday night with that blonde chick #
+
+# sent_id =226
+# text = i am not lying no.
+
+# sent_id =227
+# text = i here flow last night.
+
+# sent_id =228
+# text = you are lying #
+
+# sent_id =229
+# text = of out i am town.
+
+# sent_id =230
+# text = in i am portland.
+
+# sent_id =231
+# text = you cannot buy me when we back get dinner.
+
+# sent_id =232
+# text = i am sure they are.
+
+# sent_id =233
+# text = wo be not too affected houston care most of the layoffs affect satelite offices.
+
+# sent_id =234
+# text = should be here good economy.
+
+# sent_id =235
+# text = she does not hopefully hose you.
+
+# sent_id =236
+# text = I wo probably start looking next weekend.
+
+# sent_id =237
+# text = I heard that may be more up going or do for sale in the next month.
+
+# sent_id =238
+# text = someone told me that is chase planning a shitload of layoffs.
+
+# sent_id =239
+# text = I am not though sure that how is reliable.
+
+# sent_id =240
+# text = she is waiting to see if cannot she get financing.
+
+# sent_id =241
+# text = Mike McConnell
+
+# sent_id =242
+# text = 07/06/2000 John 14:57
+
+# sent_id =243
+# text = hello from South America.
+
+# sent_id =244
+# text = I got just your email I and certainly concur with Jeff making the call.
+
+# sent_id =245
+# text = he has maintained a good relationship with Mulva.
+
+# sent_id =246
+# text = a was this risk we that had we but did have assurances from Phillip regarding performance.
+
+# sent_id =247
+# text = I don't know wo it however help how much.
+
+# sent_id =248
+# text = Richard Harper and Mary
+
+# sent_id =249
+# text = may here Nell Browning have some ideas I but am sure you have already gone through it with them.
+
+# sent_id =250
+# text = I am amazed how the details get fuzzy on a old project.
+
+# sent_id =251
+# text = i was trying you when discussed it to back think to our remedies and discussions have but the years 3 it made difficult.
+
+# sent_id =252
+# text = I don't know if there anything I cannot do is I but are always willing to help.
+
+# sent_id =253
+# text = good luck Mike
+
+# sent_id =254
+# text = tried guys these the Ken Lay route.
+
+# sent_id =255
+# text = they are now part of your workinged group.
+
+# sent_id =256
+# text = Hilary Ackermann E. hilary.ackermannzgs.com dear Mr. Risk credit Sachs Goldman Management & advisory fax: 212-428-1181 E- phone: 212-902-3724 mail:
+
+# sent_id =257
+# text = Lavorato: I would like up following on your and's Ken Lay conversation with Gary Cohn to forward for each of Sachs Goldman Capital Markets and J.Aron acting the following proposal.
+
+# sent_id =258
+# text = Hilary I know you must be nut going with the all events Ackermann E. Risk credit Sachs Goldman Management & advisory hilary.ackermann@gs.com not hello Louise going well phone: 212-902-3724 mail E-l fax:: 212-428-1181 I have not so called.
+
+# sent_id =259
+# text = hope wo you be sorted.
+
+# sent_id =260
+# text = call me if you have time.
+
+# sent_id =261
+# text = m
+
+# sent_id =262
+# text = update please daily Louise
+
+# sent_id =263
+# text = there are only counterparties two Aep $$38,750,000 $1,250,000 19,250,000 Morgan Kinder $3,500,000 who have overdue margin today: due Original call margin margin Totals $22,750,000 $40,000,000 ------------------------------ at this time
+
+# sent_id =264
+# text = Let please us know if you need any additional information.
+
+# sent_id =265
+# text = Stephanie
+
+# sent_id =266
+# text = not. sure i but assume that is mine the songbook bluegrass
+
+# sent_id =267
+# text = for it is guitar #
+
+# sent_id =268
+# text = I wo need to ponder.
+
+# sent_id =269
+# text = I wo try to back to you pronto get.
+
+# sent_id =270
+# text = fyi.
+
+# sent_id =271
+# text = we have this report #
+
+# sent_id =272
+# text = hi David:
+
+# sent_id =273
+# text = thought that you might be interested.
+
+# sent_id =274
+# text = best
+
+# sent_id =275
+# text = Jeff
+
+# sent_id =276
+# text = he launched well today.
+
+# sent_id =277
+# text = you have seen the materials from the press conference he that launched today #
+
+# sent_id =278
+# text = I think makes our proposal look like a preferable more much alternative by comparison makes more important our support in the process and up sets Harvey as the Ralph Nader equivalent in the election to fix broken California's system a potential spoiler a is this good actually thing.
+
+# sent_id =279
+# text = hi.
+
+# sent_id =280
+# text = you would not well know it.
+
+# sent_id =281
+# text = I aren't driving tonite I but bet that could we back hitch a ride with Anil.
+
+# sent_id =282
+# text = I aren't sure I but think that he is too tonite got class.
+
+# sent_id =283
+# text = I wo search out him and see if I cannot up set it before class after or that break.
+
+# sent_id =284
+# text = daily dose on enron we are finished.
+
+# sent_id =285
+# text = i need to now get a job at house of pies c that the is only way to pay the bills.
+
+# sent_id =286
+# text = is down the economy and is the industry energy going in a to be world of hurt when enron collapses.
+
+# sent_id =287
+# text = is not tone mention going the market to be flooded with enron folks.
+
+# sent_id =288
+# text = cannot not go unless i get a free ticket to anymore lsu games.
+
+# sent_id =289
+# text = I am hoping to find some excitement in the possibility that may LSu play if Rohan Alabama "#" in the cotton bowl since has work gone to hell
+
+# sent_id =290
+# text = Davey shows up for the next 3 games $.
+
+# sent_id =291
+# text = don't however Purchase tickets until a it is done deal a lesson I learned last season the Ark following game.
+
+# sent_id =292
+# text = http://www.theadvocate.com/sports/story.asp?StoryID=16473 i have stronger than you think wil http://www.nola.com/lsu/t-p/footballcindex.ssf'/lsustory/lsunotes'8.html http://www.nola.com/lsu/t-p/footballcindex.ssf'/lsustory/secnotes'8.html http://www.nola.com/lsu/t-p/footballcindex.ssf'/lsustory/lsufoe08.html http://www.theadvocate.com/sports/story.aspéStoryIdW16475.
+
+# sent_id =293
+# text = here house i come of pies.
+
+# sent_id =294
+# text = i am sure i could have persuaded you to me give some action.
+
+# sent_id =295
+# text = is why enron blowing up #
+
+# sent_id =296
+# text = i did not want you to go.
+
+# sent_id =297
+# text = i was just going to anyway sleep.
+
+# sent_id =298
+# text = i was too tired to you give any action.
+
+# sent_id =299
+# text = is enron blowing up.
+
+# sent_id =300
+# text = Vince
+
+# sent_id =301
+# text = are we still trying to work that has been now the desk forex able to find a fix in the market for CPI the swap PSE transaction.
+
+# sent_id =302
+# text = are further calculating our colleagues in credit the reserve on the Pse swap to my voicemail.
+
+# sent_id =303
+# text = are they currently using 9.5% fixed on the imply year 1 based volatility.
+
+# sent_id =304
+# text = in the has been volatility of USDs / DM range cannot one of your research staff justify a suitable volalatility year 20 number for USD / Euro of 7 between% and 11%..
+
+# sent_id =305
+# text = would we ideally like a fast turnaround.
+
+# sent_id =306
+# text = there someone who could consider the correlation between US CPI the and $/ euro exchange rate is in addition.
+
+# sent_id =307
+# text = are currently assuming the guys credit that there no correlation is may and be consequently too double dipping the credit reserve on this basis.
+
+# sent_id =308
+# text = grateful for any help you could provide or suggestions.
+
+# sent_id =309
+# text = I met you Sid Vincent last week in Houston at the Risk conference.
+
+# sent_id =310
+# text = I enjoyed much very your presentations.
+
+# sent_id =311
+# text = I was wondering if you could me give some references the regarding calculation of correlation coefficients from a GARCH model.
+
+# sent_id =312
+# text = Thank you.
+
+# sent_id =313
+# text = Magali
+
+# sent_id =314
+# text = Van mvanbell@haglerbailly.com direct Dial 202 296-3858 # $828-3933 202 # $Belle Inc. Bailly PHB Hagler Bailly Management and economic consultant eye Street 1776 N. W. PHB Consultant Hagler facsimile 20006-3700 Washington D.C. e-mail
+
+# sent_id =315
+# text = Andrew Edison@enron
+
+# sent_id =316
+# text = 06/02/2001 10:53 AF
+
+# sent_id =317
+# text = I have settled the Ecogas / Maffett Randy / Enron lawsuit.
+
+# sent_id =318
+# text = no need to thank me just me send gifts.
+
+# sent_id =319
+# text = I talked seriously this morning with Tom hall we and agreed that would Ecogas him pay $53,000.
+
+# sent_id =320
+# text = has hall agreed to release Enron Maffett Ecogas and every affiliate and subsidiary related party.
+
+# sent_id =321
+# text = wo he also release any and all patent issues.
+
+# sent_id =322
+# text = is the goal for to him on move for and to us as well on move with his life.
+
+# sent_id =323
+# text = I have asked Doug Daniels to prepare the Settlement papers reflecting a such agreement.
+
+# sent_id =324
+# text = please handle.
+
+# sent_id =325
+# text = Becky Stephens@enron
+
+# sent_id =326
+# text = 06/12/2000 10:20 AF
+
+# sent_id =327
+# text = is below a list of OC invoex sent to you on 5/30/00 for approval Richard.
+
+# sent_id =328
+# text = verify please receipt at your earliest convenience.
+
+# sent_id =329
+# text = Thank you for your help in tracking these invoices.
+
+# sent_id =330
+# text = Holland #432785 dated 4/14/00 Michael L. Beatty PC & Associates 10469 # 10461 # & 10468 # dated 5/28/00. LLP & Hart
+
+# sent_id =331
+# text = Becky A.
+
+# sent_id =332
+# text = litigation Stephens unit 713/853-5025 Enron Corp. EB 4809
+
+# sent_id =333
+# text = on I am board.
+
+# sent_id =334
+# text = I wo call if again back the PX comes their in house - atties.
+
+# sent_id =335
+# text = Christian Yoder/ENRONVenronkgate
+
+# sent_id =336
+# text = 06/04/2001 05:54 PM
+
+# sent_id =337
+# text = you cannot along pass this to ensure on is Sanders as well board to Elizabeth #
+
+# sent_id =338
+# text = are we renewing our l/c's on a month to month basis for the PX per Sander.
+
+# sent_id =339
+# text = however is the request below please advise to replenish "the cash that was down drawn".
+
+# sent_id =340
+# text = I agree stated in his separate e'mail with Steve's position.
+
+# sent_id =341
+# text = don't give cgy Tracy these guys a penny
+
+# sent_id =342
+# text = do we have here concerns.
+
+# sent_id =343
+# text = we pointed out that there credit excess was to the PX.
+
+# sent_id =344
+# text = are we not keeping by using to pay these bills collateral available required levels #
+
+# sent_id =345
+# text = Sara
+
+# sent_id =346
+# text = is below attached presentation Davis's Thames the proposed project regarding Bruin.
+
+# sent_id =347
+# text = I wo separately forward the Stearns bear draft term sheet.
+
+# sent_id =348
+# text = Paul team Sorry for the delay on getting this around.
+
+# sent_id =349
+# text = advise please you when cannot meet to discuss related to your area issues.
+
+# sent_id =350
+# text = thanks -: Davis Clint
+
+# sent_id =351
+# text = I spoke with Mike Collins who conrfirmed to me that the cap included the remaining remaining 2.5 + million shares 203-719-8385 phone # # $and 203-719-7031 fax # $#.
+
+# sent_id =352
+# text = return please to me a executed copy of confirm.
+
+# sent_id =353
+# text = thanks.
+
+# sent_id =354
+# text = sara
+
+# sent_id =355
+# text = Joanne my assistant Rozycki has to reach me cell car numbers.
+
+# sent_id =356
+# text = I wo be back on Monday.
+
+# sent_id =357
+# text = Sara Smith Street 1400 77002 EB3801A Houston TX wholesale Enron Services Shackleton fax: 713 646-3490 # $ph: 713 853-5620 # $
+
+# sent_id =358
+# text = thanks.
+
+# sent_id =359
+# text = we have currently ss Sara a blank sample "for our 13s which are attached to our sample ISDAs for corporate US hedge funds c # $municipal a $b # # $paragraph".
+
+# sent_id =360
+# text = I wo extract the one for the corporate US 13 paragraph and email to your contact @ Union First Securities.
+
+# sent_id =361
+# text = includes the sample should it be so fine our caveat "".
+
+# sent_id =362
+# text = Susan Susan:
+
+# sent_id =363
+# text = you cannot please send while is Tanya reviewing credit a blank paragraph 13 form "" for this master.
+
+# sent_id =364
+# text = our just standard.
+
+# sent_id =365
+# text = Caveat: subject though there even blanks are to credit review.
+
+# sent_id =366
+# text = thanks.
+
+# sent_id =367
+# text = Sara
+
+# sent_id =368
+# text = Union First Securities Inc .
+
+# sent_id =369
+# text = hi Sara
+
+# sent_id =370
+# text = I wanted just to up follow whether on you wo have a chance to send a similar # to the one previously executed with ENA in form $support credit draft annex.
+
+# sent_id =371
+# text = I understand you may not yet have credit approval cannot we so perhaps blank leave the appropriate sections in the meantime.
+
+# sent_id =372
+# text = thanks and regards
+
+# sent_id =373
+# text = Vijay K.
+
+# sent_id =374
+# text = Suchdev Union First Securities Inc. equity President vice Derivatives telephone: 212 909-0951 # $email vijay.suchdev@funb.com mailto:vijay.suchdev@funb.com $: Facsimile: 212 891-5042 # $
+
+# sent_id =375
+# text = Michael Olsen@enron
+
+# sent_id =376
+# text = 12/07/2000 02:29 PM
+
+# sent_id =377
+# text = I was wondering Daren if would be it ok for to me sit in with you one day to get a general feel of your end of the process.
+
+# sent_id =378
+# text = had Pat told me before he left that would it help me better grasp as a whole the process.
+
+# sent_id =379
+# text = I understand is the weather imminent cold making crazy things the may be best not now so time in your to be way.
+
+# sent_id =380
+# text = but Let me know if I cannot spend a day morning a or there down with you a it is whenever good time even just afternoon.
+
+# sent_id =381
+# text = I think wo it much very help me in my role.
+
+# sent_id =382
+# text = thanks.
+
+# sent_id =383
+# text = Mike
+
+# sent_id =384
+# text = is the deal new price fixed with Equistar 365013 #.
+
+# sent_id =385
+# text = D Daren
+
+# sent_id =386
+# text = we did just a deal you cannot let me and Robert Lloyd is what the # Sitara know for 10 D Qe -1 @ $4.355 at meter for the rest of the month 1552 # #
+
+# sent_id =387
+# text = thanks Melissa I show that we also had 20.000 at LS HPL for the 13th.
+
+# sent_id =388
+# text = Daren August Teco Tap 11,2000 108.333 August 12 2000 85.000 Enron Teco TAP Iferc Hpl Hpl Iferc LSK HPL LS Enron 20.000 20.000 IC 2000 13 August / Enron Enron LSk LS HPL 20.000 20.000 IC
+
+# sent_id =389
+# text = Teco 32.500 tap 20.000 / Enron HPL Iferc I are for you hard working °
+
+# sent_id =390
+# text = now at 83.5.
+
+# sent_id =391
+# text = I need a new lawnmower I wo so try to more a little up bump it.
+
+# sent_id =392
+# text = hope you are doing good.
+
+# sent_id =393
+# text = d ###
+
+# sent_id =394
+# text = Keep up the good work.
+
+# sent_id =395
+# text =?
+
+# sent_id =396
+# text = we at home love it at 80+++ $#
+
+# sent_id =397
+# text = Ken
+
+# sent_id =398
+# text = have been these sold.
+
+# sent_id =399
+# text = Geoff
+
+# sent_id =400
+# text = thanks for the pictures.
+
+# sent_id =401
+# text = looks like the kids had a great time °
+
+# sent_id =402
+# text = I hope you don't mind I have but taken to turn them at http://24.27.98.30/pictures/08-05_GarrettkGayle)Bday into a photo web album liberty.
+
+# sent_id =403
+# text = feel if you want to along pass this site web address to other folks free.
+
+# sent_id =404
+# text = give me if you want a cd copy of this web site a yell.
+
+# sent_id =405
+# text = thanks
+
+# sent_id =406
+# text = Ram (mailto:rtackett@abacustech.net Y $Tackett
+
+# sent_id =407
+# text = owner 281) # 651-7106 Lor Lane 17611 77388-5746 spring TX Abacus Technologies fax 281) # 528-8636
+
+# sent_id =408
+# text = web http://www.abacustech.net: Ram Tackett e-mail # $.vcf 4222 -
+
+# sent_id =409
+# text = Debra Perlingiere
+
+# sent_id =410
+# text = give please me to discuss Nov transaction a call.
+
+# sent_id =411
+# text = Debra Perlingiere
+
+# sent_id =412
+# text = you are free some day this week for lunch #
+
+# sent_id =413
+# text = I have also you said you wanted to go a extra ticket for the Comets game on Sat. #
+
+# sent_id =414
+# text = at is 12 the game: Sat @ Compaq Center.
+
+# sent_id =415
+# text = would love for to you join us.
+
+# sent_id =416
+# text = I am bringing two of my girlfriends from LX.
+
+# sent_id =417
+# text = the is here master Debra Stacey Perlingiere draft we discussed.
+
+# sent_id =418
+# text = I am sending you a version with comments.
+
+# sent_id =419
+# text = dp
+
+# sent_id =420
+# text = could one of you email please me a copy of the standard template you use for purchase gas Enfolio agreements #
+
+# sent_id =421
+# text = I would like as are we getting more and more of those agreements to add a template in global contracts.
+
+# sent_id =422
+# text = thanks °
+
+# sent_id =423
+# text = Stacey Barclay Richardson good is 12:30 Net Enron Works LLC Stacey.Richardson@enron.com 713 853-0569 # Office 713 646-2495 # $$Global contracts fax 713 710-6084 today # pager $#
+
+# sent_id =424
+# text = is fine cafeteria.
+
+# sent_id =425
+# text = I are free any day but Tuesday.
+
+# sent_id =426
+# text = I pass better on the Comets game.
+
+# sent_id =427
+# text = seem my weekends to be up taken with condo matters house hunt.
+
+# sent_id =428
+# text = Thank though you.
+
+# sent_id =429
+# text = you are free today for lunch.
+
+# sent_id =430
+# text = I want to go to the cafeteria for vegetables.
+
+# sent_id =431
+# text = Let me know if you are interested.
+
+# sent_id =432
+# text = Janette Elbertson EWS legal EB 3326 e-mail address janette.elbertson@enron.com: telephone: 713 853-7906 # $Facsimile: 713 646-2600 # $administrative coordinator you are free some day this week for lunch #
+
+# sent_id =433
+# text = I have also a extra ticket for the Comets game on Sat.
+
+# sent_id =434
+# text = you said you wanted to go #
+
+# sent_id =435
+# text = at is 12 the game: Sat @ Compaq Center.
+
+# sent_id =436
+# text = would love for to you join us.
+
+# sent_id =437
+# text = I am bringing two of my girlfriends from LX.
+
+# sent_id =438
+# text = Debra Perlingiere ok call 12:15 maybe me #
+
+# sent_id =439
+# text = Janette Elbertson legal EB3326 EWS Facsimile: 713 646-2600 # $e-mail address janette.elbertson@enron.com: good is 12:30 today administrative coordinator telephone: 713 853-7906 # $#
+
+# sent_id =440
+# text = is fine cafeteria.
+
+# sent_id =441
+# text = I are free any day but Tuesday.
+
+# sent_id =442
+# text = I pass better on the Comets game.
+
+# sent_id =443
+# text = seem my weekends to be up taken with condo matters house hunt.
+
+# sent_id =444
+# text = Thank though you.
+
+# sent_id =445
+# text = you are free today for lunch.
+
+# sent_id =446
+# text = I want to go to the cafeteria for vegetables.
+
+# sent_id =447
+# text = Let me know if you are interested.
+
+# sent_id =448
+# text = Janette -team@enron Elbertson EWS legal EB 3326 administrative coordinator telephone: 713 853-7906 # $address janette.elbertson@enron.com: Facsimile: 713 646-2600 # $e-mail move
+
+# sent_id =449
+# text = 09/20/2000 03:22 PM
+
+# sent_id =450
+# text = sent by John Salinardo@enron:
+
+# sent_id =451
+# text = is it late to for to me add changes.
+
+# sent_id =452
+# text = wo we have to correct them after the churn.
+
+# sent_id =453
+# text = Thank you for you patience.
+
+# sent_id =454
+# text = topped the Dow out at 995 in February of 1966.
+
+# sent_id =455
+# text = had the Dow tumbled to 744 by September of that year.
+
+# sent_id =456
+# text = then rallied the Dow in September of '67 to a high of 943.
+
+# sent_id =457
+# text = had the Dow fallen to 825 to only climb in December of '68 to a speculative highly peak of 985 by March of '68.
+
+# sent_id =458
+# text = then sanked the Dow to 631 in December of '70.
+
+# sent_id =459
+# text = by the April of ’71
+
+# sent_id =460
+# text = had back to 950 Dow climbed to only fall to 869 in February of '72.
+
+# sent_id =461
+# text = then took a rally big the Dow # unconfirm $turning everyone bullish in January of ’73 to a record high of 1051.
+
+# sent_id =462
+# text = but had the Dow collapsed to 788 by December of ’73.
+
+# sent_id =463
+# text = think was that bad had the Dow low of 577 sunk by December of ’74 to a bear market.
+
+# sent_id =464
+# text = were predicting the gurus and geniuses of Wall Street a 250 at that time
+
+# sent_id =465
+# text = were openly Dow and many talking about the end of capitalism.
+
+# sent_id =466
+# text = the was that of course Bottom
+
+# sent_id =467
+# text = the and is that way since the Depression down worked its way the greatest bear market.
+
+# sent_id =468
+# text = were dizzy investors by late 1974 they were desperate had they left Wall Street many for good they were out wrunged -.
+
+# sent_id =469
+# text = great we forward look to seeing you.
+
+# sent_id =470
+# text = DEBRA PERLINGIERE
+
+# sent_id =471
+# text = 09/20/2000 09:32 AF
+
+# sent_id =472
+# text = I wo be there not at 7:30 wo but you see arond 9:30 on Tuesday.
+
+# sent_id =473
+# text = many thanks °
+
+# sent_id =474
+# text = Debra Perlingiere Edward Terry
+
+# sent_id =475
+# text = 09/08/2000 09:55 AF
+
+# sent_id =476
+# text = wo be fyi reduced account storage ENA's by 420,588 mmbtu per the memo "è%%.é
+
+# sent_id =477
+# text = Robert Morgan D
+
+# sent_id =478
+# text = 09/08/2000 09:36 AF
+
+# sent_id =479
+# text = have been discussed with each of you the results of the Pvt February 26th test conducted on Nville over the last three months.
+
+# sent_id =480
+# text = wo Anita make to reflect the 26th February results as have we discussed effective Sep 13th the adjustments to Enron's inventory and pad gas.
+
+# sent_id =481
+# text = I talked with Gary Wilson he and confirmed that are the values revised correct.
+
+# sent_id =482
+# text = is attached a spreadsheet that contains the values.
+
+# sent_id =483
+# text = includes the correction to the working gas two corrections.
+
+# sent_id =484
+# text = reduces the results of the February 26th test the working gas by 398:487MMBTU.
+
+# sent_id =485
+# text = there is a reduction Anita that showed on the February storage 29th Sheet the and official 29th February "" values that Gary Wilson received from MIPS of 22,101 mmbtu which the is difference between the available best # $SCADA values in addition.
+
+# sent_id =486
+# text = wo be now 3,993,310MMBTU gas pad Enron's : instead of 4,223:000MMBTU to summarize.
+
+# sent_id =487
+# text = wo be reduced working gas Enron ae by 420,E88MMBTU.
+
+# sent_id =488
+# text = call me if there are any questions.
+
+# sent_id =489
+# text = fyi
+
+# sent_id =490
+# text = i got at also yeah yelled.
+
+# sent_id =491
+# text = i tried to say i was not that drunk but was z not any of that conversation having.
+
+# sent_id =492
+# text = she told me that she felt after friday and saturday i was slowly regressinged.
+
+# sent_id =493
+# text = i then told her i felt i should be able to once just screw missy.
+
+# sent_id =494
+# text = she said was that ok.
+
+# sent_id =495
+# text = you did get then go you do where not know the half there people and proceed to extremely up fucked get to dinner I her told is it normal to drink all day at a bar Lori seems to think I need to get help in much as as I did this weekend trouble Łè*****************Internet email confidentiality Footer bb*************T*T* may be privileged / Confidential information contained in this message.
+
+# sent_id =496
+# text = you may not copy to anyone this message if you the aren't addressee indicated or responsible for delivery of the message to such person $in this message # or deliver.
+
+# sent_id =497
+# text = you should destroy this message and kindly notify the sender by reply email in such case.
+
+# sent_id =498
+# text = advise immediately please if you your or employer don't consent for messages of this kind to internet email.
+
+# sent_id =499
+# text = shall be understood opinions that don't relate to the official business of my firm conclusions and other information in this message as neither given by it nor endorsed.
+
+# sent_id =500
+# text = job ID: KM J12746 Job
+
+# sent_id =501
+# text = Title: $60000 - 70000 description: attorney Location compensation:: Houston Texas USA
+
+# sent_id =502
+# text = a is small law our client firm that is looking for a individual to join handling toxic tort with some minor PI defense their team.
+
+# sent_id =503
+# text = they offer a exceptional compensation package a healthy including salary comprehensive benefits program and ample room for to associates grow within the firm.
+
+# sent_id =504
+# text = Km
+
+# sent_id =505
+# text = requirements:
+
+# sent_id =506
+# text = you wo be able to use to complement your desire to stay with the firm your 1 - 4 years of experience with toxic Tort.
+
+# sent_id =507
+# text = company: Marvel consultants Inc. Chagrin 28601 Blvd.
+
+# sent_id =508
+# text = Cleveland thanks phone: 216-292-2855 fax: 216-292-7207 email recruiters@marvelconsultants.com mailto:recruiters@marvelconsultants.com $: 44122 Ohio USA
+
+# sent_id =509
+# text = I have thought about you a few times in the last few months did not want to intrude with my bullshit questions upon a bad already situation.
+
+# sent_id =510
+# text = I are hearing some depresse pretty stuff from the people I know at ENE.
+
+# sent_id =511
+# text = I wish I had to open my own shop the capital wo there talent and opportunity a plenty on the market soon be.
+
+# sent_id =512
+# text = I wo around ask #
+
+# sent_id =513
+# text = I have got back a while the brothers Gianoucous John # from elementary school and dimitri' $spelling # $#h started their own outfit some friends at duke and Dynegy at and is my man old Schlumberger and has if you aren't marrind # to a trading environment $good contacts in general from B school -.
+
+# sent_id =514
+# text = give me a few days in I wo and be touch.
+
+# sent_id =515
+# text = have Michael you guys any job openinged for ex gas natural traders that made their defunctc now almost ompany over 40 million in the last two years #
+
+# sent_id =516
+# text = not sure is ene going longer much how to be around i are and out checking my options °
+
+# sent_id =517
+# text = Rodgers
+
+# sent_id =518
+# text = is Here a effort first at a revised offer TVa letter as we discussed.
+
+# sent_id =519
+# text = I drafted if anything this close to want you all had in mind not sure the into TVa option as a series of calls tied to the delivery MOPA term and quantity.
+
+# sent_id =520
+# text = Let please me know you all think the offer oughts to take what shape cannot we and accordingly revise.
+
+# sent_id =521
+# text = thanks Elizabeth 36349 there see you unless I call you Mark E Haedicke at 4:00
+
+# sent_id =522
+# text = sent by Janette Elbertson:
+
+# sent_id =523
+# text = 02/28/2001 03:16 PM
+
+# sent_id =524
+# text = use please when preparing the top ten risks for your businesses attached the form.
+
+# sent_id =525
+# text = be please brief °
+
+# sent_id =526
+# text = Mark Haedicke E
+
+# sent_id =527
+# text = sent by Janette Elbertson:
+
+# sent_id =528
+# text = 02/28/2001 04:41 PM
+
+# sent_id =529
+# text = update please the legal attached risk report.
+
+# sent_id =530
+# text = send the revised report by e-mail.
+
+# sent_id =531
+# text = Thank you.
+
+# sent_id =532
+# text = Mike Curry
+
+# sent_id =533
+# text = 11/14/2000 11:37 AF
+
+# sent_id =534
+# text = yuk with Elizabeth's comments added to summary.
+
+# sent_id =535
+# text = so Sorry is making like it wants to close to have to cancel that deal do they not know we have better things to here do is to back on track again getting sorry after thanksgiveing per my vm John Lamb@enron and the traders scheduled to up wrap it a 430 call
+
+# sent_id =536
+# text = 11/15/2000 11:58 AF
+
+# sent_id =537
+# text = are attached clean and blacklined drafts to be made in support of EPMI's obligations under the purchase Energy renewable Mesa ii Indian agreement PPA "# $" and share premium Green agreement GSPA "# $" of the Enron guaranties .#
+
+# sent_id =538
+# text = is blacklined the guaranty for the PPA in favor of the banks which was granted in connection with our Power wind Cabazon project the project # recently most financed by EWC $against the Enron Contract EPC guaranty and is the GPSA guaranty blacklin against the PPA guaranty.
+
+# sent_id =539
+# text = we thought as we discussed last week since wo the Guaranties Enron need in a to be form that wo acceptable to our project lenders and equity participants that should we start with a form that was used in our last financing and was that negotiated by Enron the and banks.
+
+# sent_id =540
+# text = we plan to use the same basic form for the Enron guaranty wo that be made in favor of EPMI with respect to the seller's obligations under the PPA.
+
+# sent_id =541
+# text = wo we forward to you later today the draft of that guaranty.
+
+# sent_id =542
+# text = feel please free to me give if you have any questions the attached concerning guaranties a call.
+
+# sent_id =543
+# text = Thank you.
+
+# sent_id =544
+# text = guaranty.doc - - - redline GPSA GPSA REDLINE PPa PPa Guaranty.doc Guaranty.doc Guaranty.doc - #
+
+# sent_id =545
+# text = Sheila 03/26/2001 08:58 PM Tweed
+
+# sent_id =546
+# text = Mary 03/23/2001 12:24 PM Hain
+
+# sent_id =547
+# text = I am going the to be senior Regulatory counsel starting on 9 2001 April at ISO New England.
+
+# sent_id =548
+# text = wo be March my day last in the Portland area 2001 31 .
+
+# sent_id =549
+# text = I enjoyed working with you and you wish the best of everything.
+
+# sent_id =550
+# text = wo be Mary my address new 535-4000 413 # Mark $Hain Sullivan Road Inc.One 01040-2841 Holyoke ma ISO New England Mhain@ISO-NE.COM Regulatory senior counsel:
+
+# sent_id =551
+# text = is Here a draft revised of the CDWR risk memo.
+
+# sent_id =552
+# text = change events every day.
+
+# sent_id =553
+# text = reports paper this morning's that may be early as as today a increase rate of 40% imposed by the Cdwr and is the new amount issue bond purported to be 16 billion the 10 rather thenning initially discussed # $
+
+# sent_id =554
+# text = Mark
+
+# sent_id =555
+# text = is Here a copy of the draft memo as we discussed.
+
+# sent_id =556
+# text = thanks Elizabeth there see 36349 you 10 p I may have to back come to work for a 615 call on court
+
+# sent_id =557
+# text = is Here latest draft of risk memo in Draft still Form # $.
+
+# sent_id =558
+# text = I faxed to you comments on dash.
+
+# sent_id =559
+# text = you do have any current info on deal status #
+
+# sent_id =560
+# text = thanks Elizabeth 36349
+
+# sent_id =561
+# text = Vince
+
+# sent_id =562
+# text = you are going to be able to make the Var power meeting on Thursday #
+
+# sent_id =563
+# text = I have just checked Frank Sheridan we and have to ahead go with the project a green light David Gorte # $with RAC.
+
+# sent_id =564
+# text = you I shall tomorrow to discuss the details.
+
+# sent_id =565
+# text = Vince titman@mail.utexas.edu $ Titman Sheridan on 01/24/2001 02:45:50 PM
+
+# sent_id =566
+# text = Vince:
+
+# sent_id =567
+# text = I wanted just to check with you the consulting regarding arrangement we ago a couple of weeks discussed.
+
+# sent_id =568
+# text = should we perhaps start with a day 1 or 2 just contract I where give some thoughts to the kind we that discussed of issues and come to present my preliminary thoughts for additional work and possible avenues to Houston.
+
+# sent_id =569
+# text = Regards
+
+# sent_id =570
+# text = Sheridan 78712 Sheridan Titman Department of Business administration of Finance College Bryan University of Texas titman'mail.utexas.edu phone # 1179 512-232-2787 $fax # 512-471-5073 $you did have a chance to take a look at the resume I sent you Austin Texas #
+
+# sent_id =571
+# text = he looked like a great guy for your group.
+
+# sent_id =572
+# text = Vince
+
+# sent_id =573
+# text = David
+
+# sent_id =574
+# text = a reminder.
+
+# sent_id =575
+# text = we discussed ago a few days a consulting arrangement with Prof.
+
+# sent_id =576
+# text = Sheridan Titman from Ut.
+
+# sent_id =577
+# text = any feedback from Rick Buy #
+
+# sent_id =578
+# text = Let please me know.
+
+# sent_id =579
+# text = 42299 Kindall@enron Vince Kevin
+
+# sent_id =580
+# text = 01/24/2001 03:51 PM
+
+# sent_id =581
+# text = per our conversation yesterday
+
+# sent_id =582
+# text = is further Kevin to your call hi attached a presentation I gave at the canadian managers Risk conference in edmonton in the fall of 2000 .
+
+# sent_id =583
+# text = I wo try may but have some problems due toe file size and as well send one of 'Peter cox.
+
+# sent_id =584
+# text = should give my presentation you a starting point in any event.
+
+# sent_id =585
+# text = Mike Darrell Cfoforum.ppt
+
+# sent_id =586
+# text = thanks a lot.
+
+# sent_id =587
+# text = a quick question: have we not received your invoice for the last few paper model reviews.
+
+# sent_id =588
+# text = make please sure that we are billed.
+
+# sent_id =589
+# text = is out book Clewlow Strickland /.
+
+# sent_id =590
+# text = I shall send you today a copy.
+
+# sent_id =591
+# text = Vince duffie@stanford.edu $ Duffie Darrell on 01/24/2001 03:17:01 PM
+
+# sent_id =592
+# text = Respond please to Darrell duffie@stanford.edu $ Duffie
+
+# sent_id =593
+# text = Vince/ Taiichi
+
+# sent_id =594
+# text = I attach in case you are interested this paper on value storage gas modeling.
+
+# sent_id =595
+# text = best
+
+# sent_id =596
+# text = Darrell
+
+# sent_id =597
+# text = _____________________________________________
+
+# sent_id =598
+# text = Darrell ~duffie/ http://www.stanford.edu/ Duffie mail GSB Stanford CA 94305-5015 USA duffievstanford.edu fax 725 650 7979 email Web phone 650 723 1976
+
+# sent_id =599
+# text = _____________________________________________
+
+# sent_id =600
+# text = Paper4.pdf Al I have spoken with Mark Lay he and is interested. -
+
+# sent_id =601
+# text = may he be able to put you in touch with other CV groups in town if cannot we here not even help you in Enron.
+
+# sent_id =602
+# text = call directly please him and give my name good 853-7408 713 # $luck as a reference..
+
+# sent_id =603
+# text = Vince Vince j Kaminski
+
+# sent_id =604
+# text = 01/24/2001 11:21 AF
+
+# sent_id =605
+# text = I have called Al Mark Lay and left a message on his voice mail.
+
+# sent_id =606
+# text = Vince
+
+# sent_id =607
+# text = Al arfsten@bflassociates.com $ Arfsten on 01/24/2001 11:16:25 AF
+
+# sent_id =608
+# text = Vince:
+
+# sent_id =609
+# text = is welcomed your suggestion to introduce the concept discussed with one of the lays.
+
+# sent_id =610
+# text = I hope that would this mean that you would remain involved at some level.
+
+# sent_id =611
+# text = could be key the design of the model and its potential economics to might be how worthy the effort.
+
+# sent_id =612
+# text = a could be ideal Enron environment to could be successfully from which the enhancement concept to through commercialization accomplished.
+
+# sent_id =613
+# text = confidentially please share as you best think and advise me of the interest generated matters.
+
+# sent_id =614
+# text = I am ready to there meet at your building or elsewhere is that appropriate.
+
+# sent_id =615
+# text = best Regards
+
+# sent_id =616
+# text = Al 2158 713 965 Martin Arfsten no problem.
+
+# sent_id =617
+# text = ask as well please Stinson.
+
+# sent_id =618
+# text = Vince
+
+# sent_id =619
+# text = I thought that would be he good to have him as well go on Thrusday with Dr. Lasdon to dinner since Chonawee has a optimization background.
+
+# sent_id =620
+# text = would be this fine #
+
+# sent_id =621
+# text = thanks
+
+# sent_id =622
+# text = Martin
+
+# sent_id =623
+# text = are we trying still to some of the cash traders out figure.
+
+# sent_id =624
+# text = wo we you let once we get the word from Lavo know.
+
+# sent_id =625
+# text = thanks KK
+
+# sent_id =626
+# text = Kam
+
+# sent_id =627
+# text = there are any developments new in the trader world #
+
+# sent_id =628
+# text = we have still the traders you that provided last week and books but need to know if there any changes to this are.
+
+# sent_id =629
+# text = Let please us know if you need a change so thatt wo the deals bridge with the correct books.
+
+# sent_id =630
+# text = thanks
+
+# sent_id =631
+# text = Dawn
+
+# sent_id =632
+# text = I am going hey to have to miss your wedding.
+
+# sent_id =633
+# text = in I wo be unfortunately Plano that weekend.
+
+# sent_id =634
+# text = I wish I could make it.
+
+# sent_id =635
+# text = what is going on with the ubs weather position #
+
+# sent_id =636
+# text = has that anywhere gone the or other possibilities you are better had #
+
+# sent_id =637
+# text = talk soon to you Kam
+
+# sent_id =638
+# text = am I being hey guys told that we need to get a accurate head of who wo be attending our wedding count by my better half.
+
+# sent_id =639
+# text = you could possibly let me if you would be so kind know of your status over the next couple of days #
+
+# sent_id =640
+# text = disregard please for those of you who recently already sent us a RsvP response.
+
+# sent_id =641
+# text = thanks for your help °
+
+# sent_id =642
+# text = has been Jeff Cal WT added.
+
+# sent_id =643
+# text = you could run those additional's post ID - #
+
+# sent_id =644
+# text = there are deals in the Aruba book I aren't so sure you are why not picking those up.
+
+# sent_id =645
+# text = are below listed the deals.
+
+# sent_id =646
+# text = thanks -02 31,180 55,678 $0 4106.6 $$43,548 -02 $-02 E44106.9 $-02 195,610 E44096.7 202,989 E44096.4 $-02 27,361 Ey4108.e $265,932 -02 32,387 $1:993,045 F $250,393 E44096.3 p 12,514,373 01-Feb EY 4108.F -02 p 01-FEB p Performance -02 p 6,363,217 01-FEB Performance E44096.1 p p Ey -1,993,045 -02 -6,363,217 E44106.7 01-FEB 01-FEB 01-FEB p 274886 01-FEB 01-FEB Performance Performance p 112,610 01-Feb 110,555 Ey4108.H Performance Performance Performance Performance Performance p - $36,398 Ey 4108 -02 2,239,879 01-FEB Performance.
+
+# sent_id =647
+# text = I performance p - 10,274,494 -02 01-Feb $166,960 -
+
+# sent_id =648
+# text = thanks
+
+# sent_id =649
+# text = as below seen
+
+# sent_id =650
+# text = start please using the DPR ENA 0102 file the rather thenning DPR EWS 2002 file to send to Chris.
+
+# sent_id =651
+# text = the positions needed to be divided to reflect's BCF.
+
+# sent_id =652
+# text = thanks
+
+# sent_id =653
+# text = you could also cc Kam me the first few times you send it #
+
+# sent_id =654
+# text = wo we change that while would our schedules established of Tuesday and Friday's dpr have us reporting tomorrow's activity on Monday for month end.
+
+# sent_id =655
+# text = email please the January 31st DPR information for your respective groups by noon on Friday to my attention.
+
+# sent_id =656
+# text = you should use the same spreadsheet format used for the 1/29/02 DPR.
+
+# sent_id =657
+# text = in should be $all numbers P&L and PRMA '000'.
+
+# sent_id =658
+# text = you wo be able starting in February to export to as opposed using the spreadsheets the data.
+
+# sent_id =659
+# text = thanks
+
+# sent_id =660
+# text = Chris
+
+# sent_id =661
+# text = Abel manager chris.abel@enron.com 713.853.3102 mailto:chris.abel@enron.com $ Risk controls Kristen Global Risk Operations
+
+# sent_id =662
+# text = are attached all financial live deals by risk type.
+
+# sent_id =663
+# text = is too large the data price as you cannot see to fit into one tab.
+
+# sent_id =664
+# text = I wo have longer no access to the estate files after tomorrow.
+
+# sent_id =665
+# text = wo be Greg couch taking over the responsibility for the risk estate group wo and be able to assist you with your requests forward going.
+
+# sent_id =666
+# text = thanks Kam
+
+# sent_id =667
+# text = Ed
+
+# sent_id =668
+# text = is Here a list of the risk people that with the wo be estate.
+
+# sent_id =669
+# text = wo we have longer no access to the estate files wo be people these able to with any of your questions help you after this weekend.
+
+# sent_id =670
+# text = wo we be to assist them if needed around still.
+
+# sent_id =671
+# text = thanks KK
+
+# sent_id =672
+# text = you Here go...
+
+# sent_id =673
+# text = I should have AC Sanjeev by 4:30 today a list for you of ID post - 's.
+
+# sent_id =674
+# text = I wo have longer no I could so so have something to with work in the morning access to the estate I would appreciate it if you could off shoot this over night after friday.
+
+# sent_id =675
+# text = Let me know if does that not seem possible.
+
+# sent_id =676
+# text = thanks Kam
+
+# sent_id =677
+# text = from I #m hi Brazil I and want to know of good or bad 06.: book #
+
+# sent_id =678
+# text = What is your opinion #
+
+# sent_id =679
+# text = leli kisses its good.
+
+# sent_id =680
+# text = must u Read it.
+
+# sent_id =681
+# text = is cool pairing of up harry and ginny
+
+# sent_id =682
+# text = its awesome better than 5 book
+
+# sent_id =683
+# text = received a elephant old month two - African orphan named Olly a uplift extremely christmas present this year: a airplane ride for just him courtesy of the International Fund for Animal welfare and their friends the Bateleurs' '.
+
+# sent_id =684
+# text = Center news animal Webmaster
+
+# sent_id =685
+# text = hello
+
+# sent_id =686
+# text = have we started a new forum for a interactive and absorbing discussion on Astrology & Palmistry and everything in between including Gemology Vaastu Shastra Feng Shui.
+
+# sent_id =687
+# text = we look forward to your active participation to make this forum a exciting meeting place for mind like individuals.
+
+# sent_id =688
+# text = Regards
+
+# sent_id =689
+# text = Swetha
+
+# sent_id =690
+# text = Play your's cd and shellac's 78 through this little integrated amp 8 tracks - reel to reels you wo get a big eye opener vinyl 33/45's cassettes °
+
+# sent_id =691
+# text = complete they are stereo good all amp - with original Magnavox tubes have been all tubes tested
+
+# sent_id =692
+# text = increasingly back Heterosexuals gay marriage
+
+# sent_id =693
+# text = might Deb news Detroit the price surprise ingredient special one you when pastor Baptist Stephen Jones talks about what makes for a happy marriage with Janice his wife of 35 years: by Deb price
+
+# sent_id =694
+# text = dating double - with coupled friends who happen to be gay.
+
+# sent_id =695
+# text = *
+
+# sent_id =696
+# text = Kitna high up above the world so star lazy soyega uthja yaar Twinkle Twinkle uthke LE chai jaldi then up call me and hi "Tn Good Morning" say b pee has sun risened in the sky b
+
+# sent_id =697
+# text = Have a nice day Tn Tn b --
+
+# sent_id =698
+# text = thanks part 81 k download imagexgif) and Rajendra rajendra.o...@gmail.com regard
+
+# sent_id =699
+# text = I finish just reading a good really book from some new sery the called a it was actually ebook # $
+
+# sent_id =700
+# text = the Tale of Terra.
+
+# sent_id =701
+# text = had the story go to taleofterra.com to learn more aboout it: brillant battle scenes lovable heroes and villians a compelling story line it and left me dying for the next part of the series $
+
+# sent_id =702
+# text = email: Roving s...@tack.net $ mouse
+
+# sent_id =703
+# text = groups : you wo always find fascinating links at extreme web Surfs: tom alt.animals: alt.animals followup alt.animals.cat alt.animals.ethics.vegetarian talk.politics.animal
+
+# sent_id =704
+# text = http://extremewebsurfs.blogspot.com/ # & me the and web http7//maartenvt.blogspot.com/ Arts and more politics games Animals history music technology fun nice wildlife urban post today $°
+
+# sent_id =705
+# text =..
+
+# sent_id =706
+# text = email ^ ° we have September 16 - 18 franz371...@gmail.com a date for the release 2 Online of RAGNAROK anyway beta # $i and here it got was this announced by CEO Gravity Kim Ryool Jung - on either 16th of july or 17th as i don't want to take someone's's credit:
+
+# sent_id =707
+# text = GameSpot
+
+# sent_id =708
+# text = we have now reply a forum "" in the post link by the way
+
+# sent_id =709
+# text = email: ian.gilb...@btinternet.com $ Ian ""
+
+# sent_id =710
+# text = groups: alt.animals.cat have we updated to include a Lost and found page our site you cannot and now join our branch and make a secure on line - donation to the charity.
+
+# sent_id =711
+# text = do please visit us we also have more cats in coming for re-homing see our want Homes page '' and feel free to browse the site www.southbhamcats.org.uk at ps
+
+# sent_id =712
+# text = say suspect Webmaster Delhi Key www.southbhamcats.org.uk blast arrested police in the Indian capital Delhi thanks for looking Ian. have they arrested the suspected co-ordinator of bomb deadly last month's blasts in the city and financier
+
+# sent_id =713
+# text = naamed KK chief Delhi police Paul the man as Tariq Dar Ahmed and said were police hunting for four accomplices.
+
+# sent_id =714
+# text = he said was 33 mr Dar arrested in administered Indian - Kashmir and belondeg to the militant Toiba e Lashkar - - outlawed group.
+
+# sent_id =715
+# text = the India Diaries
+
+# sent_id =716
+# text = I like: the way Otto Jespersen in language '#
+
+# sent_id =717
+# text = aptly summarised its nature and origin ' development $for the is everything best' in the best of all possible worlds for wo demand and supply better than would be any government able to regulate everything if are no artificial hindrances only put in the way of free exchange by comparing it with one of the theories of the Manchester School of economics: the nature of language changes'.
+
+# sent_id =718
+# text = Portia
+
+# sent_id =719
+# text = a is this beautiful site a and wonderful idea.
+
+# sent_id =720
+# text = and goes a portion of each package purchased or memorial to a charity on their database.
+
+# sent_id =721
+# text = be so sure to get your pet's memorial on the site and make if you have a / charity rescue sure it is listed you cannot so some of the profits from the site receive on their database.
+
+# sent_id =722
+# text = best Cindy "" there no companion devoted so quite and so mesmerizing as a rat so loving so communicative is .
+
+# sent_id =723
+# text = TCGoehr
+
+# sent_id =724
+# text = email: CognitiveScienceN...@gmail.com $ Anthony beavers
+
+# sent_id =725
+# text = are Control Systems Inhibitory the pattern in the Cortex Inhibitory systems "of activity essential for controlling the pattern in the cortex which has important implications for the mechanisms of cortical operation a School Yale of Medicine according toe study in Neuron of activity
+
+# sent_id =726
+# text = demonstrate the findings is the network inhibitory central to controlling the only not amplitude of activation of cortical excitatory recurrent networks the but precise also timing of action potentials extent and network thus synchronization and duration "...
+
+# sent_id =727
+# text = posted to science Cognitive News by Anthony beavers -- at 8/28/2005 07:18:20 AM
+
+# sent_id =728
+# text = email engin i ":.
+
+# sent_id =729
+# text = erdem erdemen...@gmail.com $ "
+
+# sent_id =730
+# text = wo related weather - be catastropo projects Worldwatch costly most disaster Washington D.C. -# Tn b b b in History
+
+# sent_id =731
+# text = are powerful the impacts overwhelming human and financial of Hurricane Katrina evidence that have decisions political and economic made in the United States and other countries failed to account for our dependence on a healthy resource base a according toe assessment released today by the Worldwatch Institute.
+
+# sent_id =732
+# text = have left Alteration of the Mississippi River the and destruction of wetlands at its mouth the vulnerable abnormally to the forces of nature area around New Orleans.
+
+# sent_id =733
+# text = may have exacerbated the results early Fahrenheit water degree #90 temperatures in the gulf and rising sea levels of global warming the destructive power of Katrina to many according scientists.
+
+# sent_id =734
+# text = http://reflectioncafe.blogspot.com/2005/09/unnatural-disasterthe-less...... b b
+
+# sent_id =735
+# text = email v N-T23 saw this story on BBC News Online and thought you should see it: n3td3 v xploita...@gmail.com $.
+
+# sent_id =736
+# text = **
+
+# sent_id =737
+# text = Google defies US Tn over search data
+
+# sent_id =738
+# text = is resisting Google giants web a attempt to it force to reveal are users for what searching by the US.
+
+# sent_id =739
+# text = http://news.bbc.co.uk/go/em/fr/-/1/hi/technology/4630694.stm $ Tn
+
+# sent_id =740
+# text = BBC
+
+# sent_id =741
+# text = Daily E- mail choose the news and sport headlines you want you when want them in all daily one e-mail http://www.bbc.co.uk/dailyemail/ $ Tn
+
+# sent_id =742
+# text = disclaimer Tn Tn
+
+# sent_id =743
+# text = is not the BBC responsible and does anything written in this e-mail not necessarily reflect the BBC's views or opinions for the content of this e-mail.
+
+# sent_id =744
+# text = note please that have been the neither address e-mail of the sender nor name verified.
+
+# sent_id =745
+# text = Read please if you don't wish to receive such e-mails in the future or want to know more about Email a friend the BBC's service our asked frequently questions.
+
+# sent_id =746
+# text = http://news.bbc.co.uk/1/hi/help/4162471.stm http7//www.reuters.co.ukznewsPackageorticle.jhtml*typeWworldèewswstoryI3h6 # #
+
+# sent_id =747
+# text = visited President Bush chinese President Jintao Hu and key other allies in Santiago protests with on going in the Chilean capital of Santiago from the economic summit # $.
+
+# sent_id =748
+# text = was North Korea the talk of the day beside a play level more field with China.
+
+# sent_id =749
+# text = a has been great China help at getting North Korea to the table and is Bush hoping that cannot Korea become a nuclear free peninsula with their cooperation.
+
+# sent_id =750
+# text = Reuters Jason ree U.S. President George W.
+
+# sent_id =751
+# text = Bush shakes hands with Chinese President Hu Jintao in a bilateral meeting in Santiago.
+
+# sent_id =752
+# text = in is Bush Santiago for the annual leaders cooperation economic Pacific Asia - APEC # $meeting.
+
+# sent_id =753
+# text = cannot hopefully President Bush accomplish these goals which wo not only help strengthan our chinese allies wo but also help fight the war on terror.
+
+# sent_id =754
+# text = Selah °
+
+# sent_id =755
+# text = --
+
+# sent_id =756
+# text = posted 11/20/2004 to Hidden Nook by Hidden Nook at 03:10:35 pm
+
+--
+# text = http://www.google.com/search?hl=en&rlz=1g1gglq_enus359&q=gunther+uecker+biography&gs_sm=c&gs_upl=484l484l0l5093l1l1l0l0l0l0l328l328l3-1l1l0&um=1&ie=utf-8&tbm=isch&source=og&sa=n&tab=wi&biw=1221&bih=756&sei=xvg5tqrrgoxk2axg0ry-bw#um=1&hl=en&rlz=1g1gglq_enus359&tbm=isch&sa=1&q=gunther+uecker+artist&pbx=1&oq=gunther+uecker+&aq=1s&aqi=g1g-s3&aql=&gs_sm=c&gs_upl=10219l10219l0l13797l1l1l0l0l0l0l125l125l0.1l1l0&bav=on.2,or.r_gc.r_pw.,cf.osb&fp=13ddcdc64cbf5fd&biw=1221&bih=756
+
+# sent_id =2927
+# sent_id =757
+# text = email: BlackBa...@excite.com $ BlackBayou
+
+# sent_id =758
+# text = groups: I started to help with my boredom this page alt.animals.cat.
+
+# sent_id =759
+# text = I have Chronic Lyme disease I are so stuck at home.
+
+# sent_id =760
+# text = I started collecting to just help with my boredom and depression animations & jokes.
+
+# sent_id =761
+# text = I enjoyed the animations and wanted to share them with my friends.
+
+# sent_id =762
+# text = I started so a small mailing list and added to it their addresses.
+
+# sent_id =763
+# text = with along a area for those to join the mailing list on the page.
+
+# sent_id =764
+# text = I started with email 21 addresses.
+
+# sent_id =765
+# text = we have now 5000 over addresses.
+
+# sent_id =766
+# text = would love my wife and I =----- for to you come before becoming disabled and visit our collection of comedy our page http://www.myshutter.com/flash.htm http://www.myshutter.com come and visit and -----= sign posted via Newsfeeds.Com Uncensor Usenet News http://www.newsfeeds.com the # 1 Newsgroup service in the World ° - our guestbook 100,000 over -----== Newsgroups different 19 servers a I was amateur Avid photographer °
+
+# sent_id =767
+# text = handcrafted Furry Animals
+
+# sent_id =768
+# text = call wholesale for a Catalog 732-657-3416 Nowé has life like wholesale animal figurines made from rabbit and sheep and goat fur feathers wool.
+
+# sent_id =769
+# text = Dogs you name it we have it moose cats rabbits hors wolves.
+
+# sent_id =770
+# text = love people to buy these little cute cuddly animals for gifts and collectables.
+
+# sent_id =771
+# text = they are well very made and realistic.
+
+# sent_id =772
+# text = retail attention: stores & vendors
+
+# sent_id =773
+# text = are we looking to expand our wholesale clients across the Nation.
+
+# sent_id =774
+# text = give please us if you own a retail store a or are professional vendor who exhibits at Sport or craft Shows hunt and are interested in selling our products 732-657-3416 a call °
+
+# sent_id =775
+# text = we have a color Full Catalog and wholesale price
+
+# sent_id =776
+# text = ready list ° to mail to you today
+
+# sent_id =777
+# text = no minimum Order amount.
+
+# sent_id =778
+# text = any Orders at or over $500.00 a additional 10% off the total order.
+
+# sent_id =779
+# text = we accecep:
+
+# sent_id =780
+# text = visa Mastercard Carte Blanche Dinners Club Amex & / money orders Personal checks.
+
+# sent_id =781
+# text = animals be Jolson Court 1027 732-657-3416 08759 Manchesters N.J. Bill Schmidt animalsr...'aol.com Us.Net
+
+# sent_id =782
+# text = had just Cubes magic Wei's Wei Ligang a rising star of modern art in China a exhibition in 2005 mid-July in Hong Kong.
+
+# sent_id =783
+# text = he is lecturing now in USA.
+
+# sent_id =784
+# text = perfectly combines his art painting and chinese calligraphy.
+
+# sent_id =785
+# text = he is regarded as one of the Garde avant - leading artist of modern calligraphy.
+
+# sent_id =786
+# text = were selected his artworks in 2002 and exhibited in British Museum.
+
+# sent_id =787
+# text = said Gordon Barrass S. curator of the exhibition "has Wei given often incorporating different several techniques into a single work some virtuoso performances with brush and ink".
+
+# sent_id =788
+# text = all seem to be ingeniously plan and tricky in the world of magic Wei's cubes "".
+
+# sent_id =789
+# text = all are mathematical all are linguistic.
+
+# sent_id =790
+# text = in
+
+# sent_id =791
+# text = could see a logician art Wei's mathematical logic could a cellist see a ripple of bass nine notes could a girl country see straw could and Harry Potter see green accompanieded two blazes.
+
+# sent_id =792
+# text = is to gaze at Wei's art "like entering a floating world of dreams".
+
+# sent_id =793
+# text = the art of Calligraphy in modern China Museum British 2002 Press # $---
+
+# sent_id =794
+# text = http://news.zdnet.co.uk/internet/0,39020369,39187928,00.htm # #
+
+# sent_id =795
+# text = said photo from News media Wiki Technology foundation the group behind the encyclopedia Online wikipedia project Friday that has Google giant search volunteered to some of its content on company servers host.
+
+# sent_id =796
+# text = Z net # $
+
+# sent_id =797
+# text = it looks like is quickly the war between Microsoft and Google brewing on the horizon.
+
+# sent_id =798
+# text = is 4 Microsoft - 0. they down took # Netscape mac and IBM Suns Systems may and their be next Google target $
+
+# sent_id =799
+# text = is making Google probably to counter Microsoft Search using Encarta this move it is online dictionary # $.
+
+# sent_id =800
+# text = below more.
+
+# sent_id =801
+# text = it but looks as news Linux reports ": are Google the and Wikimedia foundation collaboratively evaluating While do we not have specific to announce today anything creative ways to support wikipedia.org and its community like is not Google openinged it ae mouth about the reason behind the offer".
+
+# sent_id =802
+# text = sure although would this put Google it by 2014 on coarse for global domination of the internet.
+
+# sent_id =803
+# text = wo be it interesting to see whether or not wo finally Google slay the Microsoft Goliath who has known no major defeat and seeks to vanquish all competition.
+
+# sent_id =804
+# text = Selah °
+
+# sent_id =805
+# text = --
+
+# sent_id =806
+# text = posted by Hidden Nook to Hidden Nook at 07:03:00 2/14/2005 pm
+
+# sent_id =807
+# text = email: Ruth "Ruth.penyc...9bbc.co.uk $"
+
+# sent_id =808
+# text = a is BBC Network there Action hello website for people who are taking action on issues that concern them.
+
+# sent_id =809
+# text = I are getting because I think could it be useful to people campaigning about hospital closures in touch.
+
+# sent_id =810
+# text = have we got a dedicated to issues http://www.bbc.co.uk/dna/actionnetwork/C55153 # $around hospitals page have and already a group called NHS SOS up put a campaign about ward closures in Cumbria.
+
+# sent_id =811
+# text = I are hoping to up build this a to be hub for the all campaigners a place cannot where people exchange ideas and advice.
+
+# sent_id =812
+# text = would it be great if would the person who started this page from chant up put a short description of the campaign a and list to this group page on the network Action site.
+
+# sent_id =813
+# text = a is good Network Action also place to post details of events or try to together rally if you want to take action in your area a group.
+
+# sent_id =814
+# text = you cannot attach anything you write to pages for your local area the as toe ask well issue 'pages'.
+
+# sent_id =815
+# text = I are happy thenning more just drop me a message to help people with the site or answer any questions about Action network.
+
+# sent_id =816
+# text = hope otherwise to there see you °
+
+# sent_id =817
+# text = kind Regards
+
+# sent_id =818
+# text = is Ruth Penycate WWW.BLC.co.uk/actionnetwork Winston Peters visiting a school.
+
+# sent_id =819
+# text = he asks if cannot anyone give him a example of a tragedy "" the students in one class.
+
+# sent_id =820
+# text = stands boy little one up and offersthen a would be that tragedy "if was my best friend who lives next door playing when along a car came and killed him in the street".
+
+# sent_id =821
+# text = no ""
+
+# sent_id =822
+# text = Winston says "a would be that accident".
+
+# sent_id =823
+# text = rais a girl her hand.
+
+# sent_id =824
+# text = a that would be tragedy "if a bus school carrying fifty children drove killing involved everyone off a cliff".
+
+# sent_id =825
+# text = Winston Explains what that "" I are is would we call a great loss not afraid "".
+
+# sent_id =826
+# text = is silent the room none of the other children volunteer.
+
+# sent_id =827
+# text = what "Winston asks there not any one here who cannot me give a example of a tragedy is" "#" #
+
+# sent_id =828
+# text = finally rais a boy in the back his hand.
+
+# sent_id =829
+# text = he says ": a would be that tragedy if was up blied a airplane carrying Winston Peters by a bomb" in a timid voice.
+
+# sent_id =830
+# text = wonderful "" °
+
+# sent_id =831
+# text = Winston beams.
+
+# sent_id =832
+# text = marvelous "°
+
+# sent_id =833
+# text = you cannot and tell me a would be that why tragedy #
+
+# sent_id =834
+# text = says well the boy "" "because a would it be not accident a would it and be great not certainly loss" "°
+
+# sent_id =835
+# text = http://www.space.com/astronotes/astronotes.html # #
+
+# sent_id =836
+# text = photo Space.com # $from Spaceecom
+
+# sent_id =837
+# text = it looks like the Transportation lunar Systems Inc.
+
+# sent_id =838
+# text = is visualizing and again back a space highway "going # to Earth from the moon $".
+
+# sent_id =839
+# text = told Kistler "SPACE.Com our system new transportation lunar utilizes a unique architecture that wo establish the equivalent of a way two - highway between the Earth the and Moon".
+
+# sent_id =840
+# text = include our plans "raising to develop test and operates this Moon Earth - highway for the benefit of the country the and benefit of our investors build flight private capital".
+
+# sent_id =841
+# text = wise decision to go through the private sector may be kinda budget NASA's tight to fund a project like this.
+
+# sent_id =842
+# text = does though sound this group pretty interesting.
+
+# sent_id =843
+# text = is being actually funded the Systems Transporatation lunar LTS # $by space two businessmen Walter Kistler and Bob Citron.
+
+# sent_id =844
+# text = both of these men are heavily involved and both are also involved with another space company called SPACEHAB in the private sector of the space industry.
+
+# sent_id =845
+# text = they want to use LTS to tie into NASA's vision for Space Exploration and seem pleased that is the House White moving in that direction.
+
+# sent_id =846
+# text = said Walter Kistler LTS co-founder and chairman "we are so excited that the House White the and recent new government space policy underscores the need to involve the private sector in assisting NASA develop its plans for the new vision for Space Exploration".
+
+# sent_id =847
+# text = it looks like may tourism space sooner than we think become a reality with their proposal of a Moon Earth "-" highway.
+
+# sent_id =848
+# text = Selah °
+
+# sent_id =849
+# text = --
+
+# sent_id =850
+# text = posted to Hidden Nook by Hidden Nook at 2/15/2005 05:12:00 pm
+
+# sent_id =851
+# text = have NASA the and Pentagon told http://www.space.com/missionlaunches/ft_050829_ksc_spacefuture.html Space.com # $# wo astronauts U.S. launch on sleek single booster shuttle rockets the and first new stage upper - rocket has this country developed in a thenning more decade to the moon # the White House.
+
+# sent_id =852
+# text = wo be lofted lunar landers and other gear needed for extended visits to the moon by gargantuan big as as the era Apollo - 5 Saturn the powerful most Rockets ever flowed launchers.
+
+# sent_id =853
+# text = it looks as if is NASA away from the shuttle model transitioning as have they proven to be quite dangerous as has Columbia recently proven in the past.
+
+# sent_id =854
+# text = wo they be able although are probably more rockets these new expensive to go as cannot they not only break free but as well reach the moon from the atmosphere than it is shuttle cousins at a greater much range.
+
+# sent_id =855
+# text = said the letter signed by administrator NASA Mike Griffin and space top the Pentagon's official ex-astronaut Ron Sega "wo NASA initiate development of a Launch Crew Vehicle derived from solid shuttle space rocket boosters with a new upper stage for human spaceflight"...
+
+# sent_id =856
+# text = said the letter "then NASA plans to develop a new class 100-metric ton - - launch vehicle derived from existing capabilities with the external shuttle space tanks for future missions to the moon and solid rocket boosters".
+
+# sent_id =857
+# text = is NASA planning on using with forecasters industry early as as 2014 predicting a launch to replace the current models these new shuttles.
+
+# sent_id =858
+# text = wo slightly differ the design new rocket from it ae predecessors in the fact that would each separately the crew and cargo launch from different two rockets and on later up join in space.
+
+# sent_id =859
+# text = wo hopefully avoid launching this way giving more support revisiting the stars towards NASA future disasters.
+
+# sent_id =860
+# text = posted by Hidden Nook to Hidden Nook -- at 8/30/2005 09:36:00 pm
+
+# sent_id =861
+# text = George and Lynne IFAG5001.JPG :-) Amy ------ funny stuff lifted from another list 51 k download
+
+# sent_id =862
+# text = could we certainly slow down if it had to work its way through Congress the ag process.
+
+# sent_id =863
+# text = will Rogers -
+
+# sent_id =864
+# text = I had a rose named after me I and was very flattered.
+
+# sent_id =865
+# text = I but was not pleased: to read the description in the catalog
+
+# sent_id =866
+# text = no good "but fine against a wall in a bed".
+
+# sent_id =867
+# text = Eleanor Roosevelt Santa Claus has the right idea -.
+
+# sent_id =868
+# text = visit once only a year people.
+
+# sent_id =869
+# text = Victor Borge - marry "by all means.
+
+# sent_id =870
+# text = you wo become if you get a good wife happy you wo become if you get a bad one a philosopher.
+
+# sent_id =871
+# text = I was married Socrates - by a judge.
+
+# sent_id =872
+# text = I should have asked for a jury.
+
+# sent_id =873
+# text = Groucho Marx ------ -
+
+# sent_id =874
+# text = has my wife a slight impediment in her speech.
+
+# sent_id =875
+# text = she now Every and then stops to breathe.
+
+# sent_id =876
+# text = Jimmy Durante ------ -
+
+# sent_id =877
+# text = I have never enough hated to give back his diamonds a man.
+
+# sent_id =878
+# text = /sa zsa Gabor ------ -
+
+# sent_id =879
+# text = provides coffee Irish only essential all food four groups: alcohol sugar and fat caffeine in a single glass.
+
+# sent_id =880
+# text = cannot not Alex Levine - buy you money happiness it but does you bring a pleasant more form of misery.
+
+# sent_id =881
+# text = spike Milligan ------ -
+
+# sent_id =882
+# text = I thought was shut up my name until I was thirteen.
+
+# sent_id =883
+# text = a would be ideal youth Joe Namath state if it later a little came in life -.
+
+# sent_id =884
+# text = I don't feel Herbert Henry Asquith - old.
+
+# sent_id =885
+# text = I don't feel anything until noon.
+
+# sent_id =886
+# text = it is then time for my nap.
+
+# sent_id =887
+# text = Bob hope -
+
+# sent_id =888
+# text = do worry not about avoiding temptation wo it avoid you as you grow older.
+
+# sent_id =889
+# text = it is Winston Churchill - maybe true that life begins at fifty but everything else starts to out wear out fall or out spread.
+
+# sent_id =890
+# text = Phyllis Diller -
+
+# sent_id =891
+# text = he is too old to anywhere go by the time is a man wise enough to WATCH his step.
+
+# sent_id =892
+# text = Billy Crystal -
+
+# sent_id =893
+# text = __________________________________________________
+
+# sent_id =894
+# text = you do Yahoo # °
+
+# sent_id =895
+# text = tireding of spam #
+
+# sent_id =896
+# text = mail has Yahoo the best spam protection around image'jpgèpart 52 k download °
+
+# sent_id =897
+# text = is talked what language in Iguazu #
+
+# sent_id =898
+# text = portuguese spanish
+
+# sent_id =899
+# text = tea O% White Green tea #
+
+# sent_id =900
+# text = Green Green tea.
+
+# sent_id =901
+# text = green tea
+
+# sent_id =902
+# text = What is Miramar this #
+
+# sent_id =903
+# text = a it is lol place in Argentina
+
+# sent_id =904
+# text = does anyone know any good restaurants in cordoba #
+
+# sent_id =905
+# text = me not. Sorry
+
+# sent_id =906
+# text = does anyone know of any good food in iguazu #
+
+# sent_id =907
+# text = me not. Sorry
+
+# sent_id =908
+# text = thumbs =) is which contact wonderful of mine upping my best all answers ,:9
+
+# sent_id =909
+# text = What are some forms major land in Ireland #
+
+# sent_id =910
+# text = Mountains valleys cliffs peat bogs
+
+# sent_id =911
+# text = you do know the online streaming link for 93.5 FM Red delhi #
+
+# sent_id =912
+# text = any format url #
+
+# sent_id =913
+# text = #es.
+
+# sent_id =914
+# text = how fare of kolkatta #
+
+# sent_id =915
+# text = a is Indian kolkatta state.
+
+# sent_id =916
+# text = for is not Kolkata lol sale "è%%.é
+
+# sent_id =917
+# text = roflmao
+
+# sent_id =918
+# text = you do which prefer crab or Shrimp #
+
+# sent_id =919
+# text = I like shrimp or steamed grilled fried.
+
+# sent_id =920
+# text = crab shrimp
+
+# sent_id =921
+# text = does it cost how much to join international world resorts #
+
+# sent_id =922
+# text = could not find online email them at below address any info e-mail memberservices@worldresortsinternational.com: m
+
+# sent_id =923
+# text = explain is who Gunther artist Uecker #
+
+# sent_id =924
+# text = http://www.kettererkunst.com/bio/GuntherUecker-1930.shtml http7//www.google.comvsearchèhlèen'rlz'1G1GGL.&ENuS359&qxguntherwuecker'bi #um_1khlèen'rlz)1212GL.&ENUS359'tbméisch'saá1kqwguntherèueckerzartist'pbxW his work
+
+# sent_id =925
+# text = does it cost how much to buy a Mac Big meal in your area #
+
+# sent_id =926
+# text = I here in Indiana think like it is $3 or 4 $for a meal.
+
+# sent_id =927
+# text = in not of out the chicago area #
+
+# sent_id =928
+# text = you do think is as good as in n out or better in the chicago area besides five guys and smashburger which burger chain #
+
+# sent_id =929
+# text = to where buy bodybuilding supplements in Delhi #
+
+# sent_id =930
+# text = any particular shop you of that know and their number.
+
+# sent_id =931
+# text = Atal pharmacy Karol bag.
+
+# sent_id =932
+# text = kindly contact nagar laxmi zim in delhi..
+
+# sent_id =933
+# text = you do think there poreans any in Miramar are #
+
+# sent_id =934
+# text = must heck there be korean 1 at least.
+
+# sent_id =935
+# text = I do but no believe Korean some reside in the of Ha ha - country °
+
+# sent_id =936
+# text = you cannot use to track someone else's phone the find 'my phone' feature #
+
+# sent_id =937
+# text = you would need their Apple ID and password you cannot then yes track if you that had any iPhone.
+
+# sent_id =938
+# text = do do what else people besides eating good foods in Miramar #
+
+# sent_id =939
+# text = they have well a variety of sports they that play like basketball ETC soccer.
+
+# sent_id =940
+# text = they play well:) like me the Wii
+
+# sent_id =941
+# text = is Hank Green awesome #
+
+# sent_id =942
+# text = is the Hank Green I know hardly awesome.
+
+# sent_id =943
+# text = he needs a shower he and picks the all time his nose.
+
+# sent_id =944
+# text = at he his is best when he is doing his nerd impression...
+
+# sent_id =945
+# text = Weather in Tremblant in december #
+
+# sent_id =946
+# text = it is typically cold.
+
+# sent_id =947
+# text = may may or there not be snow on local weather depending conditions.
+
+# sent_id =948
+# text = wo there likely be snow made man - on the slopes in the resort ski areas.
+
+# sent_id =949
+# text = is it necessary jay to varnish my oil paintings or just leave them be #
+
+# sent_id =950
+# text = thx for your ANs .#
+
+# sent_id =951
+# text = is often used varnish as in the old days as a protective film against years of dirt ETC grease smoke.
+
+# sent_id =952
+# text = fun picture websites # :9
+
+# sent_id =953
+# text = I are looking and have a variety of funny pictures for websites like flickr.com tumblr.com and autocorrects.com but ones that aren't very common °
+
+# sent_id =954
+# text = give please me lots of links to look and places °
+
+# sent_id =955
+# text = Thank (: you Ifunny.com you do how mold silicone or rubber into a mermaid tail #
+
+# sent_id =956
+# text = Carve one in your chosen medium.
+
+# sent_id =957
+# text = make a mold.
+
+# sent_id =958
+# text = Cast.
+
+# sent_id =959
+# text = buy just a fish and make from that they sell these kits in most hobby and craft stores a mold on depending scale.
+
+# sent_id =960
+# text = you do prefer ham or sausages bacon with your breakfast #
+
+# sent_id =961
+# text = bacon:) without a doubt °
+
+# sent_id =962
+# text = cut thick bacon I like when I having a big breakfast like a grand slam with pancakes the and works bacon and sausage. or good really sausages with my breakfast
+
+# sent_id =963
+# text = cannot trace police a cell phone if it is even off switched #
+
+# sent_id =964
+# text = cannot trace police a cell phone if it is even off switched #
+
+# sent_id =965
+# text = you get yeah they all have secret locator chips like just gps ta burn it the is that only yes way
+
+# sent_id =966
+# text = yes.
+
+# sent_id =967
+# text = best Italian deli mazzonus's food in phila Pa #
+
+# sent_id =968
+# text = is mazzoni's deli at conshocken ave 3901 in phila Pa the best Italian really food in the country ###
+
+# sent_id =969
+# text = because all of the food blogs I have read say so yep I wo and travel if is that true from maryland
+
+# sent_id =970
+# text = dinner in Chicago and dancing #
+
+# sent_id =971
+# text = under I are 21 + and there a floor dance is and looking for a nice place to take out my boyfriend for dinner they where play music.
+
+# sent_id =972
+# text = it is okay if it is pricier a little.
+
+# sent_id =973
+# text = would be really appreciated any good suggestions.
+
+# sent_id =974
+# text = Rumba room
+
+# sent_id =975
+# text = courage the cowardly dog #
+
+# sent_id =976
+# text = so Are "in Louvre in the episode
+
+# sent_id =977
+# text = we are their painting many how diffrent / scupltures and are who the artists two "#
+
+# sent_id =978
+# text = Link http://www.livevideo.com/video/C8F5BBEC570C4A4DBC326F694D79942A/courage-the-cowardly-dog-so-.aspx: you should really this ask in the art section to video.
+
+# sent_id =979
+# text = Theyre draw just probably anyways for the show.
+
+# sent_id =980
+# text = name something you find at a carnival that comes on a stick #
+
+# sent_id =981
+# text = Kabob meat Apple Candy Candy cotton corn Prize # at various type trivia contests on board $. dog ship on a stick
+
+# sent_id =982
+# text = all of those Monkey Brain ŁD.
+
+# sent_id =983
+# text = are we talking about what country #
+
+# sent_id =984
+# text = I like my Monkey brain for sure on a stick.
+
+# sent_id =985
+# text = come how bothers no one to ask any questions in this section #
+
+# sent_id =986
+# text = I mean of course besides me.
+
+# sent_id =987
+# text = because have obviously never even most people heard of this section.
+
+# sent_id =988
+# text = someone had to be first.
+
+# sent_id =989
+# text = I have been there never.
+
+# sent_id =990
+# text = I do here not well ask because I have no what is Iguazu "" clue questions...
+
+# sent_id =991
+# text = you do what think of Air France #
+
+# sent_id =992
+# text = I love Air France °
+
+# sent_id =993
+# text = is top their service notch - I and especially love served in even economy the free French champagne.
+
+# sent_id =994
+# text = I also find way better than many other airlines their food.
+
+# sent_id =995
+# text = you plus land in a preferential terminal...
+
+# sent_id =996
+# text = I go to use Air France of out my way.
+
+# sent_id =997
+# text = expensive
+
+# sent_id =998
+# text = What is the difference between Indian and African ringnecks and alexandrine parrots #
+
+# sent_id =999
+# text =?
+
+# sent_id =1000
+# text = I was fixing to buy a Indian ringneck did a bunch of research and noticed other two breeds that look alike a lot a I are experienced very bird owner # macaws amazons cockatoos $.
+

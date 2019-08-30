@@ -1,0 +1,14 @@
+1	.	.	PUNCT	FS	lin=+1|original_id=13	6	punct	_	_
+2	a	an	DET	RI	Definite=Ind|Number=Sing|PronType=Art|original_id=8	7	det	_	_
+3	-	-	PUNCT	FF	lin=+1|original_id=10	11	punct	_	_
+4	not	not	PART	PART	Polarity=Neg|original_id=6	6	advmod	_	_
+5	distribution	Distribution	NOUN	S	Number=Sing|original_id=1	6	nsubj	_	_
+6	create	create	VERB	V	Mood=Ind|Number=Plur|Tense=Pres|VerbForm=Fin|original_id=7	0	root	_	_
+7	relationship	relationship	NOUN	S	Number=Sing|original_id=12	6	obj	_	_
+8	license	license	NOUN	S	Number=Sing|original_id=4	9	nmod	_	_
+9	do	does	AUX	VM	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|original_id=5	6	aux	_	_
+10	this	this	DET	DD	Number=Sing|PronType=Dem|original_id=3	5	nmod	_	_
+11	attorney	attorney	NOUN	S	Number=Sing|original_id=9	7	nmod	_	_
+12	client	client	NOUN	S	lin=+2|Number=Sing|original_id=11	11	compound	_	_
+13	of	of	ADP	E	original_id=2	10	case	_	_
+

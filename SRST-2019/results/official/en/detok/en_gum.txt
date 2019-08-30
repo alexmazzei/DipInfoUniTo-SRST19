@@ -1,0 +1,2334 @@
+# sent_id =1
+# text = the prevalence: in contemporary America across racial groups of discrimination
+
+# sent_id =2
+# text = Results from a representative nationally sample of adults
+
+# sent_id =3
+# text = introduction.
+
+# sent_id =4
+# text = the have been experiences personal of discrimination and bias focus 1 - 3 # # of science social research much.
+
+# sent_id =5
+# text = have explored sociologists 3 – 5 # # * the adverse consequences of discrimination
+
+# sent_id =6
+# text = have examined psychologists 6 # # * the mental processes that underpin conscious and unconscious biases
+
+# sent_id =7
+# text = have examined neuroscientists 7 – 9 # # * the neurobiological underpinnings of discrimination
+
+# sent_id =8
+# text = have and explored theorists evolutionary 10 # # the various ways that biases in-group / out-group emerged across the history of our species.
+
+# sent_id =9
+# text = possess already researchers 11 # # a wealth of knowledge concerning the origins of discrimination and bias and consequences in many respects.
+
+# sent_id =10
+# text = the is growing push should What be not lost also in discussion of discrimination to implement social policy aimed at reducing the occurrence of discriminatory practices.
+
+# sent_id =11
+# text = are intended mandatory trainings diversity in professional settings for example 12 # # to reduce by increasing the awareness the regarding challenges facing group minority members of employees bias in the workplace.
+
+# sent_id =12
+# text = is indeed rooted the implementation of certain policies in the assumption that are discrimination and biases present in modern society to at least some appreciable amount.
+
+# sent_id =13
+# text = so even remains estimates of the prevalence of perceived discrimination rare see 13 – 14 # # # $.
+
+# sent_id =14
+# text = reported however study prior at least one 15 # # using measures of perceived discrimination in a American large sample by Kessler and colleagues that% 33 approximately of respondents reported some form of discrimination also see # Gibbons 4 # # et al. $.
+
+# sent_id =15
+# text = seeks the study current to build by estimating the prevalence of discrimination experiences among a representative nationally large sample of adults from the United States on this research.
+
+# sent_id =16
+# text = address additionally the analysis the perceived reasons for reported discrimination experiences.
+
+# sent_id =17
+# text = reason for discrimination.
+
+# sent_id =18
+# text = were asked all respondents specifically those who responded with sometimes or often the to discrimination perceived measure above described # who indicated they were against discriminated #: the following question
+
+# sent_id =19
+# text = you do think was What the reason main for these experiences "" #
+
+# sent_id =20
+# text = were allowed respondents to choose one response from 11 categories.
+
+# sent_id =21
+# text = were recoded these responses: into exclusive mutually nine categories capturing the following options for the present analysis
+
+# sent_id =22
+# text = race * / ancestry skin / color
+
+# sent_id =23
+# text = gender *
+
+# sent_id =24
+# text = age *
+
+# sent_id =25
+# text = religion *
+
+# sent_id =26
+# text = height * or weight
+
+# sent_id =27
+# text = sexual orientation *
+
+# sent_id =28
+# text = education * or income
+
+# sent_id =29
+# text = physical Disability *
+
+# sent_id =30
+# text = and other.
+
+# sent_id =31
+# text = were collapsed the following categories from the original questionnaire race: and shade * of skin color ancestry * or national origin into one category for the analysis.
+
+# sent_id =32
+# text = resulted additionally the pattern built-in skip because was only this question asked of respondents who reported prior discrimination experiences in a large number of cases scored as missing legitimate skip # $.
+
+# sent_id =33
+# text = respondent race.
+
+# sent_id =34
+# text = we use because is not a variable race available from the Wave 4 interviews the racial category reported during the Wave 1 interview by the respondent.
+
+# sent_id =35
+# text = was used Wave 1 race # Wave 3 rather thenning say race # to preserve case counts.
+
+# sent_id =36
+# text = that is appeared respondents Wave all nearly # $4 the logic in the Wave 1 sample would but have all not been interviewed at 3 Wave differential due tone patterns of temporary attrition.
+
+# sent_id =37
+# text = were asked respondents to indicate their from among the following categories White: Black * or African American American Indian * or Native American Hispanic * or Pacific Islander and Asian * race.
+
+# sent_id =38
+# text = were provided respondents the opportunity to select one thenning more race and were those who did asked a follow-up question regarding best which category described their racial background.
+
+# sent_id =39
+# text = were coded those respondents who indicated one thenning more race as mixed race "" in the current study.
+
+# sent_id =40
+# text = demographic variables.
+
+# sent_id =41
+# text = are included demographic additional variables two To provide information on the analytical sample as a whole.
+
+# sent_id =42
+# text = a is continuous first age measure created by subtracting the year obtained # from 1 Wave $of the respondents's birth from the year of the interview at 4 Wave.
+
+# sent_id =43
+# text = was dichotomously second coded sex based on the self-reported sex 0 = # and 1 è male female $of the respondent at 4 Wave.
+
+# sent_id =44
+# text = analytical plan.
+
+# sent_id =45
+# text = included our study exploratory basic three steps.
+
+# sent_id =46
+# text = were first produced statistics summary of the study variables and racial categories.
+
+# sent_id =47
+# text = we examined second the relative proportions of the experience discrimination two measures across each racial category.
+
+# sent_id =48
+# text = we assessed finally the distribution of reported reasons for discrimination across the racial categories.
+
+# sent_id =49
+# text = was employed the adjusted statistic F design-based F # $as it corrects for a complex sample that such ask used 21 # # in the Add Health. design in order to examine bivariate potential associations
+
+# sent_id =50
+# text = is specifically more converted the conventional test statistic Pearson of independence 24 # # when analyzing employing the svy suite in Stata of commands weighted sample data by using a Rao 1981 22 # # # 1984 23 # # $and Scott second-order correction "into an F statistic" with noninteger degrees of freedom.
+
+# sent_id =51
+# text = is thus accurate more the p-value associated with the design-based F given the adjustments and calculations take the weighted nature of the data into account than the associated # with the statistic $.
+
+# sent_id =52
+# text = included also this step final an examination of the relative distribution across the various reported reasons for discrimination of racial categories.
+
+# sent_id =53
+# text = were weighted all analyses as earlier noted the survey according tone weight provided by the Health Add research staff and were standard Errors corrected for the clustering that defined the sampling strategy and stratification.
+
+# sent_id =54
+# text = cannot be thus considered all estimates here reported nationally representative of the United States.
+
+# sent_id =55
+# text = Otto Jespersen
+
+# sent_id =56
+# text = a was Danish Jens July 1860 16 – April 1943 30 * $Harry Otto Jespersen or Otto Jespersen #t'o Danish: Łjèsb34sn# # # # linguist who specialized in the grammar of the English language.
+
+# sent_id =57
+# text = early life
+
+# sent_id =58
+# text = was born Otto Jespersen in Randers in Jutland.
+
+# sent_id =59
+# text = he was inspired and himself taught some Icelandic and Spanish Italian with the help of Rask's grammars as a boy by the work of Danish philologist Rasmus Rask.
+
+# sent_id =60
+# text = he entered when he was 17 initially studying law but not forgetting his language studies the University of Copenhagen in 1877.
+
+# sent_id =61
+# text = he shifted completely in 1881 his focus and earned in 1887 his master's degree with English as his secondary languages and Latin in French to languages.
+
+# sent_id =62
+# text = he supported himself during his studies through part-time work as a schoolteacher as a and shorthand reporter in the Danish parliament.
+
+# sent_id =63
+# text = he traveled meeting linguists like Henry Sweet and Paul Passy and attending lectures at institutions like Oxford University in 1887 – 1888 to England and France Germany.
+
+# sent_id =64
+# text = he returned following the advice of his mentor Vilhelm Thomsen to Copenhagen in August 1888 and began work on his doctoral dissertation on the English case system.
+
+# sent_id =65
+# text = he defended successfully in 1891 his dissertation.
+
+# sent_id =66
+# text = academic life and work
+
+# sent_id =67
+# text = a was Jespersen professor from 1893 to 1925 at the University of Copenhagen of English and served in 1920 – 21 as rector of the university.
+
+# sent_id =68
+# text = focused primarily his work early on teaching language reform on and phonetics but he is best known for his later work on syntax on and language development.
+
+# sent_id =69
+# text = he advanced the theories in Danish of rank and nexus in two papers Sprogets logik 1913 # $: and De to grammatiske af Hovedarter forbindelser 1921 # $.
+
+# sent_id =70
+# text = Jespersen removes the parts of speech and differentiates between primaries secondaries and tertiaries a is e.g. phrase '''' primary being this defined by a secondary which is again defined by a tertiary well '''' honed '''' * in honed well phrase '''' in this theory of ranks from the syntax.
+
+# sent_id =71
+# text = is applied the term nexus to sentences similar to sentences structures and it rained e.g. he indoors ran * sentences are in which concepts two expressed in one unit in formation.
+
+# sent_id =72
+# text = is qualified this term whereas a nexus combines two ideas by a further concept called a junction which represents one idea expressed by means of two or more elements.
+
+# sent_id =73
+# text = proved junction and nexus valuable in bringing the concept of context the to forefront of the attention of the world of linguistics.
+
+# sent_id =74
+# text = he was widely most recognized for some of his books.
+
+# sent_id =75
+# text = is considered Language 1922 # $its Nature: Development and Origin by many his to be masterpiece.
+
+# sent_id =76
+# text = concentrated Grammar English Modern on Historical Principles 1909 # – 1949 $on morphology and syntax a and is comprehensive Growth 1905 # $of the English Language and Structure view of English by someone with another native language in still after and years over 70 after years 100 thenning more publication his death and print.
+
+# sent_id =77
+# text = he published late in his life Analytic Syntax 1937 # $he in which presents using an Idiosyncratic shorthand notation his views on syntactic structure.
+
+# sent_id =78
+# text = he challenged the accepted views of common concepts in Grammar in the Philosophy of Grammar 1924 # $and proposed corrections the to basic definitions of grammatical case etc. object voice pronoun and further developed his notions of rank and nexus.
+
+# sent_id =79
+# text = is still used this book as one of the basic texts in modern structural linguistics in the 21st century.
+
+# sent_id =80
+# text = is one mankind 1925 # $from a linguistic point: of view Nation and Individual of the pioneering works on sociolinguistics.
+
+# sent_id =81
+# text = visited Jespersen twice the United States:
+
+# sent_id =82
+# text = he lectured in 1904 at the Congress in St. Louis of Arts and Sciences he and visited Columbia the and University both of California University in 1909 – 1910.
+
+# sent_id =83
+# text = he took in while the U.S. to study educational the country's system occasion.
+
+# sent_id =84
+# text = was recently as as 1995 published his autobiography below see # $in English translation.
+
+# sent_id =85
+# text = a was Jespersen proponent: and wrote of phonosemanticism
+
+# sent_id =86
+# text = there really is logic more much "... in the opposite extreme which denies any kind of sound symbolism from apart the small class # of evident Echoisms and 'Onomatopoeia $' and only sees a collection of accidental and irrational associations of sound and meaning in our words #
+
+# sent_id =87
+# text = There is no denying that there words we which instinctively feel to be adequate to express the ideas they for stand are ".
+
+# sent_id =88
+# text = remained Jespersen active in the linguistic international community after his retirement in 1925.
+
+# sent_id =89
+# text = he convened the International first Meeting on Linguistic Research in 1930 in Geneva and chaired and acted in 1936 as president of the International fourth Congress of Linguists in Copenhagen in addition to continuing to write.
+
+# sent_id =90
+# text = an was important Jespersen figure in the language international movement.
+
+# sent_id =91
+# text = an he was early supporter and published in 1927 his own project Novial of the Esperanto offshoot Ido.
+
+# sent_id =92
+# text = he worked also with the International Language Auxiliary Association.
+
+# sent_id =93
+# text = received Jespersen 1927 # $1910 # $1925 # $honorary degrees from Columbia University in New York the and Sorbonne in Paris Andrews St. University in Scotland.
+
+# sent_id =94
+# text = he was one of the international six first scholars to be elected as honorary members of the Linguistic Society of America.
+
+# sent_id =95
+# text = Falling
+
+# sent_id =96
+# text = on you the are 236th-level moving Kaiserstrasse sidewalk you when see her.
+
+# sent_id =97
+# text = you are leaning watching the glittering stream of mites that ARC up flying to rewind their nanosprings in the stratospheric sunlight # down flying to make Frankfurt run over the half sky waiting to ask Derya about a job on the railing.
+
+# sent_id =98
+# text = you get never tired of watching them.
+
+# sent_id =99
+# text = on the she is Holbeinsteg bridge.
+
+# sent_id =100
+# text = has here hung someone up it a hundred meters up plucked from the river main and up meters 2,360 suspended in the chilly air between a lump of wooded parkland a and cluster of antique subway cars # of gray clean and green twentieth-century modernism.
+
+# sent_id =101
+# text = she is wearing a 1950s sundress a and broad-brimmed hat it and is the austere steel bridge # the bright blobs of subway graffitos and her yellow dress flapping as she climbs over the bridge's rail against her legs like an essay on the last century.
+
+# sent_id =102
+# text = a picture of elegance and style from the age of money violence and simplicity.
+
+# sent_id =103
+# text = a she is strawberry blonde her skin blank as new butter and virginal slim.
+
+# sent_id =104
+# text = beyond the she is now rail out hanging high drop - over the mountain.
+
+# sent_id =105
+# text = move shadows translucent thin across her the shadows # of the neosilk-and-nanotube filaments that hang the city from the hundreds that encircle it of five-kilometer-high towers.
+
+# sent_id =106
+# text = notices a agent civic you # noticing # and attaches itself whispering statistics your to infospace
+
+# sent_id =107
+# text = must Weather suspension each object's "# a class 5 hurricane the and destruction of 80% of the towers"
+
+# sent_id =108
+# text = is stable population current Frankfurt's "at 53 million #"
+
+# sent_id =109
+# text = Average 62 age "# net immigration of a half million a year 0.22 birth rate"
+
+# sent_id =110
+# text = personal current squatright "meters cubic 311: per resident #"
+
+# sent_id =111
+# text = until you away brush it $.
+
+# sent_id =112
+# text = you are Watching her lean out.
+
+# sent_id =113
+# text = whips the wind her hair ruffles the skirt around her knees.
+
+# sent_id =114
+# text = a must she be tourist.
+
+# sent_id =115
+# text = you remember leaning: whiring warnings and buzzing and back you shoving like a mosquito million chaperones over the edge into the angry swarm of mites your first trip the to upper levels.
+
+# sent_id =116
+# text = tries once Everyone except that there n't any mites around her are # it.
+
+# sent_id =117
+# text = you clutch the railing.
+
+# sent_id =118
+# text = surges fear hot animal in your chest.
+
+# sent_id =119
+# text = she up looks at you and smiles a heartbreaking brilliant smile across the gap of forty meters.
+
+# sent_id =120
+# text = she then lets go and falls.
+
+# sent_id =121
+# text = you scream.
+
+# sent_id =122
+# text = Derya says Fucking airsurfers "".
+
+# sent_id =123
+# text = he steps tall: hook-nosed the whorls fashionable of pox and acne making constellations of his cheeks and chest the tattoos glowing formal of his committees and lifebrands adorning * his massive triceps off the moving sidewalk near you.
+
+# sent_id =124
+# text = you swallow on a dry throat.
+
+# sent_id =125
+# text = of all people Hearing Derya you scream °
+
+# sent_id =126
+# text = he gives you a hooded look.
+
+# sent_id =127
+# text = they infect "themselves - with some designer virus
+
+# sent_id =128
+# text = it lets them hack person-recognition the city's systems.
+
+# sent_id =129
+# text = do n't so see the mites them when they jump.
+
+# sent_id =130
+# text = Watch # "
+
+# sent_id =131
+# text = she has swept past the sloping mandala of the Google of offices on the 164th past the whalelike oval of the public pool on the 202nd.
+
+# sent_id =132
+# text = the Exchange old Stock is below her now upside-down hung as a hipster den at the 131st .
+
+# sent_id =133
+# text = are finally now closing the mites in.
+
+# sent_id =134
+# text = coalesces a swarm silver around the 164th she and into it vanishes into cloudy miso soup like a snip of scallion.
+
+# sent_id =135
+# text = she is standing when the cloud disperses on one of upside-down the Exchange Stock's overhangs.
+
+# sent_id =136
+# text = she waves antlike then crawls through a dormer window.
+
+# sent_id =137
+# text = Derya says it is not funny "".
+
+# sent_id =138
+# text = a they are Huge drain "on emergency preparedness.
+
+# sent_id =139
+# text = are causing effects ripple... project slowdowns "
+
+# sent_id =140
+# text = you find yourself saying freeloaders drove "systemic evolution".
+
+# sent_id =141
+# text = Derya snaps you do n't quote "at me the founders".
+
+# sent_id =142
+# text = is the Society Free fragile ".
+
+# sent_id =143
+# text = is over the party find people enough the minute cool anticontributive behavior #
+
+# sent_id =144
+# text = it back is to capitalist competition or state control ".
+
+# sent_id =145
+# text = he stares until you meet his eye.
+
+# sent_id =146
+# text = you talk even "- to those people
+
+# sent_id =147
+# text = you are paying # attention #
+
+# sent_id =148
+# text = wo be trashed your rep you even talk to them on the major all servers.
+
+# sent_id =149
+# text = you wo n't work you wo n't party wo you be defriended by every one of your tribes.
+
+# sent_id =150
+# text = got it "#
+
+# sent_id =151
+# text = is still sailing her hat broad-brimmed on the wind.
+
+# sent_id =152
+# text = missed the mites it.
+
+# sent_id =153
+# text = it cuts between the towers of the 50th.
+
+# sent_id =154
+# text = is deserted the upside-down trading floor.
+
+# sent_id =155
+# text = There are heaps of yellowed euros here dumped and Deutschmarks like snowdrifts.
+
+# sent_id =156
+# text = wood panel marble.
+
+# sent_id =157
+# text = silence.
+
+# sent_id =158
+# text = and is strangely clear the air.
+
+# sent_id =159
+# text = you realize no mites:.
+
+# sent_id =160
+# text = here has the city no eyes or ears.
+
+# sent_id =161
+# text = you walk stepping around light fixtures through empty miteless rooms.
+
+# sent_id =162
+# text = in a she is there then Doorway.
+
+# sent_id =163
+# text = her blue bright radiant eyes.
+
+# sent_id =164
+# text = her Bashful so smile with that yellow chaste dress.
+
+# sent_id =165
+# text = she comes to you.
+
+# sent_id =166
+# text = she says you want "it" #.
+
+# sent_id =167
+# text = you want "to be infected #
+
+# sent_id =168
+# text = you want to fly "#
+
+# sent_id =169
+# text = you nod.
+
+# sent_id =170
+# text = she in leans eyes closing for the kiss.
+
+# sent_id =171
+# text = Wikinews interviews Christopher Hill presidential Party Republican U.S. candidate
+
+# sent_id =172
+# text = Interview
+
+# sent_id =173
+# text = you do have What qualifications wo that you assist in executing the duties of president #
+
+# sent_id =174
+# text = are rooted my presidential qualifications as an Officer in the Air States United Force in my service.
+
+# sent_id =175
+# text = I took at old years 22 the oath to our Constitution.
+
+# sent_id =176
+# text = I understood an it was to all of our people oath.
+
+# sent_id =177
+# text = profess politicians an oath to this nation but pursue their party agenda and REward their voters in Once office.
+
+# sent_id =178
+# text = I wo Serve all of the people in America guided by the Constitution as President .
+
+# sent_id =179
+# text = why run for president #
+
+# sent_id =180
+# text = why not run for a lower office that you would be more likely to win and effect change #
+
+# sent_id =181
+# text = I was chosen to attend a unique Training pilot Program called pilot Jet Joint NATO Euro- Training a I when was young man in Force Air ROTC.
+
+# sent_id =182
+# text = selected only the Force Air a year to attend 180 officers from the Academy Officer squadron School and ROTC.
+
+# sent_id =183
+# text = I volunteered because I knew I wanted a to be fighter and ater pilot the top "of the Spear". for that program
+
+# sent_id =184
+# text = it was all in those days or nothing.
+
+# sent_id =185
+# text = you were assigned if you graduated a fighter you were out washed if you were pilot fighter quite not material you had no response to fly another aircraft.
+
+# sent_id =186
+# text = has Congress proved itself ineffective as a body.
+
+# sent_id =187
+# text = you must have To make a difference in America the bully pulpit "" and speak the to people.
+
+# sent_id =188
+# text = the President has that pulpit.
+
+# sent_id =189
+# text = all or nothing.
+
+# sent_id =190
+# text = I never wanted to make politics a career.
+
+# sent_id =191
+# text = you why did choose to run in the Republican Party #
+
+# sent_id =192
+# text = date back my ties the to Republican party when I volunteered in New Hampshire for Ronald Reagan and his campaign to 1979.
+
+# sent_id =193
+# text = I believed there a difference in the parties was in those days.
+
+# sent_id =194
+# text = I am skeptical today like many Americans .
+
+# sent_id =195
+# text = I understand candidates party third have no success.
+
+# sent_id =196
+# text = I hope to lead the Republican party in a new direction for class working Americans.
+
+# sent_id =197
+# text = you How do plan to get into the Republican debates and make an impact on polls #
+
+# sent_id =198
+# text = must we raise in order to be invited the to debates money and nationally poll.
+
+# sent_id =199
+# text = an is this effort that is underway.
+
+# sent_id =200
+# text = we were recently listed in New Hampshire with nationally and PoliticsF.
+
+# sent_id =201
+# text = you would consider if you don't receive the Republican nomination running as a party third candidate #
+
+# sent_id =202
+# text = I wo back no the nominee of the Republican party in 2016.
+
+# sent_id =203
+# text = I may reconsider after that .
+
+# sent_id =204
+# text = you have supported other than yourself which candidates in previous campaigns for president #
+
+# sent_id =205
+# text = Reagan in 80 and 84 W. George Bush in 2000 # # and Romney in 08 Gramm Phil in 96 # # George H. W. Bush in 88 and 92 # #.
+
+# sent_id =206
+# text = What are your thoughts on the job has Barack Obama done as president #
+
+# sent_id =207
+# text = you would have specifically differently what done #
+
+# sent_id =208
+# text = President Obama has an agenda that represents the leave far wing of his party.
+
+# sent_id =209
+# text = has been unconstitutional his use to further this agenda of the Presidency in many ways.
+
+# sent_id =210
+# text = specifically altering to accommodate his voting blocs once it is passed law.
+
+# sent_id =211
+# text = is another his direction to enforce some laws and not others to Eric Holder example.
+
+# sent_id =212
+# text = Hill at the candidates Lesser-known forum in 2011
+
+# sent_id =213
+# text = would what for you constitute if elected a successful presidency #
+
+# sent_id =214
+# text = achieving: four goals
+
+# sent_id =215
+# text = term limits for Congress and the courts returning government the to people.
+
+# sent_id =216
+# text = Implementing a Tax System that allows working Americans making under $250,000 to all of their money keep.
+
+# sent_id =217
+# text = closing loopholes and putting a system that is transparent and works in place.
+
+# sent_id =218
+# text = passing a Wage living program lifting people out of poverty.
+
+# sent_id =219
+# text = returning America a to state of Peace and Security.
+
+# sent_id =220
+# text = you would like to see What individuals in a Hill administration #
+
+# sent_id =221
+# text = I would like to bring people that make work this nation from the heartland of America.
+
+# sent_id =222
+# text = have we had many too decades of League Ivy elites immersed in theory and professors.
+
+# sent_id =223
+# text = Hill right # $with fellow presidential 2012 candidate Roemer Buddy.
+
+# sent_id =224
+# text = you would like to add else anything #
+
+# sent_id =225
+# text = a final thought.
+
+# sent_id =226
+# text = a is America nation that wo endure.
+
+# sent_id =227
+# text = I believe it our is responsibility to onen pass the same opportunities that were promised to us to future generations.
+
+# sent_id =228
+# text = I intend to keep that promise as President °
+
+# sent_id =229
+# text = Wikinews interviews Robert Sarvis Party Libertarian nominee for Governor of Virginia
+
+# sent_id =230
+# text = Saturday October 19 2013
+
+# sent_id =231
+# text = answered Attorney Sarvis Robert the Party Libertarian's nominee for Governor of Virginia five questions submitted by Wikinews accredited Saturn William reporter via e-mail.
+
+# sent_id =232
+# text = has Sarvis garnered double digits in opinion polls for the 2013 gubernatorial Virginia election an unusual feat for a party third candidate.
+
+# sent_id =233
+# text = placed latest the poll Zogby Newsmax / from late September him with percent 24 undecided at 13 percent 14 points behind Party Republican nominee Cuccinelli Ken Virginia's Attorney General and 19 points behind Party Democratic nominee Terry McAuliffe the former Committee Democratic National chairman.
+
+# sent_id =234
+# text = would replace whoever wins on November 5 2013 election outgoing governor Bob McDonnell.
+
+# sent_id =235
+# text = Sarvis notes he favors parental school choice through student vouchers Amendment Second US - gun - rights same-sex marriage simplification of Tax Virginia's Code and reform of drug the state's laws on his campaign website.
+
+# sent_id =236
+# text = Sarvis discusses his background views on McDonnell's tenure keys to campaign success the and former Virginia governor he most admires plan to implement his agenda with Wikinews .
+
+# sent_id =237
+# text = Interview
+
+# sent_id =238
+# text = What is the aspect important most should about that Voters know of your background #
+
+# sent_id =239
+# text = the I am only candidate born in Virginia and raised the but only also candidate who physically both and philosophically embodies the growing diversity of the commonwealth.
+
+# sent_id =240
+# text = I am mixed-race # Half-chinese # $in an and interracial marriage $.
+
+# sent_id =241
+# text = the I am only candidate who has studied both economics and law the and only candidate with a background in technology entrepreneurship.
+
+# sent_id =242
+# text = I understand better much than the other candidates the issues facing Virginia and challenges I am and offering real solutions cannot that be appreciated across the political spectrum because of my academic and professional background.
+
+# sent_id =243
+# text = the I am only candidate who believes in both economic freedom and personal liberty the and only candidate who stands on principle against cronyism and corporatism in and favor of the rule of law.
+
+# sent_id =244
+# text = your what are thoughts on the job has Bob McDonnell done as Governor of Virginia #
+
+# sent_id =245
+# text = you would have differently than him what done #
+
+# sent_id =246
+# text = did McDonnell well backing pushing against Senate Democrats who wanted Huge tax increases in response to major revenue shortfalls during the recession in early his term.
+
+# sent_id =247
+# text = his are highest efforts those early budget achievements as Governor.
+
+# sent_id =248
+# text = he rred recently more in accepting a transportation bill that had Huge flaws and Huge tax increases rather thenning prioritising spending and seeking efficient decentralized rational more transportation decision-making.
+
+# sent_id =249
+# text = could he have shown in pushing for tax reform regulatory reform and school choice greater much leadership.
+
+# sent_id =250
+# text = he showed ethical lapses in judgment of course.
+
+# sent_id =251
+# text = you have done well exceptionally compared to previous party third candidates at the gubernatorial level in opinion polling.
+
+# sent_id =252
+# text = you do attribute to what that success #
+
+# sent_id =253
+# text = see Voters the two-party system for the sham it has become.
+
+# sent_id =254
+# text = they are sick of the partisanship the and total lack in modern campaigns of substance and nonsense.
+
+# sent_id =255
+# text = see Voters as exemplifying what is worst about their respective parties the party major two nominees and they want better something.
+
+# sent_id =256
+# text = know Voters who meet me and hear me speak that I am sincere know that I deeply understand the issues and have workable solutions and know that I stand on principle against cronyism and corporatism in and favor of the rule of law the and public interest.
+
+# sent_id =257
+# text = like people the fact that I stand for a Virginia that both is open-minded and open for Business.
+
+# sent_id =258
+# text = you how wo be able to implement while dealing with a hostile legislature your agenda if elected governor #
+
+# sent_id =259
+# text = there are precedents of independent governors effectively dealing with the legislature cannot and indeed a governor third-party wise have greater effectiveness than a party major governor.
+
+# sent_id =260
+# text = share libertarians with each of the major parties many policy positions.
+
+# sent_id =261
+# text = cannot we get together working with both Republicans and Democrats while rejecting the bad parts of both the good aspects of each party.
+
+# sent_id =262
+# text = moreover represents electing a third-party governor a repudiation of politics as usual wo and the legislators party major face meaning that is more much possible than assume people many with especially strong leadership changed constraints and incentives.
+
+# sent_id =263
+# text = you do and why most admire which previous Virginia Governor)sè #
+
+# sent_id =264
+# text = Thomas Jefferson.
+
+# sent_id =265
+# text = he was incredibly learned a and was strong advocate for freedom the and rule of law.
+
+# sent_id =266
+# text = a would he be Libertarian today.
+
+# sent_id =267
+# text = Robert Sarvis.
+
+# sent_id =268
+# text = Image Sarvis: for Governor.
+
+# sent_id =269
+# text = Virginia highlighted in red.
+
+# sent_id =270
+# text = Image Huebi:.
+
+# sent_id =271
+# text = Interview with founder LibriLox McGuire Hugh
+
+# sent_id =272
+# text = Sunday May 28 2006
+
+# sent_id =273
+# text = features the website Librilox a catalog of completed a hundred about books including books in other languages like German Hebrew and Japanese.
+
+# sent_id =274
+# text = you why did decide to take the acoustic fate of public domain works into your own hands you how and did about it go #
+
+# sent_id =275
+# text = I think that is very a domain public vibrant important a to healthy world I and so thought a is Here way to help the cause:.
+
+# sent_id =276
+# text = I launched LibriLox emailed some friends and some podcasters who were doing literary stuff and invited them to record a chapter of Secret Joseph's Conrad Agent.
+
+# sent_id =277
+# text = have since steadily grown things.
+
+# sent_id =278
+# text = the was first AKMA guy I of know to do something like this with Free Lawrence's Lessig Culture by the way.
+
+# sent_id =279
+# text = that started I think my thinking about this it but took to crystallize a while for the idea.
+
+# sent_id =280
+# text = Hugh McGuire with some books have that been not acoustically yet liberated.
+
+# sent_id =281
+# text = you do personally Record audiobooks you and did already so do before LibriVox #
+
+# sent_id =282
+# text = my was first LibriVox experience recording audiobooks.
+
+# sent_id =283
+# text = I do still the odd chapter I but am delinquent a bit in some of them finishing these days °
+
+# sent_id =284
+# text = there is a book particular Librilox you think which out stands the quality because of its popularity for or some other reason the overall effort involved #
+
+# sent_id =285
+# text = is notes my favourite personal Dostoyevsky # $from the underground.
+
+# sent_id =286
+# text = random good other ones:
+
+# sent_id =287
+# text = Jane Austen.
+
+# sent_id =288
+# text = pride and prejudice
+
+# sent_id =289
+# text = Agatha Christie.
+
+# sent_id =290
+# text = the mysterious Affair at Styles
+
+# sent_id =291
+# text = Jack London.
+
+# sent_id =292
+# text = White Fang
+
+# sent_id =293
+# text = Thomas Babington Macaulay.
+
+# sent_id =294
+# text = History of England 1 volume # 1 Chapter $
+
+# sent_id =295
+# text = Karl Marx and Friedrich Engels.
+
+# sent_id =296
+# text = the communist manifesto solo # $
+
+# sent_id =297
+# text = Mark Twain.
+
+# sent_id =298
+# text = a Connecticut Yankee in Arthur King's solo # $Court
+
+# sent_id =299
+# text = see ed.: the Librilox catalog for a full index.
+
+# sent_id =300
+# text = I find that greatly the quality of the spokent audio varies from text from even to chapter or chapter to text browsing the catalog.
+
+# sent_id =301
+# text = you would then offer if someone wanted to re-record because did they n't like the speaker a chapter two versions #
+
+# sent_id =302
+# text = yes.
+
+# sent_id =303
+# text = we take if you think should it be better please help be so it: the Wikipedia approach.
+
+# sent_id =304
+# text = you wo note we offer a couple of versions of some books.
+
+# sent_id =305
+# text = indeed celebrates our project weekly poetry this diversity of voice is so a new short poem chosen each week you get 20 + versions of the same poem a interesting very audio experience: and readers many as as wish to record a version.
+
+# sent_id =306
+# text = there is an number increasing of available under Creative Commons and similar licenses modern books besides works has whose copyright expired.
+
+# sent_id =307
+# text = you mentioned Free Larry's Lessig Culture it but also includes out of print some titles by publishers who are open the to concept such ask O'Reilly .
+
+# sent_id =308
+# text = you do want to strictly to old domain public works limit the scope of LibriLox you do or have plans to as well include recent works under permissive reasonably licenses #
+
+# sent_id =309
+# text = we are only doing to partly keep simplicity in our copyright situation domain public works domain public means it is as simple as cannot be -- for a number of reasons.
+
+# sent_id =310
+# text = CC makes more complex things.
+
+# sent_id =311
+# text = there are also sites other which are better suited than LibriVox to CC works notably podiobooks.com.
+
+# sent_id =312
+# text = we find it makes clear and easy to say published works: public domain and at that leave it things.
+
+# sent_id =313
+# text = features podiobooks.com far as as I cannot tell free "as in beer" content material # you cannot which download but n't which is under a free content license.
+
+# sent_id =314
+# text = would n't work content free "" well as just using to limit the scope something like the content Free definition instead of public domain "" #
+
+# sent_id =315
+# text = this obviously needs we chose: public domain I ca n't recall # any specific project names but some sites pay-education use LV stuff $because are public the texts we use domain we did and n't want to add since are being already our recordings used for a number of commercialish projects new restrictions not especially non-commercial more discussion.
+
+# sent_id =316
+# text = is that good and well and fine with us.
+
+# sent_id =317
+# text = do we n't want we want to for whatever they want use them anyone to have to give anyone permission to use our recordings.
+
+# sent_id =318
+# text = you need also to have many dedicated willing to do onerous # $the management volunteers and willing to do the reading many for to the thing work.
+
+# sent_id =319
+# text = I do n't know though I might be wrong... while wo Pride and prejudice attract many readers about latest O'Reilly's tome on XML.
+
+# sent_id =320
+# text = celebrated pop culture at Fan Expo 2016 Canada in Toronto
+
+# sent_id =321
+# text = Wednesday September 7 2016
+
+# sent_id =322
+# text = the far end after shortly opening Friday of part of the convention floor.
+
+# sent_id =323
+# text = Image Nick Moreau:.
+
+# sent_id =324
+# text = took the Expo Fan 22nd Canada this weekend attracting thousands the to event one of the most popular in North America place at the Toronto Metro Convention Centre.
+
+# sent_id =325
+# text = sprawled the event crossing between the genres of science fiction and comics anime fantasy horror throughout all corners of the facility.
+
+# sent_id =326
+# text = offered hundreds of vendors joined by celebrity guests like Stan Lee Mark Hamill and Margaret Atwood new and old products.
+
+# sent_id =327
+# text = in a were charitable there organizations local various fan capacity and thousands of fans donen costumes they created themselves of which many.
+
+# sent_id =328
+# text = there Atwood a Booker Prize-winner was to launch her graphic novel Angel Catbird with Christmas illustrator Johnnie.
+
+# sent_id =329
+# text = was Lee making his final convention Canadian appearance part of a larger farewell tour.
+
+# sent_id =330
+# text = included schedule Hamill's a panel with Kevin Conroy the voice of Batman in Batman in which the lead Wars Star played the Joker the animated series:.
+
+# sent_id =331
+# text = had Ubisoft and PlayStation VR Microsoft all large areas up set for to attendees try their latest games.
+
+# sent_id =332
+# text = are dropped players to up suit the to Bat Cave down a secret elevator in Bruce's Wayne manor in the PlayStation VR 20-minute demonstration Arkham VR: of Batman.
+
+# sent_id =333
+# text = took the demonstration from there to investigate the murder of Nightwing players.
+
+# sent_id =334
+# text = ran the Championship Arena Northern Esports off facing teams of video gamers in a packed hall throughout the weekend.
+
+# sent_id =335
+# text = was attended well the event with full of gamers watching the matches with live colour commentary the stands in even early rounds.
+
+# sent_id =336
+# text = saw the finals Cloud' team US and immortals from Brazil face off in Counter-Strike global offensive:.
+
+# sent_id =337
+# text = won the team Brazillian both unbeaten teams going in the championship and 50,000 $.
+
+# sent_id =338
+# text = was delayed gameplay during the third map "when was immortals player one caught with off their headset of the finals third round # $".
+
+# sent_id =339
+# text = was deducted the team leading a to sudden but temporary rush of success by the US team a point after an half nearly hour.
+
+# sent_id =340
+# text = VR Playstation demo
+
+# sent_id =341
+# text = Image Nick Moreau:.
+
+# sent_id =342
+# text = Displays of charity at event
+
+# sent_id =343
+# text = returned the garrison Canadian of 501st legion with proceeds the to Make-A-Wish Foundation with their setup of photo-ops.
+
+# sent_id =344
+# text = Corps comic organization volunteer of Canada collects to distribute to children in the hospital and youth donations of comics.
+
+# sent_id =345
+# text = was fundraising the group with Along on-site collecting comics through raffles and button sales.
+
+# sent_id =346
+# text = included groups charitable other fan-based the Ontario Ghostbusters and Klingon Assault Group Doctor Who Society of Canada.
+
+# sent_id =347
+# text = pose Brampton Spider-Gwen and Symbiote Spidey at the Corps comic booth.
+
+# sent_id =348
+# text = Image Nick Moreau:.
+
+# sent_id =349
+# text = a showdown at the Legion 501st booth.
+
+# sent_id =350
+# text = Image Nick Moreau:.
+
+# sent_id =351
+# text = share Stormtroopers successful a high-five.
+
+# sent_id =352
+# text = Image Nick Moreau:.
+
+# sent_id =353
+# text = Cosplay celebration of craftsmanship and characters
+
+# sent_id =354
+# text = epic Mickey by the Katherinator.
+
+# sent_id =355
+# text = Image Nick Moreau:.
+
+# sent_id =356
+# text = offered the thousands of cosplay outfits on parade around the various halls a tremendous cross-section of genres of pop culture and eras.
+
+# sent_id =357
+# text = involved the majority of outfits some at least elements made from scratch a fantastic display of craftsmanship.
+
+# sent_id =358
+# text = spoke Wikinews of the thousands with a cosplayer going by the name the Katherinator "".
+
+# sent_id =359
+# text = outside the she was building waiting for a photographer she had arranged to shoot her new character-style costumed Mickey epic outfit in the gardens.
+
+# sent_id =360
+# text = she remained exuberant when even caught many hours into wearing the outfit in the traffic between halls with shoes as wide as a forearm a and rigid torso of carved foam.
+
+# sent_id =361
+# text = Disney
+
+# sent_id =362
+# text = Belle
+
+# sent_id =363
+# text = Image Nick Moreau:.
+
+# sent_id =364
+# text = superheros
+
+# sent_id =365
+# text = Black Widow and America Captain
+
+# sent_id =366
+# text = Image Nick Moreau:.
+
+# sent_id =367
+# text = Anime
+
+# sent_id =368
+# text = Three of Digimon's Digi-destineds "" including cosplayer Anderson Jessica.
+
+# sent_id =369
+# text = Image Nick Moreau:.
+
+# sent_id =370
+# text = video games and more movies
+
+# sent_id =371
+# text = Lady Cassandra from Doctor Who.
+
+# sent_id =372
+# text = Image Nick Moreau:.
+
+# sent_id =373
+# text = Peekaboo Cosplay as the Fawn
+
+# sent_id =374
+# text = Image Nick Moreau:.
+
+# sent_id =375
+# text = NASA celebrates 30th anniversary of first shuttle launch announces * new homes for retired shuttles
+
+# sent_id =376
+# text = Wednesday 13 2011 April
+
+# sent_id =377
+# text = Administrator NASA Charles Bolden announces where wo be permanently orbiters shuttle space four displayed at the conclusion of the shuttle Space program during an event commemorating the 30th anniversay of the first shuttle launch on 12 2011 April.
+
+# sent_id =378
+# text = Image NASA Bill Ingalls:.
+
+# sent_id =379
+# text = celebrated NASA Tuesday the launch of the first space shuttle at an event at the Kennedy Space Center in Cape Canaveral Florida KSC # $.
+
+# sent_id =380
+# text = lifted Columbia shuttle Space off on 12 1981 April on STS-1 the first shuttle space mission from the Kennedy Space Center.
+
+# sent_id =381
+# text = held NASA a ceremony commemorating the date for shuttle Space Atlantis which is being prepped for its final mission which wo be STS-135 which the wo be last shuttle Space mission outside the hangar known as Processing Orbiter Facility-1.
+
+# sent_id =382
+# text = announced Administrator NASA Bolden Charles the locations would that be given following the end of the shuttle Space program the remaining shuttle Space three orbiters at the ceremony.
+
+# sent_id =383
+# text = would be relocated the orbiter prototype shuttle Space Enterprise from Steven Udvar-Hazy F. Museum National Air and Space the Smithsonian's Center at International Dulles Washington Airport the to Sea-Air-Space Intrepid Museum in York New City.
+
+# sent_id =384
+# text = wo Discovery shuttle space take the place of enterprise at the Udvar-Hazy Center.
+
+# sent_id =385
+# text = has been already retired Discovery following the completion last month of STS-133 its 39th mission.
+
+# sent_id =386
+# text = is undergoing Discovery decommission and being currently prepped by removing toxic materials from the orbiter for display.
+
+# sent_id =387
+# text = back looking Columbia shuttle space off lifts on 12 1981 April: on STS-1 at the Space Kennedy Center from 39A launch pad.
+
+# sent_id =388
+# text = Image NASA:.
+
+# sent_id =389
+# text = wo be sent endeavour shuttle space which wo launch on 29 April on STS-134 at the end of the month the to Science California Center in Los Angeles California its following retirement.
+
+# sent_id =390
+# text = wo Atlantis finally go at the Center Space Kennedy visitor complex on display last following the orbiter's flight which launches 28 June.
+
+# sent_id =391
+# text = was tragically lost Columbia when it disintegrated killing aboard all seven astronauts during re-entry on back 1 2003 February.
+
+# sent_id =392
+# text = was lost Challenger shuttle space when it exploded 73 seconds after liftoff killing all aboard six on back 28 1986 January.
+
+# sent_id =393
+# text = said Bolden we want "to all of the locations that expressed an interest in one of these national treasures thank" the to gathered crowd which contained many KSC employees.
+
+# sent_id =394
+# text = a was this difficult very decision "but one that was made with the American public in mind.
+
+# sent_id =395
+# text = provide choices these the greatest number of people in the end with the best opportunity to share in the history of remarkable shuttle Space NASA's program and accomplishments.
+
+# sent_id =396
+# text = have facilities these have we chosen a noteworthy legacy of preserving space artifacts and providing outstanding access to U.S. and international visitors ".
+
+# sent_id =397
+# text = a was this difficult very decision but one that was made with the American public in mind.
+
+# sent_id =398
+# text = provide choices these the greatest number of people with the best opportunity to share in the history of remarkable shuttle Space NASA's program and accomplishments in the end.
+
+# sent_id =399
+# text = Charles Bolden NASA Administrator
+
+# sent_id =400
+# text = file Image of shuttle Space Atlantis lifting off which approaches its last mission before retirement.
+
+# sent_id =401
+# text = Image NASA:.
+
+# sent_id =402
+# text = were all not pleased with the final choice of locations.
+
+# sent_id =403
+# text = issued Senator U.S. John Cornyn Republican from Texas a statement the regarding rejection of Johnson Space Center in Houston Texas JSC # $as a location.
+
+# sent_id =404
+# text = I am disappointed "like many Texans with NASA's decision to slight the Space Johnson Center as a permanent home for one of the shuttle Space Orbiters.
+
+# sent_id =405
+# text = has Houston played a critical role it but is clear favors political trumped common sense and fairness in the selection of the final locations for the orbiter fleet throughout the life of the space shuttle ".
+
+# sent_id =406
+# text = added statement Cornyn's there no question should have been Houston selected as a final home for one of the orbiters is "Administrator even Bolden stated as much #.
+
+# sent_id =407
+# text = an is announcement today's affront the to thousands of dedicated men at Johnson Space Center and women the greater Houston community the and State of Texas and I are deeply disappointed with misguided the Administration's decision ".
+
+# sent_id =408
+# text = wo the JSC however recieve pilot and commander seats from the flight deck.
+
+# sent_id =409
+# text = was also proposed the Museum of Flight in Seattle Washington far so as to build a new building to house an orbiter going as another location for a shuttle.
+
+# sent_id =410
+# text = said Governor Gregoire Chris of Washington the Museum of Flight put "into landing a retired shuttle in the Pacific Northwest a tremendous amount of effort in a statement.
+
+# sent_id =411
+# text = a would have been perfect Seattle fit as the home of air day modern travel the and 747 which has gracefully transported shuttles for the last 30 years.
+
+# sent_id =412
+# text = I are disappointed that did not NASA choose them while in the was top the Museum of Flight running .
+
+# sent_id =413
+# text = await endeavour and Atlantis in 2008 a journey on their respective launchpads.
+
+# sent_id =414
+# text = Image NASA:.
+
+# sent_id =415
+# text = however wo call the trainer full fuselage has been on that every astronaut CEO former Museum of Flight # # including Bonnie Dunbar trained soon "the Museum of Flight home.
+
+# sent_id =416
+# text = wo allow this addition the largest of the trainers to actually climb and experience the hands-on training that astronauts get aboard the trainer visitors.
+
+# sent_id =417
+# text = wo be not allowed visitors in the other shuttles a and is true this trainer win for our dynamic museum.
+
+# sent_id =418
+# text = wo it help inspire young people the to adventure of space the to and excitement of a career in science and math technology engineering ".
+
+# sent_id =419
+# text = an is announcement Today's affront the to thousands of dedicated men at Space Johnson Center and women the greater Houston community the and State of Texas and I are deeply disappointed with misguided the Administration's decision.
+
+# sent_id =420
+# text = John Cornyn U.S. Senator R-Texas # $
+
+# sent_id =421
+# text = include items other various shuttle simulators wo which be given the to Adler planetarium in Chicago Illinois and Engineering Aerospace A&M Texas's Department the Aviation & Space Evergreen Museum of McMinnville Oregon.
+
+# sent_id =422
+# text = the cap nose assembly for the National Museum of the Air U.S. Force at Wright-Patterson Force Air Base in Ohio and system maneuvering orbital engines for the U.S. Space and rocket Center in Huntsville Alabama the National Air and Space Museum the and Evergreen Aviation & Space Museum and compartment crew trainer.
+
+# sent_id =423
+# text = is also NASA offering shield heat shuttle tiles to schools that want to share technology a and piece of space history with their students and universities.
+
+# sent_id =424
+# text = coincided the anniversary 30th of the first shuttle mission with the 50th anniversary of the first menned space flight when Yuri Gagarin off lifted aboard 1 Vostok into space.
+
+# sent_id =425
+# text = found Canadian sensitive document on rainy streets
+
+# sent_id =426
+# text = Friday August 15 2008
+
+# sent_id =427
+# text = was found a sensitive Canada Environment document wet by someone who gave it today the to CBC on an Ottawa street.
+
+# sent_id =428
+# text = was found the document 131-page on Castlefrank Road in Kanata Ontario by a passerby in a brown tire-marked rain-stained envelope.
+
+# sent_id =429
+# text = detailed the document which had the B Protect stamp on every page various security vulnerabilities of the nemisis database which is used to track environmental law-breakers and prosecute by officers.
+
+# sent_id =430
+# text = could it affect if were able to someone down shut the system or inside hack and delete the information or corrupt the prosecution of the lawbreakers.
+
+# sent_id =431
+# text = was unveiled the database in 1999 as the Enforcement Information National Management System and Intelligence System.
+
+# sent_id =432
+# text = it referred however adding the words and "emergency" the to name as National Enforcement and Emergency Management Information System and Intelligence System the to database on the document.
+
+# sent_id =433
+# text = the are lowest second documents B Protection grade of classified government documents.
+
+# sent_id =434
+# text = said Environment spokesperson Julie Hahn Canada they apply to letters of complaint criticism or injury and Treasury Board letters Agendas that do n't deal with subjects of national interest and minutes research that do n't have any conclusion or scientific notes and findings.
+
+# sent_id =435
+# text = has Environment John Baird Minister asked how such documents are supposed to that be stored in approved security cabinets "" wound up on the street government officials.
+
+# sent_id =436
+# text = said Baird I are told "two things that it is neither classified: nor secret that it and is stuff that could be available to information under access".
+
+# sent_id =437
+# text = told Environment spokeswoman Canada Raisinghani Sujata CBC News wo the department look into the incident.
+
+# sent_id =438
+# text = she said we seriously take "document security" but refused to give any more about how came to the papers be on a road details.
+
+# sent_id =439
+# text = said Paul Dewar an Ottawa Democrat New MP the lapses combined security raise serious questions about the government's ability to secure sensitive documents.
+
+# sent_id =440
+# text = Dewar says that have bureaucrats of the Conservative government complained to him about document security the to point that cannot they n't share the information with their own colleagues.
+
+# sent_id =441
+# text = then however says the government it was n't particularly sensitive when has been found a document government on the streets.
+
+# sent_id =442
+# text = said Dewar is so this government consumed "with control of information and secrecy do yet n't seem they to be able to get the fundamentals right".
+
+# sent_id =443
+# text = a is the incident reminiscent of other two incidents.
+
+# sent_id =444
+# text = were found a bundle of blueprints for a new headquarters for counterterrorism the military's unit stuffed in the trash on a downtown street in March .
+
+# sent_id =445
+# text = was forced Maxime Bernier to resign after it became known that he left sensitive documents at the apartment of his then-girlfriend Couillard Julie who had ties the to Hells Angels biker gang as Affairs Foreign minister in May .
+
+# sent_id =446
+# text = sources
+
+# sent_id =447
+# text = found sensitive document government CPC.ca August 15 2008 # "on rainy Ottawa street"
+
+# sent_id =448
+# text = say feds the Canadian Press August 15 2008 # "not secret document found on street "
+
+# sent_id =449
+# text = found Canada Environment report security Toronto Star August 15 2008 # "on street"
+
+# sent_id =450
+# text = Peter Zimonjic.
+
+# sent_id =451
+# text = calls MP Edmonton Sun August 16 2008 # "for into misplaced documents probe"
+
+# sent_id =452
+# text = categories:
+
+# sent_id =453
+# text = August 15 2008
+
+# sent_id =454
+# text = Canada
+
+# sent_id =455
+# text = published
+
+# sent_id =456
+# text = North America
+
+# sent_id =457
+# text = politics and conflicts
+
+# sent_id =458
+# text = Environment Canada
+
+# sent_id =459
+# text = Archived
+
+# sent_id =460
+# text = understand
+
+# sent_id =461
+# text = some of the distinctive skyline the Kaiser including Building the and Cathedral of Christ the light of downtown.
+
+# sent_id =462
+# text = has begun to Oakland out step under from the shadows playing upon the beautiful highlights of its own and its rise as the multicultural "hipster 'city of the Bay Area often overshadowed by San Francisco its larger neighbor directly lying the to west in recent years.
+
+# sent_id =463
+# text = a has been Oakland hub since the 1960s of radical culture the and is birthplace of the both Panther Black Party the and hell's Angels.
+
+# sent_id =464
+# text = as well is notable history Oakland's in the arts and entertainment arena as has Oakland nurtured a or been second home to novelists Stein Gertrude Amy Tan Maya Angelou Jack London Streep Meryl actors * Bruce Lee Mark Hamill and Tom Hanks and Hammer MC rappers * 2Pac messy Marv and several other notables in the liberal arts and sciences classical Simmons Calvin conductor * Julia Hill butterfly "" architect *.
+
+# sent_id =465
+# text = Oakland as a city reflects the amazing diversity of its residents and long history.
+
+# sent_id =466
+# text = is the place first are likely they to visit downtown if they especially are do or not simply know where to start in town on business for many visitors.
+
+# sent_id =467
+# text = there is the center of transportation by BART by and bus if wants to one out branch.
+
+# sent_id =468
+# text = it and is as simple since along is 10th Oakland Old Street just West of Broadway as walking from there for the few first neighborhoods in a direction.
+
+# sent_id =469
+# text = is famous east just of Broadway and north and south continuing Chinatown Oakland's your and is best Oakland than rather San Francisco bet that to get the real essence of Chinatown "".
+
+# sent_id =470
+# text = reflect Many of the buildings of Chinatown and streets the diverse nature of its history in architecture in the and bilingual signs seen throughout the neighborhood.
+
+# sent_id =471
+# text = cannot venture to southward the traveler curious take a bus along Broadway and come to Jack London Square.
+
+# sent_id =472
+# text = makes the mixture unlikely of warehouses and expensive very restaurants and posh alongside some of the landmarks of the city's waterfront atmosphere the Square an interesting place to visit and even explore for locals.
+
+# sent_id =473
+# text = the it is home of the USS Potomac the and site of the author's namesake residence still preserved and humbly far not standing from a saloon from the same era.
+
+# sent_id =474
+# text = is West just of the Financial District of downtown and slightly north uptown.
+
+# sent_id =475
+# text = it buzzes with art galleries theaters and residents and Bay Area visitors coming to see concerts into the area in the evening.
+
+# sent_id =476
+# text = a popular area on the weekend with a mixed vibe of hipster and hip hop.
+
+# sent_id =477
+# text = a it is burgeon neighborhood of performing arts ranging from nightclubs to music halls an and improv theater even company avant-garde performance art.
+
+# sent_id =478
+# text = also has uptown some of the best like the Gothic Cathedral revival Building the and Deco Art Fox and Paramount theaters in vintage the city's architecture several as ask well restaurants.
+
+# sent_id =479
+# text = a is sweeping Oakland North term referring to north of uptown and Lake Merritt just about everywhere.
+
+# sent_id =480
+# text = are commercial Many of the neighborhoods centers for foodies or those who seek quiet surroundings than the hustle of downtown and Chinatown and bustle and absolute heaven.
+
+# sent_id =481
+# text = a is Temescal neighborhood centered at and near 51st Street along the reach of Telegraph Avenue that north-northwest lies from downtown.
+
+# sent_id =482
+# text = a it more much is diversified now neighborhood some including of Korean best and Ethiopian the city's establishments until the 1960s a Italian-American dominantly neighborhood home to many restaurants.
+
+# sent_id =483
+# text = lies Northeast of Temescal near the and Berkeley border Rockridge a neighborhood mixed with friendly family and artistic vibes.
+
+# sent_id =484
+# text = it has lots of local boutiques a and diverse range of food at all prices and styles.
+
+# sent_id =485
+# text = make markets open-air bookstores a and own its all BART station another of pleasant many stops in North Oakland Rockridge.
+
+# sent_id =486
+# text = lies South of Rockridge and southeast of Temescal Piedmont Avenue a street extending from Broadway near 3:th and Hawthorne an and area with a group of hospitals on up a hill Pill Hill # $through a and neighborhood bordered by picturesque hills and trees houses on both sides.
+
+# sent_id =487
+# text = another of Oakland North's group of foodie spots home the to's single restaurant michelin-rated and many others cafes * coffee shops and pleasant walks ice cream city complete the vision of this interesting and quiet neighborhood.
+
+# sent_id =488
+# text = are East along I-580 and not far from Piedmont Avenue two neighborhoods separated by a couple of blocks.
+
+# sent_id =489
+# text = both share Lake Grand and Lakeshore a suburban friendly sort of feel.
+
+# sent_id =490
+# text = the Theater Lake Grand stands a matter of a hundred few feet at the entrance the to neighborhood that bears its name from Lakeshore 0 Avenue are both diverse either of these twin-sister neighborhoods wo neighborhoods make no matter your what budget it be burgers or sandwiches a or romantic full evening a pleasant time by day or night.
+
+# sent_id =491
+# text = a was working-class burgeoning Oakland West once neighborhood with its roots tracing as back far as the opening decades of the 19th century.
+
+# sent_id =492
+# text = it has seen a period of decline between the 1960s the and recent more past.
+
+# sent_id =493
+# text = has strangely twice in its history seen the neighborhood benefits from major earthquakes.
+
+# sent_id =494
+# text = there relocated Franciscans many San and the development industrial of the 20s and 30s saw its population in the hundreds of thousands after the 1906 earthquake.
+
+# sent_id =495
+# text = was destroyed the effective barrier of the Cypress Street Overpass with Loma Prieta in 1989 and there a community burgeoning arts performing growing near the center of the neighborhood is have and since the decades seen the rebuilding and refurbishing of many of Victorian original the neighborhood's houses.
+
+# sent_id =496
+# text = a is poor very residential working-class dominantly Oakland West neighborhood though there are a draws few for the traveler with a less than spectacular reputation.
+
+# sent_id =497
+# text = respect
+
+# sent_id =498
+# text = a are polite Thai people you wo and find while remarkably tolerant of foreigners and gallivanting with their women on their beaches that you wo get if you and treat them their customs in turn with respect more respect.
+
+# sent_id =499
+# text = the Wai
+
+# sent_id =500
+# text = Ronald McDonald showing how it is done
+
+# sent_id =501
+# text = is derived the traditional greeting you where together press as is in prayer your hands and slightly bow known as the wai from India from the cultural Hindu influence and widely still practised.
+
+# sent_id =502
+# text = there are rules strict that dictate how and when should be the wai given of hierarchy among Thai .
+
+# sent_id =503
+# text = salute first inferiors superiors in brief.
+
+# sent_id =504
+# text = you shouldn't Wai service people or street vendors.
+
+# sent_id =505
+# text = you the respectful more are higher the your hands go .
+
+# sent_id =506
+# text = you wo also often see as they walk past temples and spirit houses Thai doing a wai.
+
+# sent_id =507
+# text = you aren't expected to know how to wai nor to reciprocate when waide-d to * as a foreign visitor
+
+# sent_id =508
+# text = you may look well slightly strange while you are unlikely to cause if you do offense.
+
+# sent_id =509
+# text = than more is alone sufficient a bow slight if to you somebody makes a wai for ordinary occasions wo and Thai most shake hands with foreigners of instead anyway waiing for business.
+
+# sent_id =510
+# text = dress
+
+# sent_id =511
+# text = is very important appearance personal in Thailand as a measure of respect to other people.
+
+# sent_id =512
+# text = you wo find that means dressing appropriately that you are showed more respect in return.
+
+# sent_id =513
+# text = this translates in many ways sometimes even lowering initial offering prices at markets.
+
+# sent_id =514
+# text = respond positively more Thai while is some allowance made for the differing customs of foreigners to well-dressed westerners.
+
+# sent_id =515
+# text = are modest and conservative traditionally Thai dressers.
+
+# sent_id =516
+# text = should be neat your clothes and free from holes or tears clean at a minimum.
+
+# sent_id =517
+# text = is acceptable dress Western normal except that you should avoid clothing showing a lot of skin except at the beach at or sacred sites for both men and women.
+
+# sent_id =518
+# text = are preferable pants should and be the straps thick straps spaghetti not i.e. # $if are tops tank worn should blouses have capped sleeves to shorts.
+
+# sent_id =519
+# text = wear generally men Thai * pants and Thai most view an man adult wearing shorts as fairly ridiculous
+
+# sent_id =520
+# text = are primarily worn short by laborers and schoolchildrens.
+
+# sent_id =521
+# text = should be knee shorts men's length if worn at all or more.
+
+# sent_id =522
+# text = is mandatory etiquette taking off one's shoes at temples and private homes may and be this even requested at some shops.
+
+# sent_id =523
+# text = wear shoes that easily on and off slip.
+
+# sent_id =524
+# text = a are pragmatic good usually flip-flops and clog-type shoes hiking sandals choice for travelling in Thailand *
+
+# sent_id =525
+# text = are shoes required in only the most top-end establishments.
+
+# sent_id =526
+# text = it is bevt to play it safe with wats and other sacred sites in Thailand *
+
+# sent_id =527
+# text = should be unambiguously modest your dress and cover your entire torso and most of your limbs.
+
+# sent_id =528
+# text = are mandatory pants ankle-length * for men
+
+# sent_id =529
+# text = are acceptable T-shirts though would be best a shirt button-front or polo on top.
+
+# sent_id =530
+# text = recommend Many that only women wear full length dresses and skirts *
+
+# sent_id =531
+# text = you should make sure that your clothing at least covers your shoulders your and knees may and some places require that you wear ankle-length pants and sleeve long tops or skirts.
+
+# sent_id =532
+# text = are highly inappropriate shorts and sleeveless shirts are short as skirts.
+
+# sent_id =533
+# text = are even so strict more the rules it is not OK if you even see a local in shorts for everyone for foreign visitors.
+
+# sent_id =534
+# text = is sunbathing topless common at many tourist beaches by Western women.
+
+# sent_id =535
+# text = is this not advised at beaches which are Thai primarily however visitors.
+
+# sent_id =536
+# text = religion
+
+# sent_id =537
+# text = Buddhist prayer flags Bangkok Wat Arun
+
+# sent_id =538
+# text = an are integral monks part of Buddhism in Thailand and are generally men Thai expected to spend a certain amount of time at once in their lifetime least living as a monk.
+
+# sent_id =539
+# text = are meant monks Buddhist to avoid sexual temptations do and they not touch women in particular or take things from women's hands.
+
+# sent_id =540
+# text = should make women every effort to make way for monks on the street and them give so don't have they to with you make contact room.
+
+# sent_id =541
+# text = should avoid women offering anything a to monk with their hands.
+
+# sent_id =542
+# text = should be placed objects or donations so cannot he up pick it or place it on a special cloth he carries with him in front of a monk.
+
+# sent_id =543
+# text = wo be sometimes aid Monks by a Layman who wo accept things on their behalf from women merit-makerses.
+
+# sent_id =544
+# text = are also supposed monks Buddhist Theravada to avoid material temptations and aren't as such allowed to touch money is so money offering a to monk considered a to be sign of disrespect in most Buddhist Theravada cultures.
+
+# sent_id =545
+# text = you should only therefore offer food you should wish to donate a to monk and put your monetary donation in the appropriate donation box at the temple.
+
+# sent_id =546
+# text = are always almost monks those that accept money fakes.
+
+# sent_id =547
+# text = a is Vava’u north miles 150 about of Tongatapu group of 50 thenning more islands in Tonga.
+
+# sent_id =548
+# text = they are either raised coral limestone or coral atolls.
+
+# sent_id =549
+# text = a is common the harbour beautiful known # as the Port of Refuge Harbour $opposite the main town of Neiafu destination for yachties sailing the South Pacific.
+
+# sent_id =550
+# text = are known the waters of the islands it being said that you cannot see the bottom at 40 metres for their clarity.
+
+# sent_id =551
+# text = attracts the area many humpback whales and there lots of companies organising tours to see them are between June and November.
+
+# sent_id =552
+# text = there are places numerous to stay to suit most budgets.
+
+# sent_id =553
+# text = understand
+
+# sent_id =554
+# text = suggest findings of Lapita pottery on these islands that were ago early-Polynesians 3000 close tone years.
+
+# sent_id =555
+# text = there are people 20000 around living in the Group these days.
+
+# sent_id =556
+# text = a to are Neiafu and surrounding villages about third home with the majority of the population living in small villages on the other islands of overall the Group's population of around 20000.
+
+# sent_id =557
+# text = the is official Neiafu port which attracts every sailing winter season over 500 yachts between June and October for yachts coming to Vava'u of entry.
+
+# sent_id =558
+# text = shelters a string of islands and reefs along the eastern edge of the Group the area and whales humpback come to give birth to these protected waters from strong winds and ocean swells.
+
+# sent_id =559
+# text = the is this high season * for tourism
+
+# sent_id =560
+# text = visit people few and companies many tour and restaurants down close between December and April.
+
+# sent_id =561
+# text = the is town Neiafu centre of activity.
+
+# sent_id =562
+# text = on the it is southern point and has an attractive setting on one of beautiful most the world's harbours of the main island of Utu Vava'u.
+
+# sent_id =563
+# text = Neiafu offers the usual all amenities including banks restaurants cafes and bars tour companies supermarkets schools a and hospital a market.
+
+# sent_id =564
+# text = it does n't have a beach but are easily boats to one of the nearby coral atolls with sandy superb beaches available.
+
+# sent_id =565
+# text = climate
+
+# sent_id =566
+# text = Vava'u has a tropical climate with up temperatures average and down to 24 KC in June to 29 KC in January.
+
+# sent_id =567
+# text = it is sunny throughout the year.
+
+# sent_id =568
+# text = it is humid more between November and April do and thunderstorms and cyclones occur.
+
+# sent_id =569
+# text = there are winds southeast trade but the winds are during the summer months from the northeast from May to September.
+
+# sent_id =570
+# text = Port of Refuge Harbor at Neiafu
+
+# sent_id =571
+# text = orientation
+
+# sent_id =572
+# text = are: Utu Vava'u the islands main.
+
+# sent_id =573
+# text = the is largest this island where is Neiafu found .
+
+# sent_id =574
+# text = a it is limestone island with up to 213 m in the west heights.
+
+# sent_id =575
+# text = provides the island a home and contains Talau Mount National park with some of the native limited remaining vegetation to indigenous bird eleven species.
+
+# sent_id =576
+# text = includes vegetation tropical the pandanus screw pine the and mulberry tree is the bark of which used to make tapa cloth the or casuarina.
+
+# sent_id =577
+# text = Pangaimotu.
+
+# sent_id =578
+# text = the is largest second this island in the Group.
+
+# sent_id =579
+# text = cannot it be seen across the water from Neiafu and is connected by land bridge at the southern most point of #Htu Vava’u.
+
+# sent_id =580
+# text = there are some beaches good and plenty of secluded cove beaches with snorkelling good and protected bays.
+
+# sent_id =581
+# text = a is coastal small Swamp Avai'o0vuna wetland on the island.
+
+# sent_id =582
+# text = Hunga Island.
+
+# sent_id =583
+# text = is some this 35 minutes from Neiafu Harbour and provides the main concentration of humpback whales.
+
+# sent_id =584
+# text = lies the island and has sheltered waters which provide a resting place for humpbacks with calfs and bays in deep water.
+
+# sent_id =585
+# text = How to Grow Beavertail Cactus
+
+# sent_id =586
+# text = cannot Cactus the BEAVERTAIL Opunitia basilares # $primarily found in the Mojave Desert and northwest Mexico * grow to be high inches 24 about 60 cms # $has * pads that look like beavertails and yields * red or purple flowers from spring to early summer.
+
+# sent_id =587
+# text = cannot be done growing Beavertail by scattering seeds or planting cuttings and ensuring that they have a bit of water and plenty of sun for fast results in a mix of soil and sand in a shady bed at any time of year.
+
+# sent_id =588
+# text = Read to out find how to grow Beavertail cactus the following steps.
+
+# sent_id =589
+# text = 1 method of 2 from Seeds:
+
+# sent_id =590
+# text = Purchase Beavertail cactus seeds.
+
+# sent_id =591
+# text = cannot be these bought at garden centers or online purchased.
+
+# sent_id =592
+# text = scatter the seeds.
+
+# sent_id =593
+# text = simply scatter the seeds on the soil in a shady garden bed.
+
+# sent_id =594
+# text = There is no need to cover them unless want you to use netting to off keep the birds.
+
+# sent_id =595
+# text = keep until germinate the seeds moist the soil.
+
+# sent_id =596
+# text = make sure that in the is the bed garden shade.
+
+# sent_id =597
+# text = need seeds Beavertail cactus to grow shade whereas cuttings need plenty of direct sunlight.
+
+# sent_id =598
+# text = be aware that longer much than growing one from a cutting takes growing Beavertail cactus from seeds.
+
+# sent_id =599
+# text = cannot it take before you get flowers as long as 4 to 4 years.
+
+# sent_id =600
+# text = 2 method of 2 from cuttings:
+
+# sent_id =601
+# text = obtain Beavertail cuttings.
+
+# sent_id =602
+# text = you cannot online at a or local garden center Purchase them.
+
+# sent_id =603
+# text = you cannot make if you already own a Beavertail cactus your own cuttings.
+
+# sent_id =604
+# text = choose To do this that are old months 6 or older pads the flat oval-shaped sections # that make up a cactus $and cut them at the base.
+
+# sent_id =605
+# text = cure by sitting upright the pad in a dry dark place for 10 to 14 days in order to form a callous and prevent rot the cuttings.
+
+# sent_id =606
+# text = plant the cuttings.
+
+# sent_id =607
+# text = Prepare a potting mix that is soil equal parts and rough pumice or sand and with it fill the appropriate number of pots.
+
+# sent_id =608
+# text = make there holes to allow for good drainage in the center of the base of each pot are sure.
+
+# sent_id =609
+# text = set deep an about inch 2.5 cm. # $upright the cuttings in the potting mix.
+
+# sent_id =610
+# text = might they rot if you deep too plant the cuttings.
+
+# sent_id =611
+# text = put to anchor it in place some rocks around the pad.
+
+# sent_id =612
+# text = choose a spot for your Beavertail cactus cuttings.
+
+# sent_id =613
+# text = position if you live in an area with strong summer sun that east and west so face the sides broad of the cuttings while north and south the sides slim face the cuttings.
+
+# sent_id =614
+# text = wo this prevent from burning during the hottt part of the day the cuttings.
+
+# sent_id =615
+# text = make sure is the spot sheltered from any cold winter winds.
+
+# sent_id =616
+# text = wait for a month.
+
+# sent_id =617
+# text = don't Water the cutting for the first month.
+
+# sent_id =618
+# text = wo provide the moisture in the pad enough nutrients for roots to grow.
+
+# sent_id =619
+# text = might cause water much too rot.
+
+# sent_id =620
+# text = wo have sprouted roots after 1 month you cannot and water the cutting for the first time.
+
+# sent_id =621
+# text = always let before you water the cuttings dry the soil.
+
+# sent_id =622
+# text = they are drought extremely resistant fully once rooted .
+
+# sent_id =623
+# text = fertilize the plants.
+
+# sent_id =624
+# text = grows the cactus Beavertail wo and benefit from a balanced fertilizer during the spring summer and fall.
+
+# sent_id =625
+# text = let the cuttings grow.
+
+# sent_id =626
+# text = wo more many form from the first pad.
+
+# sent_id =627
+# text = wo bear the pad second or third some flowers but wait before harvesting them you might or affect the size of future harvests.
+
+# sent_id =628
+# text = how to make vegan cupcakes
+
+# sent_id =629
+# text = methods Two:
+
+# sent_id =630
+# text = vegan basic vanilla cupcakes
+
+# sent_id =631
+# text = basic vegan chocolate cupcakes
+
+# sent_id =632
+# text = no need to up give you when toss the eggs butter and milk wicked cakes °
+
+# sent_id =633
+# text = Here is a recipe cupcake great vegan to use as a base for whatever flavored icing you want to to it add.
+
+# sent_id =634
+# text = are they guaranteed to be light and perfect for any occasion and fluffy.
+
+# sent_id =635
+# text = Ingredients
+
+# sent_id =636
+# text = 1 method: vegan basic vanilla cupcakes:
+
+# sent_id =637
+# text = servings 18 - 24: fewr if you opt for larger-sized cupcakes # $
+
+# sent_id =638
+# text = cider apple vinegar tablespoon 1 15 MLs # $
+
+# sent_id =639
+# text = plain soy milk cups 1/2 1 350 MLs # $
+
+# sent_id =640
+# text = raising self flour cups 3/4 2 345 Gs # $
+
+# sent_id =641
+# text = bake powder teaspoons 2 10 Gs # $
+
+# sent_id =642
+# text = bake soda teaspoon 1/2
+
+# sent_id =643
+# text = salt teaspoon 1/2
+
+# sent_id =644
+# text = sugar cup 1 200 Gs # $
+
+# sent_id =645
+# text = vegetable oil cup 1/2 120 ML # $
+
+# sent_id =646
+# text = vanilla extract teaspoon 1
+
+# sent_id =647
+# text = vegan icing of your choice
+
+# sent_id =648
+# text = 2 method: basic vegan chocolate cupcakes:
+
+# sent_id =649
+# text = makes: 20 approx: - 24 cupcakes
+
+# sent_id =650
+# text = plain or all-purpose flour Gs 275 2 cups # $sifted # $
+
+# sent_id =651
+# text = cocoa quality powder Gs 100 3/4 cup # $sifted # $
+
+# sent_id =652
+# text = bake soda teaspoons 2
+
+# sent_id =653
+# text = bake powder teaspoon 1
+
+# sent_id =654
+# text = Pinch of salt
+
+# sent_id =655
+# text = unsweetened soy milk ML 450 1 - 3/4 cup # $
+
+# sent_id =656
+# text = red wine teaspoons 2 or cider apple vinegar
+
+# sent_id =657
+# text = caster / superfine sugar G 320 1 - 2/3 cups # $
+
+# sent_id =658
+# text = sunflower oil ML 320 1 - 1/4 cups # $or coconut # oil $
+
+# sent_id =659
+# text = vanilla extract tablespoons 2 / essence
+
+# sent_id =660
+# text = 1 method of 2 vegan basic vanilla cupcakes:.
+
+# sent_id =661
+# text = Preheat the oven to 180 OC / 350 oF.
+
+# sent_id =662
+# text = Prepare by adding cupcake holders / cases the muffin tray.
+
+# sent_id =663
+# text = put to one side.
+
+# sent_id =664
+# text = alternatively use a bake silicone cupcake sheet with molded holes.
+
+# sent_id =665
+# text = put the cider vinegar and add the soy milk into a small bowl.
+
+# sent_id =666
+# text = stir well this and then put to one side.
+
+# sent_id =667
+# text = wo now curdle the mixture should what and is be this happening.
+
+# sent_id =668
+# text = stir together the flour bake powder and salt sugar bake soda.
+
+# sent_id =669
+# text = add if you want chocolate cupcakes cocoa 1/2 about cup # $to this stage.
+
+# sent_id =670
+# text = stir the oil and vanilla extract into the bowl containing the soy milk and vinegar.
+
+# sent_id =671
+# text = together mix.
+
+# sent_id =672
+# text = add the wet ingredients the to dry ingredients and together beat by hand # with an or electric hand-held mixer $.
+
+# sent_id =673
+# text = Fill the muffin pan.
+
+# sent_id =674
+# text = usually Fill each cupcake paper holder with 1/4 about cup of batter.
+
+# sent_id =675
+# text = then add if you prefer larger cupcakes a cup a half but sure make is the pan muffin larger and are the holders cupcake bigger.
+
+# sent_id =676
+# text = Bake for 18 - 20 minutes.
+
+# sent_id =677
+# text = check to make sure are they n't browning earlier this means they are more than ready # $if you cannot earlier smell the cupcakes.
+
+# sent_id =678
+# text = turn off earlier if you are n't certain the oven and let them sit for more a few minutes rather thenning bake them into rocks.
+
+# sent_id =679
+# text = wait for to the pan down cool.
+
+# sent_id =680
+# text = place to cool cupcakes onto a wire rack.
+
+# sent_id =681
+# text = ice the cupcakes.
+
+# sent_id =682
+# text = cannot be improved the flavor of icing or frosting by to it adding a little of your favorite juice instead of soy milk or water.
+
+# sent_id =683
+# text = finished.
+
+# sent_id =684
+# text = 2 method of 2 vegan basic chocolate cupcakes:
+
+# sent_id =685
+# text = Preheat the oven to 160 OC / 315 oF.
+
+# sent_id =686
+# text = now arrange if using cupcake cases on a Baking sheet.
+
+# sent_id =687
+# text = simply have it ready if using a silicone cupcake sheet.
+
+# sent_id =688
+# text = add the flour bake soda cocoa powder and pinch of salt the to mixing bowl.
+
+# sent_id =689
+# text = mix to combine.
+
+# sent_id =690
+# text = Pour the soy milk and vanilla oil vinegar sugar into another bowl.
+
+# sent_id =691
+# text = together Whisk well.
+
+# sent_id =692
+# text = Pour the liquid mixture into the flour mixture.
+
+# sent_id =693
+# text = stir to thoroughly combine.
+
+# sent_id =694
+# text = Pour into the cupcake cases or cupcake holes.
+
+# sent_id =695
+# text = place into the oven.
+
+# sent_id =696
+# text = Bake for 20 to 25 minutes.
+
+# sent_id =697
+# text = test if they strongly smell earlier they are ready if it returns clean after sticking into a cupcake * with a wooden skewer.
+
+# sent_id =698
+# text = remove from the oven.
+
+# sent_id =699
+# text = quickly as as possible transfer when enough cool to handle the cupcakes a to wire cooling rack.
+
+# sent_id =700
+# text = let completely cool on the rack.
+
+# sent_id =701
+# text = Frost as desired.
+
+# sent_id =702
+# text = add standard frosting or make butter vegan cream.
+
+# sent_id =703
+# text = Tips
+
+# sent_id =704
+# text = you cannot add pureed fruit for delicious flavor changes.
+
+# sent_id =705
+# text = is sufficient container small One of pureed fruit for flavoring the little containers # that children take in their lunchboxes to school $.
+
+# sent_id =706
+# text = try strawberry ETC peach banana apple apricot.
+
+# sent_id =707
+# text = wo be not however as light the cupcakes and fluffy be so prepared if you add fruit for a heavier cupcake a but is definite the content added moisture plus.
+
+# sent_id =708
+# text = you cannot replace it instead of using vegan sugar with maple sugar equal parts or rice syrup
+
+# sent_id =709
+# text = try if they are to you available substituting it for walnut or macadamia nut oils instead of using vegetable oil.
+
+# sent_id =710
+# text = also produces oil coconut good results.
+
+# sent_id =711
+# text = and fine works oil olive if it is all is that left in the pantry.
+
+# sent_id =712
+# text = you cannot replace if you want to experiment with changing the flavor of the cupcakes the plain soy milk with other flavors like chocolate or vanilla.
+
+# sent_id =713
+# text = experiment by replacing the vanilla extract with fragrant ingredients like orange neroli oil blossom orange water or coconut extract rosewater with the flavors of either recipe.
+
+# sent_id =714
+# text = How to naturally get rid of mice
+
+# sent_id =715
+# text = a is both nuisance having mice in your home a and health hazard.
+
+# sent_id =716
+# text = cannot they cause property damage and produce unpleasant smells create a mess.
+
+# sent_id =717
+# text = a cannot be hassle repeling rodents and removing from your home if you do n't know you are what doing in addition.
+
+# sent_id =718
+# text = cannot it be also dangerous if you use toxic chemicals and poisons.
+
+# sent_id =719
+# text = a it is good then thing that there some ways simple to effectively out get mice of your home without the use of toxic chemicals and poisons are .
+
+# sent_id =720
+# text = 1 method naturally discouraging mice
+
+# sent_id =721
+# text = keep clean your home.
+
+# sent_id =722
+# text = are drawn mice Many times into homes on the search for food.
+
+# sent_id =723
+# text = wo be likely mice less if there nothing to eat is to stay.
+
+# sent_id =724
+# text = keep 1 # # properly stored in airtight containers in or places that are safe from mouse attack all food.
+
+# sent_id =725
+# text = apply peppermint oil.
+
+# sent_id =726
+# text = a is natural oil peppermint Deterrent.
+
+# sent_id =727
+# text = is simply too intense the smell wo and they not try to near it go for rodents.
+
+# sent_id =728
+# text = it also helps to mask the scent of any tasty morsels have that been missed when cleaning.
+
+# sent_id =729
+# text = it also gives the house a lovely smell and is not toxic unlike synthetic many chemical treatments.
+
+# sent_id =730
+# text = you cannot get 2 # # peppermint oil in health most food stores and some major grocery even stores.
+
+# sent_id =731
+# text = place a drop or two on a cotton ball.
+
+# sent_id =732
+# text = place to deter from into it getting mice a cotton ball under or near your garbage can.
+
+# sent_id =733
+# text = place where are mice likely to enter your house the cotton balls by doorways ETC or heat vents in areas.
+
+# sent_id =734
+# text = need balls oil cotton peppermint you on it put depending upon the quantity of oil to be replaced after 5 - 7 days.
+
+# sent_id =735
+# text = try growing peppermint plants near the entryways.
+
+# sent_id =736
+# text = you cannot use the mint as ask well it serving a deterrent purpose in cooking.
+
+# sent_id =737
+# text = use dried snake feces.
+
+# sent_id =738
+# text = visit a local reptile center zoo or pet store and ask for some dried snake poo.
+
+# sent_id =739
+# text = you cannot sometimes also find someone who owns a pet snake.
+
+# sent_id =740
+# text = place where seem mice to go near entrances in and places.
+
+# sent_id =741
+# text = wo this away keep 3 # # mice.
+
+# sent_id =742
+# text = be sure to out keep the feces of the reach of children and pets.
+
+# sent_id =743
+# text = zap mice with ultrasonic sounds.
+
+# sent_id =744
+# text = There are units electronic that emit an ultrasonic beeping sound that hate rodents sold.
+
+# sent_id =745
+# text = should they be available at your local improvement home store or online.
+
+# sent_id =746
+# text = these work only so you need to know the exact path are the mice taking on a single line of sight.
+
+# sent_id =747
+# text = may only work the units 4 # # because cannot mice become used to them for a short time.
+
+# sent_id =748
+# text = use a commercial organic deterrent.
+
+# sent_id =749
+# text = make companies Many that specialize in organic garden and home products micd repellents that are better than traditional poisons for the environment.
+
+# sent_id =750
+# text = use Many of these products natural ingredients such ask peppermint that are known to be disagreeable to mice.
+
+# sent_id =751
+# text = wo they not kill mice should but they out keep them of areas where is the product applied.
+
+# sent_id =752
+# text = should be available products these at your local gardening or home improvement center.
+
+# sent_id =753
+# text = try if you want a specific product doing to see where it is locally available a online search.
+
+# sent_id =754
+# text = get a cat.
+
+# sent_id =755
+# text = cannot take a cat house care of the problem.
+
+# sent_id =756
+# text = are likely more cats that outdoors spend time to hunt to find their own food may and down track that mouse.
+
+# sent_id =757
+# text = be just aware all cats not have enough energy to hunt mice interest or training.
+
+# sent_id =758
+# text = have typically kittens to be taught to easily become a mouser by the mother.
+
+# sent_id =759
+# text = might just see kitties well-fed indoor the mouse as a toy and after it scaring witless half grow quickly of it bored.
+
+# sent_id =760
+# text = don't often know shelters and adoption agencies if a is good mouse a cat hunter do and not generally for this test.
+
+# sent_id =761
+# text = is not sometimes available this information but usually .
+
+# sent_id =762
+# text = all not are while are great as well mousers many pets .
+
+# sent_id =763
+# text = may be not socialized well cats barn "" although used to hunting mice for food with humans.
+
+# sent_id =764
+# text = you cannot use if you don't even have a cat used kitty litter to deter mice.
+
+# sent_id =765
+# text = place tubs of used kitty litter around entrances of the house.
+
+# sent_id =766
+# text = wo sniff the mice the smell of cat urine and off clear in a jiffy.
+
+# sent_id =767
+# text = may be not enough a cat if you have a large infestation to get totally of it rid.
+
+# sent_id =768
+# text = wo however probably prevent a cat 5 # # you once eliminate the infestation reinfestation.
+
+# sent_id =769
+# text = put far from your home your trash cans.
+
+# sent_id =770
+# text = smell mice garbage and get attracted your to house.
+
+# sent_id =771
+# text = they are likely less if you away from the house keep the cans to up take residence in your home.
+
+# sent_id =772
+# text = promote the nesting of birds of prey in your yard.
+
+# sent_id =773
+# text = build to some attract onto your property a shelter box in your garden.
+
+# sent_id =774
+# text = may this take 6 # # some time it but is worth if you cannot attract a wild mouse eater your to yard the effort.
+
+# sent_id =775
+# text = sure make the shelter box has no nails or safety hazards.
+
+# sent_id =776
+# text = the is best a owl barn.
+
+# sent_id =777
+# text = cannot eat a family of barn owls many mice in a night °
+
+# sent_id =778
+# text = you might however attract other types of owls of prey or birds with your nesting box.
+

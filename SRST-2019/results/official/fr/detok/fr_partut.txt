@@ -1,0 +1,330 @@
+# sent_id =1
+# text = paternité 2.0 partage des condition initiales à l'identique -.
+
+# sent_id =2
+# text = interdite est utilisation toute de l'Oeuvre autrement que explicitement autorisée selon ce contrat le ou droit applicable.
+
+# sent_id =3
+# text = est mise elle expresse soit que ou tacite à l'égard y compris de l'contenu de l'ou exactitude de l'oeuvre, l'oeuvre en l'état sans garantie de aucune sorte à disposition à l'exception des situations expressément mentionnées dans le contrat présent dans un ou accord autre écrit ou exigées par la loi applicable,,,.
+
+# sent_id =4
+# text = pas partie Creative Commons est ne et offrir ne aucune forme de garantie relative à l'oeuvre à ce contrat.
+
+# sent_id =5
+# text = je pense oui, appropriée tout à fait serait que initiative une dans le sens vous venez que de suggérer Monsieur Evans,.
+
+# sent_id =6
+# text = je demande soit que reconsidérée décision cette ce le car cas pas est ne.
+
+# sent_id =7
+# text = malheureusement a sécurité la des transports fait ces temps derniers l'actualité :
+
+# sent_id =8
+# text = primordiale naturellement est l'importance de la sécurité sur la route sur les rail, sur les ou voie navigables nous et également harmoniser devons en raison du caractère international, de ces modes de transport les formations les ainsi que notamment, exigences de l'Adr nouvel qui bientôt entrer devrait en vigueur,, des conseillers à la sécurité.
+
+# sent_id =9
+# text = en revient pas certes ne faute la je mais penser nous vite plus réagir que devons pour parvenir à une harmonisation dans ce aussi domaine à la commission seule.
+
+# sent_id =10
+# text = je me accommoder peux je mais prier la commission de suivre ce dossier avec une attention réelle de ces normes minimales.
+
+# sent_id =11
+# text = je pense toutefois nous faire ce et dans l'ensemble des pays ils des régions que soient de non ou transit,, que devrions tout pour limiter possible autant que le transport de marchandises dangereuses.
+
+# sent_id =12
+# text = je espère sera que prise ma proposition le lors de de demain vote en considération.
+
+# sent_id =13
+# text = je demander voudrais elle nous dire peut si où en sont les efforts de harmonisation déployés par ces organisations deux et a Ue l'si la possibilité de accélérer en appliquant des principes simples aussi que possibles ces efforts à la présidente vice -.
+
+# sent_id =14
+# text = je souhaite vivement Monsieur le président, remercier mme Schroedter pour le travail elle que a accompli dans ce domaine et expliquer je intervieun que au nom de ma collègue mme Flautre, qui mais a suivi qui malade est helas sociales ce sujet pour la commission de l'emploi des et affaires, aux députés.
+
+# sent_id =15
+# text = mais regrettable ici particulièrement est manque le de lignes directrices alors que sera appliquée l'idée de lier à la stratégie de l'emploi les interventions de l'fonds social la lors de période de l'programme 2000 2006 - pour la fois première,.
+
+# sent_id =16
+# text = mais est verite la nous estimons que CElA s'et reflète dans la formulation des conclusions, tenir doit que commission la compte de ce qui en ce essentiellement qui concerne en milieu de période la révision de ces orientations est approuvé au parlement,,.
+
+# sent_id =17
+# text = je tiens Monsieur le président, Monsieur le commissaire, collègues chers, à remercier mme Schroedter pour son rapport excellent ;
+
+# sent_id =18
+# text = elle s'est consacrée à fonds à sa tâche. et a tenir compte des nombreux amendements qui ont apportés été l'lors de examen en commission,,
+
+# sent_id =19
+# text = on y a intégré des questions de détail des et questions qui déjà ont abordées été dans des rapports anterieurs.
+
+# sent_id =20
+# text = c'une histoire est qui dure depuis ans cinq je député suis que au parlement. je et ai aborder cette question à maintes reprises,
+
+# sent_id =21
+# text = me il semble il anticiper doit que et établir les lignes directrices de la révision de 2003 à parcours mi - voire influencer la phase seconde de programmation qui suivra 2003, en conséquence,.
+
+# sent_id =22
+# text = impliquerait certainement mise sa en oeuvre une extension de instruments de redistribution comme les fonds structurels.
+
+# sent_id =23
+# text = je également féliciter voudrais Monsieur le président, pour son travail excellent le rapporteur.
+
+# sent_id =24
+# text = je conclus Monsieur le président, en affirmant il grave assez est que ait ne que porté commission la, que peu attention aux pactes territoriaux aux et surtout modalités de lutte contre le chômage chez les femmes les et jeunes dans sa communication,,.
+
+# sent_id =25
+# text = ANA a utilisé pour cibler les utilisateurs spécialement intéressés par le voyage la et culture japonaise une série de clés mots.
+
+# sent_id =26
+# text = vous désormais voir pouvez les mises à jour publiques des personnes qui vous intéressent sans les pour autant ajouter à votre liste de amis,.
+
+# sent_id =27
+# text = c'est vous voyez pas ne si ce bouton, vous pas abonner vous que ne pouvez.
+
+# sent_id =28
+# text = vous avez une page Facebook ?
+
+# sent_id =29
+# text = doit 14) (réduite être la consommation en mode veille ou arrêt de énergie des produits consommateurs de énergie au minimum nécessaire pour leur fonctionnement bon en règle générale,.
+
+# sent_id =30
+# text = doit programme le reconduit être pour une période nouvelle de quatre ans au moins, et doit porter sur les mesures mêmes les et destinataires mêmes ; - assortir de un budget équivalent 1 million par an) de euros (
+
+# sent_id =31
+# text = a personne toute 2. le droit de quitter tout pays le sien y compris, de et revenir dans son pays,.
+
+# sent_id =32
+# text = ont homme l'la et femme, 1. sans aucune restriction la quant à race la nationalité la ou religion,, à partir de l'âge nubile, le droit de s'marier de et fonder une famille.
+
+# sent_id =33
+# text = a personne toute 2. droit à accéder aux fonctions publiques de son pays dans des conditions de égalité,,.
+
+# sent_id =34
+# text = quiconque travaille a 3. droit à une rémunération équitable et satisfaisante lui à sa ainsi que famille assurant une existence conforme à la dignité humaine et complétée a y il si lieu par tous autres moyens de protection sociale,,.
+
+# sent_id =35
+# text = personne content est ne contente pas est ne si maman,.
+
+# sent_id =36
+# text = deviennent République la la et Roumanie de Bulgarie membres de l'Union Européenne.
+
+# sent_id =37
+# text = figurent les conditions et modalités de l'admission dans le protocole annéxé au traité présent.
+
+# sent_id =38
+# text = font les dispositions de ce protocole de l'traité présent partie intégrère.
+
+# sent_id =39
+# text = font les dispositions de ce acte de l'traité présent partie intégrante.
+
+# sent_id =40
+# text = est ratifié le traité présent par les Parties Hautes Contractantes leurs conformément à règles respectives constitutionnelles,.
+
+# sent_id =41
+# text = à tard le plus sont déposés le 31 2006 décembre les instruments de ratification auprès de l'gouvernement de la République italienne.
+
+# sent_id =42
+# text = entre traité le présent le 1 2007 er janvier en vigueur à condition que aient déposés été les tous instruments de ratification avant cette date.
+
+# sent_id =43
+# text = entre traité le présent le 1 2008 janvier en vigueur pour état ledit est si prise une décision telle à l'égard de un seul des états adhérents,.
+
+# sent_id =44
+# text = entrent ne mesures ces en vigueur sous que réserve à la et date de l'entrée en vigueur de l'traité présent.
+
+# sent_id =45
+# text = est texte le de l'traité établissant pour l'Europe une constitution bulgare et roumaine rédigé en langues,, annexé au traité présent.
+
+# sent_id =46
+# text = protocole relatif aux conditions et modalités de admission de la République de la et Roumanie de Bulgarie à l'Union Européenne.
+
+# sent_id =47
+# text = adhèrent Bulgarie la la et Roumanie aux décisions et accords adoptés par les représentants réunis au de sein le conseil des gouvernements des états membre.
+
+# sent_id =48
+# text = ceux qui sont visés à l'article IV-438 de la constitution figurent parmi les instruments particuliers mentionnés dans le article présent.
+
+# sent_id =49
+# text = soumet commission la au conseil les projets de protocoles pour que Ils soient conclus.
+
+# sent_id =50
+# text = statue conseil le à l'unanimité après consultation de l'parlement européen,.
+
+# sent_id =51
+# text = fait l'application de la constitution des et actes adoptés par les institutions l'objet à titre transitoire,, des dispositions dérogatoires prévues par le protocole présent.
+
+# sent_id =52
+# text = respectent les procédures de marchés publics engagées après l'adhésion par dérogation à ce qui précède, les dispositions pertinentes de l'union.
+
+# sent_id =53
+# text = a exercice le dernier de programmation de l'aide de préadhésion visée au paragraphe 1 lieu pendant la année dernière précédant l'adhésion.
+
+# sent_id =54
+# text = devra avoir l'adjudication pour les mesures prises dans le cadre de ces programmes lieu dans les deux années qui suivront.
+
+# sent_id =55
+# text = est ne accordée aucan prolongation de l'délai de adjudication.
+
+# sent_id =56
+# text = peut accordée être une prolongation de la durée limitée à titre exceptionnel dans des et cas dûment justifiés, pour l'exécution des contrats.
+
+# sent_id =57
+# text = pour ce qui concerne les frais de audit de et évaluation, peuvent engagés être les fonds de préadhésion prévus après l'adhésion jusque à ans cinq.
+
+# sent_id =58
+# text = s'pas cependant, appliquent ne les dispositions prévues à l'article 165 de l'règlement applicable au budget général des communautés européennes financier.
+
+# sent_id =59
+# text = peut arrêter commission la les modalités de mise en œuvre de l'assistance visée au paragraphe 2.
+
+# sent_id =60
+# text = est assistée la commission par un comité à ce effet,.
+
+# sent_id =61
+# text = son adopte comité le intérieur règlement.
+
+# sent_id =62
+# text = finance aide cette des projets de renforcement des institutions de et investissements qui accessoires sont à ceux-ci petits limités.
+
+# sent_id =63
+# text = sont autorisés les crédits par l'autorité budgétaire dans la limite des perspectives financières.
+
+# sent_id =64
+# text = est versé un douzième de chaque montant annuel à la Bulgarie à la et Roumanie le jour ouvrable premier de chaque mois de l'année correspondante.
+
+# sent_id =65
+# text = sont utilisés les paiements forfaitaires à compter de la date de l'décaissement premier dans les ans trois.
+
+# sent_id =66
+# text = est recouvrée somme toute inutilisée ou dépensées de manière injustifiable par la commission.
+
+# sent_id =67
+# text = peut adopter commission la les dispositions techniques nécessaires au fonctionnement de la facilité de trésorerie de la et facilité Schengen temporaires.
+
+# sent_id =68
+# text = applicables immédiatement sont les mesures ainsi décidées tenir compte des intérêts des toutes parties concernées, et pas entraîner ne aux frontières de contrôles.
+
+# sent_id =69
+# text = devront être choisies les mesures qui causent perturbation moins le de au fonctionnement de l'marché intérieur en priorité.
+
+# sent_id =70
+# text = pas ne peuvent mesures ces de sauvegarde être utilisées comme moyen de discrimination arbitraire de ou restriction déguisée des échanges commerciaux entre les états membre.
+
+# sent_id =71
+# text = sont maintenues les mesures pendant la durée nécessaire strictement. et sont lever en tout état de cause,, est lorsque rempli l'engagement correspondant
+
+# sent_id =72
+# text = Elles cependant peuvent être appliquées au-delà de la période visée au alinéa premier pas tant que ne ont remplis été les engagements correspondants.
+
+# sent_id =73
+# text = peut adapter commission la en fonction de la mesure remplit état le nouvel membre concerné dans laquelle ses engagements les mesures arrêtées.
+
+# sent_id =74
+# text = sont maintenues les mesures pendant la durée nécessaire strictement. et sont lever en tout, état de cause dès que est corrigé le manquement constaté,
+
+# sent_id =75
+# text = Elles cependant peuvent être appliquées persistent tant que manquements ces la au-delà de période visée au alinéa premier.
+
+# sent_id =76
+# text = peut prolonger loi une européenne de l'conseil cette période.
+
+# sent_id =77
+# text = sont adoptées ces mesures à compter de la date de adhésion et pas appliquer ne si au-delà de cette période durant une période de trois ans.
+
+# sent_id =78
+# text = apporte parlement le européen à son règlement intérieur les adaptations rendues nécessaires par l'adhésion.
+
+# sent_id =79
+# text = apporte conseil le à son règlement intérieur les adaptations rendues nécessaires par l'adhésion.
+
+# sent_id =80
+# text = est nommé un ressortissant de chaque état nouvel membre à compter de la date de adhésion à la commission.
+
+# sent_id =81
+# text = expit mandat le des membres ainsi nommé que celui des membres en qui fonction sont au moment de l'adhésion en temps même.
+
+# sent_id =82
+# text = sont nommés juges deux à la Cour de justice. et sont nommér juges deux au tribunal
+
+# sent_id =83
+# text = expire mandat le de un l'des juges de la Cour de justice nommé le conformément à paragraphe 1 le 6 2009 octobre.
+
+# sent_id =84
+# text = est désigné juge ce par le sort.
+
+# sent_id =85
+# text = expire mandat le de l'juge autre le 6 2012 octobre.
+
+# sent_id =86
+# text = expire mandat le de un l'des juges de l'tribunal nommé le conformément à paragraphe 1 le 31 2007 août.
+
+# sent_id =87
+# text = expire mandat le de l'juge autre le 31 2010 août.
+
+# sent_id =88
+# text = apporte Cour la de justice à son règlement de procédure les adaptations rendues nécessaires par l'adhésion.
+
+# sent_id =89
+# text = apporte tribunal le, en accord avec la Cour de justice, à son règlement de procédure les adaptations rendues nécessaires par l'adhésion.
+
+# sent_id =90
+# text = soumis sont les règlements de procédure ainsi adaptés à l'approbation de l'conseil.
+
+# sent_id =91
+# text = est nommé un ressortissant de chaque état nouvel membre à la Cour des comptes à compter de la date de adhésion pour un mandat de six ans.
+
+# sent_id =92
+# text = expit mandat le des membres ainsi nommés que celui des membres en qui fonction sont au moment de l'adhésion en temps même.
+
+# sent_id =93
+# text = expit mandat le des membres nouveaux nommés que celui des membres en qui fonction sont au moment de l'adhésion en temps même.
+
+# sent_id =94
+# text = ils communiquent à tard le plus à la commission à la date dans le ou délai ultérieurement, prévu dans le protocole présent, de adhésion ces mesures.
+
+# sent_id =95
+# text = sont adoptées ces mesures les conformément à règles applicables à l'adoption de l'acte est pour lequel demandée une dérogation temporaire de vote.
+
+# sent_id =96
+# text = Elles peuvent être appliquées à compter de la date de adhésion lorsque sont dérogations ces arrêtées après l'adhésion,.
+
+# sent_id =97
+# text = Elles peuvent être appliquées à compter de la date de adhésion lorsque sont adoptées ces adaptations après l'adhésion,.
+
+# sent_id =98
+# text = Ils sont publiés dans les cas où ont textes les dans les langues actuelles fait l'objet de une publication telle au journal officiel de l'Union Européenne.
+
+# sent_id =99
+# text = font les annexes première à neuvième les et appendices de l'protocole présent partie intégrante.
+
+# sent_id =100
+# text = joint est texte le de ce traité établi en langues bulgare et roumaine,, au protocole présent.
+
+# sent_id =101
+# text = font textes ces foi que les textes de l'traité visé au alinéa premier, établis dans les langues actuelles dans les conditions mêmes.
+
+# sent_id =102
+# text = dans la mesure il s'applique où provisoirement pas tant que est ne conclu accord ce,.
+
+# sent_id =103
+# text = il est institué une superficie de base nationale pour chaque état membre producteur.
+
+# sent_id =104
+# text = toutefois, sont établies superficies deux de base pour la France,.
+
+# sent_id =105
+# text = ainsi est établie une superficie maximale de hectare 829229 garantie.
+
+# sent_id =106
+# text = Elle sera ne appliquée à la que date de adhésion est si prise une décision telle avant la date de adhésion,.
+
+# sent_id =107
+# text = sont notifiées les mesures de aide à compter de la date de adhésion dans un délai de quatre mois à la commission.
+
+# sent_id =108
+# text = comporte notification cette des informations sur la base juridique de chaque mesure.
+
+# sent_id =109
+# text = est considérée aide toute jugée incompatible avec ces orientations comme une aide nouvelle une fois délai ce écoulé,.
+
+# sent_id =110
+# text = déduits sont les stocks visés au point 1 de la quantité excédant le report normal de stocks.
+

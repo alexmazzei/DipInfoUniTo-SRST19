@@ -1,0 +1,2742 @@
+# sent_id =1
+# text = will you see if you plotsi multiple charts Y a drop area for multichart fields . 
+
+# sent_id =2
+# text = is not displayed this type of drop area for single charts . 
+
+# sent_id =3
+# text = drop areas 
+
+# sent_id =4
+# text = moving fields the to category and series areas 
+
+# sent_id =5
+# text = are displayed the items unique of data the within field when you move a field Y the to series area as data series the in chart . 
+
+# sent_id =6
+# text = are represented series these and names they appear the in chart legend Y by data colored markers . 
+
+# sent_id =7
+# text = are displayed the items unique of data when you move a field Y the to category area as categories or relate groups of data Y . 
+
+# sent_id =8
+# text = consists category each of one point from each data series . 
+
+# sent_id =9
+# text = usually appear labels category although can this vary depending the on type are you using of chart Y the across x axis the of chart . 
+
+# sent_id =10
+# text = moving fields the to data area 
+
+# sent_id =11
+# text = provide fields data the values to be summarized the in chart . 
+
+# sent_id =12
+# text = are used the values the from field when you move a field Y the to data area the as data that is measured the in chart . 
+
+# sent_id =13
+# text = is a field filter similar a to page field a in Microsoft Excel PivotTable report . 
+
+# sent_id =14
+# text = can you For example Y have when you move a Product field Y the to filter area category and series display values for one product a at time the chart . 
+
+# sent_id =15
+# text = moving fields the to multichart area 
+
+# sent_id =16
+# text = is For example Y created a chart if you move the Salesperson field Y the to multichart area based on data for each salesperson in that field . 
+
+# sent_id =17
+# text = is the Salesperson field Y the in multichart area the in following example Y but is it filtered so it displays individual charts for Buchanan and Davolio . 
+
+# sent_id =18
+# text = filtered Salesperson field in multichart area 
+
+# sent_id =19
+# text = moving the category or series fields to inner or outer levels 
+
+# sent_id =20
+# text = are to referred the fields that are closest the to data when a chart contains multiple series or category fields Y as inner fields . 
+
+# sent_id =21
+# text = the is outer Year field the in following example Y the and is Salesperson inner field . 
+
+# sent_id =22
+# text = are displayed the items field inner as names 's salespeople and are the items field outer displayed as 1997 and 1998 the years Y . 
+
+# sent_id =23
+# text = multiple fields a in chart 
+
+# sent_id =24
+# text = field inner items 1 
+
+# sent_id =25
+# text = field outer items 2 
+
+# sent_id =26
+# text = can you expand to show more oren littper information a in particular field and collapse multiple fields . 
+
+# sent_id =27
+# text = can you For example Y collapse the outer field the in example year # $ so that are no longer the items field inner displayed . 
+
+# sent_id =28
+# text = chart with collapsed field 
+
+# sent_id =29
+# text = have the layout a of chart to not include does all fields that are available the from source data . 
+
+# sent_id =30
+# text = can you add if is available data more Y fields the to chart . 
+
+# sent_id =31
+# text = might you For example Y add if the chart summarizes sales revenue and also the data source includes sales quantities Y Y to summarize both revenue and quantity of products sold the Quantity field a as data field . 
+
+# sent_id =32
+# text = can you also remove fields the from chart layout you no longer want to that see . 
+
+# sent_id =33
+# text = impact of changing layout on filtering 
+
+# sent_id =34
+# text = are retained settings filter when you move or remove a field . 
+
+# sent_id =35
+# text = this means that are again hidder previously items hidden when you move a series or category field Y the to filter area and back . 
+
+# sent_id =36
+# text = are again hidden the items same if you remove a field and back late add the field the to layout Y . 
+
+# sent_id =37
+# text = restricting use a of chart 
+
+# sent_id =38
+# text = can you restrict when you design a chart Y for other users by preventing fields from being added and moved the ability to change the layout the of chart 's user . 
+
+# sent_id =39
+# text = the about data Outline 
+
+# sent_id =40
+# text = displays the outline data a tree view the of data model a of access data page . 
+
+# sent_id =41
+# text = it lists the record sources fields Y calculated and controls a of page Y . 
+
+# sent_id =42
+# text = can you use because not the list field a of page does show the specific a to page contents Y to review the structure a of page the data outline . 
+
+# sent_id =43
+# text = can you also select the objects displayed the in data outline and delete fields and record sources Y define and edit relationships between record sources Y set they properties Y . 
+
+# sent_id =44
+# text = shows the following illustration the Orders page with group two levels . 
+
+# sent_id =45
+# text = contains the level group inner fields the from OrderDetails table a calculated and control named value . 
+
+# sent_id =46
+# text = contains the section header fields the from Orders table the in group outer level Y and the section footer contains a calculated total control named OrderValue . 
+
+# sent_id =47
+# text = access data page with group two levels 
+
+# sent_id =48
+# text = shows the following illustration the data outline the for Orders page . 
+
+# sent_id =49
+# text = data Outline for Orders page 
+
+# sent_id =50
+# text = the RecordsetDef Object 1 which contains record one orer very sources Y 
+
+# sent_id =51
+# text = the underlying record sources 2 
+
+# sent_id =52
+# text = key primary fields 3 
+
+# sent_id =53
+# text = data fields 4 
+
+# sent_id =54
+# text = aggregate field 5 
+
+# sent_id =55
+# text = calculated field 6 
+
+# sent_id =56
+# text = about enabling user the administrator system sa # $ name an in Access project 
+
+# sent_id =57
+# text = note 
+
+# sent_id =58
+# text = goes the hyperlink in this topic the to Web . 
+
+# sent_id =59
+# text = can you back switch to Help at any time . 
+
+# sent_id =60
+# text = is it installed when is Microsoft NT on Windows Microsoft server SQL 2000 engine the desktop formerly called the Microsoft database engine or msde # $ installed Y computers with Windows NT authentication implemented is also feature this known # as integrated security $ . 
+
+# sent_id =61
+# text = text fields 
+
+# sent_id =62
+# text = can you group based the on first n characters the of individual items . 
+
+# sent_id =63
+# text = can you For example Y group the lastname field by first letter to create groups such as and bn so Y A Y B Y . 
+
+# sent_id =64
+# text = can you specify the start and end values the for grouping range . 
+
+# sent_id =65
+# text = will be For example Y created the following groups if you specify as 01-jul-1999 while grouping the shippeddate field in weekly intervals the start range Y : 
+
+# sent_id =66
+# text = 01-jul-1999 01-dul-1999 Y 08-jul-1999 Y Y . 
+
+# sent_id =67
+# text = are grouped dates prior to 01-jul-1999 a into single group titled 01-jul-1999 . 
+
+# sent_id =68
+# text = will be created the following groups if you also specify as 31-dec-1999 the end value Y : 
+
+# sent_id =69
+# text = 31-dec-1999 
+
+# sent_id =70
+# text = 31-dec-1999 31-dec-1999 Y 
+
+# sent_id =71
+# text = are grouped dates that fall after 31-dec-1999 a into single group titled 31-dec-1999 . 
+
+# sent_id =72
+# text = custom group in PivotTable view 
+
+# sent_id =73
+# text = can you randomly select items and group them into Higher-level groups a from row or column field . 
+
+# sent_id =74
+# text = can you For example Y select the all promotions that run a for specific period the from row promotions field and create a group . 
+
+# sent_id =75
+# text = would this add a row new field named 2 promotions with two members Group1 and Other the above row promotions field : . 
+
+# sent_id =76
+# text = can you change the caption of 1 group to Fix the in properties dialog box and 2 to category promotions . 
+
+# sent_id =77
+# text = will Other contain the group all items did you that not include the in Fixed custom group . 
+
+# sent_id =78
+# text = can you then select the all popular promotions the from Other group and create a new custom group that will be Popular captioned . 
+
+# sent_id =79
+# text = will have the field category after you do this Y three members Fixed Popular Y and Other Y : . 
+
+# sent_id =80
+# text = shows the following illustration will how the view PivotTable look after have been the captions the of group custom field and custom groups changed . 
+
+# sent_id =81
+# text = PivotTable view with custom groups 
+
+# sent_id =82
+# text = a groups custom field . 
+
+# sent_id =83
+# text = contains custom groups as its items and appears the as parent the of field you grouped whose items . 
+
+# sent_id =84
+# text = custom groups . 
+
+# sent_id =85
+# text = appear the as parents of items you explicitly selected to create the groups . 
+
+# sent_id =86
+# text = the is the Other group parent 3 the of items did you not assign to any specific custom group . 
+
+# sent_id =87
+# text = creating and deleting custom groups and group custom fields 
+
+# sent_id =88
+# text = can you group not items that belong to different fields or items that belong to Parent items a into custom group . 
+
+# sent_id =89
+# text = is automatically added a field group custom when you create the first custom group a for field Y as the field 's parent . 
+
+# sent_id =90
+# text = is automatically similarly Y deleted the field group custom when you delete the last custom group a for field Y . 
+
+# sent_id =91
+# text = automatically move the members deleted group 's when you delete a custom group that the is last custom not group the in field Y the to Other group . 
+
+# sent_id =92
+# text = not do affect the groups you create source data . 
+
+# sent_id =93
+# text = moving a field a is group custom whose parent field 
+
+# sent_id =94
+# text = the move the fields group custom that are based on field when you move a field that has custom groups between and row column areas Y the with field . 
+
+# sent_id =95
+# text = are hidden the fields group custom if you move the field Y the to filter area . 
+
+# sent_id =96
+# text = will however Y show the field bound so can you filter data by selecting custom groups or individual values Y the group custom hierarchy the in drop-down list . 
+
+# sent_id =97
+# text = will again appear the fields group custom when you back move the field Y a to row or column area . 
+
+# sent_id =98
+# text = can you not move a field with custom groups the to detail area . 
+
+# sent_id =99
+# text = Adding and removing nested custom groups 
+
+# sent_id =100
+# text = can you select to create a Higher-level group custom two or more groups . 
+
+# sent_id =101
+# text = can you For example Y group the members the of category field into two groups priority high promotions and priority low promotions : . 
+
+# sent_id =102
+# text = shows the following illustration will how the area row look with nested custom groups . 
+
+# sent_id =103
+# text = PivotTable view with nested custom groups 
+
+# sent_id =104
+# text = group a custom field 1 that appears the as parent the of group custom category field . 
+
+# sent_id =105
+# text = can you also remove a custom lower-level group . 
+
+# sent_id =106
+# text = shows the following illustration will the data like what look after has been the field category removed . 
+
+# sent_id =107
+# text = use a grid of grouped lines a as table for displaying data 
+
+# sent_id =108
+# text = create a grid of lines in design view a of form or report Y . 
+
+# sent_id =109
+# text = might For example Y look your grid like following : 
+
+# sent_id =110
+# text = a complex very grid made of seven lines 
+
+# sent_id =111
+# text = click and drag a rectangle the over grid the of outside grid of lines . 
+
+# sent_id =112
+# text = click Group the on format menu Y . 
+
+# sent_id =113
+# text = move a line a in grid of grouped lines 
+
+# sent_id =114
+# text = click the grid of grouped lines . 
+
+# sent_id =115
+# text = click while down holding the alt key Y the line you want to move . 
+
+# sent_id =116
+# text = can you drag when the pointer changing Y a to double-headed arrow the line a to new location . 
+
+# sent_id =117
+# text = Rules for moving an interior vertical line 
+
+# sent_id =118
+# text = remains the distance the between moving line the and nearest parallel line the to right if you move the line Y the to right constant Y and the line perpendicular the to left the of moving line lengthens . 
+
+# sent_id =119
+# text = remains the distance the between moving line the and nearest parallel line the to right if you move the line Y the to left constant and the line perpendicular the to left the of moving line contracts Y . 
+
+# sent_id =120
+# text = sat men old two in shabby clothes intently studying the racing forms one very fat Y Y and other the very thin the at back table . 
+
+# sent_id =121
+# text = sat cups empty coffee two the on table between them . 
+
+# sent_id =122
+# text = stood a student young facing the magazine rack Y Y staring Y a at picture a of naked woman an with open magazine in his hands the in foreground . 
+
+# sent_id =123
+# text = down sat Quinn and ordered a hamburger a and coffee the at counter . 
+
+# sent_id =124
+# text = he spoke as the counterman swung Y into action to Quinn over his shoulder . 
+
+# sent_id =125
+# text = did you see man game tonight Y # 
+
+# sent_id =126
+# text = I missed it to anything good # report . 
+
+# sent_id =127
+# text = do you what think # 
+
+# sent_id =128
+# text = having had been Quinn the same conversation for several years with this man he did not know whose name Y . 
+
+# sent_id =129
+# text = had they once talked when he had been Y Y the in luncheonette they and now Y Y continued to talk about it each time in Quinn came Y about baseball . 
+
+# sent_id =130
+# text = of the talk trades was the in Y winter memories Y predictions Y . 
+
+# sent_id =131
+# text = the was it recent much always game the during seasons Y . 
+
+# sent_id =132
+# text = they were Mets fans both had and the hopelessness of that passion created a bond between them Y . 
+
+# sent_id =133
+# text = shook the counterman his head . 
+
+# sent_id =134
+# text = first boom Kingsman hit the all way big mothers ° the to moon . boom Y he said Y solo shots up two times Y . . 
+
+# sent_id =135
+# text = is good for once Jones pitching do and not things look too bad . 
+
+# sent_id =136
+# text = it two to one is . bottom the of ninth Y 
+
+# sent_id =137
+# text = Pittsburgh gets one out Y Y so the Mets go for Allen the to bullpen men on second and third . 
+
+# sent_id =138
+# text = he walks to up load them the next guy . 
+
+# sent_id =139
+# text = in bring the Mets the corners a for force at home can they or maybe get the double play if is it hit the up middle Y . 
+
+# sent_id =140
+# text = Pena comes up and the fucker goes through Kingman 's legs and shits a little ground to first . 
+
+# sent_id =141
+# text = score men two and is that it bye-bye New York Y Y . 
+
+# sent_id =142
+# text = a is Dave Kingman turd Quinn said biting Y into his hamburger Y . 
+
+# sent_id =143
+# text = but Watch out for Foster the counterman said Y . 
+
+# sent_id =144
+# text = is Foster washed up careful Quinn chewed feeling Y for stray bits of bone with his tongue his food . a mean-faced bozo . a has-been . . 
+
+# sent_id =145
+# text = should they back ship him to Cincinatti by express mail . 
+
+# sent_id =146
+# text = yeah the counterman said Y . 
+
+# sent_id =147
+# text = will they but be tough anyway Y better than last year . . 
+
+# sent_id =148
+# text = I do not know Quinn said taking another bite Y Y . 
+
+# sent_id =149
+# text = it looks good on paper # do they but really what have Y 
+
+# sent_id =150
+# text = is always Stearns getting hurt . 
+
+# sent_id =151
+# text = they have minor leaguers at second and short can and not Brooks keep his mind Y the on game . 
+
+# sent_id =152
+# text = is Mookie good can they and even not decide to who put in right he but is raw Y Y . 
+
+# sent_id =153
+# text = still of course Y Y there Rusty is he but is too fat to anymore run . 
+
+# sent_id =154
+# text = and forget it as FOR the pitching Y . 
+
+# sent_id =155
+# text = could you and I over go to Shea tomorrow and get hired as the top two starts . 
+
+# sent_id =156
+# text = I maybe make you the counterman said Y the manager . 
+
+# sent_id =157
+# text = could you tell to where off get those fuckers . 
+
+# sent_id =158
+# text = you bet Quinn said Y your bottom dollar . 
+
+# sent_id =159
+# text = over wandered Quinn after he finished eating Y the to stationery shelves . 
+
+# sent_id =160
+# text = had in a shipment of new notebooks come and was the pile impressive Y a beautiful array of blue and yellow and green and revd Y . 
+
+# sent_id =161
+# text = he picked up one and saw that the pages had the narrow lines he preferred . 
+
+# sent_id =162
+# text = did Quinn his all writing using a typewriter Y for final only drafts a with pen the on he and always was lookout Y for good spiral notebooks . 
+
+# sent_id =163
+# text = he now that he had embarked Y the on Stillman case felt in a notebook new that was order . 
+
+# sent_id =164
+# text = would be it helpful to have a separate place to record his thoughts his observations Y and his questions Y . 
+
+# sent_id =165
+# text = might perhaps Y Y not get things of out control in that way . 
+
+# sent_id =166
+# text = he looked trying to decide to pick which one Y the through pile . 
+
+# sent_id =167
+# text = he sudden felt an irresistible urge a for red particular notebook the at bottom for reasons that were never made to him Y clear . 
+
+# sent_id =168
+# text = he out pulled it and it examined gingerly fanning the pages Y with his thumb . 
+
+# sent_id =169
+# text = a he at loss was to explain he why found it so appealing to himself . 
+
+# sent_id =170
+# text = a was it standard eight-and-a-half-by-eleven notebook with hundred one pages . 
+
+# sent_id =171
+# text = but something about it seemed as IFS was its destiny unique the in world to hold the words that came from his pen ° to out call to him . 
+
+# sent_id =172
+# text = tucked Quinn the red notebook almost embarrassed Y the by intensity of his feelings over walked the to cash register Y and it bought Y under his arm . 
+
+# sent_id =173
+# text = he made it grand to central in well advance . 
+
+# sent_id =174
+# text = was not train Stillman 's due to arrive until six-forty-one but Quinn wanted time to study to make sure that would be not Stillman able to away slip from him Y the geography the of place Y . 
+
+# sent_id =175
+# text = he saw past just four that it was as he emerged Y the from subway and entered the great hall the by clock . 
+
+# sent_id =176
+# text = had already the station begun to fill the with rush-hour crowd . 
+
+# sent_id =177
+# text = made Quinn looking Y for hidder staircases dark alcoves Y marked exits Y making his way Y the through press of coming bodies a tour the of numbered gates . 
+
+# sent_id =178
+# text = he concluded that could so a man determined to disappear do without much trouble . 
+
+# sent_id =179
+# text = he have would to hope that had been not Stillman that he would there be warned . 
+
+# sent_id =180
+# text = would it mean if the were that case and Stillman managed to elude him Y Y that was Virginia Stillman responsible . 
+
+# sent_id =181
+# text = No else one there was . 
+
+# sent_id =182
+# text = solaced it to know that he had if things went awry an alternate plan him . 
+
+# sent_id =183
+# text = would straight Quinn go if did not Stillman up show Y to 69th street and confront with he what knew Virginia Stillman . 
+
+# sent_id =184
+# text = he reminded of who he was supposed to be himself as he wandered Y the through station . 
+
+# sent_id =185
+# text = was altogether not the effect of being Paul Auster unpleasant he had begun to learn Y Y . 
+
+# sent_id =186
+# text = he felt although he still had the same body the same thoughts Y the same mind Y Y as though had he been somehow out taken as IFS he had to around walk longer no Y the with burden of his own consciousness of himself . 
+
+# sent_id =187
+# text = he felt incomparable lighter and freer a by simple trick the of intelligence a deft little twist of naming Y Y . 
+
+# sent_id =188
+# text = he knew an was it all illusion the at Y same time . 
+
+# sent_id =189
+# text = but there was a comfort certain in that . 
+
+# sent_id =190
+# text = he had really lost not himself he was mere pretending Y he could and to being Quinn return whenever he wished * . 
+
+# sent_id =191
+# text = served the fact a now to being his Paul Auster that was there purpose a purpose that was becoming very and very important to him ° ° a of as kind moral justification the for charade and absolved him of having to defend his lie . 
+
+# sent_id =192
+# text = had become for imagining himself as Auster synonymous with doing good the in world in his mind . 
+
+# sent_id =193
+# text = he wandered Y the through station then Y Y waiting for to appear as IFS the inside body Paul of Auster Stillman . 
+
+# sent_id =194
+# text = he looked up and studied the fresco of constellations the at vaulted ceiling the of great hall . 
+
+# sent_id =195
+# text = there were bulbs light representing stars the and line drawings the of celestial figures . 
+
+# sent_id =196
+# text = had been Quinn never able to grasp the connection the between constellations and they names . 
+
+# sent_id =197
+# text = he had spent trying to tally the clusters of pinprick lights the with shapes of bears archers Y and water carriers Y bulls Y many hours a as boy the under night sky . 
+
+# sent_id =198
+# text = had but nothing ever come of it he had and felt as though there a spot blind were Y the in center of his brain stupid Y . 
+
+# sent_id =199
+# text = was it impossible for to feel not Quinn glad of this in of spite everything Y . 
+
+# sent_id =200
+# text = they there sat without saying anything a for short time . 
+
+# sent_id =201
+# text = at last Y gave Auster a little shrug which seemed to acknowledge that had they come an to impasse Y . 
+
+# sent_id =202
+# text = he stood up and said I to was about make for myself some lunch Y . 
+
+# sent_id =203
+# text = is no it trouble making it for two . 
+
+# sent_id =204
+# text = hesitated Quinn . 
+
+# sent_id =205
+# text = was as though had it Auster read divining the thing he much wanted to eat ° to have an excuse to stay a while Y Y his thoughts . 
+
+# sent_id =206
+# text = I should be really going he said Y . 
+
+# sent_id =207
+# text = can not do food a little Thank but yes you Y . any harm . 
+
+# sent_id =208
+# text = does how sound a omelette ham # 
+
+# sent_id =209
+# text = good sounds . 
+
+# sent_id =210
+# text = retreated Auster to prepare the food the to kitchen . 
+
+# sent_id =211
+# text = have would liked Quinn to offer to help he could but not budge Y . 
+
+# sent_id =212
+# text = felt his body a like stone . 
+
+# sent_id =213
+# text = he closed for want of any other idea Y his eyes . 
+
+# sent_id =214
+# text = had sometimes it comforted to make disappear the world him the in past Y . 
+
+# sent_id =215
+# text = however Y Y found Quinn interesting nothing inside his head this time . 
+
+# sent_id =216
+# text = it seemed as though had there in things ground a to halt . 
+
+# sent_id =217
+# text = he then began to hear a voice a chanting idiotic Y voice that over and again over sang the same sentence can you not make without breaking eggs an omelette : Y the from darkness Y Y . 
+
+# sent_id =218
+# text = he opened to make stop the words his eyes . 
+
+# sent_id =219
+# text = there was bread salt Y and pepper napkins Y more beer Y knives Y and forks and butter and two of them Y omelettes oozing Y on white plates Y . 
+
+# sent_id =220
+# text = ate Quinn off polishing in what seemed a matter of seconds the meal Y with crude intensity . 
+
+# sent_id =221
+# text = he after made that Y a great effort to be calm . 
+
+# sent_id =222
+# text = mysterious lurked tears he but somehow managed to hold his own Y and his voice seemed as he spoke to tremble Y behind his eyes . 
+
+# sent_id =223
+# text = he began to question Auster about his writing to prove that a he was obsessed not ingrate Y . 
+
+# sent_id =224
+# text = was somewhat Auster reticent about it he but at last conceded that he was working a on book of essays the piece current was Don about Quixote . Y . 
+
+# sent_id =225
+# text = one Quinn said Y of my favourite books . 
+
+# sent_id =226
+# text = I too yes Y . 
+
+# sent_id =227
+# text = nothing like it there is . 
+
+# sent_id =228
+# text = asked Quinn him the about essay . 
+
+# sent_id =229
+# text = I suppose can you call it since I really not 're out to prove anything Y speculative . 
+
+# sent_id =230
+# text = all is in Y fact it tounge-in-cheek done . 
+
+# sent_id =231
+# text = I guess an imaginative reading Y could you say . 
+
+# sent_id =232
+# text = the What is gist # 
+
+# sent_id =233
+# text = it mostly has to do the with who wrote it Y . authorship the of book and was how it written . 
+
+# sent_id =234
+# text = there is question any # 
+
+# sent_id =235
+# text = not of course I but mean the book the inside book the one he imagined he was writing Y Cervantes wrote . . 
+
+# sent_id =236
+# text = ah . 
+
+# sent_id =237
+# text = is it quite simple . 
+
+# sent_id =238
+# text = Cervantes Y goes if you remember Y to convince the reader that the he is not author to great lengths . 
+
+# sent_id =239
+# text = was wrotten the book in Arabic he says Y Y Cid Hamete by Benengali . 
+
+# sent_id =240
+# text = Cervantes describes he how discovered the manuscript the in market at Toledo by chance one day . 
+
+# sent_id =241
+# text = he hires someone to translate it for him into spanish Y 
+
+# sent_id =242
+# text = he and thereafter presents himself the as than very no editor the of translate . 
+
+# sent_id =243
+# text = he can even not vouch the for accuracy the of translate itself in fact Y . 
+
+# sent_id =244
+# text = he and yet goes bn to say Quinn added Y Y . that the is true only Cid 's Benengali Hamete version of Don 's Quixote story 
+
+# sent_id =245
+# text = are the all versions other frauds written Y by impostors . 
+
+# sent_id =246
+# text = he makes a great point of insisting that everything the in book really happened the in world . 
+
+# sent_id =247
+# text = exactly . 
+
+# sent_id =248
+# text = because an is after all the book attack the on dangers the of make-believe . 
+
+# sent_id =249
+# text = he could not he could Y offer well very to do that a work the of imagination # 
+
+# sent_id =250
+# text = he had to claim that was it real . 
+
+# sent_id =251
+# text = I have still Y always suspected that Cervantes devoured those old romances . 
+
+# sent_id =252
+# text = can you violent so not hate something unless also a part of you loves it . 
+
+# sent_id =253
+# text = a was just Don Quixote stand-nn for himself in some sense Y . 
+
+# sent_id =254
+# text = I agree with you . 
+
+# sent_id =255
+# text = what better portrait than to show a man who has been bewitched by books a of writer # 
+
+# sent_id =256
+# text = precisely . 
+
+# sent_id =257
+# text = it follows has that to be wrotten the story an by eyewitness the to events that take in it place since is the book supposed to be real Y Y in any case . 
+
+# sent_id =258
+# text = but Cid Hamete Y Y the acknowledged author makes never an appearance . 
+
+# sent_id =259
+# text = he does once not claim to be present at what happens . 
+
+# sent_id =260
+# text = is this so Y my question is who Cid Hamete Benengali : # 
+
+# sent_id =261
+# text = I see yes Y are you what at getting . 
+
+# sent_id =262
+# text = is the theory I present the in essay that a he actual is combination of different four people . 
+
+# sent_id =263
+# text = the is of course Sancho Panza witness . 
+
+# sent_id =264
+# text = is there no candidate other since the he is one only who accompanies Don Quixote on his all adventures ° . 
+
+# sent_id =265
+# text = can but neither Sancho read nor write . 
+
+# sent_id =266
+# text = the he can be therefore Y not author . 
+
+# sent_id =267
+# text = we know that Sancho has a great gift for language the on other hand Y . 
+
+# sent_id =268
+# text = he can talk circles around else everyone the in book in of spite his inane malapropisms Y . 
+
+# sent_id =269
+# text = it seems that he dictated to else someone the to namely Y ° barber the and priest good Don 's Quixote friends Y the story to me perfect possible . 
+
+# sent_id =270
+# text = they put the story and then over turned the manuscript Samson to Carrasco who proceeded to translate it into Arabic the bachelor from Salamanca Y Y into proper literary form in Spanish ° ° . 
+
+# sent_id =271
+# text = found Cervantes the translate it had back rendered into spanish Y and then published the the book adventures Don of Quixote Y . 
+
+# sent_id =272
+# text = would but why Sancho the and others go to all that trouble # 
+
+# sent_id =273
+# text = to cure Don Quixote of his madness . 
+
+# sent_id =274
+# text = they want to save they friend . 
+
+# sent_id =275
+# text = remember they burn his books of chivalry the at beginning but that has no effect Y Y . 
+
+# sent_id =276
+# text = does not give the knight the of sad countenance up his obsessions . 
+
+# sent_id =277
+# text = they then all out go looking for him in various disguises a as woman in distress Y ° the as knight the of white moon Y ° the as knight the of mirrors in order to home back lure Don Quixote at one or another time Y Y . 
+
+# sent_id =278
+# text = you do know is What a physicist # 
+
+# sent_id =279
+# text = you do recognize the name of Einstein " # 
+
+# sent_id =280
+# text = never " . 
+
+# sent_id =281
+# text = he Who is # " 
+
+# sent_id =282
+# text = is this too much for me . 
+
+# sent_id =283
+# text = I silent Y give his case some thought . 
+
+# sent_id =284
+# text = have heard people busy-minded with they head-culture that touches all surfaces Y Y of Einstein . 
+
+# sent_id =285
+# text = they but do know have they what heard # 
+
+# sent_id =286
+# text = do not a majority . 
+
+# sent_id =287
+# text = choose Hasidim these to not know . 
+
+# sent_id =288
+# text = I by and by open a paperback and try to lose myself in mere politics . 
+
+# sent_id =289
+# text = down stare Hasidim a dozen the in lavatory queue at us . 
+
+# sent_id =290
+# text = we lands and go our separate ways and out spill . 
+
+# sent_id =291
+# text = I again see my youthful hasid we and take a final look at each other the at baggage carousel . 
+
+# sent_id =292
+# text = he sees in me can the age modern produce what deformities the in seed of Abraham . 
+
+# sent_id =293
+# text = I see in him a piece of history an antiquity Y . 
+
+# sent_id =294
+# text = rather it is as IFS to were be puritans in seventeenth-century dress and observing seventeenth-century customs found still living in Boston or Plymouth . 
+
+# sent_id =295
+# text = is accustomed Israel which impartially receives us Y Y to strange arrivals . 
+
+# sent_id =296
+# text = but is else then something again Israel . 
+
+# sent_id =297
+# text = are we staying in Jerusalem as guests the of Mishkenot Sha'ananim the dwellings of serenity Y . 
+
+# sent_id =298
+# text = Teddy mayor Kollek irrepressible organizer of wonderful events some of them too rich for my blood # Y $ Y takes us with one the of Armenian archbishops to dinner the in old city . 
+
+# sent_id =299
+# text = are tubs of fragrant flowers the on rooftop patio the of opulent apartment . 
+
+# sent_id =300
+# text = is nearly the moon full . 
+
+# sent_id =301
+# text = below the church back portions of which go Y the to fourth century is . 
+
+# sent_id =302
+# text = a is portly the archbishop man to use an old word Y Y . 
+
+# sent_id =303
+# text = swells his cassock red dark Y Y the with body . 
+
+# sent_id =304
+# text = are clipped pens ball-point two on his breast the between buttons . 
+
+# sent_id =305
+# text = he has a full clever youthful face a black small and tidy beard Y * . 
+
+# sent_id =306
+# text = are the eyes green . 
+
+# sent_id =307
+# text = are Isaac Stern Israeli two couple I can whom not identify * Alexander Schneider the Budapest of string formerly quartet * Y the and foreign-news of le Monde editor Michel Tatu Y * Kollek 's son Amos Y * present . 
+
+# sent_id =308
+# text = the in drawing icons golden arshbishop 's room are . 
+
+# sent_id =309
+# text = in are illuminated objects ancient Cases . 
+
+# sent_id =310
+# text = I can seldom get up much interest in such cases and objects . 
+
+# sent_id =311
+# text = serve Armenians middle-aged drinks and wait on us . 
+
+# sent_id =312
+# text = they wear loud extremely blue-green Y Y shirts spritged with red berries they but strike me as good fellows and nimble the about table are and neat . 
+
+# sent_id =313
+# text = is the conversation quick and superknowledgeable . 
+
+# sent_id =314
+# text = in French in English Y in hebrew in and occasionally Russian Y Y . 
+
+# sent_id =315
+# text = Tatu who live in Moscow Y Y for years chats in russian with Stern and Schneider # $ . 
+
+# sent_id =316
+# text = tells the archbishop who has cooked himself the eggplant the and leg of lamb Y Y the company his recipes . 
+
+# sent_id =317
+# text = he and Kollek discuss seasonings . 
+
+# sent_id =318
+# text = Schneider recalls a great Armenian musician editor of Bach 's suites for unaccompanieding cello Y the and intolerant much perfectionist and teacher his own teacher named Dirian Arexanian # $ 
+
+# sent_id =319
+# text = as just particular as about are other people seasonings about music &quoté . 
+
+# sent_id =320
+# text = said Alexanian you made bad three mistakes Y Pablo to Casals a after of some the of suites performance . 
+
+# sent_id =321
+# text = terrible . 
+
+# sent_id =322
+# text = did not Casals answer . 
+
+# sent_id =323
+# text = he knew was Alexanian right &quoté . 
+
+# sent_id =324
+# text = is one Tatu pale Y of those short men have who learned to hold against big ones they ground with Y black hair in abundance . 
+
+# sent_id =325
+# text = he sits the with ease that disguises this sort of tension . 
+
+# sent_id =326
+# text = is not his paper friendly to Israel . 
+
+# sent_id =327
+# text = I consider whether to mention to him a letter I le Monde sent the during 1973 war the about position being taken by France two or three times . 
+
+# sent_id =328
+# text = I want to ask him was why it not printed . 
+
+# sent_id =329
+# text = I but succeed in suppressing this a triumph over myself . 
+
+# sent_id =330
+# text = besides Y not Tatu have does the look a of man is whose life easy I and not do see I should why spoil for him his Jerusalem dinner would be it probably entered in his diary an as enchanted evening in le Proche Orient an with Armenian archbishop &quoté &quoté . 
+
+# sent_id =331
+# text = I decide to let him enjoy his dinner . 
+
+# sent_id =332
+# text = he tells her seeking common ground Y with my wife a laudable desire # $ that he too is rumanian by origin . 
+
+# sent_id =333
+# text = he can safely say this for his family came to France Y the in seventeenth century . 
+
+# sent_id =334
+# text = is What is important all be to french have or to been French a for long good time Y . 
+
+# sent_id =335
+# text = he and is French definitely . 
+
+# sent_id =336
+# text = I can but see that the archbishop gives him for lighting up the after main course bad marks . 
+
+# sent_id =337
+# text = not do smoke people of real culture at dinner tables . 
+
+# sent_id =338
+# text = you know never have you whom asked to your palace . 
+
+# sent_id =339
+# text = thought Dostoevski mean no Judge of such matters Y Y to was be there much said the for murderer 's point of view . 
+
+# sent_id =340
+# text = Navrozov extends the position . 
+
+# sent_id =341
+# text = is as democracy liberal brief a as bubble . 
+
+# sent_id =342
+# text = now-and-then treates history us we and make much of it an to interval of freedom and civilization . 
+
+# sent_id =343
+# text = we forget he seems to think Y Y that we are generally close the to state of nature &quoté &quoté a pitiless Y nasty brutish Y as described Thomas Hobbes it Y condition are too men in which fearful to give much thought to freedom of death a as species . 
+
+# sent_id =344
+# text = Let us think the of social views of Jimmy Hoffa if an is nifty too Hobbes authority Y . 
+
+# sent_id =345
+# text = the of or godfather . 
+
+# sent_id =346
+# text = of or Lenin as accurate Navrozov characterizes him Y . 
+
+# sent_id =347
+# text = is and this up what against America bubbling Y Y with political illusions is . 
+
+# sent_id =348
+# text = at little Y Y so Navrozov thinks . 
+
+# sent_id =349
+# text = perhaps Alexander Solzhenitsyn agrees with him in part . 
+
+# sent_id =350
+# text = are Russians apparently inclined all to see us in this way . 
+
+# sent_id =351
+# text = says my cousin own Nota Gordon Y Y two years the out of Soviet Union Y to me are no you match for them Y &quoté . 
+
+# sent_id =352
+# text = you not do understand are you with whom dealing &quoté . 
+
+# sent_id =353
+# text = held Nota the rank of captain the in Russian army and fought until 1945 the germans . 
+
+# sent_id =354
+# text = he was serious wounded three times . 
+
+# sent_id =355
+# text = he has the family look the brown eyes arched brows Y dark coloring Y and white hair Y . 
+
+# sent_id =356
+# text = he besides Y Y has the gold crowns of dental Russian art . 
+
+# sent_id =357
+# text = served criminals released from prison the during war in his company . 
+
+# sent_id =358
+# text = Nota has no swagger he but is war-hardened . 
+
+# sent_id =359
+# text = was there sent no food the to front lines . 
+
+# sent_id =360
+# text = you ate frozen potatoes and you stolen Y you foraged Y . 
+
+# sent_id =361
+# text = could you depend to in bring provisions on your criminal soldiers . 
+
+# sent_id =362
+# text = I myself had absolute authority to kill anyone in my command &quoté . 
+
+# sent_id =363
+# text = at my discretion . 
+
+# sent_id =364
+# text = explanations no necessary Nota says Y &quoté . 
+
+# sent_id =365
+# text = we are first cousins an I am American Y and is an American all Dostoevski that was to his fellow convict the murderer : amiable Y in his Russian eyes perhaps attractive Y good-natured Y helpless Y but undeveloped Y he but is Russian . 
+
+# sent_id =366
+# text = I nevertheless Y see that are American two who think anything but undeveloped and helpless themselves Herman Kahn B and Bruce-Briggs Y Y not impressed by Russian achievements a in book called things to come . 
+
+# sent_id =367
+# text = is striking much the performance disappointing of foreign and domestic policy the since late 1950 Soviet they wrote in 1972 . Y &quoté &quoté 
+
+# sent_id =368
+# text = had have the soviets an uninterrupted almost series of defeats and disappointments the in policy foreign field &quoté . 
+
+# sent_id =369
+# text = have they failed to extend they influence in Europe . 
+
+# sent_id =370
+# text = have attempts they to ingratiate themselves with India and other neutralist nations gained them little . 
+
+# sent_id =371
+# text = has been Soviet the Union supporting the Arabs against Israel the in Middle East for fifteen years the and all they have to show for it is humiliation of they proteges the and capture and destruction by Israel of they equipment . 
+
+# sent_id =372
+# text = have Arabs the shown no inclination toward communist ideology and oil they continues to flow the to West . 
+
+# sent_id =373
+# text = is choice the only other the for Arabs to leave they oil the in ground # $ &quoté . 
+
+# sent_id =374
+# text = I out copy this a specimen of illusionless political American analysis for my own entertainment . 
+
+# sent_id =375
+# text = are based these views no substitute for common sense Y Y upon careful staff work the at Hudson Institute . 
+
+# sent_id =376
+# text = say Kahn the messrs. Bruce and Briggs that an is organizational basically book they product &quoté a in prefatory note . 
+
+# sent_id =377
+# text = have all the of staff at Hudson contributed as the thousands of people whom with have we discussed these issues at meetings and briefings the at Institute and other locations the around world Y seminars Y have Y in some way to this work &quoté . 
+
+# sent_id =378
+# text = what faces the imagination literary in these political times . 
+
+# sent_id =379
+# text = one the of Finest Israeli writers A B Yehoshua Y Y speaks about this an in excellent book of interviews edited Ehud by Ezer Ben Unease in Zion Y Y . 
+
+# sent_id =380
+# text = is it true that can you spiritually Y Y not spare when you engage in them without end yourself can not our life spiritual today revolve around anything but these questions political questions # # Y for other things &quoté Yehoshua writes Y Y because &quoté &quoté . 
+
+# sent_id =381
+# text = can nor you attain the true solitude a that is condition source Y and prerequisite of creation the and its strength . 
+
+# sent_id =382
+# text = are you continuously rather Y summoned to solidarity and it becomes a solidarity that is technical because are you completely by now built to react that way and to live in tension Y the from standpoint of its emotional reaction automatic Y Y summoned because you live the to next Y from one newscast from within yourself rather than by any external compulsion Y . 
+
+# sent_id =383
+# text = are pre-determined your reactions emotional to any piece of News an about Israeli casualty a plane down shooten Y Y . 
+
+# sent_id =384
+# text = the hence lack of solitude &quoté the inability to be alone and to arrive Y a at life of intellectual creativity the in spiritual sense Y . 
+
+# sent_id =385
+# text = Yehoshua says the during day six war Y that he felt himself at one linked a to great event that a he within historic was wave Y with and its flow . 
+
+# sent_id =386
+# text = a was this pleasant and elevating feeling . 
+
+# sent_id =387
+# text = he has but lost unable to see the end of war Y Y the sensation of being borne upon such any wave today . 
+
+# sent_id =388
+# text = you not do achieve peace he says Y from history " " . 
+
+# sent_id =389
+# text = prevents the feeling of being and along swept of uncertainty as regards the future you from seeing things in any whatsoever perspective . 
+
+# sent_id =390
+# text = you live the moment without any perspective Y can but you not break free Y the of moment forget the moment Y . 
+
+# sent_id =391
+# text = can you not cut off yourself &quoté and not read newspapers or as could you Y ago six or seven years stop hearing the news for weeks on end the over radio . 
+
+# sent_id =392
+# text = is it slight different with us . 
+
+# sent_id =393
+# text = make our media crisis chatter and fill our minds with anxious phantoms a summit in Helsinki a treaty in Egypt Y a constitutional crisis in India Y the financial collapse of New York Y a vote the in UN Y the of real thing out of news . 
+
+# sent_id =394
+# text = we can not avoid because is after all necessary it to know What is bn going being politicized to use a murky as the as condition it describes word # $ . 
+
+# sent_id =395
+# text = will not let worse yet Y What is going bn us alone . 
+
+# sent_id =396
+# text = can be screened out the neither facts the nor deformations the insidious platitudes tormenting because are so huge the realities underlying and so terrible # $ the of media Y Y . 
+
+# sent_id =397
+# text = is heavily politicized the study of literature itself &quoté &quoté . 
+
+# sent_id =398
+# text = there is a woman young persistent Y clever who often writes to me from Italy who insists upon giving the ordinary much occurrences in my novels a political interpretation Y . 
+
+# sent_id =399
+# text = actual refers a lunch cafeteria in New York a to meeting in Canada between Churchill and Roosevelt and a tussle a with drunk the in hallway a of rooming house corresponds to D-Day Y . 
+
+# sent_id =400
+# text = I am sorry to own I began to worrye them . 
+
+# sent_id =401
+# text = a was this fresh already Departure for me . 
+
+# sent_id =402
+# text = I was not used you know Y to get things that way . 
+
+# sent_id =403
+# text = I always went I where had a mind to go my own road on and my own legs . 
+
+# sent_id =404
+# text = I have would n't believed it of myself I but then Y ° somehow felt you see ° I must there get by hook by or crook * . 
+
+# sent_id =405
+# text = so I worried them . 
+
+# sent_id =406
+# text = said the men my dear fellow ' ' and did nothing . 
+
+# sent_id =407
+# text = I then tried the women would you it believe ° ° # . 
+
+# sent_id =408
+# text = I Charlie Marlow Y Y set heavens to work to get ° a job the women ° . 
+
+# sent_id =409
+# text = well drove the notion you see Y Y me . 
+
+# sent_id =410
+# text = I had she wrote 4 will be it delightful I am ready to do for you anything anything Y . ' . an aunt a dear enthusiastic soul Y . 
+
+# sent_id =411
+# text = a is it glorious idea I know the wife a of high very personage the in Administration a and also man Y who has etcc Y etcc Y lots of with influence . . 
+
+# sent_id =412
+# text = she was determined to make to get me if was such fancy my appointed skipper a of river steamboat no end of fuss Y . 
+
+# sent_id =413
+# text = I of course ° got my appointment I and it very quick got * . 
+
+# sent_id =414
+# text = it appears had the company received news that had been one of they captains killed a in scuffle the with natives . 
+
+# sent_id =415
+# text = my was this chance and it made me Y the very anxious to go . 
+
+# sent_id =416
+# text = afterwards only it was . that I heard the quarrel original arose a from misunderstanding about some hens when I made Y Y the attempt to recover What was left the of body months and months 
+
+# sent_id =417
+# text = black yes Y hens two . 
+
+# sent_id =418
+# text = thought Fresleven a Dane Y the was that 's fellow name ° ° himself somehow wrong the in bargain and started to hammer a with stick the chief the of village so he ashore went Y . 
+
+# sent_id =419
+# text = did n't surprise oh Y it to hear this me the in least and to be told Y that the was gentlest quiet Y Fresleven creature that ever walked on two legs the at same time . 
+
+# sent_id =420
+# text = he was he had but been already out there engaged you know Y the in noble cause * a couple of years he and at last probably felt of asserting his self-respect in some way Y the need no doubt . 
+
+# sent_id =421
+# text = he mercilessly therefore whacked while a crowd big of his people watched thunderstruck Y him till man some I was told Y Y the son 's chief ° made ° ° Y a tentative jab the at white man a with spear and it of course quite easy went the between shoulder-blades in desperation at hearing yell the old chap Y Y the old nigger . 
+
+# sent_id =422
+# text = then cleared the population whole the into forest while also steamer the Fresleven commanded left I believe Y Y in charge Y the of engineer the on other hand Y Y a in bad panic expecting to happen all kinds of calamities Y . 
+
+# sent_id =423
+# text = nobody afterwards seemed to trouble much about Fresleven 's remains till I got out Y and stepped into his shoes . 
+
+# sent_id =424
+# text = I could n't though Y let it rest but was enough to hide his bones the grass growing through his ribs tall when at last an opportunity offered to meet my predecessor Y * . 
+
+# sent_id =425
+# text = they there were all . 
+
+# sent_id =426
+# text = had been not touched the being supernatural after he fell . 
+
+# sent_id =427
+# text = and was the village deserted the huts gaped rotting all askew Y the within fallen enclosures Y Y black . 
+
+# sent_id =428
+# text = had a calamity come enough sure Y to it had the people vanished . . 
+
+# sent_id =429
+# text = had terror mad scattered them men Y women Y and children Y the through bush Y had they and never returned Y . 
+
+# sent_id =430
+# text = I n't either do know what became the of hens . 
+
+# sent_id =431
+# text = I should think anyhow Y the cause of progress got them . 
+
+# sent_id =432
+# text = I however Y got my appointment before I had fairly begun to hope for it Y through this glorious affair . 
+
+# sent_id =433
+# text = I around flew like mad to get ready I was and crossing to show myself to my employers Y the channel before forty-eight hours and sign Y the contract . 
+
+# sent_id =434
+# text = I arrived in a few very hours a in city that always makes me think a of whiten sepulcher . 
+
+# sent_id =435
+# text = prejudice no doubt . 
+
+# sent_id =436
+# text = I had no difficulty in finding the company 's offices . 
+
+# sent_id =437
+# text = the was it biggest thing the in town and was Everybody I met of it full Y . 
+
+# sent_id =438
+# text = were they to run going an oversea empire and make Y no end of coin by trade . 
+
+# sent_id =439
+# text = a narrow and deserted street in deep shadow high houses Y grass sprouting the between stones Y imposing right and left carriage archways Y innumerable windows Y with Venetian blinds double immense doors ponderously ajar standing Y a dead silence Y . 
+
+# sent_id =440
+# text = I slipped through one of these cracks went Y a up swept and garnished arid as Y a as desert staircase and opened Y the to first door I came . 
+
+# sent_id =441
+# text = sat women two one fat Y Y and the other slim knitting Y black wool on straw-bottomed chairs . 
+
+# sent_id =442
+# text = one the slim got up and up looked Y and straight walked at me still knitting ° ° with downcast eyes and still stood as I just only began to think of as would you Y Y a for somnambulist out getting of her way was as dress her plain and preceded me a into waiting-room she and round turned Y a without word an as umbrella-cover . . 
+
+# sent_id =443
+# text = I gave my name and about looked Y . 
+
+# sent_id =444
+# text = deal table plain chair Y the round all walls the in middle a shining large map Y marked Y the with all colors a of rainbow on one end . 
+
+# sent_id =445
+# text = there was a amount of red vast Y good to see because one knows Y that is there in some work real done at any time ° a and Y purple patch to show where the Pioneers jolly of progress drink the jolly lager-beer Y Y the on east coast Y a deuce Y a of of blue lot smears of orange Y a little green . 
+
+# sent_id =446
+# text = I was n't however Y going into any of these . 
+
+# sent_id =447
+# text = I was going the into yellow the in dead center . . 
+
+# sent_id =448
+# text = and there was ough ° the river fascinating ° deadly ° a like snake ° . 
+
+# sent_id =449
+# text = opened a door and a forefinger skinny beckoned me Y the into sanctuary a head white-haired secretarial but wearing Y a compassionate expression Y Y appeared . 
+
+# sent_id =450
+# text = was its light dim and a writing-desk heavy squated Y the in middle . 
+
+# sent_id =451
+# text = came an impression a in frock-coat of pale plumpness the great man himself . out behind from that structure . 
+
+# sent_id =452
+# text = five six feet he was I should judge Y Y and had his grip the on handle-end of many so ever millions . 
+
+# sent_id =453
+# text = he shook I fancies Y Y hands was satisfied with my French Y vague murmured . 
+
+# sent_id =454
+# text = Bon voyage . 
+
+# sent_id =455
+# text = I again found myself the with compassionate secretary who made full Y Y of desolation and sympathy me sign some document Y the in waiting-room in forty-five about seconds . 
+
+# sent_id =456
+# text = I believe I undertook to not disclose any trade secrets amongst other things . 
+
+# sent_id =457
+# text = I am to not going well Y . 
+
+# sent_id =458
+# text = I began to feel slight uneasy . 
+
+# sent_id =459
+# text = you know I am not used to such ceremonies and something ominous there was Y the in atmosphere . 
+
+# sent_id =460
+# text = just it was though as I had been let I n't do know ° ° into some conspiracy right quite not something I and was glad to out get * . 
+
+# sent_id =461
+# text = feverishly knit the women two black wool the in outer room . 
+
+# sent_id =462
+# text = had a caravan come in . 
+
+# sent_id =463
+# text = burst a Babble violent of uncouth sounds out the on other side the of planks . 
+
+# sent_id =464
+# text = were together speaking the carriers all ... and was the voice lamentable the of chief agent heard tearfully up giving it the for twentieth time that day ' ' Y the in midst the of uproar 
+
+# sent_id =465
+# text = he slowly rose . 
+
+# sent_id =466
+# text = a what frightful row Y he said ' ' . 
+
+# sent_id =467
+# text = he gently crossed to look the at sick man the room and said to me returning Y Y he does not hear Y ' ' . 
+
+# sent_id =468
+# text = What ° dead I asked startled Y . # ' ' 
+
+# sent_id =469
+# text = not yet no Y Y he answered with great composure Y . ' ' 
+
+# sent_id =470
+# text = one then Y comes alluding Y a with toss the of head the to tumult the in station-yard to ha those savages hate them ° the to death when has to one got make Y correct entries ' ' . 
+
+# sent_id =471
+# text = he remained thoughtful a for moment . 
+
+# sent_id =472
+# text = tell him when you see Mr. Kurtz he bn went Y Y from me is everything here very satisfactory that he glanced ° ° the at desk ' . 
+
+# sent_id =473
+# text = I do n't like you never know who may get hold of your letter ° ° with we of those messengers to write to him at that Central station . 
+
+# sent_id =474
+# text = he stared at me with his bulging Y mild eyes a for moment . 
+
+# sent_id =475
+# text = he will oh Y go far far very Y he again began Y ' ' . 
+
+# sent_id =476
+# text = a he will be before long somebody the in administration ' . 
+
+# sent_id =477
+# text = they above Y in Europe the council Y ° mean to be him you know ° . 
+
+# sent_id =478
+# text = he turned to his work . 
+
+# sent_id =479
+# text = had the noise outside ceased I and presently stopped in out going Y the at door . 
+
+# sent_id =480
+# text = was lying the agent homeward-bound flushed the in steady buzz of flies was the other bent Y Y over his books making correct entries of correct perfect transactions * I could and see the still tree-tops the of grove of death * the below feet fifty doorstep and insensible . 
+
+# sent_id =481
+# text = I at last left that station a for two-hundred-mile tramp next day a with caravan Y Y of sixty men . 
+
+# sent_id =482
+# text = no use telling you much about that . 
+
+# sent_id =483
+# text = everywhere paths nobody Y * a stampèint network of paths spreading the over empty land down and down up and chilly ravines Y up stony ablaze with heat hills Y through long grass Y through burned grass Y through thickets Y a not hut Y a and solitude * a solitude Y paths Y Y . 
+
+# sent_id =484
+# text = had the population cleared out ago a long time . 
+
+# sent_id =485
+# text = I fancy if sudden a lot of mysterious niggers armed with all kinds of fearful weapons took well Y to travelling right and left catching to carry heavy loads for them Y Y the yokels the on road between Deal and Gravesend would farm every thereabouts and cottage soon very get empty . 
+
+# sent_id =486
+# text = only were here too gone the dwellings . 
+
+# sent_id =487
+# text = I still passed through abandoned several villages . 
+
+# sent_id =488
+# text = something childish pathetically there is the in ruins of grass walls . 
+
+# sent_id =489
+# text = the with stamp day after day . Y Y of sixty pair behind me of bare feet a under pair each pounds load and shuffle 
+
+# sent_id =490
+# text = camp march Y strike Y camp sleep Y cook Y . 
+
+# sent_id =491
+# text = a dead in harness now and then carrier at rest Y the in long grass the near path an with empty water-gourd lying by his side Y and his long staff . 
+
+# sent_id =492
+# text = a around and above great silence . 
+
+# sent_id =493
+# text = the perhaps tremor sinking Y swelling Y of far-off drums on some quiet night a vast faint Y tremor Y a weird appealing Y suggestive Y and wild Y a with and profound as perhaps meaning ° the as sound of bells a in Christian country sound * . 
+
+# sent_id =494
+# text = a hospitable very Y and festive to say not drunk ° white once man camping Y the on path an with armed escort of lank Zanzibaris an in unbuttoned uniform . 
+
+# sent_id =495
+# text = was after looking he declared Y the upkeep the of road . 
+
+# sent_id =496
+# text = ca n't say I saw any road or any upkeep unless may be the body a of middle-aged negro I absolutely upon which stumbled farther on three miles Y a with bullet-hole Y Y the in forehead considered Y a as permanent improvement . 
+
+# sent_id =497
+# text = I had a white too companion a bad not chap Y Y but too rather fleshy the with and exasperating habit of fainting the on hot hillsides the from least away Y miles bit of shade and water . 
+
+# sent_id =498
+# text = annoying to hold while he is come-toing your own coat over head a 's man a like parasol you know Y Y . 
+
+# sent_id =499
+# text = I could n't help once asking him he what meant by there at all coming . 
+
+# sent_id =500
+# text = to of course Y make money ' ' . 
+
+# sent_id =501
+# text = do you what think he scornfully Y said # . 
+
+# sent_id =502
+# text = he then got fever and to had be carried Y a in hammock slung a under pole . 
+
+# sent_id =503
+# text = I had as weighed he sixteen stone no end of rows the with carriers . 
+
+# sent_id =504
+# text = they jipbed off sneaked Y with they loads the in night a quite mutiny ° away ran Y . 
+
+# sent_id =505
+# text = I so made a speech in English I and all right off started Y the hammock the next morning in front with gestures was one not of which Y lost the to sixty pairs before me of eyes one evening Y Y . 
+
+# sent_id =506
+# text = I afterwards an hour came the upon whole concern wrecked a in bush man ° blankets Y groans Y horrors Y hammock Y . 
+
+# sent_id =507
+# text = had the pole heavy skun his poor nose . 
+
+# sent_id =508
+# text = he was very anxious for to me kill somebody but was n't there the shadow a of carrier near Y . 
+
+# sent_id =509
+# text = I remembered the old doctor would be it interesting for to watch science the mental changes of individuals the on spot Y ° Y ' . 
+
+# sent_id =510
+# text = I felt I was becoming scientifically interesting . 
+
+# sent_id =511
+# text = that all however Y is to no purpose . 
+
+# sent_id =512
+# text = I again came and hobbled Y the into Central station in sight the of big river the on fifteened day . 
+
+# sent_id =513
+# text = a on it back water was the was all a gap neglected gate it had Y surrounded by scrub and forest a with pretty border Y of smelly mud on one side and the on other three inclosed Y a by crazy fence of rushes . 
+
+# sent_id =514
+# text = and was the glance first the at place enough to let you see was the devil flabby running that show . 
+
+# sent_id =515
+# text = languidly appeared men white with long staves in they hands up strolling to take a look at me Y and then somewhere retired Y of out sight the amongst from buildings . 
+
+# sent_id =516
+# text = one of them a stout excitable Y chap Y Y with black mustaches informed me I as as soon I was who told him Y Y the at that was my steamer bottom the of river with great volubility and many digressions . 
+
+# sent_id =517
+# text = I was thunderstruck . 
+
+# sent_id =518
+# text = What how Y why Y # 
+
+# sent_id =519
+# text = it all oh Y was right . 
+
+# sent_id =520
+# text = there the manager himself was . 
+
+# sent_id =521
+# text = all quite correct . 
+
+# sent_id =522
+# text = had Everybody splendidly splendidly ° behaded ° ' 
+
+# sent_id =523
+# text = must Y ' ' you go he said Y in agitation ° ' and at once see the general manager . 
+
+# sent_id =524
+# text = to is be welcomed the proposal forward put the by Commission the from consumers 's point of view . 
+
+# sent_id =525
+# text = have also affected parties criticized the fact that are also the declarations public manufacturer 's included the in defect definition . 
+
+# sent_id =526
+# text = a would be that ultimately disadvantage the for consumer . 
+
+# sent_id =527
+# text = they were voted down and will be once again the reasons put by Bonino Mrs no doubt . 
+
+# sent_id =528
+# text = the is one question of second-hand goods . 
+
+# sent_id =529
+# text = I believe that we have solved many the of problems for small and medium enterprises with this hierarchy . 
+
+# sent_id =530
+# text = could it result in job losses the in intensive labour Services repair sector the at same time . 
+
+# sent_id =531
+# text = it turns out that is sometimes it impossible to answer this question in practise . 
+
+# sent_id =532
+# text = he to is not blame . 
+
+# sent_id =533
+# text = will but benefit a reputation good him the with to respect both product Y to and his service the on other hand . 
+
+# sent_id =534
+# text = will need the shopkeeper right he can which use to recover his costs the from manufacturer of recourse . 
+
+# sent_id =535
+# text = I not do have president madam Y a script just two observations Y . 
+
+# sent_id =536
+# text = an is that ridiculous utterly assumption . 
+
+# sent_id =537
+# text = the but is not a degree of protection same as absolute cover a against host of things the at expense of similar something . 
+
+# sent_id =538
+# text = What is For instance Y Y after-sale appropriate service # ' ' 
+
+# sent_id =539
+# text = applies the same a to whole series of other examples we can give . 
+
+# sent_id =540
+# text = a is this sine-qua-non would and it to keep stressing it seem unnecessary Y . 
+
+# sent_id =541
+# text = I believe that would be this wasier if were consumers involved a lot . 
+
+# sent_id =542
+# text = must there be rules strict in abattoirs to maintain the highest levels of hygiene . 
+
+# sent_id =543
+# text = can be not considered practice good farming and animal welfare in isolation from food legislation a as whole . 
+
+# sent_id =544
+# text = have we to sustain the European Union a as food major producer a and major exporter . 
+
+# sent_id =545
+# text = Allow please me to say that can be positively very the report present judged . 
+
+# sent_id =546
+# text = I would and not want to arise through any misunderstanding the in present report the opposite view . 
+
+# sent_id =547
+# text = we so need to know the results of this debate and put them into effect . 
+
+# sent_id =548
+# text = I would like ladies Y and gentlemen Commissioner Y to read to you her speech . 
+
+# sent_id =549
+# text = still has opinion public no faith the in Commission 's ability to exercise control . 
+
+# sent_id =550
+# text = have to the consumer European needs president Mr Y increased confidence in food the after BSE least not crisis Y . 
+
+# sent_id =551
+# text = is in Holland and other countries being away stripped the nature original of national identity the in name of chicken and pig feed . 
+
+# sent_id =552
+# text = that would be not better than total harmonisation a which is commercial fundamentally rule aimed at promoting commercial interests food not Quality Y Y # 
+
+# sent_id =553
+# text = is the directive framework part of this process . 
+
+# sent_id =554
+# text = I have brief just another comment the on trade foreign aspect . 
+
+# sent_id =555
+# text = we must then stay with it if a we are member an of rights international community Y . 
+
+# sent_id =556
+# text = will be taken the vote at 12.00 noon tomorrow . 
+
+# sent_id =557
+# text = is it complicated because it separately dealt with all nine and is it to submit amendments in nine sets necessary . 
+
+# sent_id =558
+# text = are we insisting upon which safeguards # 
+
+# sent_id =559
+# text = will be for now legislated arrangements proper the with help of they financial controller . 
+
+# sent_id =560
+# text = the is that problem can you not comment on things have you that not read : . 
+
+# sent_id =561
+# text = they were set up the by European Union a for specific purpose . 
+
+# sent_id =562
+# text = has our research shown that not do agencies these need more controls . 
+
+# sent_id =563
+# text = Let us therefore Y Y hope that will be the proposals the of Commission sufficient to make sure will be effectively this job done . 
+
+# sent_id =564
+# text = this reminds me of my previous activity the in committee on budgets the in and committee on budgetary control a to Y certain extent . 
+
+# sent_id =565
+# text = we regret this and reaffirm our commitment to inform parliament of all agency important decisions that have a financial impact . 
+
+# sent_id =566
+# text = we take von Habsburg Y Mr Y note of that I should and be grateful if could you provide us with this letter . 
+
+# sent_id =567
+# text = I here have it president madam Y with me . 
+
+# sent_id =568
+# text = is it available if is facility that available and good luck to him ° ° to vice-president to other members # 
+
+# sent_id =569
+# text = are you persistently confusing ladies Y and gentlemen the minutes the with report of proceedings . 
+
+# sent_id =570
+# text = I have therefore voted the against report . 
+
+# sent_id =571
+# text = could be improved the measures you described and others did you not which mention there are . 
+
+# sent_id =572
+# text = here have the Commission does any sort of long-term policy in mind # 
+
+# sent_id =573
+# text = is also explained the situation the by Asian and Russian crises which also deprive the European Union Y a of potential market . 
+
+# sent_id =574
+# text = should be swiftly secondly Y launched a campaign promotion to increase awareness the amongst general public and boost consumption in Europe the within community . 
+
+# sent_id =575
+# text = all fall the taxpayer has who to pay for it stock rearing and species-friendly the smaller undertakings Y the by wayside . 
+
+# sent_id =576
+# text = I have nor expanded my production . 
+
+# sent_id =577
+# text = did receive the Commissioner about this dire emergency what representation the from Kingdom United government # 
+
+# sent_id =578
+# text = in the industry whole crisis is . 
+
+# sent_id =579
+# text = are a in case like this Y being governments those that are still recommending increased production irresponsible . 
+
+# sent_id =580
+# text = the should be measures same to ensure no state member gets an unfair advantage the throughout EU . 
+
+# sent_id =581
+# text = I urge through you to reach decisions and take following the meeting on 14 October urgent action the Commission the and council . 
+
+# sent_id =582
+# text = now need farmers Europe 's help . 
+
+# sent_id =583
+# text = that just goes to show the possibilities in our country ° 
+
+# sent_id =584
+# text = we but not do take the view that can produce including a corresponding reference to this a in recital that result . 
+
+# sent_id =585
+# text = are for of course drugses generic the at end a of patent or other protection period useful . 
+
+# sent_id =586
+# text = were made further improvements the to proposal the in Committee the on environment public health Y and consumer protection . 
+
+# sent_id =587
+# text = will be it resumed at p.m 3 . 
+
+# sent_id =588
+# text = first there is the paragraph inviting to withdraw its proposal the Commission . 
+
+# sent_id =589
+# text = is very it important to know that for us . 
+
+# sent_id =590
+# text = there is an mistake unfortunate Madam president Y the in Swedish version of 4 amendment . 
+
+# sent_id =591
+# text = is therefore very it odd that has been retained the text original in this amendment . 
+
+# sent_id =592
+# text = under certain the text authentic Conditions is . ' ' 
+
+# sent_id =593
+# text = that needs to be made very clear . 
+
+# sent_id =594
+# text = but is essentially done business the in audiovisual sector by small and medium-sized enterprises . 
+
+# sent_id =595
+# text = Katiforis report a4-0090/99 # $ 
+
+# sent_id =596
+# text = experience smes all problems arising from they weak capital resources at some stage in they development . 
+
+# sent_id =597
+# text = should hand in hand go finance and mentorship . 
+
+# sent_id =598
+# text = would too so capital risk if were to demand increase Y regardless of whether are the markets fragmented or not Y . 
+
+# sent_id =599
+# text = reflects document this main our group 's concerns the about future the of acp-eu link . 
+
+# sent_id =600
+# text = to ought be certainly prioritised areas vital the to health of Europeans for intensified action and initiative the by European Union . 
+
+# sent_id =601
+# text = has demonstrated parliament its great interest in this area a on number of occasions . 
+
+# sent_id =602
+# text = second Hautala report a4-0029/99 # $ 
+
+# sent_id =603
+# text = I can however Y not support the reference to abortion . 
+
+# sent_id =604
+# text = and but deliberately constant the effects psychological harmful that abortions have on women concealed are . 
+
+# sent_id =605
+# text = having the right to manage they lives and make decisions about they own bodies equates entitlement to free abortions with women . 
+
+# sent_id =606
+# text = no easy there the to issue painful of abortion answer is . 
+
+# sent_id =607
+# text = I am here amongst other things Y Y thinking of such the as law on abortion issues . 
+
+# sent_id =608
+# text = requires objective this a comprehensive approach to policy making the and mobilisation of all policy actors . 
+
+# sent_id =609
+# text = is ensuring equal opportunities for men and women like trying to attain the unattainable a to certain extent Y . 
+
+# sent_id =610
+# text = I would like much very to know are the green basing these all amendments on what kind of scientific evidence . 
+
+# sent_id =611
+# text = were studied children and workers at power stations both . 
+
+# sent_id =612
+# text = we have Mr president Y Y evidence we but apparently not do have proof . 
+
+# sent_id =613
+# text = an is this issue which affects aspects of everyday life . 
+
+# sent_id =614
+# text = are based the guidelines and exposure proposed the by Commissioner on those recently published the by international convention on radiation non-ionising protection . 
+
+# sent_id =615
+# text = are greatly therefore proposals Tamino 's Mr disproportionate . 
+
+# sent_id =616
+# text = limited there resources are we must and to it see that are they effectively exploited for public health . 
+
+# sent_id =617
+# text = reflect estimates the Commission 's What of would be health-endangering values the outcome the of research out carried . 
+
+# sent_id =618
+# text = is however Y it essential that should be reasonable the rules . 
+
+# sent_id =619
+# text = are fields electromagnetic and they effect on people subjects that have up come in recent years for debate with increasing frequency . 
+
+# sent_id =620
+# text = we still not do have any precise answers the to questions they which raise in point of fact Y . 
+
+# sent_id =621
+# text = we should be establishing limit values a on europe-wide basis should they but be as well reasonable Y . 
+
+# sent_id =622
+# text = has been mentioned Sweden as one the of countries with limit satisfactory values the in discussion . 
+
+# sent_id =623
+# text = are these concentrate rays they but down not do to where we usually are penetrate Y . 
+
+# sent_id =624
+# text = increasing there concern is the on too part of experts and is that undoubtedly true Y Y for Y one thing . 
+
+# sent_id =625
+# text = then there 12 amendment is . 
+
+# sent_id =626
+# text = will at once act the Commission if necessary Y . 
+
+# sent_id =627
+# text = we must work to end that a in sensible way . 
+
+# sent_id =628
+# text = hard also it is to expect to surrender sovereignty over they national health systems countries the on other hand Y Y . 
+
+# sent_id =629
+# text = so What should be done # 
+
+# sent_id =630
+# text = is the policy current ripe for review are and regrettable very the resources financial limitted . 
+
+# sent_id =631
+# text = only it is that we should use the precautionary principle if the disadvantages equal the advantages . 
+
+# sent_id =632
+# text = seems the report Needle the on new union 's European health public policy to completely ignore this fact . 
+
+# sent_id =633
+# text = has Needle Mr gone Mr president ladies Y Y and gentlemen the with hearing in committee to great trouble . 
+
+# sent_id =634
+# text = I also believe that a in not the authorities regional are all position to establish contacts the with Commission . 
+
+# sent_id =635
+# text = mentions the report best practice and standards in health care . 
+
+# sent_id =636
+# text = the is that point have we here chosen of departure in fact I and am very glad has been this all properly understood . 
+
+# sent_id =637
+# text = unfortunately Y approved parliament these subsidies at last its on vote the subject a by majority . 
+
+# sent_id =638
+# text = will but by Europe not stand while are rules trade the world 's flouted . 
+
+# sent_id =639
+# text = is becoming the dispute increasingly bitter is and beginning to look a like trade war . 
+
+# sent_id =640
+# text = put the Union European a new and revised banana regime on 1 1999 January in place . 
+
+# sent_id =641
+# text = we support the motion a for resolution for that and many other reasons . 
+
+# sent_id =642
+# text = has the United States shown that it holds negotiations in contempt . 
+
+# sent_id =643
+# text = I then fear will the WTO slip a on banana skin if we not do achieve our objective of resolving this dispute Y . 
+
+# sent_id =644
+# text = he made a resigned grimace assuming understanding my wife and I decided we could not longer any stick it ... . 
+
+# sent_id =645
+# text = we here so try out it . 
+
+# sent_id =646
+# text = I do not know we will see * . 
+
+# sent_id =647
+# text = I read I so thought was it you Y were you back coming there an article Y was Margot my wife sent it to me in Switzerland Y the in paper . 
+
+# sent_id =648
+# text = you were when we out got in Rome in of front just me . 
+
+# sent_id =649
+# text = I suppose yes Y I will not know when I get into town my around way . 
+
+# sent_id =650
+# text = is it still oh Y not New York not Do worry Y or London . 
+
+# sent_id =651
+# text = spoke the man an with accent a and European certain kind of resignation Y . 
+
+# sent_id =652
+# text = they laughed . 
+
+# sent_id =653
+# text = we will probably bump well Y into each other in that case Y lakes in great road . 
+
+# sent_id =654
+# text = Nkrumah please Road . 
+
+# sent_id =655
+# text = I said I have should to again over all learn my round way . 
+
+# sent_id =656
+# text = quickly looked the man about and lowered his voice . 
+
+# sent_id =657
+# text = can do country this take it from me Y with more few a white like you people . 
+
+# sent_id =658
+# text = people with some faith . 
+
+# sent_id =659
+# text = I I even sometimes think down south again 're a is that fact Y . 
+
+# sent_id =660
+# text = I have said it to my wife . 
+
+# sent_id =661
+# text = had a man young black with sunglasses a and thick springy Y mat shaped a to crew-cut by rather than barbering topiary of hair cut the with encircling movement of authority the through crowd . 
+
+# sent_id =662
+# text = this way colonel Sir Y Y . 
+
+# sent_id =663
+# text = will be brought your luggage if will you just give me the tickets Y the to entrance ... 
+
+# sent_id =664
+# text = was talking the man other bobbing the in wash of this activity Y Y yet smile'ing at it in hostly assumption of established his own residence the in country the across black man the and exchange of pleasantries thanks Y tickets Y : 
+
+# sent_id =665
+# text = the at silver of course Y Rhino you remember the place Y . 
+
+# sent_id =666
+# text = 'd we be very pleased any time ... ... 
+
+# sent_id =667
+# text = he thanked him at once listening Y Y the to two men and neither hearing and followed the firm rump in white shorts past barriers the through and reception hall . 
+
+# sent_id =668
+# text = is that all right officer Y Y is this Bray colonel . 
+
+# sent_id =669
+# text = I are looking after Bray colonel no need to bother him Y . 
+
+# sent_id =670
+# text = uncertain said a official youthful black at passport control a just minute Y . 
+
+# sent_id =671
+# text = I do not know about this but the pale cockney who was teaching him to over take his job said that is okay chum Y Y Y our is it old friend Kabata Mr. ... . 
+
+# sent_id =672
+# text = was not waiting the luggage the at flag-draped and bunting-swathed entrance where a picture of Mweta a Roman huge emperor a in toga Y Y smiled as he did the in old photograph the of village Gala football team Y . 
+
+# sent_id =673
+# text = said Kabata Mr. is . What the matter with these people Y I will Excuse me Y get a boy and returned the with cases the on head of one of the splaye-footed Y stringy peasants who had always constituted the portering personnel Y . 
+
+# sent_id =674
+# text = addressed the porter the term respectful became servile Y the during long time was when it indiscriminately used for any white man both men as Mukwayi . 
+
+# sent_id =675
+# text = there was an pennant official the on Volkswagen . 
+
+# sent_id =676
+# text = filled thighes strong Kabata 's beside him Y the seat . 
+
+# sent_id =677
+# text = is it too not comfortable colonel a for man your height Y . 
+
+# sent_id =678
+# text = will be expecting the president me have to come for you the with Mercedes I have would but honest Y Y up turned if I have 'd waited to get it I do not when know Y . 
+
+# sent_id =679
+# text = you know it how is the at just moment . 
+
+# sent_id =680
+# text = Indira Gandhi Mrs arrives this afternoon united and was it nations yesterday Sekou and Toure . 
+
+# sent_id =681
+# text = there were arches gilded men several on bicycles wore shirts with Mweta 's face printed in yellow and puce on they backs * . over the airport old road to town 
+
+# sent_id =682
+# text = he said all very festive Y but was it distraction he had the feeling of inward listening watching for else something Y * . Y 
+
+# sent_id =683
+# text = said the man young Y from you are district Gala . 
+
+# sent_id =684
+# text = I was . 
+
+# sent_id =685
+# text = from there you why Y are # 
+
+# sent_id =686
+# text = from Umsalongwe . 
+
+# sent_id =687
+# text = a but is Gala my mother . 
+
+# sent_id =688
+# text = I have visited that place . 
+
+# sent_id =689
+# text = you have oh # 
+
+# sent_id =690
+# text = recently # a or were you when child 
+
+# sent_id =691
+# text = I there then still perhaps was # 
+
+# sent_id =692
+# text = I think will they be very pleased to there back see you . 
+
+# sent_id =693
+# text = he laughed . 
+
+# sent_id =694
+# text = I wonder if I will far that get . 
+
+# sent_id =695
+# text = must you oh Y make proud the man young said trip . 
+
+# sent_id =696
+# text = I do it to Umsalongwe in ten hours . 
+
+# sent_id =697
+# text = is much improved the road much improved Y . 
+
+# sent_id =698
+# text = will you see . 
+
+# sent_id =699
+# text = could you make it in six say Y Y or seven to Matoko . 
+
+# sent_id =700
+# text = a is tiny little my car thing a second-hand crock Y . 
+
+# sent_id =701
+# text = were going the women the near bridge with on they heads Paraffin tins for water . 
+
+# sent_id =702
+# text = had hoardings advertisement gone up there a works cement smart factories together put out of jutting glassy sections Y the and between in Y Y patches were where women and children hoeing crooked rows of beans and maize scratched the in bush was Y . 
+
+# sent_id =703
+# text = stopped the children and waved an of course Y excuse to dawdle # $ . 
+
+# sent_id =704
+# text = he found himself urgent back waving bending his head Y smile'ing Y the under low roof the of car and craning to hold they faces they out of already when were sight . 
+
+# sent_id =705
+# text = was approaching the car was carrying him the through market quarter the of town Y . 
+
+# sent_id =706
+# text = set mirrors barbers 's up a flash and chickens live Y lay with they legs tied in heaps the in shade the under mango trees Y . 
+
+# sent_id =707
+# text = the was it mango season and there everywhere where people passed the sabres saffron-yellow sucked hairy Y Y the of pips were Y . 
+
+# sent_id =708
+# text = the on roof was the bird . the of thatched Y round guest room the in garden Roland of Dando his old friend new appointed as attorney-general a Welshman ° ° 
+
+# sent_id =709
+# text = No one there was but servants well primed to welcome him when was Bray delivered the to house at home . 
+
+# sent_id =710
+# text = they gave him the cook 's African special lunch he that well so remembered meat burned slight soup with lots of barley : overdone steak with fryed onions Y a frothy tasting Y of Eggs and granadilla juice on top and underneath gelatinous pudding Y . 
+
+# sent_id =711
+# text = rang Roly up to see if he had arrived and again explained that he had to attend an official lunch he had so done ° in advance ° by letter Y . 
+
+# sent_id =712
+# text = were filled ear Bray 's and his body threatened to suffocate him with waves of heat up stoken Y Y the by hot lunch the with strange echos of exhaustion . 
+
+# sent_id =713
+# text = he went and slept the into room kept darkened by drew curtains . 
+
+# sent_id =714
+# text = there was ceiling no he and up looked the into pattern made the by supporting beams the of roof of a spider 's Web . 
+
+# sent_id =715
+# text = was the underside of thatch that rested on it smooth and here and there showed a single stray strand out of place Y a like tidy head Y Y and straight grey was it where old Y blond Y had been where it replaced . 
+
+# sent_id =716
+# text = was probably Balancing the bird the on little porcelain conductor the wire electricity through which led the to light dangling above him . 
+
+# sent_id =717
+# text = was gone the bird he knew as IFS almost had down weight the breath 's of claws pressed the roof Y and was now the pressure released * . 
+
+# sent_id =718
+# text = had round the sun come and the curtains glowed the like sky a above fire . 
+
+# sent_id =719
+# text = felt Bray he must somewhere about be was it difficult to Imagine without him this time * . 
+
+# sent_id =720
+# text = his was it as much as 's Mweta . 
+
+# sent_id =721
+# text = but No one seemed have to seen him or to know whether the he in was had or been Y Y capital Y . 
+
+# sent_id =722
+# text = faces other the from past there were * 
+
+# sent_id =723
+# text = William Clough Y the governor Y lifting his bristly eyebrows the way he used to do the on tennis court in Dar-es-Salaam Y at Mweta 's banquet in exaggerated greeting . 
+
+# sent_id =724
+# text = must you come James Y and hello say before we leave to Dorothy . 
+
+# sent_id =725
+# text = I dare not say dine we are homeless you know ° Y ... 
+
+# sent_id =726
+# text = produces joke Independence Willie 's Uncle a hearty man-of-the-world Y laugh from Africans Vivien said Y . . 
+
+# sent_id =727
+# text = the kind of laugh Neil said have they up picked from people like Willie Uncle . 
+
+# sent_id =728
+# text = still Y pursued the Cloughs Bray through Vivien . 
+
+# sent_id =729
+# text = Dorothy aunt says is been secretary her trying to get of you hold . 
+
+# sent_id =730
+# text = they want you on Monday for drinks . 
+
+# sent_id =731
+# text = I 'd go if I were you she will or everyone in London tell were you up buttering the to Africans did and not want to see them Y . 
+
+# sent_id =732
+# text = he laughed . 
+
+# sent_id =733
+# text = is it no Y true 
+
+# sent_id =734
+# text = she says that about me to my mother Y . 
+
+# sent_id =735
+# text = she and knows well quite we 'd that either never each other see in London . 
+
+# sent_id =736
+# text = had moved the Cloughs a contemporary Y glassy Y large house placed to off show the umbrella thorn-trees the of site as in scale just an architect 's model Y Y the for last week or two before they departure the into British consulate . 
+
+# sent_id =737
+# text = had been swept the consul and his wife the by presence of aides secretaries Y the and necessity to keep they cats the out of way of Dorothy 's lady dog Y back into some room . 
+
+# sent_id =738
+# text = there was sort some of scuffle when Bray arrived ... 
+
+# sent_id =739
+# text = he saw upstairs disappearing with her head console bent a to Siamese the consul 's wife he had brief whom met Y Y . 
+
+# sent_id =740
+# text = were everywhere placed arrangements flower as IFS there illness were Y the in house . 
+
+# sent_id =741
+# text = is well Y done the job one asks more nothing but to fold one 's tents Y . 
+
+# sent_id =742
+# text = a he is good chap if will they Let him alone Y ... is and one what could one done Y he is learned a lot Y 
+
+# sent_id =743
+# text = if he keeps his head can and be one of not that sure with even not mmh Y him with even not him Y # Y . 
+
+# sent_id =744
+# text = came an servant elderly in and Clough interrupted himself to say encouraging would others where give way to exasperation Y the with sweet of one who does not spare himself forbearance Y would be it so nice if we could have few a slices of Lemon and more ice ... Y a with silver tray of glasses and bottles # 
+
+# sent_id =745
+# text = all your own Make pace ... . I have yes Y again and again Y said to Mweta 
+
+# sent_id =746
+# text = Make your own pace and stick to it . 
+
+# sent_id =747
+# text = he knows an he but is intransigent at all not fellow his own mind ... 
+
+# sent_id =748
+# text = you of course Y know well Y . 
+
+# sent_id =749
+# text = I said 'd be you unwise to lose brigadier Radcliffe Y a word in your ear Y ... ago some time . 
+
+# sent_id =750
+# text = have well Y they been of course Y away clamouring he is but refused to touch the army Y . 
+
+# sent_id =751
+# text = I think oh Y I can say have we come out of it good quite friends . 
+
+# sent_id =752
+# text = a was it modest disclaimer the with effect of assuming in common the ease he that believed Bray to have with Africans Y . 
+
+# sent_id =753
+# text = he pleasantly looked and down again patiently it put the into martini jug . 
+
+# sent_id =754
+# text = had the servant elderly who brought ice and lemon the nicks that people Gala northern wore the at outer corner the of eyes . 
+
+# sent_id =755
+# text = is that perfect . 
+
+# sent_id =756
+# text = much so Thank you . 
+
+# sent_id =757
+# text = Bray greeted the servant and the man dumped the impersonality a of servant as IFS the had been it tray in his hands and warm grinned showing some pigmentation abnormality a in spotted a like Dalmatian pink inner lip Y in Gala the with respectful form for elders of address . 
+
+# sent_id =758
+# text = looked the ex-Governor bn smile' Y . 
+
+# sent_id =759
+# text = confusedly bowed the servant at him backwards walking Y and then recovering himself the in tribal way before rank Y Y and leaving the room an with anonymous lope . 
+
+# sent_id =760
+# text = I will as well pour Dorothy 's martini will that maybe bring her Y . 
+
+# sent_id =761
+# text = if could be one only transported a on magic carpet ... 
+
+# sent_id =762
+# text = we shall now anyway Y have three months in London a with perhaps week in Ireland or two Y . 
+
+# sent_id =763
+# text = have been you what doing in your ivory tower in Wiltshire all these years # 
+
+# sent_id =764
+# text = a were you golfer I can quite not remember Y ... # 
+
+# sent_id =765
+# text = came Dorothy Clough in and Clough out cried it does fit Y # 
+
+# sent_id =766
+# text = come and have a drink with James ... 
+
+# sent_id =767
+# text = a must be it years hundred my dear James ... ... 
+
+# sent_id =768
+# text = had have we to transport Fritzi a crate made she is and been it trying on him Y . 
+
+# sent_id =769
+# text = found Vivien my niece a carpenter . 
+
+# sent_id =770
+# text = she has the extraordinary much contacts that girl Y . 
+
+# sent_id =771
+# text = is it very useful ° 
+
+# sent_id =772
+# text = took William Clough he said was child 's reposting play compared with this Y . with gallant good humour a pecking sip at his martini . 
+
+# sent_id =773
+# text = had has to one learn to how out camp ... 
+
+# sent_id =774
+# text = I are sure is it terrible good keeps the mind flexible Y . 
+
+# sent_id =775
+# text = Denis thinks he did you tell Y is been lamp angle your left at government house # 
+
+# sent_id =776
+# text = forward sat Dorothy Clough as IFS she had alighted Y a for only moment in her chair . 
+
+# sent_id =777
+# text = Let for Y sake heaven 's them have it it someone else 's is to there now Y burn the midnight oil turn Y ... 
+
+# sent_id =778
+# text = you do say what James Y ... 
+
+# sent_id =779
+# text = asked Roly Dando the about visit with grudging interest . 
+
+# sent_id =780
+# text = he is been never anywhere where there anything left was to do sent he said Y . 
+
+# sent_id =781
+# text = only Clough goes in after is been self-government granted Y and is been the date for independence given the for last year . 
+
+# sent_id =782
+# text = an early date . 
+
+# sent_id =783
+# text = was slight embarrassed Bray when quite sober Y and hesitant said smile' Y Y Y by gossip 
+
+# sent_id =784
+# text = was that he and his wife were quietly the impression away slipping the after field of battle . 
+
+# sent_id =785
+# text = is all been damn there for to him do since he arrived ago eighteen months except go fishing at up Rinsala . 
+
+# sent_id =786
+# text = came voice Dando 's all damn except go fishing with his secretary acting ghillie : ... the from group round someone basting a sheep the on home-made spit at the Pettigrews 's house that night Y ... 
+
+# sent_id =787
+# text = had just told Rebecca Edwards Neil Bayley that was Felix Pasilis greek the Pettigrews 's friend Y Y furious with her because she 'd forgotten some essential herb he that wanted for his sheep ... 
+
+# sent_id =788
+# text = I 'd make you my girl Y back home go and it get if I were Felix Neil said and the look of inattentive exhaustion on young heavy rather her face moved Bray saying I are afraid my God Y Y I behaved at 's Cloughs a like child Y to distract attention from her in feeling Y Y ° 
+
+# sent_id =789
+# text = I showed off by making a point of speaking in Gala the to servant . 
+
+# sent_id =790
+# text = laughed Neil Rebecca and Edwards . 
+
+# sent_id =791
+# text = poor Uncle Willie . 
+
+# sent_id =792
+# text = a he was nice young quite man in Dar-es-Salaam . 
+
+# sent_id =793
+# text = he conscientious took Swahili lessons he and certainly better than I did it spoke . 
+
+# sent_id =794
+# text = burst the elf noisy very tears ° into tears to Y his horror . 
+
+# sent_id =795
+# text = down sit he wailed ° . 
+
+# sent_id =796
+# text = thought Harry he heard falter the downstairs voices . 
+
+# sent_id =797
+# text = back ushered Harry trying to shh ° say and look comforting the at same time Y Y Dobby the onto bed he where sat looking Y a like large and very ugly doll hiccoughing . 
+
+# sent_id =798
+# text = he at last managed to control himself and sat Y with his great eyes fixed on Harry an in expression of watery adoration . 
+
+# sent_id =799
+# text = have can you met not Harry said trying to up cheer him Y Y many decent wizards . 
+
+# sent_id =800
+# text = shook Dobby his head . 
+
+# sent_id =801
+# text = had Hedwig waken up was and wildly beating her wings the against bars of her cage a with loud particularly screech . 
+
+# sent_id =802
+# text = spoke Sir Y almost ill Dobby of his family . 
+
+# sent_id =803
+# text = shuddered Dobby . 
+
+# sent_id =804
+# text = have will to grievously much no oh no Dobby punish Sir Y Y Sir Y himself for coming to see you . 
+
+# sent_id =805
+# text = have will to shut Dobby for this his ears the in oven door . 
+
+# sent_id =806
+# text = having is to always Dobby punish Sir Y himself for something . 
+
+# sent_id =807
+# text = they lets Sir Y Dobby bn get with it . 
+
+# sent_id =808
+# text = but you why not do leave # 
+
+# sent_id =809
+# text = will and never set the family Dobby free . 
+
+# sent_id =810
+# text = stared Harry . 
+
+# sent_id =811
+# text = this makes the Dursleys sound almost human . 
+
+# sent_id =812
+# text = can anyone not help you # 
+
+# sent_id =813
+# text = at almost once Y wished Harry he had not spoken . 
+
+# sent_id =814
+# text = again Dobby dissolved into wails of gratitude . 
+
+# sent_id =815
+# text = has heard Dobby Sir Y Y but Dobby never knew of your goodness Y of your greatness 
+
+# sent_id =816
+# text = he but quickly stopped because was painful thinking about Hermione Y . 
+
+# sent_id =817
+# text = Voldemort Harry said # . 
+
+# sent_id =818
+# text = he again stopped . 
+
+# sent_id =819
+# text = was too Y painful thinking about Ron . 
+
+# sent_id =820
+# text = leaned Dobby his eyes wide Y as headlamps towards Harry . 
+
+# sent_id =821
+# text = heard Dobby tell that Harry Potter met the dark lord that again yet Harry Potter escaped . ago just weeks a for second time . he hoarsely said Y Y 
+
+# sent_id =822
+# text = noddd Harry and sudden eyes Dobby 's shone with tears . 
+
+# sent_id =823
+# text = he has already braved many so dangers ° 
+
+# sent_id =824
+# text = but has Dobby come to protect Harry Potter to warn him he have even IFS to late shut does his ears Y the in oven door Y . 
+
+# sent_id =825
+# text = a was there silence only broken the by chink of knives and from downstairs forks the and distant rumble of Vernon 's Uncle voice . 
+
+# sent_id =826
+# text = I have but to back go got term starts on first the September ° . 
+
+# sent_id =827
+# text = is all it that is keeping me going . 
+
+# sent_id =828
+# text = you not do know like is it What here . 
+
+# sent_id =829
+# text = I here not do belong . 
+
+# sent_id =830
+# text = he is too great to lose Y too good Y . 
+
+# sent_id =831
+# text = why Harry said in surprise # &quoté &quoté . 
+
+# sent_id =832
+# text = must not Harry Potter put himself in peril . 
+
+# sent_id =833
+# text = what terrible things at once Harry said # . 
+
+# sent_id =834
+# text = made Dobby a choking funny noise and then madly banged his head the against wall . 
+
+# sent_id =835
+# text = struck a thought sudden unpleasant Y him . 
+
+# sent_id =836
+# text = Hung bn has this not got anything to do with Vol with you who know sorry ° ° it has Y ° # 
+
+# sent_id =837
+# text = slowly Y shook Dobby his head . 
+
+# sent_id =838
+# text = but were eyes Dobby 's wide he and seemed to be trying to give Harry a hint . 
+
+# sent_id =839
+# text = at completely however Y Y Harry sea was . 
+
+# sent_id =840
+# text = shook Dobby than ever his eyes wider Y his head . 
+
+# sent_id =841
+# text = bowed Dobby his head . 
+
+# sent_id =842
+# text = the is greatest Albus Dumbledore has had ever Hogwarts headmaster . 
+
+# sent_id =843
+# text = Dobby knows Sir it Y . 
+
+# sent_id =844
+# text = has heard Dobby powers Dumbledore 's rival those of him be must who not named the at height of his strength . 
+
+# sent_id =845
+# text = and bounded Dobby before could Harry stop him Y and started beating himself with ear-splitting yelps the around head Y seized desk Harry 's lamp Y the off bed . 
+
+# sent_id =846
+# text = downstairs fell a silence sudden . 
+
+# sent_id =847
+# text = are ° you ° what the ° devil ° # doing Vernon Uncle said horribly close to Harry 's his face Y through gritted teeth . ° 
+
+# sent_id =848
+# text = he stomped flat-footed the from room . 
+
+# sent_id =849
+# text = let Harry Dobby shaking Y the out of wardrobe . 
+
+# sent_id =850
+# text = friends slyly Dobby said . even not who do write Harry to Potter # 
+
+# sent_id =851
+# text = shuffled Dobby his feet . 
+
+# sent_id =852
+# text = here Dobby has Sir Y Y them the elf said . 
+
+# sent_id =853
+# text = he pulled nimble stepping out of Harry 's reach Y a thick wad of envelopes the from inside the of pillowcase he was wearing . 
+
+# sent_id =854
+# text = could Harry make out neat Hermione 's writing untidy Ron 's scrawl Y a and even scribble that looked as though it was the from Hogwarts gamekeeper Hagrid Y . 
+
+# sent_id =855
+# text = accidentally knocked Ginny porridge her bowl a with loud clatter the moment she saw Harry Y the to floor . 
+
+# sent_id =856
+# text = seemed Ginny very prone to knocking over whenever Harry entered a room things . 
+
+# sent_id =857
+# text = she dived to retrieve the bowl and emerged with her face glowing the like setting sun the under table . 
+
+# sent_id =858
+# text = down sat Harry pretending he had not noticed this Y and took the toast Weasley Mrs offered him . 
+
+# sent_id =859
+# text = there was silence as they all read they letters a few for minutes . 
+
+# sent_id =860
+# text = Harry 's told him to usual as catch the Hogwarts express on first the September from King '20 Cross station . 
+
+# sent_id =861
+# text = also there was a list the of new books he 'd need the for coming year . 
+
+# sent_id =862
+# text = will require students second-year : 
+
+# sent_id =863
+# text = the standard book Miranda by Goshawk 2 grade Y of spells 
+
+# sent_id =864
+# text = break Gilderoy by Lockhart a with Banshee 
+
+# sent_id =865
+# text = gading Gilderoy by Lockhart with ghouls 
+
+# sent_id =866
+# text = holidays Gilderoy by Lockhart with hags 
+
+# sent_id =867
+# text = travels Gilderoy by Lockhart with trolls 
+
+# sent_id =868
+# text = voyages Gilderoy by Lockhart with vampires 
+
+# sent_id =869
+# text = Wanderings Gilderoy by Lockhart with werewolves 
+
+# sent_id =870
+# text = year Gilderoy by Lockhart the with Yeti 
+
+# sent_id =871
+# text = peered Fred who had finished his own list Y Y over at 's Harry . 
+
+# sent_id =872
+# text = a must be the teacher new defense the against dark arts fan bet ° a is it witch . 
+
+# sent_id =873
+# text = caught Fred his mother 's eye and quickly busied himself the with marmalade at Y this point . 
+
+# sent_id =874
+# text = are you oh Y starting Harry asked Ginny at Hogwarts this year # . 
+
+# sent_id =875
+# text = she noddd blushing Y the to roots of flaming her hair and put her elbow Y the in butter dish . 
+
+# sent_id =876
+# text = No one fortunately saw this because then just in Percy elder Ron 's brother walked Y except Harry . 
+
+# sent_id =877
+# text = he was already dressed his badge Hogwarts prefect pin Y to his knit tank top . 
+
+# sent_id =878
+# text = he sat down but immediately almost again up leaped What Harry thought it was was at little Y that until he saw that was it breathing Y ° pulling underneath from him a moulting grey Y feather duster Y the in remaining only chair . 
+
+# sent_id =879
+# text = I wrote to her saying we were to going try and you rescue the from Dursleys . 
+
+# sent_id =880
+# text = he then ripped Hermione 's letter open and loud out it read : 
+
+# sent_id =881
+# text = dear Ron Y and if you there 're Harry Y 
+
+# sent_id =882
+# text = I hope everything all right went that did and you not Ron Y Y illegal anything do to out get him because would that too Y get Harry into trouble that and is Harry okay . 
+
+# sent_id =883
+# text = I have been really worried would but be perhaps it better because I think might delivery another off finish your one Y if you used a different owl Y will and you please if all Harry is right Y me let at once know . 
+
+# sent_id =884
+# text = I are very of course Y busy ° with schoolwork 
+
+# sent_id =885
+# text = are we and going next wednesday to buy my new books to London ° . 
+
+# sent_id =886
+# text = we why not do meet Diagon in Alley # 
+
+# sent_id =887
+# text = can as as soon you Let me know is What happening love from Hermione Y . 
+
+# sent_id =888
+# text = were Harry and George Ron Y Fred Y planning to go a to small paddock the Weasleys owned the up hill . 
+
+# sent_id =889
+# text = was it surrounded meaning that could they there practise did they as as long not fly too high Y Quidditch Y by trees that blocked it from view the of below village . 
+
+# sent_id =890
+# text = could they not use they instead threw apples to each for other catch Y * real Quidditch balls have which would been hard to explain if had they escaped and away flown the over village . 
+
+# sent_id =891
+# text = they took to ride Harry 's thousand two Nimbus the which was best easily broom Y was . often star shooting old Ron 's outstripped * by passing butterflies turns 
+
+# sent_id =892
+# text = were they marching late five minutes broomsticks over they shoulders Y the up hill . 
+
+# sent_id =893
+# text = had they asked if he wanted to join them Percy he had but said he was busy Y . 
+
+# sent_id =894
+# text = had only so far Harry seen Percy he stayed shut in his room * the rest the of time . at meal-times 
+
+# sent_id =895
+# text = wish I knew he what to up was Fred said frowning Y Y . 
+
+# sent_id =896
+# text = we will have head another boy if we are not careful Y the in family . 
+
+# sent_id =897
+# text = I not do think I could stand the shame . 
+
+# sent_id =898
+# text = the was oldest Weasley bill Brother . 
+
+# sent_id =899
+# text = he and the next brother Charlie Y Y had already left Hogwarts . 
+
+# sent_id =900
+# text = had met Harry never either of them but knew that in Charlie was Romania studying dragons Y Y in and Bill Egypt working Y the for wizard 's bank Gringotts Y Y . 
+
+# sent_id =901
+# text = said Harry nothing . 
+
+# sent_id =902
+# text = he felt a bit awkward . 
+
+# sent_id =903
+# text = was stored a fortune small had that his parents left him an in underground vault at Gringotts in London . 
+
+# sent_id =904
+# text = only of course Y it was the in wizarding world that he had money could you not use galleons sickles Y and knuts Y * in muggle shops . 
+
+# sent_id =905
+# text = he had mentioned never his bank Gringotts account he did not think would horror they of anything connected with magic stretch a to large pile of gold * the to Dursleys . 
+
+# sent_id =906
+# text = woke Weasley Mrs them all the following early wednesday . 
+
+# sent_id =907
+# text = they bn pulled and inside peered and Weasley Mrs took a flowerpot the off kitchen mantelpiece they coats a after quick bacon half-a-dozen each sandwiches Y . 
+
+# sent_id =908
+# text = have we will to buy some more well ah guests first Y ° today 
+
+# sent_id =909
+# text = she and offered him the flowerpot . 
+
+# sent_id =910
+# text = stared Harry at all them watching him . 
+
+# sent_id =911
+# text = never Weasley Mr said # . 
+
+# sent_id =912
+# text = How exactly ° 
+
+# sent_id =913
+# text = he took a pinch of glittering powder and threw the powder Y the into flames up stepped Y the to fire the out of flowerpot . 
+
+# sent_id =914
+# text = turned the fire emerald green and higher than Fred who stepped into right it shouted Diagon Alley ° Y Y and vanished Y rose a with roar Y . 
+
